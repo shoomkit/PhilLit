@@ -1,0 +1,1229 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Google effect Sparrow internet memory",
+  "results": [
+    {
+      "openalex_id": "W2141992894",
+      "doi": "10.1145/2741948.2741964",
+      "title": "Large-scale cluster management at Google with Borg",
+      "authors": [
+        {
+          "name": "Abhishek Verma",
+          "openalex_id": "A5090056582",
+          "orcid": "https://orcid.org/0000-0002-0491-178X",
+          "institutions": [
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "Luis Pedrosa",
+          "openalex_id": "A5076079973",
+          "orcid": "https://orcid.org/0000-0002-4611-8309",
+          "institutions": [
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "Madhukar Korupolu",
+          "openalex_id": "A5027504604",
+          "institutions": [
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "David Oppenheimer",
+          "openalex_id": "A5076756672",
+          "institutions": [
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "Eric Tune",
+          "openalex_id": "A5029398916",
+          "institutions": [
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "John Wilkes",
+          "openalex_id": "A5085623723",
+          "orcid": "https://orcid.org/0000-0002-7018-2837",
+          "institutions": [
+            "Google (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-13",
+      "abstract": "Google's Borg system is a cluster manager that runs hundreds of thousands of jobs, from many thousands of different applications, across a number of clusters each with up to tens of thousands of machines.",
+      "cited_by_count": 1291,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/2741948.2741964?download=true"
+      },
+      "topics": [
+        "Cloud Computing and Resource Management",
+        "Distributed and Parallel Computing Systems",
+        "Advanced Data Storage Technologies"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W2141992894"
+    },
+    {
+      "openalex_id": "W2606471054",
+      "doi": "10.3389/fpsyg.2017.00605",
+      "title": "Smartphones and Cognition: A Review of Research Exploring the Links between Mobile Technology Habits and Cognitive Functioning",
+      "authors": [
+        {
+          "name": "Henry H. Wilmer",
+          "openalex_id": "A5088164857",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Lauren E. Sherman",
+          "openalex_id": "A5009534586",
+          "orcid": "https://orcid.org/0000-0003-4057-5194",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Jason Chein",
+          "openalex_id": "A5072139616",
+          "orcid": "https://orcid.org/0000-0002-8430-7899",
+          "institutions": [
+            "Temple University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-25",
+      "abstract": "While smartphones and related mobile technologies are recognized as flexible and powerful tools that, when used prudently, can augment human cognition, there is also a growing perception that habitual involvement with these devices may have a negative and lasting impact on users' ability to think, remember, pay attention, and regulate emotion. The present review considers an intensifying, though still limited, area of research exploring the potential cognitive impacts of smartphone-related habits, and seeks to determine in which domains of functioning there is accruing evidence of a significant relationship between smartphone technology and cognitive performance, and in which domains the scientific literature is not yet mature enough to endorse any firm conclusions. We focus our review primarily on three facets of cognition that are clearly implicated in public discourse regarding the impacts of mobile technology - attention, memory, and delay of gratification - and then consider evidence regarding the broader relationships between smartphone habits and everyday cognitive functioning. Along the way, we highlight compelling findings, discuss limitations with respect to empirical methodology and interpretation, and offer suggestions for how the field might progress toward a more coherent and robust area of scientific inquiry.",
+      "cited_by_count": 645,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00605/pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Technology Adoption and User Behaviour",
+        "Digital Marketing and Social Media"
+      ],
+      "referenced_works_count": 117,
+      "url": "https://openalex.org/W2606471054"
+    },
+    {
+      "openalex_id": "W2944285188",
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "name": "Joseph Firth",
+          "openalex_id": "A5023196820",
+          "orcid": "https://orcid.org/0000-0002-0618-2752",
+          "institutions": [
+            "Western Sydney University",
+            "University of Manchester",
+            "University of Melbourne",
+            "University of Oxford",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "John Torous",
+          "openalex_id": "A5026523515",
+          "orcid": "https://orcid.org/0000-0002-5362-7937",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Brendon Stubbs",
+          "openalex_id": "A5005008571",
+          "orcid": "https://orcid.org/0000-0001-7387-3791",
+          "institutions": [
+            "King's College London",
+            "South London and Maudsley NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Josh A. Firth",
+          "openalex_id": "A5003551603",
+          "orcid": "https://orcid.org/0000-0001-7183-4115",
+          "institutions": [
+            "University of Oxford",
+            "University of Melbourne",
+            "Western Sydney University",
+            "University of Manchester",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "Genevieve Z. Steiner",
+          "openalex_id": "A5037720902",
+          "orcid": "https://orcid.org/0000-0002-8708-6104",
+          "institutions": [
+            "Westmead Institute",
+            "Translational Research Institute",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Lee Smith",
+          "openalex_id": "A5059447980",
+          "orcid": "https://orcid.org/0000-0002-5340-9833",
+          "institutions": [
+            "Anglia Ruskin University"
+          ]
+        },
+        {
+          "name": "Mario \u00c1lvarez\u2010Jim\u00e9nez",
+          "openalex_id": "A5077079077",
+          "orcid": "https://orcid.org/0000-0002-3535-9086",
+          "institutions": [
+            "University of Melbourne",
+            "Orygen Youth Health"
+          ]
+        },
+        {
+          "name": "John Gleeson",
+          "openalex_id": "A5047926815",
+          "orcid": "https://orcid.org/0000-0001-7969-492X",
+          "institutions": [
+            "Australian Catholic University",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Davy Vancampfort",
+          "openalex_id": "A5030050325",
+          "orcid": "https://orcid.org/0000-0002-4592-8625",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Christopher J. Armitage",
+          "openalex_id": "A5020278901",
+          "orcid": "https://orcid.org/0000-0003-2365-1765",
+          "institutions": [
+            "Manchester Academic Health Science Centre",
+            "NIHR Manchester Biomedical Research Centre",
+            "NIHR Greater Manchester Patient Safety Translational Research Centre",
+            "University of Manchester",
+            "Manchester University NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jerome Sarris",
+          "openalex_id": "A5013936218",
+          "orcid": "https://orcid.org/0000-0001-9287-8854",
+          "institutions": [
+            "Westmead Institute",
+            "Western Sydney University",
+            "University of Melbourne",
+            "Melbourne Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-06",
+      "abstract": "The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real\u2010world social processes creates a new interplay between the Internet and our social lives, including our self\u2010concepts and self\u2010esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20617"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W2944285188"
+    },
+    {
+      "openalex_id": "W4406026056",
+      "doi": "10.3390/soc15010006",
+      "title": "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking",
+      "authors": [
+        {
+          "name": "Michael Gerlich",
+          "openalex_id": "A5058773312",
+          "orcid": "https://orcid.org/0000-0003-4033-4403",
+          "institutions": [
+            "SBS Swiss Business School",
+            "Business School Lausanne"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-03",
+      "abstract": "The proliferation of artificial intelligence (AI) tools has transformed numerous aspects of daily life, yet its impact on critical thinking remains underexplored. This study investigates the relationship between AI tool usage and critical thinking skills, focusing on cognitive offloading as a mediating factor. Utilising a mixed-method approach, we conducted surveys and in-depth interviews with 666 participants across diverse age groups and educational backgrounds. Quantitative data were analysed using ANOVA and correlation analysis, while qualitative insights were obtained through thematic analysis of interview transcripts. The findings revealed a significant negative correlation between frequent AI tool usage and critical thinking abilities, mediated by increased cognitive offloading. Younger participants exhibited higher dependence on AI tools and lower critical thinking scores compared to older participants. Furthermore, higher educational attainment was associated with better critical thinking skills, regardless of AI usage. These results highlight the potential cognitive costs of AI tool reliance, emphasising the need for educational strategies that promote critical engagement with AI technologies. This study contributes to the growing discourse on AI\u2019s cognitive implications, offering practical recommendations for mitigating its adverse effects on critical thinking. The findings underscore the importance of fostering critical thinking in an AI-driven world, making this research essential reading for educators, policymakers, and technologists.",
+      "cited_by_count": 305,
+      "type": "article",
+      "source": {
+        "name": "Societies",
+        "type": "journal",
+        "issn": [
+          "2075-4698"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2075-4698/15/1/6/pdf?version=1735907439"
+      },
+      "topics": [
+        "AI in Service Interactions",
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W4406026056"
+    },
+    {
+      "openalex_id": "W4292635991",
+      "doi": "10.1007/s11831-022-09804-w",
+      "title": "Advances in Sparrow Search Algorithm: A Comprehensive Survey",
+      "authors": [
+        {
+          "name": "Farhad Soleimanian Gharehchopogh",
+          "openalex_id": "A5009120208",
+          "orcid": "https://orcid.org/0000-0003-1588-1659",
+          "institutions": [
+            "Islamic Azad University of Urmia"
+          ]
+        },
+        {
+          "name": "Mohammad Namazi",
+          "openalex_id": "A5110931719",
+          "institutions": [
+            "Islamic Azad University Maybod"
+          ]
+        },
+        {
+          "name": "Laya Ebrahimi",
+          "openalex_id": "A5016749996",
+          "institutions": [
+            "Islamic Azad University of Urmia"
+          ]
+        },
+        {
+          "name": "Benyam\u0131n Abdollahzadeh",
+          "openalex_id": "A5103031128",
+          "orcid": "https://orcid.org/0000-0003-3618-6620",
+          "institutions": [
+            "Islamic Azad University of Urmia"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-22",
+      "abstract": null,
+      "cited_by_count": 340,
+      "type": "article",
+      "source": {
+        "name": "Archives of Computational Methods in Engineering",
+        "type": "journal",
+        "issn": [
+          "1134-3060",
+          "1886-1784"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11831-022-09804-w.pdf"
+      },
+      "topics": [
+        "Metaheuristic Optimization Algorithms Research"
+      ],
+      "referenced_works_count": 159,
+      "url": "https://openalex.org/W4292635991"
+    },
+    {
+      "openalex_id": "W2296067305",
+      "doi": "10.5498/wjp.v6.i1.143",
+      "title": "Internet addiction and problematic Internet use: A systematic review of clinical research",
+      "authors": [
+        {
+          "name": "Daria J. Kuss",
+          "openalex_id": "A5005992442",
+          "orcid": "https://orcid.org/0000-0001-8917-782X",
+          "institutions": [
+            "UCLouvain",
+            "Creative Research Enterprises (United States)",
+            "Nottingham Trent University"
+          ]
+        },
+        {
+          "name": "Olatz L\u00f3pez-Fern\u00e1ndez",
+          "openalex_id": "A5068473598",
+          "orcid": "https://orcid.org/0000-0002-4294-9156",
+          "institutions": [
+            "Creative Research Enterprises (United States)",
+            "Nottingham Trent University",
+            "UCLouvain"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "A consensus regarding diagnostic criteria and measures is needed to improve reliability across studies and to develop effective and efficient treatment approaches for treatment seekers.",
+      "cited_by_count": 692,
+      "type": "review",
+      "source": {
+        "name": "World Journal of Psychiatry",
+        "type": "journal",
+        "issn": [
+          "2220-3206"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.wjgnet.com/2220-3206/full/v6/i1/143.htm"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 216,
+      "url": "https://openalex.org/W2296067305"
+    },
+    {
+      "openalex_id": "W2930500175",
+      "doi": "10.1145/3297858.3304004",
+      "title": "Seer",
+      "authors": [
+        {
+          "name": "Yu Gan",
+          "openalex_id": "A5033200857",
+          "orcid": "https://orcid.org/0000-0003-2697-9950",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Yanqi Zhang",
+          "openalex_id": "A5100762452",
+          "orcid": "https://orcid.org/0000-0002-4118-4323",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Kelvin Hu",
+          "openalex_id": "A5038390197",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Dailun Cheng",
+          "openalex_id": "A5074089085",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Yuan He",
+          "openalex_id": "A5060129988",
+          "orcid": "https://orcid.org/0000-0002-6676-4009",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Meghna Pancholi",
+          "openalex_id": "A5013817591",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "Christina Delimitrou",
+          "openalex_id": "A5001498296",
+          "orcid": "https://orcid.org/0000-0001-7779-4134",
+          "institutions": [
+            "Cornell University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-04",
+      "abstract": "Performance unpredictability is a major roadblock towards cloud adoption, and has performance, cost, and revenue ramifications. Predictable performance is even more critical as cloud services transition from monolithic designs to microservices. Detecting QoS violations after they occur in systems with microservices results in long recovery times, as hotspots propagate and amplify across dependent services. We present Seer, an online cloud performance debugging system that leverages deep learning and the massive amount of tracing data cloud systems collect to learn spatial and temporal patterns that translate to QoS violations. Seer combines lightweight distributed RPC-level tracing, with detailed low-level hardware monitoring to signal an upcoming QoS violation, and diagnose the source of unpredictable performance. Once an imminent QoS violation is detected, Seer notifies the cluster manager to take action to avoid performance degradation altogether. We evaluate Seer both in local clusters, and in large-scale deployments of end-to-end applications built with microservices with hundreds of users. We show that Seer correctly anticipates QoS violations 91% of the time, and avoids the QoS violation to begin with in 84% of cases. Finally, we show that Seer can identify application-level design bugs, and provide insights on how to better architect microservices to achieve predictable performance.",
+      "cited_by_count": 238,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3297858.3304004"
+      },
+      "topics": [
+        "Cloud Computing and Resource Management",
+        "Software System Performance and Reliability",
+        "IoT and Edge/Fog Computing"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W2930500175"
+    },
+    {
+      "openalex_id": "W4391379655",
+      "doi": "10.1038/s41592-023-02159-5",
+      "title": "Direct prediction of intrinsically disordered protein conformational properties from sequence",
+      "authors": [
+        {
+          "name": "Jeffrey M. Lotthammer",
+          "openalex_id": "A5085044876",
+          "orcid": "https://orcid.org/0000-0002-5022-7006",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Garrett M. Ginell",
+          "openalex_id": "A5049393042",
+          "orcid": "https://orcid.org/0000-0001-6511-5480",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Daniel Griffith",
+          "openalex_id": "A5049155309",
+          "orcid": "https://orcid.org/0000-0002-9633-9601",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Ryan J. Emenecker",
+          "openalex_id": "A5035489802",
+          "orcid": "https://orcid.org/0000-0001-7055-2773",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Alex S. Holehouse",
+          "openalex_id": "A5054483983",
+          "orcid": "https://orcid.org/0000-0002-4155-5729",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-31",
+      "abstract": "Abstract Intrinsically disordered regions (IDRs) are ubiquitous across all domains of life and play a range of functional roles. While folded domains are generally well described by a stable three-dimensional structure, IDRs exist in a collection of interconverting states known as an ensemble. This structural heterogeneity means that IDRs are largely absent from the Protein Data Bank, contributing to a lack of computational approaches to predict ensemble conformational properties from sequence. Here we combine rational sequence design, large-scale molecular simulations and deep learning to develop ALBATROSS, a deep-learning model for predicting ensemble dimensions of IDRs, including the radius of gyration, end-to-end distance, polymer-scaling exponent and ensemble asphericity, directly from sequences at a proteome-wide scale. ALBATROSS is lightweight, easy to use and accessible as both a locally installable software package and a point-and-click-style interface via Google Colab notebooks. We first demonstrate the applicability of our predictors by examining the generalizability of sequence\u2013ensemble relationships in IDRs. Then, we leverage the high-throughput nature of ALBATROSS to characterize the sequence-specific biophysical behavior of IDRs within and between proteomes.",
+      "cited_by_count": 178,
+      "type": "article",
+      "source": {
+        "name": "Nature Methods",
+        "type": "journal",
+        "issn": [
+          "1548-7091",
+          "1548-7105"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.nature.com/articles/s41592-023-02159-5.pdf"
+      },
+      "topics": [
+        "Protein Structure and Dynamics",
+        "Enzyme Structure and Function",
+        "Microbial Metabolic Engineering and Bioproduction"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W4391379655"
+    },
+    {
+      "openalex_id": "W4388974320",
+      "doi": "10.3389/fcogn.2023.1203077",
+      "title": "The impact of digital technology, social media, and artificial intelligence on cognitive functions: a review",
+      "authors": [
+        {
+          "name": "Mathura Shanmugasundaram",
+          "openalex_id": "A5053435683",
+          "orcid": "https://orcid.org/0000-0003-0226-5830",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Arunkumar Tamilarasu",
+          "openalex_id": "A5093331876",
+          "institutions": [
+            "Film Independent"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-24",
+      "abstract": "In our modern society, digital devices, social media platforms, and artificial intelligence (AI) tools have become integral components of our daily lives, profoundly intertwined with our daily activities. These technologies have undoubtedly brought convenience, connectivity, and speed, making our lives easier and more efficient. However, their influence on our brain function and cognitive abilities cannot be ignored. This review aims to explore both the positive and negative impacts of these technologies on crucial cognitive functions, including attention, memory, addiction, novelty-seeking and perception, decision-making, and critical thinking, as well as learning abilities. The review also discusses the differential influence of digital technology across different age groups and the unique challenges and benefits experienced by children, adolescents, adults, and the elderly. Strategies to maximize the benefits of the digital world while mitigating its potential drawbacks are also discussed. This review aims to provide a comprehensive overview of the intricate relationship between humans and technology. It underscores the need for further research in this rapidly evolving field and the importance of informed decision-making regarding our digital engagement to support optimal cognitive function and wellbeing in the digital era.",
+      "cited_by_count": 171,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Cognition",
+        "type": "journal",
+        "issn": [
+          "2813-4532"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fcogn.2023.1203077/pdf?isPublishedV2=False"
+      },
+      "topics": [
+        "Cognitive Functions and Memory",
+        "Digital Mental Health Interventions",
+        "Technology Use by Older Adults"
+      ],
+      "referenced_works_count": 116,
+      "url": "https://openalex.org/W4388974320"
+    },
+    {
+      "openalex_id": "W2828983966",
+      "doi": "10.1007/s40685-018-0069-z",
+      "title": "Information overload in the information age: a review of the literature from business administration, business psychology, and related disciplines with a bibliometric approach and framework development",
+      "authors": [
+        {
+          "name": "Peter Gordon Roetzel",
+          "openalex_id": "A5012190036",
+          "orcid": "https://orcid.org/0000-0002-0952-2206",
+          "institutions": [
+            "Aschaffenburg University of Applied Sciences",
+            "University of Stuttgart"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-07-06",
+      "abstract": "Abstract In the light of the information age, information overload research in new areas (e.g., social media, virtual collaboration) rises rapidly in many fields of research in business administration with a variety of methods and subjects. This review article analyzes the development of information overload literature in business administration and related interdisciplinary fields and provides a comprehensive and overarching overview using a bibliometric literature analysis combined with a snowball sampling approach. For the last decade, this article reveals research directions and bridges of literature in a wide range of fields of business administration (e.g., accounting, finance, health management, human resources, innovation management, international management, information systems, marketing, manufacturing, or organizational science). This review article identifies the major papers of various research streams to capture the pulse of the information overload-related research and suggest new questions that could be addressed in the future and identifies concrete open gaps for further research. Furthermore, this article presents a new framework for structuring information overload issues which extends our understanding of influence factors and effects of information overload in the decision-making process.",
+      "cited_by_count": 399,
+      "type": "review",
+      "source": {
+        "name": "BuR - Business Research",
+        "type": "journal",
+        "issn": [
+          "1866-8658",
+          "2198-2627",
+          "2198-3402"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s40685-018-0069-z.pdf"
+      },
+      "topics": [
+        "Personal Information Management and User Behavior",
+        "Technology Adoption and User Behaviour",
+        "Knowledge Management and Sharing"
+      ],
+      "referenced_works_count": 264,
+      "url": "https://openalex.org/W2828983966"
+    },
+    {
+      "openalex_id": "W2046682821",
+      "doi": "10.1007/s12369-015-0295-x",
+      "title": "A Literature Review on New Robotics: Automation from Love to War",
+      "authors": [
+        {
+          "name": "Lamb\u00e8r Royakkers",
+          "openalex_id": "A5048029711",
+          "orcid": "https://orcid.org/0000-0001-5161-5855",
+          "institutions": [
+            "Eindhoven University of Technology"
+          ]
+        },
+        {
+          "name": "Rinie van Est",
+          "openalex_id": "A5060167100",
+          "orcid": "https://orcid.org/0000-0002-3990-3042",
+          "institutions": [
+            "Rathenau Instituut"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-08",
+      "abstract": "This article investigates the social significance of robotics for the years to come in Europe and the US by studying robotics developments in five different areas: the home, health care, traffic, the police force, and the army. Our society accepts the use of robots to perform dull, dangerous, and dirty industrial jobs. But now that robotics is moving out of the factory, the relevant question is how far do we want to go with the automation of care for children and the elderly, of killing terrorists, or of making love? This literature review attempts to provide an engaged but sober (non-speculative) insight into the societal issues raised by the new robotics: which robot technologies are coming; what are they capable of; and which ethical and regulatory questions will they consequently raise?",
+      "cited_by_count": 166,
+      "type": "review",
+      "source": {
+        "name": "International Journal of Social Robotics",
+        "type": "journal",
+        "issn": [
+          "1875-4791",
+          "1875-4805"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12369-015-0295-x.pdf"
+      },
+      "topics": [
+        "Social Robot Interaction and HRI",
+        "AI in Service Interactions",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 87,
+      "url": "https://openalex.org/W2046682821"
+    },
+    {
+      "openalex_id": "W2420760912",
+      "doi": "10.17645/mac.v4i3.516",
+      "title": "Possible Effects of Internet Use on Cognitive Development in Adolescence",
+      "authors": [
+        {
+          "name": "Kathryn L. Mills",
+          "openalex_id": "A5077757424",
+          "orcid": "https://orcid.org/0000-0002-6463-186X",
+          "institutions": [
+            "University of Oregon"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-16",
+      "abstract": "The rise of digital media use and the ability to be in almost constant connection to the Internet has raised a number of concerns about how Internet use could impact cognitive abilities. In particular, parents and policy makers are concerned with how being \u2018constantly online\u2019 might disrupt social and cognitive development. This review integrates the latest empirical evidence on Internet use with relevant experimental studies to discuss how online behaviors, and the structure of the online environment, might affect the cognitive development of adolescents. Popular concerns are discussed in light of the reviewed evidence, and remaining gaps in knowledge are highlighted.",
+      "cited_by_count": 76,
+      "type": "article",
+      "source": {
+        "name": "Media and Communication",
+        "type": "journal",
+        "issn": [
+          "2183-2439"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.cogitatiopress.com/mediaandcommunication/article/download/516/516"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2420760912"
+    },
+    {
+      "openalex_id": "W3048672457",
+      "doi": "10.1007/978-3-030-51110-4",
+      "title": "An Introduction to Ethics in Robotics and AI",
+      "authors": [
+        {
+          "name": "Christoph Bartneck",
+          "openalex_id": "A5013327637",
+          "orcid": "https://orcid.org/0000-0003-4566-4815",
+          "institutions": [
+            "Technical University of Munich",
+            "University of Canterbury",
+            "Pennsylvania State University"
+          ]
+        },
+        {
+          "name": "Christoph L\u00fctge",
+          "openalex_id": "A5002144203",
+          "orcid": "https://orcid.org/0000-0002-3870-4789",
+          "institutions": [
+            "Pennsylvania State University",
+            "University of Canterbury",
+            "Technical University of Munich"
+          ]
+        },
+        {
+          "name": "Alan R. Wagner",
+          "openalex_id": "A5045198429",
+          "orcid": "https://orcid.org/0000-0002-7941-3814",
+          "institutions": [
+            "Pennsylvania State University",
+            "Technical University of Munich",
+            "University of Canterbury"
+          ]
+        },
+        {
+          "name": "Sean Welsh",
+          "openalex_id": "A5026723946",
+          "orcid": "https://orcid.org/0000-0003-1275-6182",
+          "institutions": [
+            "Pennsylvania State University",
+            "University of Canterbury",
+            "Technical University of Munich"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-11",
+      "abstract": null,
+      "cited_by_count": 195,
+      "type": "book",
+      "source": {
+        "name": "SpringerBriefs in ethics",
+        "type": "book series",
+        "issn": [
+          "2211-8101",
+          "2211-811X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-51110-4.pdf"
+      },
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Psychology of Moral and Emotional Judgment",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 131,
+      "url": "https://openalex.org/W3048672457"
+    },
+    {
+      "openalex_id": "W2513634853",
+      "doi": "10.1093/poq/nfw030",
+      "title": "Cheating on Political Knowledge Questions in Online Surveys",
+      "authors": [
+        {
+          "name": "Scott Clifford",
+          "openalex_id": "A5047445588",
+          "orcid": "https://orcid.org/0000-0002-9401-7481",
+          "institutions": [
+            "University of Houston"
+          ]
+        },
+        {
+          "name": "Jennifer Jerit",
+          "openalex_id": "A5065905572",
+          "orcid": "https://orcid.org/0000-0002-7982-9959",
+          "institutions": [
+            "Stony Brook University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "Survey researchers worry about the quality of data produced by online surveys. One concern is that respondents might cheat on performance questions, such as political knowledge, invalidating their responses. Yet, existing evidence is unclear about the prevalence of cheating, and scholars lack a validated method for coping with the problem. In this paper, we demonstrate that such cheating behavior varies considerably by sample and provide some evidence that it is motivated by self-deceptive enhancement. We experimentally test a variety of methods for reducing cheating and find that common methods, such as timers, are not the most effective approach. By contrast, a commitment mechanism, in which respondents affirm their choice not to cheat, is more efficacious. Although cheating in online surveys can distort estimates of knowledge and decrease the validity of the measure, there are methods for coping with this problem.",
+      "cited_by_count": 86,
+      "type": "article",
+      "source": {
+        "name": "Public Opinion Quarterly",
+        "type": "journal",
+        "issn": [
+          "0033-362X",
+          "1537-5331"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/poq/article-pdf/80/4/858/24481563/nfw030.pdf"
+      },
+      "topics": [
+        "Electoral Systems and Political Participation",
+        "Survey Methodology and Nonresponse",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 56,
+      "url": "https://openalex.org/W2513634853"
+    },
+    {
+      "openalex_id": "W2560792484",
+      "doi": "10.1111/ijmr.12121",
+      "title": "Employer Branding: A Brand Equity\u2010based Literature Review and Research Agenda",
+      "authors": [
+        {
+          "name": "Christian P. Theurer",
+          "openalex_id": "A5087863691",
+          "orcid": "https://orcid.org/0000-0003-0011-7594",
+          "institutions": [
+            "Technical University of Munich"
+          ]
+        },
+        {
+          "name": "Andranik Tumasjan",
+          "openalex_id": "A5037207545",
+          "orcid": "https://orcid.org/0000-0002-0127-8499",
+          "institutions": [
+            "Technical University of Munich"
+          ]
+        },
+        {
+          "name": "Isabell M. Welpe",
+          "openalex_id": "A5040738362"
+        },
+        {
+          "name": "Filip Lievens",
+          "openalex_id": "A5061427447",
+          "orcid": "https://orcid.org/0000-0002-9487-5187",
+          "institutions": [
+            "University College Ghent",
+            "Ghent University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-14",
+      "abstract": "Abstract Over the past two decades, scholarly interest in employer branding has strongly increased. Simultaneously, however, employer branding research has developed into a fragmented field with heterogeneous interpretations of the employer branding concept and its scope, which has impeded further theoretical and empirical advancement. To strengthen the foundation for future work, this paper takes a brand equity perspective to review the extant literature and create an integrative model of employer branding. Using an analytical approach, the authors identify 187 articles, which they integrate along different employer brand dimensions and branding strategies: (i) conceptual; (ii) employer knowledge dimensions; (iii) employer branding activities and strategies. On the basis of this review, the authors develop an employer branding value chain model and derive future research avenues as well as practical implications.",
+      "cited_by_count": 333,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Management Reviews",
+        "type": "journal",
+        "issn": [
+          "1460-8545",
+          "1468-2370"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ijmr.12121"
+      },
+      "topics": [
+        "Employer Branding and e-HRM"
+      ],
+      "referenced_works_count": 263,
+      "url": "https://openalex.org/W2560792484"
+    },
+    {
+      "openalex_id": "W4226388780",
+      "doi": "10.1017/psrm.2022.17",
+      "title": "Digital literacy and online political behavior",
+      "authors": [
+        {
+          "name": "Andrew M. Guess",
+          "openalex_id": "A5048165961",
+          "orcid": "https://orcid.org/0000-0003-2974-7848",
+          "institutions": [
+            "Princeton University"
+          ]
+        },
+        {
+          "name": "Kevin Munger",
+          "openalex_id": "A5015770363",
+          "orcid": "https://orcid.org/0000-0002-4399-5250",
+          "institutions": [
+            "Pennsylvania State University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-04-22",
+      "abstract": "Abstract Digital literacy is receiving increased scholarly attention as a potential explanatory factor in the spread of misinformation and other online pathologies. As a concept, however, it remains surprisingly elusive, with little consensus on definitions or measures. We provide a digital literacy framework for political scientists and test survey items to measure it with an application to online information retrieval tasks. There exists substantial variation in levels of digital literacy in the population, which we show is correlated with age and could confound observed relationships. However, this is obscured by researchers\u2019 reliance on online convenience samples that select for people with computer and internet skills. We discuss the implications of these measurement and sample selection considerations for effect heterogeneity in studies of online political behavior. We argue that there is no universally applicable formula for selecting a given non-probability sample or operationalization of the concept of digital literacy; instead, we conclude, researchers should make theoretically informed arguments about how they select both sample and measure.",
+      "cited_by_count": 84,
+      "type": "article",
+      "source": {
+        "name": "Political Science Research and Methods",
+        "type": "journal",
+        "issn": [
+          "2049-8470",
+          "2049-8489"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/941391F2B600ED4543CF5586F19AE16E/S2049847022000176a.pdf/div-class-title-digital-literacy-and-online-political-behavior-div.pdf"
+      },
+      "topics": [
+        "Social Media and Politics",
+        "Misinformation and Its Impacts",
+        "Hate Speech and Cyberbullying Detection"
+      ],
+      "referenced_works_count": 71,
+      "url": "https://openalex.org/W4226388780"
+    },
+    {
+      "openalex_id": "W4210792459",
+      "doi": "10.31083/j.jin2101028",
+      "title": "Digital dementia in the internet generation: excessive screen time during brain development will increase the risk of Alzheimer's disease and related dementias in adulthood",
+      "authors": [
+        {
+          "name": "Laurie Manwell",
+          "openalex_id": "A5024594711",
+          "orcid": "https://orcid.org/0000-0002-0528-6365",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        },
+        {
+          "name": "Merelle Tadros",
+          "openalex_id": "A5078256872",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        },
+        {
+          "name": "Tiana M. Ciccarelli",
+          "openalex_id": "A5042641819",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        },
+        {
+          "name": "Roelof Eikelboom",
+          "openalex_id": "A5008663350",
+          "orcid": "https://orcid.org/0000-0003-4490-707X",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-28",
+      "abstract": "Converging evidence from biopsychosocial research in humans and animals demonstrates that chronic sensory stimulation (via excessive screen exposure) affects brain development increasing the risk of cognitive, emotional, and behavioural disorders in adolescents and young adults. Emerging evidence suggests that some of these effects are similar to those seen in adults with symptoms of mild cognitive impairment (MCI) in the early stages of dementia, including impaired concentration, orientation, acquisition of recent memories (anterograde amnesia), recall of past memories (retrograde amnesia), social functioning, and self-care. Excessive screen time is known to alter gray matter and white volumes in the brain, increase the risk of mental disorders, and impair acquisition of memories and learning which are known risk factors for dementia. Chronic sensory overstimulation (i.e., excessive screen time) during brain development increases the risk of accelerated neurodegeneration in adulthood (i.e., amnesia, early onset dementia). This relationship is affected by several mediating/moderating factors (e.g., IQ decline, learning impairments and mental illness). We hypothesize that excessive screen exposure during critical periods of development in Generation Z will lead to mild cognitive impairments in early to middle adulthood resulting in substantially increased rates of early onset dementia in later adulthood. We predict that from 2060 to 2100, the rates of Alzheimer\u2019s disease and related dementias (ADRD) will increase significantly, far above the Centres for Disease Control (CDC) projected estimates of a two-fold increase, to upwards of a four-to-six-fold increase. The CDC estimates are based entirely on factors related to the age, sex, race and ethnicity of individuals born before 1950 who did not have access to mobile digital technology during critical periods of brain development. Compared to previous generations, the average 17\u201319-year-old spends approximately 6 hours a day on mobile digital devices (MDD) (smartphones, tablets, and laptop computers) whereas individuals born before 1950 at the same age spent zero. Our estimates include the documented effects of excessive screen time on individuals born after 1980, Millennials and Generation Z, who will be the majority of individuals \u226565 years old. An estimated 4-to-6-fold increase in rates of ADRD post-2060 will result in widespread societal and economic distress and the complete collapse of already overburdened healthcare systems in developed countries. Preventative measures must be set in place immediately including investments and interventions in public education, social policy, laws, and healthcare.",
+      "cited_by_count": 89,
+      "type": "review",
+      "source": {
+        "name": "Journal of Integrative Neuroscience",
+        "type": "journal",
+        "issn": [
+          "0219-6352",
+          "1757-448X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.imrpress.com/journal/JIN/21/1/10.31083/j.jin2101028/pdf"
+      },
+      "topics": [
+        "Technology Use by Older Adults",
+        "Cognitive Functions and Memory"
+      ],
+      "referenced_works_count": 130,
+      "url": "https://openalex.org/W4210792459"
+    },
+    {
+      "openalex_id": "W4317425444",
+      "doi": "10.1007/s12144-023-04254-4",
+      "title": "How technology use is changing adolescents\u2019 behaviors and their social, physical, and cognitive development",
+      "authors": [
+        {
+          "name": "Martina Benvenuti",
+          "openalex_id": "A5051776644",
+          "orcid": "https://orcid.org/0000-0001-8575-5047",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Michelle F. Wright",
+          "openalex_id": "A5019928781",
+          "orcid": "https://orcid.org/0000-0002-6703-8586",
+          "institutions": [
+            "DePaul University"
+          ]
+        },
+        {
+          "name": "John A. Naslund",
+          "openalex_id": "A5010148429",
+          "orcid": "https://orcid.org/0000-0001-6777-0104",
+          "institutions": [
+            "Harvard University",
+            "Harvard Global Health Institute"
+          ]
+        },
+        {
+          "name": "Anne C. Miers",
+          "openalex_id": "A5014762529",
+          "orcid": "https://orcid.org/0000-0001-5077-4731",
+          "institutions": [
+            "Leiden University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-19",
+      "abstract": null,
+      "cited_by_count": 53,
+      "type": "article",
+      "source": {
+        "name": "Current Psychology",
+        "type": "journal",
+        "issn": [
+          "1046-1310",
+          "1936-4733"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12144-023-04254-4.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Gender and Technology in Education"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W4317425444"
+    },
+    {
+      "openalex_id": "W3022956672",
+      "doi": "10.1109/access.2020.2992807",
+      "title": "Defining Social Engineering in Cybersecurity",
+      "authors": [
+        {
+          "name": "Zuoguang Wang",
+          "openalex_id": "A5050408998",
+          "orcid": "https://orcid.org/0000-0002-1982-5657",
+          "institutions": [
+            "University of Chinese Academy of Sciences",
+            "Chinese Academy of Sciences",
+            "Institute of Information Engineering"
+          ]
+        },
+        {
+          "name": "Limin Sun",
+          "openalex_id": "A5061643975",
+          "orcid": "https://orcid.org/0000-0003-2745-7521",
+          "institutions": [
+            "University of Chinese Academy of Sciences",
+            "Institute of Information Engineering",
+            "Chinese Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Hongsong Zhu",
+          "openalex_id": "A5087012171",
+          "orcid": "https://orcid.org/0000-0003-3720-7403",
+          "institutions": [
+            "University of Chinese Academy of Sciences",
+            "Institute of Information Engineering",
+            "Chinese Academy of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "Social engineering has posed a serious security threat to infrastructure, user, data and operations of cyberspace. Nevertheless, there are many conceptual deficiencies (such as inconsistent conceptual intensions, a vague conceptual boundary, confusing instances, overgeneralization and abuse) of the term making serious negative impacts on the understanding, analysis and defense of social engineering attacks. In this paper, an in-depth literature survey is conducted, the original meaning of social engineering in cybersecurity is traced, the conceptual evolution and technical development are analysed systematically, and the conceptual problems are discussed. Based on above work, this paper attempts to address these conceptual deficiencies by proposing a more compatible and precise definition of social engineering in cybersecurity (SEiCS). This definition eliminates the conceptual inconsistencies, covers the mainstream conceptual connotations, clarifies the conceptual boundary, mitigates the overgeneralization and abuse, etc. Five analysis tables (i.e., the comparative analysis of the SEiCS definition vs. mainstream conceptual intensions in the conceptual evolution, the comparative analysis of the SEiCS definition vs. typical definitions in the literature, the analysis of confusing &#x201C;social engineering cases&#x201D;, the analysis of popular social engineering attack scenarios, and the analysis of social-engineering-based attacks) are provided to illustrate the performance of the proposed definition.",
+      "cited_by_count": 144,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09087851.pdf"
+      },
+      "topics": [
+        "Spam and Phishing Detection",
+        "Information and Cyber Security",
+        "Cybercrime and Law Enforcement Studies"
+      ],
+      "referenced_works_count": 113,
+      "url": "https://openalex.org/W3022956672"
+    },
+    {
+      "openalex_id": "W3014103690",
+      "doi": "10.1007/s11948-020-00210-8",
+      "title": "The Internet as Cognitive Enhancement",
+      "authors": [
+        {
+          "name": "Cristina Voinea",
+          "openalex_id": "A5070090875",
+          "orcid": "https://orcid.org/0000-0003-4654-0697",
+          "institutions": [
+            "Bucharest University of Economic Studies"
+          ]
+        },
+        {
+          "name": "Constantin Vic\u0103",
+          "openalex_id": "A5004397797",
+          "orcid": "https://orcid.org/0000-0001-8975-8827",
+          "institutions": [
+            "University of Bucharest"
+          ]
+        },
+        {
+          "name": "Emilian Mihailov",
+          "openalex_id": "A5021140471",
+          "orcid": "https://orcid.org/0000-0002-0221-7209",
+          "institutions": [
+            "University of Bucharest"
+          ]
+        },
+        {
+          "name": "Julian Savulescu",
+          "openalex_id": "A5018300444",
+          "orcid": "https://orcid.org/0000-0003-1691-6403",
+          "institutions": [
+            "Wellcome Centre for Ethics and Humanities",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-06",
+      "abstract": null,
+      "cited_by_count": 58,
+      "type": "review",
+      "source": {
+        "name": "Science and Engineering Ethics",
+        "type": "journal",
+        "issn": [
+          "1353-3452",
+          "1471-5546"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11948-020-00210-8.pdf"
+      },
+      "topics": [
+        "Innovative Human-Technology Interaction",
+        "Misinformation and Its Impacts",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W3014103690"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

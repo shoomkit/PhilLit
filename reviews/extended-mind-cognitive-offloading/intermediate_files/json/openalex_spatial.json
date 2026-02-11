@@ -1,0 +1,1912 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "spatial navigation offloading",
+  "results": [
+    {
+      "openalex_id": "W4213147678",
+      "doi": "10.1109/access.2019.2909530",
+      "title": "Unmanned Aerial Vehicles (UAVs): A Survey on Civil Applications and Key Research Challenges",
+      "authors": [
+        {
+          "name": "Hazim Shakhatreh",
+          "openalex_id": "A5036994172",
+          "orcid": "https://orcid.org/0000-0002-5350-3694",
+          "institutions": [
+            "Yarmouk University",
+            "ORCID"
+          ]
+        },
+        {
+          "name": "Ahmad Sawalmeh",
+          "openalex_id": "A5017180654",
+          "orcid": "https://orcid.org/0000-0002-7040-8963",
+          "institutions": [
+            "Universiti Tenaga Nasional",
+            "ORCID"
+          ]
+        },
+        {
+          "name": "Ala Al\u2010Fuqaha",
+          "openalex_id": "A5008695053",
+          "orcid": "https://orcid.org/0000-0002-0903-1204",
+          "institutions": [
+            "ORCID",
+            "Hamad bin Khalifa University",
+            "Western Michigan University"
+          ]
+        },
+        {
+          "name": "Zuochao Dou",
+          "openalex_id": "A5057574564",
+          "orcid": "https://orcid.org/0000-0002-3880-5125",
+          "institutions": [
+            "Vietnamese Voluntary Foundation"
+          ]
+        },
+        {
+          "name": "Eyad Almaita",
+          "openalex_id": "A5029902840",
+          "orcid": "https://orcid.org/0000-0002-9601-4014",
+          "institutions": [
+            "Tafila Technical University"
+          ]
+        },
+        {
+          "name": "Issa Khalil",
+          "openalex_id": "A5008374141",
+          "orcid": "https://orcid.org/0000-0002-7660-9512",
+          "institutions": [
+            "Qatar Cardiovascular Research Center"
+          ]
+        },
+        {
+          "name": "Noor Shamsiah Othman",
+          "openalex_id": "A5041778059",
+          "orcid": "https://orcid.org/0000-0002-1849-6687",
+          "institutions": [
+            "ORCID",
+            "Universiti Tenaga Nasional"
+          ]
+        },
+        {
+          "name": "Abdallah Khreishah",
+          "openalex_id": "A5062119199",
+          "orcid": "https://orcid.org/0000-0003-1583-713X",
+          "institutions": [
+            "University Heights Center",
+            "New Jersey Institute of Technology"
+          ]
+        },
+        {
+          "name": "Mohsen Guizani",
+          "openalex_id": "A5057916222",
+          "orcid": "https://orcid.org/0000-0002-8972-8094",
+          "institutions": [
+            "University of Idaho"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "&lt;p dir=\"ltr\"&gt;The use of unmanned aerial vehicles (UAVs) is growing rapidly across many civil application domains, including real-time monitoring, providing wireless coverage, remote sensing, search and rescue, delivery of goods, security and surveillance, precision agriculture, and civil infrastructure inspection. Smart UAVs are the next big revolution in the UAV technology promising to provide new opportunities in different applications, especially in civil infrastructure in terms of reduced risks and lower cost. Civil infrastructure is expected to dominate more than $45 Billion market value of UAV usage. In this paper, we present UAV civil applications and their challenges. We also discuss the current research trends and provide future insights for potential UAV uses. Furthermore, we present the key challenges for UAV civil applications, including charging challenges, collision avoidance and swarming challenges, and networking and security-related challenges. Based on our review of the recent literature, we discuss open research challenges and draw high-level insights on how these challenges might be approached.&lt;/p&gt;&lt;h2&gt;Other Information&lt;/h2&gt;&lt;p dir=\"ltr\"&gt;Published in: IEEE Access&lt;br&gt;License: &lt;a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\" target=\"_blank\"&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;br&gt;See article on publisher's website: &lt;a href=\"https://dx.doi.org/10.1109/access.2019.2909530\" target=\"_blank\"&gt;https://dx.doi.org/10.1109/access.2019.2909530&lt;/a&gt;&lt;/p&gt;",
+      "cited_by_count": 2086,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08682048.pdf"
+      },
+      "topics": [
+        "UAV Applications and Optimization",
+        "Distributed Control Multi-Agent Systems",
+        "Vehicular Ad Hoc Networks (VANETs)"
+      ],
+      "referenced_works_count": 329,
+      "url": "https://openalex.org/W4213147678"
+    },
+    {
+      "openalex_id": "W2955897898",
+      "doi": "10.1109/access.2019.2921522",
+      "title": "Wireless Communications and Applications Above 100 GHz: Opportunities and Challenges for 6G and Beyond",
+      "authors": [
+        {
+          "name": "Theodore S. Rappaport",
+          "openalex_id": "A5058193542",
+          "orcid": "https://orcid.org/0000-0001-7449-9957",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Yunchou Xing",
+          "openalex_id": "A5090349133",
+          "orcid": "https://orcid.org/0000-0003-0378-2696",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Ojas Kanhere",
+          "openalex_id": "A5064289610",
+          "orcid": "https://orcid.org/0000-0001-6864-7247",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Shihao Ju",
+          "openalex_id": "A5024066890",
+          "orcid": "https://orcid.org/0000-0002-0661-3241",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Arjuna Madanayake",
+          "openalex_id": "A5064035420",
+          "institutions": [
+            "Florida International University"
+          ]
+        },
+        {
+          "name": "Soumyajit Mandal",
+          "openalex_id": "A5036548792",
+          "orcid": "https://orcid.org/0000-0001-9070-2337",
+          "institutions": [
+            "Case Western Reserve University"
+          ]
+        },
+        {
+          "name": "Ahmed Alkhateeb",
+          "openalex_id": "A5003243464",
+          "orcid": "https://orcid.org/0000-0001-5648-1569",
+          "institutions": [
+            "Arizona State University"
+          ]
+        },
+        {
+          "name": "Georgios C. Trichopoulos",
+          "openalex_id": "A5007666035",
+          "orcid": "https://orcid.org/0000-0002-9030-9348",
+          "institutions": [
+            "Arizona State University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Frequencies from 100 GHz to 3 THz are promising bands for the next generation of wireless communication systems because of the wide swaths of unused and unexplored spectrum. These frequencies also offer the potential for revolutionary applications that will be made possible by new thinking, and advances in devices, circuits, software, signal processing, and systems. This paper describes many of the technical challenges and opportunities for wireless communication and sensing applications above 100 GHz, and presents a number of promising discoveries, novel approaches, and recent results that will aid in the development and implementation of the sixth generation (6G) of wireless networks, and beyond. This paper shows recent regulatory and standard body rulings that are anticipating wireless products and services above 100 GHz and illustrates the viability of wireless cognition, hyper-accurate position location, sensing, and imaging. This paper also presents approaches and results that show how long distance mobile communications will be supported to above 800 GHz since the antenna gains are able to overcome air-induced attenuation, and present methods that reduce the computational complexity and simplify the signal processing used in adaptive antenna arrays, by exploiting the Special Theory of Relativity to create a cone of silence in over-sampled antenna arrays that improve performance for digital phased array antennas. Also, new results that give insights into power efficient beam steering algorithms, and new propagation and partition loss models above 100 GHz are given, and promising imaging, array processing, and position location results are presented. The implementation of spatial consistency at THz frequencies, an important component of channel modeling that considers minute changes and correlations over space, is also discussed. This paper offers the first in-depth look at the vast applications of THz wireless products and applications and provides approaches for how to reduce power and increase performance across several problem domains, giving early evidence that THz techniques are compelling and available for future wireless communications.",
+      "cited_by_count": 2303,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08732419.pdf"
+      },
+      "topics": [
+        "Millimeter-Wave Propagation and Modeling",
+        "Antenna Design and Analysis",
+        "Antenna Design and Optimization"
+      ],
+      "referenced_works_count": 166,
+      "url": "https://openalex.org/W2955897898"
+    },
+    {
+      "openalex_id": "W3133913697",
+      "doi": "10.1109/comst.2021.3061981",
+      "title": "A Survey on Mobile Augmented Reality With 5G Mobile Edge Computing: Architectures, Applications, and Technical Aspects",
+      "authors": [
+        {
+          "name": "Yushan Siriwardhana",
+          "openalex_id": "A5069043129",
+          "orcid": "https://orcid.org/0000-0001-5992-891X",
+          "institutions": [
+            "University of Oulu"
+          ]
+        },
+        {
+          "name": "Pawani Porambage",
+          "openalex_id": "A5042235008",
+          "orcid": "https://orcid.org/0000-0001-6365-9804",
+          "institutions": [
+            "University of Oulu"
+          ]
+        },
+        {
+          "name": "Madhusanka Liyanage",
+          "openalex_id": "A5068169019",
+          "orcid": "https://orcid.org/0000-0003-4786-030X",
+          "institutions": [
+            "University College Dublin",
+            "University of Oulu"
+          ]
+        },
+        {
+          "name": "Mika Ylianttila",
+          "openalex_id": "A5059694865",
+          "orcid": "https://orcid.org/0000-0002-8079-5514",
+          "institutions": [
+            "University of Oulu"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "The Augmented Reality (AR) technology enhances the human perception of the world by combining the real environment with the virtual space. With the explosive growth of powerful, less expensive mobile devices, and the emergence of sophisticated communication infrastructure, Mobile Augmented Reality (MAR) applications are gaining increased popularity. MAR allows users to run AR applications on mobile devices with greater mobility and at a lower cost. The emerging 5G communication technologies act as critical enablers for future MAR applications to achieve ultra-low latency and extremely high data rates while Multi-access Edge Computing (MEC) brings enhanced computational power closer to the users to complement MAR. This paper extensively discusses the landscape of MAR through the past and its future prospects with respect to the 5G systems and complementary technology MEC. The paper especially provides an informative analysis of the network formation of current and future MAR systems in terms of cloud, edge, localized, and hybrid architectural options. The paper discusses key application areas for MAR and their future with the advent of 5G technologies. The paper also discusses the requirements and limitations of MAR technical aspects such as communication, mobility management, energy management, service offloading and migration, security, and privacy and analyzes the role of 5G technologies.",
+      "cited_by_count": 636,
+      "type": "article",
+      "source": {
+        "name": "IEEE Communications Surveys & Tutorials",
+        "type": "journal",
+        "issn": [
+          "1553-877X",
+          "2373-745X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/9739/9438976/09363323.pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Opportunistic and Delay-Tolerant Networks",
+        "Augmented Reality Applications"
+      ],
+      "referenced_works_count": 260,
+      "url": "https://openalex.org/W3133913697"
+    },
+    {
+      "openalex_id": "W3034606981",
+      "doi": "10.1109/access.2020.3001277",
+      "title": "A Survey of Multi-Access Edge Computing in 5G and Beyond: Fundamentals, Technology Integration, and State-of-the-Art",
+      "authors": [
+        {
+          "name": "Quoc\u2010Viet Pham",
+          "openalex_id": "A5062525719",
+          "orcid": "https://orcid.org/0000-0002-9485-9216",
+          "institutions": [
+            "Pusan National University"
+          ]
+        },
+        {
+          "name": "Fang Fang",
+          "openalex_id": "A5100386867",
+          "orcid": "https://orcid.org/0000-0002-6582-6570",
+          "institutions": [
+            "Durham University",
+            "University of Manchester"
+          ]
+        },
+        {
+          "name": "Vu Nguyen Ha",
+          "openalex_id": "A5060290096",
+          "orcid": "https://orcid.org/0000-0003-1325-3480",
+          "institutions": [
+            "Polytechnique Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Md. Jalil Piran",
+          "openalex_id": "A5047578139",
+          "orcid": "https://orcid.org/0000-0003-3229-6785",
+          "institutions": [
+            "Sejong University"
+          ]
+        },
+        {
+          "name": "Mai Le",
+          "openalex_id": "A5101817716",
+          "orcid": "https://orcid.org/0000-0002-8140-1273",
+          "institutions": [
+            "Inje University"
+          ]
+        },
+        {
+          "name": "Long Bao Le",
+          "openalex_id": "A5029986211",
+          "orcid": "https://orcid.org/0000-0003-3577-6530",
+          "institutions": [
+            "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+            "Institut National de la Recherche Scientifique"
+          ]
+        },
+        {
+          "name": "Won\u2010Joo Hwang",
+          "openalex_id": "A5085192467",
+          "orcid": "https://orcid.org/0000-0001-8398-564X",
+          "institutions": [
+            "Pusan National University"
+          ]
+        },
+        {
+          "name": "Zhiguo Ding",
+          "openalex_id": "A5002904166",
+          "orcid": "https://orcid.org/0000-0001-5280-384X",
+          "institutions": [
+            "University of Manchester"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "&#13;\\n&#13;\\nDriven by the emergence of new compute-intensive applications and the vision of the Internet of Things (IoT), it is foreseen that the emerging 5G network will face an unprecedented increase in traffic volume and computation demands. However, end users mostly have limited storage capacities and finite processing capabilities, thus how to run compute-intensive applications on resource-constrained users has recently become a natural concern. Mobile edge computing (MEC), a key technology in the emerging fifth generation (5G) network, can optimize mobile resources by hosting compute-intensive applications, process large data before sending to the cloud, provide the cloud-computing capabilities within the radio access network (RAN) in close proximity to mobile users, and offer context-aware services with the help of RAN information. Therefore, MEC enables a wide variety of applications, where the real-time response is strictly required, e.g., driverless vehicles, augmented reality, robotics, and immerse media. Indeed, the paradigm shift from 4G to 5G could become a reality with the advent of new technological concepts. The successful realization of MEC in the 5G network is still in its infancy and demands for constant efforts from both academic and industry communities. In this survey, we first provide a holistic overview of MEC technology and its potential use cases and applications. Then, we outline up-to-date researches on the integration of MEC with the new technologies that will be deployed in 5G and beyond. We also summarize testbeds and experimental evaluations, and open source activities, for edge computing. We further summarize lessons learned from state-of-the-art research works as well as discuss challenges and potential future directions for MEC research.&#13;\\n&#13;\\n&#13;\\n&#13;\\n&#13;\\n&#13;\\n",
+      "cited_by_count": 821,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09113305.pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "IoT Networks and Protocols",
+        "Advanced Wireless Communication Technologies"
+      ],
+      "referenced_works_count": 294,
+      "url": "https://openalex.org/W3034606981"
+    },
+    {
+      "openalex_id": "W3179283102",
+      "doi": "10.1109/comst.2022.3199901",
+      "title": "Evolution of Non-Terrestrial Networks From 5G to 6G: A Survey",
+      "authors": [
+        {
+          "name": "Mohammad Mahdi Azari",
+          "openalex_id": "A5006289048",
+          "orcid": "https://orcid.org/0000-0001-7691-3787",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Sourabh Solanki",
+          "openalex_id": "A5045885076",
+          "orcid": "https://orcid.org/0000-0002-7968-7655",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Symeon Chatzinotas",
+          "openalex_id": "A5016154330",
+          "orcid": "https://orcid.org/0000-0001-5122-0001",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Oltjon Kodheli",
+          "openalex_id": "A5034364460",
+          "orcid": "https://orcid.org/0000-0002-3343-5890",
+          "institutions": [
+            "SES (Luxembourg)"
+          ]
+        },
+        {
+          "name": "Hazem Sallouha",
+          "openalex_id": "A5059375633",
+          "orcid": "https://orcid.org/0000-0002-1288-1023",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Achiel Colpaert",
+          "openalex_id": "A5071443242",
+          "orcid": "https://orcid.org/0000-0003-1238-2002",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Jes\u00fas Fabi\u00e1n Mendoza Montoya",
+          "openalex_id": "A5103928951",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Sofie Pollin",
+          "openalex_id": "A5028689021",
+          "orcid": "https://orcid.org/0000-0002-1470-2076",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Alireza Haqiqatnejad",
+          "openalex_id": "A5058769063",
+          "orcid": "https://orcid.org/0000-0002-0881-2543"
+        },
+        {
+          "name": "Arsham Mostaani",
+          "openalex_id": "A5025845516",
+          "orcid": "https://orcid.org/0000-0001-9183-4411",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Eva Lagunas",
+          "openalex_id": "A5026746581",
+          "orcid": "https://orcid.org/0000-0002-9936-7245",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Bj\u00f6rn Ottersten",
+          "openalex_id": "A5080037825",
+          "orcid": "https://orcid.org/0000-0003-2298-6774",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Non-terrestrial networks (NTNs) traditionally have certain limited applications. However, the recent technological advancements and manufacturing cost reduction opened up myriad applications of NTNs for 5G and beyond networks, especially when integrated into terrestrial networks (TNs). This article comprehensively surveys the evolution of NTNs highlighting their relevance to 5G networks and essentially, how it will play a pivotal role in the development of 6G ecosystem. We discuss important features of NTNs integration into TNs and the synergies by delving into the new range of services and use cases, various architectures, technological enablers, and higher layer aspects pertinent to NTNs integration. Moreover, we review the corresponding challenges arising from the technical peculiarities and the new approaches being adopted to develop efficient integrated ground-air-space (GAS) networks. Our survey further includes the major progress and outcomes from academic research as well as industrial efforts representing the main industrial trends, field trials, and prototyping towards the 6G networks.",
+      "cited_by_count": 507,
+      "type": "article",
+      "source": {
+        "name": "IEEE Communications Surveys & Tutorials",
+        "type": "journal",
+        "issn": [
+          "1553-877X",
+          "2373-745X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/9739/9956928/09861699.pdf"
+      },
+      "topics": [
+        "UAV Applications and Optimization",
+        "Satellite Communication Systems",
+        "Advanced Wireless Communication Technologies"
+      ],
+      "referenced_works_count": 436,
+      "url": "https://openalex.org/W3179283102"
+    },
+    {
+      "openalex_id": "W3126686235",
+      "doi": "10.1109/ojcoms.2021.3057679",
+      "title": "The Road Towards 6G: A Comprehensive Survey",
+      "authors": [
+        {
+          "name": "Wei Jiang",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0002-3719-3710",
+          "institutions": [
+            "German Research Centre for Artificial Intelligence"
+          ]
+        },
+        {
+          "name": "Bin Han",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0003-2086-2487",
+          "institutions": [
+            "University of Kaiserslautern"
+          ]
+        },
+        {
+          "name": "Mohammad Asif Habibi",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0001-9874-0047",
+          "institutions": [
+            "University of Kaiserslautern"
+          ]
+        },
+        {
+          "name": "Hans Dieter Schotten",
+          "openalex_id": "",
+          "institutions": [
+            "German Research Centre for Artificial Intelligence",
+            "University of Kaiserslautern"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "As of today, the fifth generation (5G) mobile communication system has been\\nrolled out in many countries and the number of 5G subscribers already reaches a\\nvery large scale. It is time for academia and industry to shift their attention\\ntowards the next generation. At this crossroad, an overview of the current\\nstate of the art and a vision of future communications are definitely of\\ninterest. This article thus aims to provide a comprehensive survey to draw a\\npicture of the sixth generation (6G) system in terms of drivers, use cases,\\nusage scenarios, requirements, key performance indicators (KPIs), architecture,\\nand enabling technologies. First, we attempt to answer the question of \"Is\\nthere any need for 6G?\" by shedding light on its key driving factors, in which\\nwe predict the explosive growth of mobile traffic until 2030, and envision\\npotential use cases and usage scenarios. Second, the technical requirements of\\n6G are discussed and compared with those of 5G with respect to a set of KPIs in\\na quantitative manner. Third, the state-of-the-art 6G research efforts and\\nactivities from representative institutions and countries are summarized, and a\\ntentative roadmap of definition, specification, standardization, and regulation\\nis projected. Then, we identify a dozen of potential technologies and introduce\\ntheir principles, advantages, challenges, and open research issues. Finally,\\nthe conclusions are drawn to paint a picture of \"What 6G may look like?\". This\\nsurvey is intended to serve as an enlightening guideline to spur interests and\\nfurther investigations for subsequent research and development of 6G\\ncommunications systems.\\n",
+      "cited_by_count": 1375,
+      "type": "article",
+      "source": {
+        "name": "IEEE Open Journal of the Communications Society",
+        "type": "journal",
+        "issn": [
+          "2644-125X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/8782661/9309127/09349624.pdf"
+      },
+      "topics": [
+        "Advanced Wireless Communication Technologies",
+        "Energy Harvesting in Wireless Networks",
+        "Advanced MIMO Systems Optimization"
+      ],
+      "referenced_works_count": 144,
+      "url": "https://openalex.org/W3126686235"
+    },
+    {
+      "openalex_id": "W3011067038",
+      "doi": "10.1109/access.2020.2981745",
+      "title": "Communications in the 6G Era",
+      "authors": [
+        {
+          "name": "Harish Viswanathan",
+          "openalex_id": "A5033906394",
+          "orcid": "https://orcid.org/0000-0001-6144-7648",
+          "institutions": [
+            "Nokia (United States)"
+          ]
+        },
+        {
+          "name": "Preben Mogensen",
+          "openalex_id": "A5082513982",
+          "orcid": "https://orcid.org/0000-0002-0710-8685"
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "The focus of wireless research is increasingly shifting toward 6G as 5G deployments get underway. At this juncture, it is essential to establish a vision of future communications to provide guidance for that research. In this paper, we attempt to paint a broad picture of communication needs and technologies in the timeframe of 6G. The future of connectivity is in the creation of digital twin worlds that are a true representation of the physical and biological worlds at every spatial and time instant, unifying our experience across these physical, biological and digital worlds. New themes are likely to emerge that will shape 6G system requirements and technologies, such as: (i) new man-machine interfaces created by a collection of multiple local devices acting in unison; (ii) ubiquitous universal computing distributed among multiple local devices and the cloud; (iii) multi-sensory data fusion to create multi-verse maps and new mixed-reality experiences; and (iv) precision sensing and actuation to control the physical world. With rapid advances in artificial intelligence, it has the potential to become the foundation for the 6G air interface and network, making data, compute and energy the new resources to be exploited for achieving superior performance. In addition, in this paper we discuss the other major technology transformations that are likely to define 6G: (i) cognitive spectrum sharing methods and new spectrum bands; (ii) the integration of localization and sensing capabilities into the system definition, (iii) the achievement of extreme performance requirements on latency and reliability; (iv) new network architecture paradigms involving sub-networks and RAN-Core convergence; and (v) new security and privacy schemes.",
+      "cited_by_count": 684,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09040431.pdf"
+      },
+      "topics": [
+        "Advanced Wireless Communication Technologies",
+        "UAV Applications and Optimization",
+        "Advanced MIMO Systems Optimization"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W3011067038"
+    },
+    {
+      "openalex_id": "W3003667836",
+      "doi": "10.1109/access.2020.2970143",
+      "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+      "authors": [
+        {
+          "name": "Adil Rasheed",
+          "openalex_id": "A5032407979",
+          "orcid": "https://orcid.org/0000-0003-2690-983X",
+          "institutions": [
+            "Norwegian University of Science and Technology",
+            "SINTEF",
+            "SINTEF Digital"
+          ]
+        },
+        {
+          "name": "Omer San",
+          "openalex_id": "A5085671233",
+          "orcid": "https://orcid.org/0000-0002-2241-4648",
+          "institutions": [
+            "Oklahoma State University"
+          ]
+        },
+        {
+          "name": "Trond Kvamsdal",
+          "openalex_id": "A5072774082",
+          "orcid": "https://orcid.org/0000-0002-1615-7649",
+          "institutions": [
+            "SINTEF Digital",
+            "Norwegian University of Science and Technology",
+            "SINTEF"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence, big data cybernetics, data processing and management tools bring the promise of digital twins and their impact on society closer to reality. Digital twinning is now an important and emerging trend in many applications. Also referred to as a computational megamodel, device shadow, mirrored system, avatar or a synchronized virtual prototype, there can be no doubt that a digital twin plays a transformative role not only in how we design and operate cyber-physical intelligent systems, but also in how we advance the modularity of multi-disciplinary systems to tackle fundamental barriers not addressed by the current, evolutionary modeling practices. In this work, we review the recent status of methodologies and techniques related to the construction of digital twins mostly from a modeling perspective. Our aim is to provide a detailed coverage of the current challenges and enabling technologies along with recommendations and reflections for various stakeholders.",
+      "cited_by_count": 1542,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/08972429.pdf"
+      },
+      "topics": [
+        "Digital Transformation in Industry",
+        "Simulation Techniques and Applications"
+      ],
+      "referenced_works_count": 579,
+      "url": "https://openalex.org/W3003667836"
+    },
+    {
+      "openalex_id": "W4400888118",
+      "doi": "10.1080/17489725.2024.2371288",
+      "title": "Cognitive issues of mobile map design and use",
+      "authors": [
+        {
+          "name": "Amy L. Griffin",
+          "openalex_id": "A5067530574",
+          "orcid": "https://orcid.org/0000-0001-6548-7970",
+          "institutions": [
+            "RMIT University"
+          ]
+        },
+        {
+          "name": "Tumasch Reichenbacher",
+          "openalex_id": "A5031741578",
+          "orcid": "https://orcid.org/0000-0002-7833-185X",
+          "institutions": [
+            "University of Zurich"
+          ]
+        },
+        {
+          "name": "Hua Liao",
+          "openalex_id": "A5089343518",
+          "orcid": "https://orcid.org/0000-0002-6304-329X",
+          "institutions": [
+            "Hunan Normal University"
+          ]
+        },
+        {
+          "name": "Wangshu Wang",
+          "openalex_id": "A5021495990",
+          "orcid": "https://orcid.org/0000-0003-2307-155X"
+        },
+        {
+          "name": "Yinghui Cao",
+          "openalex_id": "A5103145693",
+          "orcid": "https://orcid.org/0000-0003-3634-3921",
+          "institutions": [
+            "Qingdao University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-22",
+      "abstract": "Internet-connected mobile devices have changed how people access information. Like other information sources, maps have benefited from and been re-envisioned for mobile devices, and they are used in new contexts. However, these new contexts often generate additional cognitive load. We explored in depth two strategies designers could use to mitigate high cognitive loads associated with mobile map use: offloading cognition and reducing cognitive load by improved design to support the allocation of attention between the map and the environment. In reviewing these strategies, we considered their relevance to several mobile map use cases (navigation, individual and collaborative spatial decision making, information enrichment, and entertainment). Next, we identified recent progress in our understanding of how to measure cognitive load and map use context. Finally, we explored the wider implications of mobile maps for human behaviour and cognition. We identified two important cross-cutting research questions: 1) How can mobile maps be designed to reduce cognitive load by providing what is really needed by users to facilitate their cognitive processes?; 2) How can the intrinsic additional cognitive load created by the characteristics of mobile maps be managed and minimised by supporting the distribution of the user's attention between the map and environment?",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Journal of Location Based Services",
+        "type": "journal",
+        "issn": [
+          "1748-9725",
+          "1748-9733"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17489725.2024.2371288?needAccess=true"
+      },
+      "topics": [
+        "Spatial Cognition and Navigation",
+        "Geographic Information Systems Studies",
+        "Augmented Reality Applications"
+      ],
+      "referenced_works_count": 130,
+      "url": "https://openalex.org/W4400888118"
+    },
+    {
+      "openalex_id": "W4285105424",
+      "doi": "10.1109/jiot.2022.3176400",
+      "title": "A Survey on the Convergence of Edge Computing and AI for UAVs: Opportunities and Challenges",
+      "authors": [
+        {
+          "name": "Patrick McEnroe",
+          "openalex_id": "A5038296203",
+          "orcid": "https://orcid.org/0000-0001-7175-0333",
+          "institutions": [
+            "University College Dublin"
+          ]
+        },
+        {
+          "name": "Shen Wang",
+          "openalex_id": "A5011845242",
+          "orcid": "https://orcid.org/0000-0003-3660-1206",
+          "institutions": [
+            "University College Dublin"
+          ]
+        },
+        {
+          "name": "Madhusanka Liyanage",
+          "openalex_id": "A5068169019",
+          "orcid": "https://orcid.org/0000-0003-4786-030X",
+          "institutions": [
+            "University College Dublin",
+            "University of Oulu"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-05-19",
+      "abstract": "The latest 5G mobile networks have enabled many exciting Internet of Things (IoT) applications that employ Unmanned Aerial Vehicles (UAVs/drones). The success of most UAV-based IoT applications is heavily dependent on artificial intelligence (AI) technologies, for instance, computer vision and path planning. These AI methods must process data and provide decisions while ensuring low latency and low energy consumption. However, the existing cloud-based AI paradigm finds it difficult to meet these strict UAV requirements. Edge AI, which runs AI on-device or on edge servers close to users, can be suitable for improving UAV-based IoT services. This paper provides a comprehensive analysis of the impact of edge AI on key UAV technical aspects (i.e., autonomous navigation, formation control, power management, security and privacy, computer vision, and communication) and applications (i.e., delivery systems, civil infrastructure inspection, precision agriculture, search and rescue operations, acting as aerial wireless BSs and drone light shows). As guidance for researchers and practitioners, the paper also explores UAV-based edge AI implementation challenges, lessons learned, and future research directions.",
+      "cited_by_count": 392,
+      "type": "article",
+      "source": {
+        "name": "IEEE Internet of Things Journal",
+        "type": "journal",
+        "issn": [
+          "2327-4662",
+          "2372-2541"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6488907/9866069/09778241.pdf"
+      },
+      "topics": [
+        "UAV Applications and Optimization",
+        "Advanced Neural Network Applications",
+        "Video Surveillance and Tracking Methods"
+      ],
+      "referenced_works_count": 157,
+      "url": "https://openalex.org/W4285105424"
+    },
+    {
+      "openalex_id": "W2606471054",
+      "doi": "10.3389/fpsyg.2017.00605",
+      "title": "Smartphones and Cognition: A Review of Research Exploring the Links between Mobile Technology Habits and Cognitive Functioning",
+      "authors": [
+        {
+          "name": "Henry H. Wilmer",
+          "openalex_id": "A5088164857",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Lauren E. Sherman",
+          "openalex_id": "A5009534586",
+          "orcid": "https://orcid.org/0000-0003-4057-5194",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Jason Chein",
+          "openalex_id": "A5072139616",
+          "orcid": "https://orcid.org/0000-0002-8430-7899",
+          "institutions": [
+            "Temple University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-25",
+      "abstract": "While smartphones and related mobile technologies are recognized as flexible and powerful tools that, when used prudently, can augment human cognition, there is also a growing perception that habitual involvement with these devices may have a negative and lasting impact on users' ability to think, remember, pay attention, and regulate emotion. The present review considers an intensifying, though still limited, area of research exploring the potential cognitive impacts of smartphone-related habits, and seeks to determine in which domains of functioning there is accruing evidence of a significant relationship between smartphone technology and cognitive performance, and in which domains the scientific literature is not yet mature enough to endorse any firm conclusions. We focus our review primarily on three facets of cognition that are clearly implicated in public discourse regarding the impacts of mobile technology - attention, memory, and delay of gratification - and then consider evidence regarding the broader relationships between smartphone habits and everyday cognitive functioning. Along the way, we highlight compelling findings, discuss limitations with respect to empirical methodology and interpretation, and offer suggestions for how the field might progress toward a more coherent and robust area of scientific inquiry.",
+      "cited_by_count": 645,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00605/pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Technology Adoption and User Behaviour",
+        "Digital Marketing and Social Media"
+      ],
+      "referenced_works_count": 117,
+      "url": "https://openalex.org/W2606471054"
+    },
+    {
+      "openalex_id": "W3023574229",
+      "doi": "10.1109/ojcs.2020.2992630",
+      "title": "Federated Learning for Vehicular Internet of Things: Recent Advances and Open Issues",
+      "authors": [
+        {
+          "name": "Zhaoyang Du",
+          "openalex_id": "A5018261315",
+          "orcid": "https://orcid.org/0000-0002-3614-6621",
+          "institutions": [
+            "University of Electro-Communications"
+          ]
+        },
+        {
+          "name": "Celimuge Wu",
+          "openalex_id": "A5046333931",
+          "orcid": "https://orcid.org/0000-0001-6853-5878",
+          "institutions": [
+            "University of Electro-Communications"
+          ]
+        },
+        {
+          "name": "Tsutomu Yoshinaga",
+          "openalex_id": "A5048209270",
+          "institutions": [
+            "University of Electro-Communications"
+          ]
+        },
+        {
+          "name": "Kok\u2010Lim Alvin Yau",
+          "openalex_id": "A5055349217",
+          "orcid": "https://orcid.org/0000-0003-3110-2782",
+          "institutions": [
+            "Sunway University"
+          ]
+        },
+        {
+          "name": "Yusheng Ji",
+          "openalex_id": "A5037098061",
+          "orcid": "https://orcid.org/0000-0003-4364-8491",
+          "institutions": [
+            "National Institute of Informatics"
+          ]
+        },
+        {
+          "name": "Jie Li",
+          "openalex_id": "A5100679241",
+          "orcid": "https://orcid.org/0000-0002-4974-6116",
+          "institutions": [
+            "Shanghai Jiao Tong University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "Federated learning (FL) is a distributed machine learning approach that can achieve the purpose of collaborative learning from a large amount of data that belong to different parties without sharing the raw data among the data owners. FL can sufficiently utilize the computing capabilities of multiple learning agents to improve the learning efficiency while providing a better privacy solution for the data owners. FL attracts tremendous interests from a large number of industries due to growing privacy concerns. Future vehicular Internet of Things (IoT) systems, such as cooperative autonomous driving and intelligent transport systems (ITS), feature a large number of devices and privacy-sensitive data where the communication, computing, and storage resources must be efficiently utilized. FL could be a promising approach to solve these existing challenges. In this paper, we first conduct a brief survey of existing studies on FL and its use in wireless IoT. Then we discuss the significance and technical challenges of applying FL in vehicular IoT, and point out future research directions.",
+      "cited_by_count": 378,
+      "type": "article",
+      "source": {
+        "name": "IEEE Open Journal of the Computer Society",
+        "type": "journal",
+        "issn": [
+          "2644-1268"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/8782664/8821528/09086790.pdf"
+      },
+      "topics": [
+        "Privacy-Preserving Technologies in Data",
+        "Vehicular Ad Hoc Networks (VANETs)",
+        "Mobile Crowdsensing and Crowdsourcing"
+      ],
+      "referenced_works_count": 125,
+      "url": "https://openalex.org/W3023574229"
+    },
+    {
+      "openalex_id": "W3212941463",
+      "doi": "10.1109/jsac.2021.3126076",
+      "title": "Edge Artificial Intelligence for 6G: Vision, Enabling Technologies, and Applications",
+      "authors": [
+        {
+          "name": "Khaled B. Letaief",
+          "openalex_id": "A5079052203",
+          "orcid": "https://orcid.org/0000-0003-2519-6401",
+          "institutions": [
+            "University of Hong Kong",
+            "Peng Cheng Laboratory",
+            "Hong Kong University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Yuanming Shi",
+          "openalex_id": "A5022499594",
+          "orcid": "https://orcid.org/0000-0002-1418-7465",
+          "institutions": [
+            "ShanghaiTech University"
+          ]
+        },
+        {
+          "name": "Jianmin Lu",
+          "openalex_id": "A5108531824",
+          "orcid": "https://orcid.org/0009-0005-5305-6168",
+          "institutions": [
+            "Huawei Technologies (China)",
+            "Tsinghua University"
+          ]
+        },
+        {
+          "name": "Jianhua Lu",
+          "openalex_id": "A5072435188",
+          "orcid": "https://orcid.org/0000-0003-1125-7736",
+          "institutions": [
+            "Tsinghua University",
+            "Huawei Technologies (China)"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-08",
+      "abstract": "The thriving of artificial intelligence (AI) applications is driving the further evolution of wireless networks. It has been envisioned that 6G will be transformative and will revolutionize the evolution of wireless from 'connected things' to 'connected intelligence'. However, state-of-the-art deep learning and big data analytics based AI systems require tremendous computation and communication resources, causing significant latency, energy consumption, network congestion, and privacy leakage in both of the training and inference processes. By embedding model training and inference capabilities into the network edge, edge AI stands out as a disruptive technology for 6G to seamlessly integrate sensing, communication, computation, and intelligence, thereby improving the efficiency, effectiveness, privacy, and security of 6G networks. In this paper, we shall provide our vision for scalable and trustworthy edge AI systems with integrated design of wireless communication strategies and decentralized machine learning models. New design principles of wireless networks, service-driven resource allocation optimization methods, as well as a holistic end-to-end system architecture to support edge AI will be described. Standardization, software and hardware platforms, and application scenarios are also discussed to facilitate the industrialization and commercialization of edge AI systems. \u00a9 1983-2012 IEEE.",
+      "cited_by_count": 662,
+      "type": "article",
+      "source": {
+        "name": "IEEE Journal on Selected Areas in Communications",
+        "type": "journal",
+        "issn": [
+          "0733-8716",
+          "1558-0008"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/49/9653871/09606720.pdf"
+      },
+      "topics": [
+        "Advanced Wireless Communication Technologies",
+        "IoT Networks and Protocols",
+        "Advanced Data and IoT Technologies"
+      ],
+      "referenced_works_count": 340,
+      "url": "https://openalex.org/W3212941463"
+    },
+    {
+      "openalex_id": "W2125437498",
+      "doi": "10.1016/j.tics.2011.05.004",
+      "title": "Different states in visual working memory: when it guides attention and when it does not",
+      "authors": [
+        {
+          "name": "Christian N. L. Olivers",
+          "openalex_id": "A5028257885",
+          "orcid": "https://orcid.org/0000-0001-7470-5378",
+          "institutions": [
+            "Vrije Universiteit Amsterdam"
+          ]
+        },
+        {
+          "name": "Judith Peters",
+          "openalex_id": "A5053822484",
+          "orcid": "https://orcid.org/0000-0003-0979-1016",
+          "institutions": [
+            "Maastricht University",
+            "Royal Netherlands Academy of Arts and Sciences",
+            "Netherlands Institute for Neuroscience"
+          ]
+        },
+        {
+          "name": "Roos Houtkamp",
+          "openalex_id": "A5031986386",
+          "institutions": [
+            "Otto-von-Guericke University Magdeburg",
+            "Leipzig University"
+          ]
+        },
+        {
+          "name": "Pieter R. Roelfsema",
+          "openalex_id": "A5008620732",
+          "orcid": "https://orcid.org/0000-0002-1625-0034",
+          "institutions": [
+            "Netherlands Institute for Neuroscience",
+            "Royal Netherlands Academy of Arts and Sciences",
+            "Vrije Universiteit Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-01",
+      "abstract": null,
+      "cited_by_count": 706,
+      "type": "review",
+      "source": {
+        "name": "Trends in Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1364-6613",
+          "1879-307X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.cell.com/article/S1364661311000854/pdf"
+      },
+      "topics": [
+        "Neural and Behavioral Psychology Studies",
+        "Visual perception and processing mechanisms",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 70,
+      "url": "https://openalex.org/W2125437498"
+    },
+    {
+      "openalex_id": "W2917748490",
+      "doi": "10.1155/2019/3159762",
+      "title": "A Survey on Vehicular Edge Computing: Architecture, Applications, Technical Issues, and Future Directions",
+      "authors": [
+        {
+          "name": "Salman Raza",
+          "openalex_id": "A5091805322",
+          "orcid": "https://orcid.org/0000-0003-4895-9512",
+          "institutions": [
+            "Beijing University of Posts and Telecommunications"
+          ]
+        },
+        {
+          "name": "Shangguang Wang",
+          "openalex_id": "A5054814598",
+          "orcid": "https://orcid.org/0000-0001-7245-1298",
+          "institutions": [
+            "Beijing University of Posts and Telecommunications"
+          ]
+        },
+        {
+          "name": "Manzoor Ahmed",
+          "openalex_id": "A5026837722",
+          "orcid": "https://orcid.org/0000-0002-0459-9845",
+          "institutions": [
+            "Tsinghua University"
+          ]
+        },
+        {
+          "name": "Muhammad Rizwan Anwar",
+          "openalex_id": "A5068119813",
+          "orcid": "https://orcid.org/0000-0002-1945-6281",
+          "institutions": [
+            "Beijing University of Posts and Telecommunications"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-24",
+      "abstract": "A new networking paradigm, Vehicular Edge Computing (VEC), has been introduced in recent years to the vehicular network to augment its computing capacity. The ultimate challenge to fulfill the requirements of both communication and computation is increasingly prominent, with the advent of ever-growing modern vehicular applications. With the breakthrough of VEC, service providers directly host services in close proximity to smart vehicles for reducing latency and improving quality of service (QoS). This paper illustrates the VEC architecture, coupled with the concept of the smart vehicle, its services, communication, and applications. Moreover, we categorized all the technical issues in the VEC architecture and reviewed all the relevant and latest solutions. We also shed some light and pinpoint future research challenges. This article not only enables naive readers to get a better understanding of this latest research field but also gives new directions in the field of VEC to the other researchers.",
+      "cited_by_count": 256,
+      "type": "article",
+      "source": {
+        "name": "Wireless Communications and Mobile Computing",
+        "type": "journal",
+        "issn": [
+          "1530-8669",
+          "1530-8677"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://downloads.hindawi.com/journals/wcmc/2019/3159762.pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Vehicular Ad Hoc Networks (VANETs)",
+        "Caching and Content Delivery"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W2917748490"
+    },
+    {
+      "openalex_id": "W2990204812",
+      "doi": "10.3390/s19235170",
+      "title": "A Survey on Machine-Learning Techniques for UAV-Based Communications",
+      "authors": [
+        {
+          "name": "Petros S. Bithas",
+          "openalex_id": "A5019812846",
+          "orcid": "https://orcid.org/0000-0002-6858-3674",
+          "institutions": [
+            "National and Kapodistrian University of Athens"
+          ]
+        },
+        {
+          "name": "Emmanouel T. Michailidis",
+          "openalex_id": "A5060378506",
+          "orcid": "https://orcid.org/0000-0002-1077-0047",
+          "institutions": [
+            "University of West Attica"
+          ]
+        },
+        {
+          "name": "\u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u039d\u03bf\u03bc\u03b9\u03ba\u03cc\u03c2",
+          "openalex_id": "A5040994432",
+          "orcid": "https://orcid.org/0000-0002-9210-9796",
+          "institutions": [
+            "University of the Aegean"
+          ]
+        },
+        {
+          "name": "Demosthenes Vouyioukas",
+          "openalex_id": "A5060127478",
+          "orcid": "https://orcid.org/0000-0002-6649-6577",
+          "institutions": [
+            "University of the Aegean"
+          ]
+        },
+        {
+          "name": "\u0391thanasios G. Kanatas",
+          "openalex_id": "A5040433148",
+          "orcid": "https://orcid.org/0000-0002-1966-4937",
+          "institutions": [
+            "University of Piraeus"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-11-26",
+      "abstract": "Unmanned aerial vehicles (UAVs) will be an integral part of the next generation wireless communication networks. Their adoption in various communication-based applications is expected to improve coverage and spectral efficiency, as compared to traditional ground-based solutions. However, this new degree of freedom that will be included in the network will also add new challenges. In this context, the machine-learning (ML) framework is expected to provide solutions for the various problems that have already been identified when UAVs are used for communication purposes. In this article, we provide a detailed survey of all relevant research works, in which ML techniques have been used on UAV-based communications for improving various design and functional aspects such as channel modeling, resource management, positioning, and security.",
+      "cited_by_count": 331,
+      "type": "review",
+      "source": {
+        "name": "Sensors",
+        "type": "journal",
+        "issn": [
+          "1424-8220"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1424-8220/19/23/5170/pdf?version=1574760374"
+      },
+      "topics": [
+        "UAV Applications and Optimization",
+        "Video Surveillance and Tracking Methods",
+        "Advanced Wireless Communication Technologies"
+      ],
+      "referenced_works_count": 131,
+      "url": "https://openalex.org/W2990204812"
+    },
+    {
+      "openalex_id": "W2973184394",
+      "doi": "10.1109/access.2019.2941229",
+      "title": "Q-Learning Algorithms: A Comprehensive Classification and Applications",
+      "authors": [
+        {
+          "name": "Beakcheol Jang",
+          "openalex_id": "A5067151609",
+          "orcid": "https://orcid.org/0000-0002-3911-5935",
+          "institutions": [
+            "Sangmyung University"
+          ]
+        },
+        {
+          "name": "Myeonghwi Kim",
+          "openalex_id": "A5050629182",
+          "institutions": [
+            "Sangmyung University"
+          ]
+        },
+        {
+          "name": "Gaspard Harerimana",
+          "openalex_id": "A5080143856",
+          "orcid": "https://orcid.org/0000-0003-4761-562X",
+          "institutions": [
+            "Sangmyung University"
+          ]
+        },
+        {
+          "name": "Jong Wook Kim",
+          "openalex_id": "A5100726106",
+          "orcid": "https://orcid.org/0000-0001-8373-1893",
+          "institutions": [
+            "Sangmyung University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Q-learning is arguably one of the most applied representative reinforcement learning approaches and one of the off-policy strategies. Since the emergence of Q-learning, many studies have described its uses in reinforcement learning and artificial intelligence problems. However, there is an information gap as to how these powerful algorithms can be leveraged and incorporated into general artificial intelligence workflow. Early Q-learning algorithms were unsatisfactory in several aspects and covered a narrow range of applications. It has also been observed that sometimes, this rather powerful algorithm learns unrealistically and overestimates the action values hence abating the overall performance. Recently with the general advances of machine learning, more variants of Q-learning like Deep Q-learning which combines basic Q learning with deep neural networks have been discovered and applied extensively. In this paper, we thoroughly explain how Q-learning evolved by unraveling the mathematical complexities behind it as well its flow from reinforcement learning family of algorithms. Improved variants are fully described, and we categorize Q-learning algorithms into single-agent and multi-agent approaches. Finally, we thoroughly investigate up-to-date research trends and key applications that leverage Q-learning algorithms.",
+      "cited_by_count": 571,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08836506.pdf"
+      },
+      "topics": [
+        "Reinforcement Learning in Robotics",
+        "Adaptive Dynamic Programming Control",
+        "Data Stream Mining Techniques"
+      ],
+      "referenced_works_count": 210,
+      "url": "https://openalex.org/W2973184394"
+    },
+    {
+      "openalex_id": "W4251448678",
+      "doi": "10.12694/issn.1895-1767",
+      "title": "Scalable Computing: Practice and Experience",
+      "authors": [
+        {
+          "name": "Dana Petcu",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Xnical",
+          "openalex_id": ""
+        },
+        {
+          "name": "Silviu Panica",
+          "openalex_id": ""
+        },
+        {
+          "name": "Shahram Rahimi",
+          "openalex_id": ""
+        },
+        {
+          "name": "Hong Shen",
+          "openalex_id": ""
+        },
+        {
+          "name": "Domenico Talia",
+          "openalex_id": ""
+        },
+        {
+          "name": "Peter Arbenz",
+          "openalex_id": ""
+        },
+        {
+          "name": "Dorothy Bollman",
+          "openalex_id": ""
+        },
+        {
+          "name": "Luigi Brugnano",
+          "openalex_id": ""
+        },
+        {
+          "name": "Giacomo Cabri",
+          "openalex_id": ""
+        },
+        {
+          "name": "Bogdan Czejdo",
+          "openalex_id": ""
+        },
+        {
+          "name": "Frederic Desprez",
+          "openalex_id": ""
+        },
+        {
+          "name": "Yakov Fet",
+          "openalex_id": ""
+        },
+        {
+          "name": "Giancarlo Fortino",
+          "openalex_id": ""
+        },
+        {
+          "name": "Andrzej Goscinski",
+          "openalex_id": ""
+        },
+        {
+          "name": "Frederic Loulergue",
+          "openalex_id": ""
+        },
+        {
+          "name": "Thomas Ludwig",
+          "openalex_id": ""
+        },
+        {
+          "name": "Svetozar Margenov",
+          "openalex_id": ""
+        },
+        {
+          "name": "Viorel Negru",
+          "openalex_id": ""
+        },
+        {
+          "name": "Moussa Ouedraogo",
+          "openalex_id": ""
+        },
+        {
+          "name": "Henri Tudor",
+          "openalex_id": ""
+        },
+        {
+          "name": "Marcin Paprzycki",
+          "openalex_id": ""
+        },
+        {
+          "name": "Roman Trobec",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jozef Stefan",
+          "openalex_id": ""
+        },
+        {
+          "name": "Marian Vajtersic",
+          "openalex_id": ""
+        },
+        {
+          "name": "Lonnie Welch",
+          "openalex_id": ""
+        },
+        {
+          "name": "Janusz Zalewski",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ramasubbareddy Somula",
+          "openalex_id": "",
+          "institutions": [
+            "Bharathidasan University",
+            "Vellore Institute of Technology University"
+          ]
+        },
+        {
+          "name": "S Karthi",
+          "openalex_id": "",
+          "institutions": [
+            "Vellore Institute of Technology University",
+            "Bharathidasan University"
+          ]
+        },
+        {
+          "name": "Rajkumar Rajasekaran",
+          "openalex_id": "",
+          "institutions": [
+            "Bharathidasan University",
+            "Vellore Institute of Technology University"
+          ]
+        },
+        {
+          "name": "S Prabu",
+          "openalex_id": "",
+          "institutions": [
+            "Vellore Institute of Technology University",
+            "Bharathidasan University"
+          ]
+        },
+        {
+          "name": "Gopinath Ganapathy",
+          "openalex_id": "",
+          "institutions": [
+            "Vellore Institute of Technology University",
+            "Bharathidasan University"
+          ]
+        },
+        {
+          "name": "Ranjan Goyal",
+          "openalex_id": "",
+          "institutions": [
+            "Vellore Institute of Technology University"
+          ]
+        },
+        {
+          "name": "H Dinh",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Lee",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Niyato",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Wang",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Buyya",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Yang",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Cao",
+          "openalex_id": ""
+        },
+        {
+          "name": "Y Yuan",
+          "openalex_id": ""
+        },
+        {
+          "name": "T Li",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Han",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Chan",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Klein",
+          "openalex_id": ""
+        },
+        {
+          "name": "C Mannweiler",
+          "openalex_id": ""
+        },
+        {
+          "name": "J Schneider",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Schotten",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Bahl",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Han",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Li",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Satyanarayanan",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Miluzzo",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Cceres",
+          "openalex_id": ""
+        },
+        {
+          "name": "Y.-F Chen",
+          "openalex_id": ""
+        },
+        {
+          "name": "L Ashiho",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Armbrust",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Fox",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Griffith",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Joseph",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Katz",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Konwinski",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Lee",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Patterson",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Rabkin",
+          "openalex_id": ""
+        },
+        {
+          "name": "I Stoica",
+          "openalex_id": ""
+        },
+        {
+          "name": "Others",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Durkee",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Dikaiakos",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Katsaros",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Mehra",
+          "openalex_id": ""
+        },
+        {
+          "name": "G Pallis",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Vakali",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Chard",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Caton",
+          "openalex_id": ""
+        },
+        {
+          "name": "O Rana",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Bubendorfer",
+          "openalex_id": ""
+        },
+        {
+          "name": "B.-G Chun",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Ihm",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Maniatis",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Naik",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Patti",
+          "openalex_id": ""
+        },
+        {
+          "name": "K Akherfi",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Gerndt",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Harroud",
+          "openalex_id": ""
+        },
+        {
+          "name": "E Cuervo",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Balasubramanian",
+          "openalex_id": ""
+        },
+        {
+          "name": "D -K. Cho",
+          "openalex_id": ""
+        },
+        {
+          "name": "A Wolman",
+          "openalex_id": ""
+        },
+        {
+          "name": "S Saroiu",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Chandra",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Bahl",
+          "openalex_id": ""
+        },
+        {
+          "name": "M Satyanarayanan",
+          "openalex_id": ""
+        },
+        {
+          "name": "P Bahl",
+          "openalex_id": ""
+        },
+        {
+          "name": "R Caceres",
+          "openalex_id": ""
+        },
+        {
+          "name": "N Davies",
+          "openalex_id": ""
+        },
+        {
+          "name": "H Qian",
+          "openalex_id": ""
+        },
+        {
+          "name": "D Andresen",
+          "openalex_id": ""
+        },
+        {
+          "name": "B Zhao",
+          "openalex_id": ""
+        },
+        {
+          "name": "Z Xu",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-04-16",
+      "abstract": "Journal Scalable Computing: Practice and Experience.In this special issue on",
+      "cited_by_count": 280,
+      "type": "paratext",
+      "source": {
+        "name": "Scalable Computing Practice and Experience",
+        "type": "journal",
+        "issn": [
+          "1895-1767"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.scpe.org/index.php/scpe/issue/view/143/SCPE-Vol-19-Issue-4"
+      },
+      "topics": [
+        "Distributed and Parallel Computing Systems"
+      ],
+      "referenced_works_count": 237,
+      "url": "https://openalex.org/W4251448678"
+    },
+    {
+      "openalex_id": "W2766304518",
+      "doi": "10.1145/3132211.3134458",
+      "title": "An empirical study of latency in an emerging class of edge computing applications for wearable cognitive assistance",
+      "authors": [
+        {
+          "name": "Zhuo Chen",
+          "openalex_id": "A5100345092",
+          "orcid": "https://orcid.org/0000-0002-9011-7928",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Wenlu Hu",
+          "openalex_id": "A5004027055",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Junjue Wang",
+          "openalex_id": "A5062779308",
+          "orcid": "https://orcid.org/0000-0002-9500-3399",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Siyan Zhao",
+          "openalex_id": "A5053935701",
+          "orcid": "https://orcid.org/0000-0001-6255-9473",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Brandon Amos",
+          "openalex_id": "A5030666794",
+          "orcid": "https://orcid.org/0000-0003-2884-0119",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Guanhang Wu",
+          "openalex_id": "A5076476468",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Kiryong Ha",
+          "openalex_id": "A5109890415",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Khalid Elgazzar",
+          "openalex_id": "A5026935022",
+          "orcid": "https://orcid.org/0000-0002-5892-632X",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Padmanabhan Pillai",
+          "openalex_id": "A5080166041",
+          "orcid": "https://orcid.org/0000-0003-0171-020X",
+          "institutions": [
+            "Intel (United States)"
+          ]
+        },
+        {
+          "name": "Roberta L. Klatzky",
+          "openalex_id": "A5019042403",
+          "orcid": "https://orcid.org/0000-0001-9701-9186",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Daniel P. Siewiorek",
+          "openalex_id": "A5024012980",
+          "orcid": "https://orcid.org/0000-0001-6644-3929",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Mahadev Satyanarayanan",
+          "openalex_id": "A5052227093",
+          "orcid": "https://orcid.org/0000-0002-2187-2049",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-10-12",
+      "abstract": "An emerging class of interactive wearable cognitive assistance applications is poised to become one of the key demonstrators of edge computing infrastructure. In this paper, we design seven such applications and evaluate their performance in terms of latency across a range of edge computing configurations, mobile hardware, and wireless networks, including 4G LTE. We also devise a novel multi-algorithm approach that leverages temporal locality to reduce end-to-end latency by 60% to 70%, without sacrificing accuracy. Finally, we derive target latencies for our applications, and show that edge computing is crucial to meeting these targets.",
+      "cited_by_count": 208,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://dl.acm.org/ft_gateway.cfm?id=3134458&type=pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Age of Information Optimization",
+        "Context-Aware Activity Recognition Systems"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2766304518"
+    },
+    {
+      "openalex_id": "W3144404977",
+      "doi": "10.1109/ojcoms.2021.3071496",
+      "title": "Survey on 6G Frontiers: Trends, Applications, Requirements, Technologies and Future Research",
+      "authors": [
+        {
+          "name": "Chamitha de Alwis",
+          "openalex_id": "A5080337138",
+          "orcid": "https://orcid.org/0000-0002-2219-6142",
+          "institutions": [
+            "University of Sri Jayewardenepura"
+          ]
+        },
+        {
+          "name": "Anshuman Kalla",
+          "openalex_id": "A5035176879",
+          "orcid": "https://orcid.org/0000-0002-3985-4578",
+          "institutions": [
+            "University of Oulu"
+          ]
+        },
+        {
+          "name": "Quoc\u2010Viet Pham",
+          "openalex_id": "A5062525719",
+          "orcid": "https://orcid.org/0000-0002-9485-9216",
+          "institutions": [
+            "Pusan National University"
+          ]
+        },
+        {
+          "name": "Pardeep Kumar",
+          "openalex_id": "A5100746245",
+          "orcid": "https://orcid.org/0000-0001-8124-5509",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Kapal Dev",
+          "openalex_id": "A5064768354",
+          "orcid": "https://orcid.org/0000-0003-1262-8594",
+          "institutions": [
+            "Munster Technological University"
+          ]
+        },
+        {
+          "name": "Won\u2010Joo Hwang",
+          "openalex_id": "A5085192467",
+          "orcid": "https://orcid.org/0000-0001-8398-564X",
+          "institutions": [
+            "Pusan National University"
+          ]
+        },
+        {
+          "name": "Madhusanka Liyanage",
+          "openalex_id": "A5068169019",
+          "orcid": "https://orcid.org/0000-0003-4786-030X",
+          "institutions": [
+            "University College Dublin",
+            "University of Oulu"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "Emerging applications such as Internet of Everything, Holographic Telepresence, collaborative robots, and space and deep-sea tourism are already highlighting the limitations of existing fifth-generation (5G) mobile networks. These limitations are in terms of data-rate, latency, reliability, availability, processing, connection density and global coverage, spanning over ground, underwater and space. The sixth-generation (6G) of mobile networks are expected to burgeon in the coming decade to address these limitations. The development of 6G vision, applications, technologies and standards has already become a popular research theme in academia and the industry. In this paper, we provide a comprehensive survey of the current developments towards 6G. We highlight the societal and technological trends that initiate the drive towards 6G. Emerging applications to realize the demands raised by 6G driving trends are discussed subsequently. We also elaborate the requirements that are necessary to realize the 6G applications. Then we present the key enabling technologies in detail. We also outline current research projects and activities including standardization efforts towards the development of 6G. Finally, we summarize lessons learned from state-of-the-art research and discuss technical challenges that would shed a new light on future research directions towards 6G.",
+      "cited_by_count": 709,
+      "type": "article",
+      "source": {
+        "name": "IEEE Open Journal of the Communications Society",
+        "type": "journal",
+        "issn": [
+          "2644-125X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/8782661/9309127/09397776.pdf"
+      },
+      "topics": [
+        "Advanced Wireless Communication Technologies",
+        "Optical Wireless Communication Technologies",
+        "Underwater Vehicles and Communication Systems"
+      ],
+      "referenced_works_count": 363,
+      "url": "https://openalex.org/W3144404977"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

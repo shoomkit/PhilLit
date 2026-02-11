@@ -1,0 +1,1739 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Barr digital extended mind",
+  "results": [
+    {
+      "openalex_id": "W2944285188",
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "name": "Joseph Firth",
+          "openalex_id": "A5023196820",
+          "orcid": "https://orcid.org/0000-0002-0618-2752",
+          "institutions": [
+            "Western Sydney University",
+            "University of Manchester",
+            "University of Melbourne",
+            "University of Oxford",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "John Torous",
+          "openalex_id": "A5026523515",
+          "orcid": "https://orcid.org/0000-0002-5362-7937",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Brendon Stubbs",
+          "openalex_id": "A5005008571",
+          "orcid": "https://orcid.org/0000-0001-7387-3791",
+          "institutions": [
+            "King's College London",
+            "South London and Maudsley NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Josh A. Firth",
+          "openalex_id": "A5003551603",
+          "orcid": "https://orcid.org/0000-0001-7183-4115",
+          "institutions": [
+            "University of Oxford",
+            "University of Melbourne",
+            "Western Sydney University",
+            "University of Manchester",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "Genevieve Z. Steiner",
+          "openalex_id": "A5037720902",
+          "orcid": "https://orcid.org/0000-0002-8708-6104",
+          "institutions": [
+            "Westmead Institute",
+            "Translational Research Institute",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Lee Smith",
+          "openalex_id": "A5059447980",
+          "orcid": "https://orcid.org/0000-0002-5340-9833",
+          "institutions": [
+            "Anglia Ruskin University"
+          ]
+        },
+        {
+          "name": "Mario \u00c1lvarez\u2010Jim\u00e9nez",
+          "openalex_id": "A5077079077",
+          "orcid": "https://orcid.org/0000-0002-3535-9086",
+          "institutions": [
+            "University of Melbourne",
+            "Orygen Youth Health"
+          ]
+        },
+        {
+          "name": "John Gleeson",
+          "openalex_id": "A5047926815",
+          "orcid": "https://orcid.org/0000-0001-7969-492X",
+          "institutions": [
+            "Australian Catholic University",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Davy Vancampfort",
+          "openalex_id": "A5030050325",
+          "orcid": "https://orcid.org/0000-0002-4592-8625",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Christopher J. Armitage",
+          "openalex_id": "A5020278901",
+          "orcid": "https://orcid.org/0000-0003-2365-1765",
+          "institutions": [
+            "Manchester Academic Health Science Centre",
+            "NIHR Manchester Biomedical Research Centre",
+            "NIHR Greater Manchester Patient Safety Translational Research Centre",
+            "University of Manchester",
+            "Manchester University NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jerome Sarris",
+          "openalex_id": "A5013936218",
+          "orcid": "https://orcid.org/0000-0001-9287-8854",
+          "institutions": [
+            "Westmead Institute",
+            "Western Sydney University",
+            "University of Melbourne",
+            "Melbourne Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-06",
+      "abstract": "The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real\u2010world social processes creates a new interplay between the Internet and our social lives, including our self\u2010concepts and self\u2010esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20617"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W2944285188"
+    },
+    {
+      "openalex_id": "W3134099070",
+      "doi": "10.3390/ijerph18073432",
+      "title": "Mental Health of Children and Adolescents Amidst COVID-19 and Past Pandemics: A Rapid Systematic Review",
+      "authors": [
+        {
+          "name": "Salima Meherali",
+          "openalex_id": "A5075118886",
+          "orcid": "https://orcid.org/0000-0002-8132-8600",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Neelam Saleem Punjani",
+          "openalex_id": "A5084883997",
+          "orcid": "https://orcid.org/0000-0001-9615-0430",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Samantha Louie\u2010Poon",
+          "openalex_id": "A5024040054",
+          "orcid": "https://orcid.org/0000-0003-0612-8868",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Komal Abdul Rahim",
+          "openalex_id": "A5044005262",
+          "orcid": "https://orcid.org/0000-0002-0790-6644",
+          "institutions": [
+            "Aga Khan University Hospital"
+          ]
+        },
+        {
+          "name": "Jai K Das",
+          "openalex_id": "A5027627297",
+          "orcid": "https://orcid.org/0000-0002-2966-7162",
+          "institutions": [
+            "Aga Khan University Hospital"
+          ]
+        },
+        {
+          "name": "Rehana A Salam",
+          "openalex_id": "A5063944341",
+          "orcid": "https://orcid.org/0000-0001-5423-7343",
+          "institutions": [
+            "Aga Khan University Hospital"
+          ]
+        },
+        {
+          "name": "Zohra S Lassi",
+          "openalex_id": "A5044131184",
+          "orcid": "https://orcid.org/0000-0002-5350-6334",
+          "institutions": [
+            "University of Adelaide"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-03-26",
+      "abstract": "Background: The COVID\u201119 pandemic and associated public health measures have disrupted the lives of people around the world. It is already evident that the direct and indirect psychological and social effects of the COVID\u201119 pandemic are insidious and affect the mental health of young children and adolescents now and will in the future. The aim and objectives of this knowledge-synthesis study were to identify the impact of the pandemic on children\u2019s and adolescent\u2019s mental health and to evaluate the effectiveness of different interventions employed during previous and the current pandemic to promote children\u2019s and adolescents\u2019 mental health. Methodology: We conducted the systematic review according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and included experimental randomized and nonrandomized controlled trials, observational studies, and qualitative studies. Results: Of the 5828 articles that we retrieved, 18 articles met the inclusion criteria. We thematically analyzed them and put the major findings under the thematic areas of impact of the pandemic on children\u2019s and adolescents\u2019 mental health. These studies reported that pandemics cause stress, worry, helplessness, and social and risky behavioral problems among children and adolescents (e.g., substance abuse, suicide, relationship problems, academic issues, and absenteeism from work). Interventions such as art-based programs, support services, and clinician-led mental health and psychosocial services effectively decrease mental health issues among children and adolescents. Conclusion: Children and adolescents are more likely to experience high rates of depression and anxiety during and after a pandemic. It is critical that future researchers explore effective mental health strategies that are tailored to the needs of children and adolescents. Explorations of effective channels regarding the development and delivery of evidenced-based, age-appropriate services are vital to lessen the effects and improve long-term capacities for mental health services for children and adolescents. Key Practitioner Message: The COVID-19 pandemic\u2019s physical restrictions and social distancing measures have affected each and every domain of life. Although the number of children and adolescents affected by the disease is small, the disease and the containment measures such as social distancing, school closure, and isolation have negatively impacted the mental health and well-being of children and adolescents. The impact of COVID-19 on the mental health of children and adolescents is of great concern. Anxiety, depression, disturbances in sleep and appetite, as well as impairment in social interactions are the most common presentations. It has been indicated that compared to adults, this pandemic may continue to have increased long term adverse consequences on children\u2019s and adolescents\u2019 mental health. As the pandemic continues, it is important to monitor the impact on children\u2019s and adolescents\u2019 mental health status and how to help them to improve their mental health outcomes in the time of the current or future pandemics.",
+      "cited_by_count": 872,
+      "type": "review",
+      "source": {
+        "name": "International Journal of Environmental Research and Public Health",
+        "type": "journal",
+        "issn": [
+          "1660-4601",
+          "1661-7827"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1660-4601/18/7/3432/pdf?version=1617936870"
+      },
+      "topics": [
+        "COVID-19 and Mental Health",
+        "Art Therapy and Mental Health",
+        "Digital Mental Health Interventions"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3134099070"
+    },
+    {
+      "openalex_id": "W4283695295",
+      "doi": "10.1161/cir.0000000000001078",
+      "title": "Life\u2019s Essential 8: Updating and Enhancing the American Heart Association\u2019s Construct of Cardiovascular Health: A Presidential Advisory From the American Heart Association",
+      "authors": [
+        {
+          "name": "Donald M. Lloyd\u2010Jones",
+          "openalex_id": "A5017418373",
+          "orcid": "https://orcid.org/0000-0003-0847-6110"
+        },
+        {
+          "name": "Norrina B. Allen",
+          "openalex_id": "A5028606685",
+          "orcid": "https://orcid.org/0000-0002-6993-4384"
+        },
+        {
+          "name": "Cheryl A.M. Anderson",
+          "openalex_id": "A5045050293",
+          "orcid": "https://orcid.org/0000-0002-1877-6873"
+        },
+        {
+          "name": "Terrie Black",
+          "openalex_id": "A5004158544",
+          "orcid": "https://orcid.org/0000-0001-6144-2134"
+        },
+        {
+          "name": "LaPrincess C. Brewer",
+          "openalex_id": "A5079409781",
+          "orcid": "https://orcid.org/0000-0002-6468-9324"
+        },
+        {
+          "name": "Randi E. Foraker",
+          "openalex_id": "A5034573276",
+          "orcid": "https://orcid.org/0000-0001-9255-9394"
+        },
+        {
+          "name": "Michael A. Grandner",
+          "openalex_id": "A5042035523",
+          "orcid": "https://orcid.org/0000-0002-4626-754X"
+        },
+        {
+          "name": "Helen Lavretsky",
+          "openalex_id": "A5072623872",
+          "orcid": "https://orcid.org/0000-0001-9990-5085"
+        },
+        {
+          "name": "Amanda M. Perak",
+          "openalex_id": "A5037079382",
+          "orcid": "https://orcid.org/0000-0003-1025-0997"
+        },
+        {
+          "name": "Garima Sharma",
+          "openalex_id": "A5100740425",
+          "orcid": "https://orcid.org/0000-0001-7254-2077"
+        },
+        {
+          "name": "Wayne D. Rosamond",
+          "openalex_id": "A5056145805",
+          "orcid": "https://orcid.org/0000-0001-5271-074X"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-29",
+      "abstract": "In 2010, the American Heart Association defined a novel construct of cardiovascular health to promote a paradigm shift from a focus solely on disease treatment to one inclusive of positive health promotion and preservation across the life course in populations and individuals. Extensive subsequent evidence has provided insights into strengths and limitations of the original approach to defining and quantifying cardiovascular health. In response, the American Heart Association convened a writing group to recommend enhancements and updates. The definition and quantification of each of the original metrics (Life\u2019s Simple 7) were evaluated for responsiveness to interindividual variation and intraindividual change. New metrics were considered, and the age spectrum was expanded to include the entire life course. The foundational contexts of social determinants of health and psychological health were addressed as crucial factors in optimizing and preserving cardiovascular health. This presidential advisory introduces an enhanced approach to assessing cardiovascular health: Life\u2019s Essential 8. The components of Life\u2019s Essential 8 include diet (updated), physical activity, nicotine exposure (updated), sleep health (new), body mass index, blood lipids (updated), blood glucose (updated), and blood pressure. Each metric has a new scoring algorithm ranging from 0 to 100 points, allowing generation of a new composite cardiovascular health score (the unweighted average of all components) that also varies from 0 to 100 points. Methods for implementing cardiovascular health assessment and longitudinal monitoring are discussed, as are potential data sources and tools to promote widespread adoption in policy, public health, clinical, institutional, and community settings.",
+      "cited_by_count": 2263,
+      "type": "review",
+      "source": {
+        "name": "Circulation",
+        "type": "journal",
+        "issn": [
+          "0009-7322",
+          "1524-4539"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001078"
+      },
+      "topics": [
+        "Cardiovascular Health and Risk Factors",
+        "Health, Environment, Cognitive Aging",
+        "Cardiac Health and Mental Health"
+      ],
+      "referenced_works_count": 241,
+      "url": "https://openalex.org/W4283695295"
+    },
+    {
+      "openalex_id": "W3118613563",
+      "doi": "10.1371/journal.pone.0245327",
+      "title": "Psychological impacts from COVID-19 among university students: Risk factors across seven states in the United States",
+      "authors": [
+        {
+          "name": "Matthew H.E.M. Browning",
+          "openalex_id": "A5022120162",
+          "orcid": "https://orcid.org/0000-0003-2296-7602",
+          "institutions": [
+            "Clemson University"
+          ]
+        },
+        {
+          "name": "Lincoln R. Larson",
+          "openalex_id": "A5046707662",
+          "orcid": "https://orcid.org/0000-0001-9591-1269",
+          "institutions": [
+            "North Carolina State University"
+          ]
+        },
+        {
+          "name": "Iryna Sharaievska",
+          "openalex_id": "A5069842460",
+          "orcid": "https://orcid.org/0000-0002-4539-3085",
+          "institutions": [
+            "Clemson University"
+          ]
+        },
+        {
+          "name": "Alessandro Rigolon",
+          "openalex_id": "A5070788290",
+          "orcid": "https://orcid.org/0000-0001-5197-6394",
+          "institutions": [
+            "University of Utah",
+            "City University of Seattle"
+          ]
+        },
+        {
+          "name": "Olivia McAnirlin",
+          "openalex_id": "A5004350814",
+          "orcid": "https://orcid.org/0000-0003-1321-078X",
+          "institutions": [
+            "Clemson University"
+          ]
+        },
+        {
+          "name": "Lauren E. Mullenbach",
+          "openalex_id": "A5020349435",
+          "orcid": "https://orcid.org/0000-0002-1258-7983",
+          "institutions": [
+            "North Carolina State University"
+          ]
+        },
+        {
+          "name": "Scott Cloutier",
+          "openalex_id": "A5025802885",
+          "orcid": "https://orcid.org/0000-0002-1889-7843",
+          "institutions": [
+            "Arizona State University"
+          ]
+        },
+        {
+          "name": "Tue Vu",
+          "openalex_id": "A5060567118",
+          "orcid": "https://orcid.org/0000-0002-3022-2291",
+          "institutions": [
+            "Clemson University"
+          ]
+        },
+        {
+          "name": "Jennifer Thomsen",
+          "openalex_id": "A5082997984",
+          "orcid": "https://orcid.org/0000-0003-1383-3100",
+          "institutions": [
+            "University of Montana"
+          ]
+        },
+        {
+          "name": "Nathan Reigner",
+          "openalex_id": "A5088805071",
+          "orcid": "https://orcid.org/0000-0002-6792-8706",
+          "institutions": [
+            "Pennsylvania State University"
+          ]
+        },
+        {
+          "name": "Elizabeth Covelli Metcalf",
+          "openalex_id": "A5087710915",
+          "orcid": "https://orcid.org/0000-0001-6917-8729",
+          "institutions": [
+            "University of Montana"
+          ]
+        },
+        {
+          "name": "Ashley D\u2019Antonio",
+          "openalex_id": "A5004310184",
+          "orcid": "https://orcid.org/0000-0001-7160-4109",
+          "institutions": [
+            "Oregon State University"
+          ]
+        },
+        {
+          "name": "Marco Helbich",
+          "openalex_id": "A5079634925",
+          "orcid": "https://orcid.org/0000-0003-0392-8915",
+          "institutions": [
+            "Utrecht University"
+          ]
+        },
+        {
+          "name": "Gregory N. Bratman",
+          "openalex_id": "A5012582440",
+          "orcid": "https://orcid.org/0000-0001-5982-4686",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Hector A. Olvera\u2010Alvarez",
+          "openalex_id": "A5046407203",
+          "orcid": "https://orcid.org/0000-0002-8333-6567",
+          "institutions": [
+            "Oregon Health & Science University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-07",
+      "abstract": "Background University students are increasingly recognized as a vulnerable population, suffering from higher levels of anxiety, depression, substance abuse, and disordered eating compared to the general population. Therefore, when the nature of their educational experience radically changes\u2014such as sheltering in place during the COVID-19 pandemic\u2014the burden on the mental health of this vulnerable population is amplified. The objectives of this study are to 1) identify the array of psychological impacts COVID-19 has on students, 2) develop profiles to characterize students' anticipated levels of psychological impact during the pandemic, and 3) evaluate potential sociodemographic, lifestyle-related, and awareness of people infected with COVID-19 risk factors that could make students more likely to experience these impacts. Methods Cross-sectional data were collected through web-based questionnaires from seven U.S. universities. Representative and convenience sampling was used to invite students to complete the questionnaires in mid-March to early-May 2020, when most coronavirus-related sheltering in place orders were in effect. We received 2,534 completed responses, of which 61% were from women, 79% from non-Hispanic Whites, and 20% from graduate students. Results Exploratory factor analysis on close-ended responses resulted in two latent constructs, which we used to identify profiles of students with latent profile analysis, including high (45% of sample), moderate (40%), and low (14%) levels of psychological impact. Bivariate associations showed students who were women, were non-Hispanic Asian, in fair/poor health, of below-average relative family income, or who knew someone infected with COVID-19 experienced higher levels of psychological impact. Students who were non-Hispanic White, above-average social class, spent at least two hours outside, or less than eight hours on electronic screens were likely to experience lower levels of psychological impact. Multivariate modeling (mixed-effects logistic regression) showed that being a woman, having fair/poor general health status, being 18 to 24 years old, spending 8 or more hours on screens daily, and knowing someone infected predicted higher levels of psychological impact when risk factors were considered simultaneously. Conclusion Inadequate efforts to recognize and address college students\u2019 mental health challenges, especially during a pandemic, could have long-term consequences on their health and education.",
+      "cited_by_count": 888,
+      "type": "article",
+      "source": {
+        "name": "PLoS ONE",
+        "type": "journal",
+        "issn": [
+          "1932-6203"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0245327&type=printable"
+      },
+      "topics": [
+        "COVID-19 and Mental Health",
+        "Psychological Well-being and Life Satisfaction",
+        "Mental Health Research Topics"
+      ],
+      "referenced_works_count": 129,
+      "url": "https://openalex.org/W3118613563"
+    },
+    {
+      "openalex_id": "W4221079197",
+      "doi": "10.1007/s10639-021-10831-6",
+      "title": "Learning design to support student-AI collaboration: perspectives of leading teachers for AI in education",
+      "authors": [
+        {
+          "name": "Jinhee Kim",
+          "openalex_id": "A5100376592",
+          "orcid": "https://orcid.org/0000-0002-3365-7354",
+          "institutions": [
+            "Seoul National University of Education"
+          ]
+        },
+        {
+          "name": "Hyun-Kyung Lee",
+          "openalex_id": "A5101969971",
+          "institutions": [
+            "Seoul National University of Education"
+          ]
+        },
+        {
+          "name": "Young Hoan Cho",
+          "openalex_id": "A5022937796",
+          "orcid": "https://orcid.org/0000-0002-1775-7953",
+          "institutions": [
+            "Seoul National University of Education"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-28",
+      "abstract": "Abstract Preparing students to collaborate with AI remains a challenging goal. As AI technologies are new to K-12 schools, there is a lack of studies that inform how to design learning when AI is introduced as a collaborative learning agent to classrooms. The present study, therefore, aimed to explore teachers\u2019 perspectives on what (1) curriculum design, (2) student-AI interaction, and (3) learning environments are required to design student-AI collaboration (SAC) in learning and (4) how SAC would evolve. Through in-depth interviews with 10 Korean leading teachers in AI in Education (AIED), the study found that teachers perceived capacity and subject-matter knowledge building as the optimal learning goals for SAC. SAC can be facilitated through interdisciplinary learning, authentic problem solving, and creative tasks in tandem with process-oriented assessment and collaboration performance assessment. While teachers expressed instruction on AI principles, data literacy, error analysis, AI ethics, and AI experiences in daily life were crucial support, AI needs to offer an instructional scaffolding and possess attributes as a learning mate to enhance student-AI interaction. In addition, teachers highlighted systematic AIED policy, flexible school system, the culture of collaborative learning, and a safe to fail environment are significant. Teachers further anticipated students would develop collaboration with AI through three stages: (1) learn about AI, (2) learn from AI, and (3) learn together. These findings can provide a more holistic understanding of the AIED and implications for the educational policies, educational AI design as well as instructional design that are aimed at enhancing SAC in learning.",
+      "cited_by_count": 476,
+      "type": "article",
+      "source": {
+        "name": "Education and Information Technologies",
+        "type": "journal",
+        "issn": [
+          "1360-2357",
+          "1573-7608"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-021-10831-6.pdf"
+      },
+      "topics": [
+        "Teaching and Learning Programming",
+        "Online Learning and Analytics",
+        "Software Engineering Research"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W4221079197"
+    },
+    {
+      "openalex_id": "W4220863497",
+      "doi": "10.1007/s44163-022-00022-8",
+      "title": "Quo vadis artificial intelligence?",
+      "authors": [
+        {
+          "name": "Yuchen Jiang",
+          "openalex_id": "A5068475055",
+          "orcid": "https://orcid.org/0000-0003-3918-7039",
+          "institutions": [
+            "Harbin Institute of Technology"
+          ]
+        },
+        {
+          "name": "Xiang Li",
+          "openalex_id": "A5100430478",
+          "orcid": "https://orcid.org/0000-0003-1657-209X",
+          "institutions": [
+            "Harbin Institute of Technology"
+          ]
+        },
+        {
+          "name": "Hao Luo",
+          "openalex_id": "A5087736924",
+          "orcid": "https://orcid.org/0000-0003-2143-2438",
+          "institutions": [
+            "Harbin Institute of Technology"
+          ]
+        },
+        {
+          "name": "Shen Yin",
+          "openalex_id": "A5069744156",
+          "orcid": "https://orcid.org/0000-0002-3802-9269",
+          "institutions": [
+            "Norwegian University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Okyay Kaynak",
+          "openalex_id": "A5066257732",
+          "orcid": "https://orcid.org/0000-0002-4789-6700",
+          "institutions": [
+            "Bo\u011fazi\u00e7i University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-03-07",
+      "abstract": null,
+      "cited_by_count": 472,
+      "type": "article",
+      "source": {
+        "name": "Discover Artificial Intelligence",
+        "type": "journal",
+        "issn": [
+          "2731-0809"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s44163-022-00022-8.pdf"
+      },
+      "topics": [
+        "Anomaly Detection Techniques and Applications",
+        "Adversarial Robustness in Machine Learning",
+        "COVID-19 diagnosis using AI"
+      ],
+      "referenced_works_count": 136,
+      "url": "https://openalex.org/W4220863497"
+    },
+    {
+      "openalex_id": "W3028960763",
+      "doi": "10.1038/s41580-020-0251-y",
+      "title": "RNA delivery by extracellular vesicles in mammalian cells and its applications",
+      "authors": [
+        {
+          "name": "Killian P. O\u2019Brien",
+          "openalex_id": "A5002860937",
+          "orcid": "https://orcid.org/0000-0002-4340-6858",
+          "institutions": [
+            "Harvard University",
+            "Massachusetts General Hospital"
+          ]
+        },
+        {
+          "name": "Koen Breyne",
+          "openalex_id": "A5054666292",
+          "orcid": "https://orcid.org/0000-0002-0713-2407",
+          "institutions": [
+            "Harvard University",
+            "Massachusetts General Hospital"
+          ]
+        },
+        {
+          "name": "Stefano Ughetto",
+          "openalex_id": "A5091555943",
+          "orcid": "https://orcid.org/0000-0001-6530-8215",
+          "institutions": [
+            "Massachusetts General Hospital",
+            "University of Turin",
+            "Harvard University",
+            "Candiolo Cancer Institute"
+          ]
+        },
+        {
+          "name": "Louise C. Laurent",
+          "openalex_id": "A5058320505",
+          "orcid": "https://orcid.org/0000-0002-2095-7534",
+          "institutions": [
+            "University of California, San Diego"
+          ]
+        },
+        {
+          "name": "Xandra O. Breakefield",
+          "openalex_id": "A5059573074",
+          "orcid": "https://orcid.org/0000-0001-6036-0399",
+          "institutions": [
+            "Harvard University",
+            "Massachusetts General Hospital"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-05-26",
+      "abstract": "The term 'extracellular vesicles' refers to a heterogeneous population of vesicular bodies of cellular origin that derive either from the endosomal compartment (exosomes) or as a result of shedding from the plasma membrane (microvesicles, oncosomes and apoptotic bodies). Extracellular vesicles carry a variety of cargo, including RNAs, proteins, lipids and DNA, which can be taken up by other cells, both in the direct vicinity of the source cell and at distant sites in the body via biofluids, and elicit a variety of phenotypic responses. Owing to their unique biology and roles in cell-cell communication, extracellular vesicles have attracted strong interest, which is further enhanced by their potential clinical utility. Because extracellular vesicles derive their cargo from the contents of the cells that produce them, they are attractive sources of biomarkers for a variety of diseases. Furthermore, studies demonstrating phenotypic effects of specific extracellular vesicle-associated cargo on target cells have stoked interest in extracellular vesicles as therapeutic vehicles. There is particularly strong evidence that the RNA cargo of extracellular vesicles can alter recipient cell gene expression and function. During the past decade, extracellular vesicles and their RNA cargo have become better defined, but many aspects of extracellular vesicle biology remain to be elucidated. These include selective cargo loading resulting in substantial differences between the composition of extracellular vesicles and source cells; heterogeneity in extracellular vesicle size and composition; and undefined mechanisms for the uptake of extracellular vesicles into recipient cells and the fates of their cargo. Further progress in unravelling the basic mechanisms of extracellular vesicle biogenesis, transport, and cargo delivery and function is needed for successful clinical implementation. This Review focuses on the current state of knowledge pertaining to packaging, transport and function of RNAs in extracellular vesicles and outlines the progress made thus far towards their clinical applications.",
+      "cited_by_count": 1712,
+      "type": "review",
+      "source": {
+        "name": "Nature Reviews Molecular Cell Biology",
+        "type": "journal",
+        "issn": [
+          "1471-0072",
+          "1471-0080"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.nature.com/articles/s41580-020-0251-y.pdf"
+      },
+      "topics": [
+        "Extracellular vesicles in disease",
+        "MicroRNA in disease regulation",
+        "Circular RNAs in diseases"
+      ],
+      "referenced_works_count": 303,
+      "url": "https://openalex.org/W3028960763"
+    },
+    {
+      "openalex_id": "W3041886411",
+      "doi": "10.3389/fpsyg.2020.01283",
+      "title": "Beyond Screen Time: A Synergistic Approach to a More Comprehensive Assessment of Family Media Exposure During Early Childhood",
+      "authors": [
+        {
+          "name": "Rachel Barr",
+          "openalex_id": "A5035132730",
+          "orcid": "https://orcid.org/0000-0002-5855-9718",
+          "institutions": [
+            "Georgetown University"
+          ]
+        },
+        {
+          "name": "Heather L. Kirkorian",
+          "openalex_id": "A5053180972",
+          "orcid": "https://orcid.org/0000-0002-7990-7777",
+          "institutions": [
+            "University of Wisconsin\u2013Madison"
+          ]
+        },
+        {
+          "name": "Jenny Radesky",
+          "openalex_id": "A5089622625",
+          "orcid": "https://orcid.org/0000-0002-7721-7350",
+          "institutions": [
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        },
+        {
+          "name": "Sarah M. Coyne",
+          "openalex_id": "A5075927939",
+          "orcid": "https://orcid.org/0000-0002-1403-8726",
+          "institutions": [
+            "Brigham Young University"
+          ]
+        },
+        {
+          "name": "Deborah L. Nichols",
+          "openalex_id": "A5035853405",
+          "orcid": "https://orcid.org/0000-0001-9500-8299",
+          "institutions": [
+            "Purdue University West Lafayette"
+          ]
+        },
+        {
+          "name": "Olivia Blanchfield",
+          "openalex_id": "A5003194064",
+          "orcid": "https://orcid.org/0000-0001-5805-7753",
+          "institutions": [
+            "Georgetown University"
+          ]
+        },
+        {
+          "name": "Sylvia N. Rusnak",
+          "openalex_id": "A5032769730",
+          "institutions": [
+            "Georgetown University"
+          ]
+        },
+        {
+          "name": "Laura Stockdale",
+          "openalex_id": "A5040712461",
+          "orcid": "https://orcid.org/0000-0001-9453-2232",
+          "institutions": [
+            "Brigham Young University"
+          ]
+        },
+        {
+          "name": "Andrew Ribner",
+          "openalex_id": "A5005342497",
+          "orcid": "https://orcid.org/0000-0001-7188-223X",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Joke Durnez",
+          "openalex_id": "A5049606283",
+          "orcid": "https://orcid.org/0000-0001-9030-2202"
+        },
+        {
+          "name": "Mollie Epstein",
+          "openalex_id": "A5085151454"
+        },
+        {
+          "name": "Mikael Heimann",
+          "openalex_id": "A5072496324",
+          "orcid": "https://orcid.org/0000-0001-5025-9975",
+          "institutions": [
+            "Link\u00f6ping University"
+          ]
+        },
+        {
+          "name": "Felix Koch",
+          "openalex_id": "A5048478397",
+          "orcid": "https://orcid.org/0000-0001-8738-979X",
+          "institutions": [
+            "Link\u00f6ping University"
+          ]
+        },
+        {
+          "name": "Annette Sundqvist",
+          "openalex_id": "A5011933138",
+          "orcid": "https://orcid.org/0000-0001-9611-6523",
+          "institutions": [
+            "Link\u00f6ping University"
+          ]
+        },
+        {
+          "name": "Ulrika Birberg Thornberg",
+          "openalex_id": "A5028086091",
+          "orcid": "https://orcid.org/0000-0002-6972-3413",
+          "institutions": [
+            "Link\u00f6ping University"
+          ]
+        },
+        {
+          "name": "Carolin Konrad",
+          "openalex_id": "A5030614884",
+          "orcid": "https://orcid.org/0000-0003-3569-0702",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        },
+        {
+          "name": "Michaela Slussareff",
+          "openalex_id": "A5027542060",
+          "orcid": "https://orcid.org/0000-0002-1385-1889",
+          "institutions": [
+            "Charles University",
+            "University of New York in Prague"
+          ]
+        },
+        {
+          "name": "Adriana G. Bus",
+          "openalex_id": "A5035899416",
+          "orcid": "https://orcid.org/0000-0002-2836-176X",
+          "institutions": [
+            "University of Stavanger"
+          ]
+        },
+        {
+          "name": "Francesca Bellagamba",
+          "openalex_id": "A5049410275",
+          "orcid": "https://orcid.org/0000-0003-0312-2081",
+          "institutions": [
+            "Sapienza University of Rome"
+          ]
+        },
+        {
+          "name": "Caroline Fitzpatrick",
+          "openalex_id": "A5057842778",
+          "orcid": "https://orcid.org/0000-0002-9439-042X",
+          "institutions": [
+            "Sapienza University of Rome",
+            "Universit\u00e9 Sainte-Anne"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-10",
+      "abstract": "Digital media availability has surged over the past decade. Because of a lack of comprehensive measurement tools, this rapid growth in access to digital media is accompanied by a scarcity of research examining the family media context and sociocognitive outcomes. There is also little cross-cultural research in families with young children. Modern media are mobile, interactive, and often short in duration, making them difficult to remember when caregivers respond to surveys about media use. The Comprehensive Assessment of Family Media Exposure (CAFE) Consortium has developed a novel tool to measure household media use through a web-based questionnaire, time-use diary, and passive-sensing app installed on family mobile devices. The goal of developing a comprehensive assessment of family media exposure was to take into account the contextual factors of media use and improve upon the limitations of existing self-report measures, while creating a consistent, scalable, and cost-effective tool. The CAFE tool captures the content and context of early media exposure and addresses the limitations of prior media measurement approaches. Preliminary data collected using this measure have been integrated into a shared visualization platform. In this perspective article, we take a tools-of-the-trade approach (Oakes, 2010) to describe four challenges associated with measuring household media exposure in families with young children: measuring attitudes and practices; capturing content and context; measuring short bursts of mobile device usage; and integrating data to capture the complexity of household media usage. We illustrate how each of these challenges can be addressed with preliminary data collected with the CAFE tool and visualized on our dashboard. We conclude with future directions including plans to test reliability, validity, and generalizability of these measures.",
+      "cited_by_count": 211,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01283/pdf"
+      },
+      "topics": [
+        "Child Development and Digital Technology",
+        "Impact of Technology on Adolescents",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W3041886411"
+    },
+    {
+      "openalex_id": "W2955641483",
+      "doi": "10.1016/j.techfore.2019.06.015",
+      "title": "Combining technology and entrepreneurial education through design thinking: Students' reflections on the learning process",
+      "authors": [
+        {
+          "name": "Matthew Lynch",
+          "openalex_id": "A5088091218",
+          "orcid": "https://orcid.org/0000-0002-3930-6205",
+          "institutions": [
+            "Norwegian University of Science and Technology",
+            "\u00d8stfold University College"
+          ]
+        },
+        {
+          "name": "Uladzimir Kamovich",
+          "openalex_id": "A5080355475",
+          "orcid": "https://orcid.org/0000-0003-1693-7570",
+          "institutions": [
+            "UiT The Arctic University of Norway",
+            "Centre for Arctic Gas Hydrate, Environment and Climate",
+            "\u00d8stfold University College"
+          ]
+        },
+        {
+          "name": "Kjersti Kjos Longva",
+          "openalex_id": "A5027993084",
+          "orcid": "https://orcid.org/0000-0002-2597-7729",
+          "institutions": [
+            "UiT The Arctic University of Norway",
+            "Norwegian University of Science and Technology",
+            "Centre for Arctic Gas Hydrate, Environment and Climate"
+          ]
+        },
+        {
+          "name": "Martin Steinert",
+          "openalex_id": "A5026488324",
+          "orcid": "https://orcid.org/0000-0002-8366-0201",
+          "institutions": [
+            "Norwegian University of Science and Technology"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-05",
+      "abstract": "There has been a growing call to educate scientists and engineers in entrepreneurship. However, how entrepreneurship should be taught to these students is a question that scholars and practitioners are still intrigued with. Design thinking has been put forward as a pedagogy that could be particularly suitable when introducing entrepreneurship to science and engineering students. Empirical evidence to support this claim are scarce. This study therefore seeks to enhance our understanding of this issue through an exploratory case study of students' reflections during and after participation in a course that uses design thinking to teach entrepreneurial skills through a technologically challenging case. The findings indicate that the course constituted a major challenge for the students, but also an opportunity for developing both tangential skills and knowledge about the commercialization of technology. Further, there is evidence of transformational learning as students began to apply design thinking in real-life beyond the context of the course.",
+      "cited_by_count": 212,
+      "type": "article",
+      "source": {
+        "name": "Technological Forecasting and Social Change",
+        "type": "journal",
+        "issn": [
+          "0040-1625",
+          "1873-5509"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.techfore.2019.06.015"
+      },
+      "topics": [
+        "Design Education and Practice",
+        "Biomedical and Engineering Education",
+        "Creativity in Education and Neuroscience"
+      ],
+      "referenced_works_count": 76,
+      "url": "https://openalex.org/W2955641483"
+    },
+    {
+      "openalex_id": "W2808257149",
+      "doi": "10.3389/fpsyg.2018.01124",
+      "title": "Accessing the Inaccessible: Redefining Play as a Spectrum",
+      "authors": [
+        {
+          "name": "Jennifer M. Zosh",
+          "openalex_id": "A5003785096",
+          "orcid": "https://orcid.org/0000-0002-1698-4708",
+          "institutions": [
+            "Pennsylvania State University"
+          ]
+        },
+        {
+          "name": "Kathy Hirsh\u2010Pasek",
+          "openalex_id": "A5028571578",
+          "orcid": "https://orcid.org/0000-0003-2947-4544",
+          "institutions": [
+            "Temple University",
+            "Brookings Institution"
+          ]
+        },
+        {
+          "name": "Emily J. Hopkins",
+          "openalex_id": "A5039211833",
+          "orcid": "https://orcid.org/0000-0002-8427-5647",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Hanne Jensen",
+          "openalex_id": "A5069569405",
+          "orcid": "https://orcid.org/0000-0002-5313-3750",
+          "institutions": [
+            "Lego (Denmark)"
+          ]
+        },
+        {
+          "name": "Claire Liu",
+          "openalex_id": "A5018682132",
+          "orcid": "https://orcid.org/0000-0003-4308-389X",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Dave Neale",
+          "openalex_id": "A5051962431",
+          "orcid": "https://orcid.org/0000-0002-2863-1969",
+          "institutions": [
+            "University of Delaware"
+          ]
+        },
+        {
+          "name": "S. Lynneth Solis",
+          "openalex_id": "A5082686476",
+          "orcid": "https://orcid.org/0000-0002-0995-384X",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "David Whitebread",
+          "openalex_id": "A5012349726",
+          "institutions": [
+            "University of Cambridge",
+            "Homerton University Hospital"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-08-02",
+      "abstract": "Defining play has plagued researchers and philosophers for years. From describing play as an inaccessible concept due to its complexity, to providing checklists of features, the field has struggled with how to conceptualize and operationalize \"play.\" This theoretical piece reviews the literature about both play and learning and suggests that by viewing play as a spectrum - that ranges from free play (no guidance or support) to guided play and games (including purposeful adult support while maintaining playful elements), we better capture the true essence of play and explain its relationship to learning. Insights from the Science of Learning allow us to better understand why play supports learning across social and academic domains. By changing the lens through which we conceptualize play, we account for previous findings in a cohesive way while also proposing new avenues of exploration for the field to study the role of learning through play across age and context.",
+      "cited_by_count": 373,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01124/pdf"
+      },
+      "topics": [
+        "Early Childhood Education and Development",
+        "Innovative Education and Learning Practices",
+        "Child Development and Digital Technology"
+      ],
+      "referenced_works_count": 151,
+      "url": "https://openalex.org/W2808257149"
+    },
+    {
+      "openalex_id": "W2796825309",
+      "doi": "10.1016/j.wocn.2018.03.002",
+      "title": "Analyzing dynamic phonetic data using generalized additive mixed modeling: A tutorial focusing on articulatory differences between L1 and L2 speakers of English",
+      "authors": [
+        {
+          "name": "Martijn Wieling",
+          "openalex_id": "A5075698724",
+          "orcid": "https://orcid.org/0000-0003-0434-1526",
+          "institutions": [
+            "University of Groningen"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-06-21",
+      "abstract": null,
+      "cited_by_count": 336,
+      "type": "article",
+      "source": {
+        "name": "Journal of Phonetics",
+        "type": "journal",
+        "issn": [
+          "0095-4470",
+          "1095-8576"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0095447017301377"
+      },
+      "topics": [
+        "Phonetics and Phonology Research",
+        "Linguistic Variation and Morphology",
+        "Music and Audio Processing"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W2796825309"
+    },
+    {
+      "openalex_id": "W2963821715",
+      "doi": "10.1007/s10734-019-00417-0",
+      "title": "Student-centred digital game\u2013based learning: a conceptual framework and survey of the state of the art",
+      "authors": [
+        {
+          "name": "Thomas E. Coleman",
+          "openalex_id": "A5082267364",
+          "orcid": "https://orcid.org/0000-0002-0960-3460",
+          "institutions": [
+            "Brunel University of London"
+          ]
+        },
+        {
+          "name": "Arthur Money",
+          "openalex_id": "A5034299591",
+          "orcid": "https://orcid.org/0000-0003-1063-3680",
+          "institutions": [
+            "Brunel University of London"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-19",
+      "abstract": "Student-centred learning forms a major driver behind educational policy and practice in the modern day. With a drive towards embracing the possibilities of technology within the classroom, especially digital video games, it is vital to have an understanding of where such games are delivering and where their potential has yet to be explored. With this in mind, it is important to survey the existing literature to establish the level to which the promise of student-centred learning is being delivered through digital video games. This study presents a conceptual framework based upon a systematic literature review of developments in student-centred digital game\u2013based learning, and seeks to establish the extent to which all tenets of student-centred learning and principles of digital game\u2013based learning are embraced within such applications. A thematic analysis identifies the common themes of game and intervention design while integrating and conceptually linking the key concepts of student-centred learning and digital game\u2013based learning. This leads to the development of a conceptual framework allowing classification of the literature according to common themes. Inclusion criteria include the presence of student-centred learning concepts, with a game-based focus including specifically digital video games. Inclusion was limited to papers published since 2007. The literature analysis identifies a number of themes; these were primarily the types of player engagement: single player, mixed and multiplayer, along with principles of game design and the key tenets of student-centred learning. A preponderance of games and interventions utilising single player experiences and focusing on implementing the active learning tenet of student-centred learning were observed. Areas relating to multiplayer engagements and the social aspects of student-centred learning such as mutual respect receive comparatively less attention in games and research. In order to fully embrace the possibilities offered by student-centred digital game\u2013based learning, it is important not to neglect lessons learned in the development of student-centred learning to its current state. Aspects such as peer-based learning and building relationships between students and teachers have been found important in traditional learning and must be investigated and adapted to new media, including games, as new technologies enter the educational mainstream. Further research into the effects of designing games around these multiplayer aspects, and better defining the role of teachers and educational staff in digital game\u2013based learning, may demonstrate ways to develop and create educational experiences that better engage and prepare students.",
+      "cited_by_count": 151,
+      "type": "article",
+      "source": {
+        "name": "Higher Education",
+        "type": "journal",
+        "issn": [
+          "0018-1560",
+          "1573-174X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10734-019-00417-0.pdf"
+      },
+      "topics": [
+        "Educational Games and Gamification",
+        "Innovative Teaching and Learning Methods",
+        "Online and Blended Learning"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W2963821715"
+    },
+    {
+      "openalex_id": "W3041362921",
+      "doi": "10.1007/s10796-020-10044-1",
+      "title": "Security, Privacy and Risks Within Smart Cities: Literature Review and Development of a Smart City Interaction Framework",
+      "authors": [
+        {
+          "name": "Elvira Ismagilova",
+          "openalex_id": "A5033472055",
+          "orcid": "https://orcid.org/0000-0001-9634-194X",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "Laurie Hughes",
+          "openalex_id": "A5072512285",
+          "orcid": "https://orcid.org/0000-0002-0956-0608",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Nripendra P. Rana",
+          "openalex_id": "A5034248834",
+          "orcid": "https://orcid.org/0000-0003-1105-8729",
+          "institutions": [
+            "University of Bradford"
+          ]
+        },
+        {
+          "name": "Yogesh K. Dwivedi",
+          "openalex_id": "A5048622877",
+          "orcid": "https://orcid.org/0000-0002-5547-9990",
+          "institutions": [
+            "Swansea University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-21",
+      "abstract": null,
+      "cited_by_count": 413,
+      "type": "article",
+      "source": {
+        "name": "Information Systems Frontiers",
+        "type": "journal",
+        "issn": [
+          "1387-3326",
+          "1572-9419"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10796-020-10044-1.pdf"
+      },
+      "topics": [
+        "Smart Cities and Technologies",
+        "IoT and Edge/Fog Computing",
+        "Human Mobility and Location-Based Analysis"
+      ],
+      "referenced_works_count": 204,
+      "url": "https://openalex.org/W3041362921"
+    },
+    {
+      "openalex_id": "W4390793092",
+      "doi": "10.1002/wps.21160",
+      "title": "The social determinants of mental health and disorder: evidence, prevention and recommendations",
+      "authors": [
+        {
+          "name": "James B. Kirkbride",
+          "openalex_id": "A5034728745",
+          "orcid": "https://orcid.org/0000-0003-3401-0824",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Deidre M. Anglin",
+          "openalex_id": "A5013666868",
+          "orcid": "https://orcid.org/0000-0002-2717-3206",
+          "institutions": [
+            "City College of New York",
+            "City College",
+            "The Graduate Center, CUNY",
+            "City University of New York"
+          ]
+        },
+        {
+          "name": "Ian Colman",
+          "openalex_id": "A5052113458",
+          "orcid": "https://orcid.org/0000-0001-5924-0277",
+          "institutions": [
+            "University of Ottawa",
+            "Ottawa Public Health"
+          ]
+        },
+        {
+          "name": "Jennifer Dykxhoorn",
+          "openalex_id": "A5003637653",
+          "orcid": "https://orcid.org/0000-0001-6391-8626",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Peter B. Jones",
+          "openalex_id": "A5072392137",
+          "orcid": "https://orcid.org/0000-0002-0387-880X",
+          "institutions": [
+            "University of Cambridge",
+            "Cambridgeshire and Peterborough NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Praveetha Patalay",
+          "openalex_id": "A5054032705",
+          "orcid": "https://orcid.org/0000-0002-5341-3461",
+          "institutions": [
+            "MRC Unit for Lifelong Health and Ageing",
+            "University College London",
+            "Medical Research Council"
+          ]
+        },
+        {
+          "name": "Alexandra Pitman",
+          "openalex_id": "A5028548457",
+          "orcid": "https://orcid.org/0000-0002-9742-1359",
+          "institutions": [
+            "Camden and Islington NHS Foundation Trust",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Emma Soneson",
+          "openalex_id": "A5016796430",
+          "orcid": "https://orcid.org/0000-0003-1666-3012",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Thomas Steare",
+          "openalex_id": "A5011586713",
+          "orcid": "https://orcid.org/0000-0002-3881-2018",
+          "institutions": [
+            "MRC Unit for Lifelong Health and Ageing",
+            "University College London",
+            "Medical Research Council"
+          ]
+        },
+        {
+          "name": "Talen Wright",
+          "openalex_id": "A5012263969",
+          "orcid": "https://orcid.org/0000-0002-4155-0821",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Si\u00e2n Lowri Griffiths",
+          "openalex_id": "A5089781792",
+          "orcid": "https://orcid.org/0000-0003-0031-7174",
+          "institutions": [
+            "Birmingham and Solihull Mental Health NHS Foundation Trust",
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-12",
+      "abstract": "People exposed to more unfavourable social circumstances are more vulnerable to poor mental health over their life course, in ways that are often determined by structural factors which generate and perpetuate intergenerational cycles of disadvantage and poor health. Addressing these challenges is an imperative matter of social justice. In this paper we provide a roadmap to address the social determinants that cause mental ill health. Relying as far as possible on high\u2010quality evidence, we first map out the literature that supports a causal link between social determinants and later mental health outcomes. Given the breadth of this topic, we focus on the most pervasive social determinants across the life course, and those that are common across major mental disorders. We draw primarily on the available evidence from the Global North, acknowledging that other global contexts will face both similar and unique sets of social determinants that will require equitable attention. Much of our evidence focuses on mental health in groups who are marginalized, and thus often exposed to a multitude of intersecting social risk factors. These groups include refugees, asylum seekers and displaced persons, as well as ethnoracial minoritized groups; lesbian, gay, bisexual, transgender and queer (LGBTQ+) groups; and those living in poverty. We then introduce a preventive framework for conceptualizing the link between social determinants and mental health and disorder, which can guide much needed primary prevention strategies capable of reducing inequalities and improving population mental health. Following this, we provide a review of the evidence concerning candidate preventive strategies to intervene on social determinants of mental health. These interventions fall broadly within the scope of universal, selected and indicated primary prevention strategies, but we also briefly review important secondary and tertiary strategies to promote recovery in those with existing mental disorders. Finally, we provide seven key recommendations, framed around social justice, which constitute a roadmap for action in research, policy and public health. Adoption of these recommendations would provide an opportunity to advance efforts to intervene on modifiable social determinants that affect population mental health.",
+      "cited_by_count": 786,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.21160"
+      },
+      "topics": [
+        "Health disparities and outcomes",
+        "Employment and Welfare Studies",
+        "Mental Health Treatment and Access"
+      ],
+      "referenced_works_count": 460,
+      "url": "https://openalex.org/W4390793092"
+    },
+    {
+      "openalex_id": "W3011154432",
+      "doi": "10.2196/16317",
+      "title": "Engaging Children and Young People in Digital Mental Health Interventions: Systematic Review of Modes of Delivery, Facilitators, and Barriers",
+      "authors": [
+        {
+          "name": "Shaun Liverpool",
+          "openalex_id": "A5040410483",
+          "orcid": "https://orcid.org/0000-0001-6419-8552",
+          "institutions": [
+            "University College London",
+            "Anna Freud Centre"
+          ]
+        },
+        {
+          "name": "Catarina Pinheiro Mota",
+          "openalex_id": "A5059105987",
+          "orcid": "https://orcid.org/0000-0003-1814-7425",
+          "institutions": [
+            "University of Tr\u00e1s-os-Montes and Alto Douro",
+            "Universidade do Porto"
+          ]
+        },
+        {
+          "name": "C\u00e9lia M. D. Sales",
+          "openalex_id": "A5022434665",
+          "orcid": "https://orcid.org/0000-0002-2586-8469",
+          "institutions": [
+            "Universidade do Porto"
+          ]
+        },
+        {
+          "name": "Anja \u010cu\u0161",
+          "openalex_id": "A5046926751",
+          "orcid": "https://orcid.org/0000-0002-5803-7151",
+          "institutions": [
+            "Medical University of Vienna"
+          ]
+        },
+        {
+          "name": "Sara Carletto",
+          "openalex_id": "A5053414311",
+          "orcid": "https://orcid.org/0000-0002-4951-7479",
+          "institutions": [
+            "University of Turin"
+          ]
+        },
+        {
+          "name": "Camellia Hancheva",
+          "openalex_id": "A5039282544",
+          "orcid": "https://orcid.org/0000-0003-0121-1750",
+          "institutions": [
+            "Sofia University \"St. Kliment Ohridski\""
+          ]
+        },
+        {
+          "name": "S\u00f3nia Sousa",
+          "openalex_id": "A5015803025",
+          "orcid": "https://orcid.org/0000-0002-5865-1389",
+          "institutions": [
+            "Tallinn University"
+          ]
+        },
+        {
+          "name": "Sonia Conejo\u2010Cer\u00f3n",
+          "openalex_id": "A5083414868",
+          "orcid": "https://orcid.org/0000-0002-1357-2281"
+        },
+        {
+          "name": "Patr\u00edcia Moreno-Peral",
+          "openalex_id": "A5050426559",
+          "orcid": "https://orcid.org/0000-0003-4130-9090"
+        },
+        {
+          "name": "Giada Pietrabissa",
+          "openalex_id": "A5065288501",
+          "orcid": "https://orcid.org/0000-0002-5911-5748",
+          "institutions": [
+            "University of Milan",
+            "Istituti di Ricovero e Cura a Carattere Scientifico",
+            "IRCCS Istituto Auxologico Italiano"
+          ]
+        },
+        {
+          "name": "Bettina Moltrecht",
+          "openalex_id": "A5004665500",
+          "orcid": "https://orcid.org/0000-0002-1838-428X",
+          "institutions": [
+            "University College London",
+            "Anna Freud Centre"
+          ]
+        },
+        {
+          "name": "Randi Ulberg",
+          "openalex_id": "A5046251373",
+          "orcid": "https://orcid.org/0000-0001-8872-8706",
+          "institutions": [
+            "University of Oslo"
+          ]
+        },
+        {
+          "name": "Nuno Ferreira",
+          "openalex_id": "A5047599624",
+          "orcid": "https://orcid.org/0000-0002-5787-904X",
+          "institutions": [
+            "University of Nicosia"
+          ]
+        },
+        {
+          "name": "Julian Edbrooke\u2010Childs",
+          "openalex_id": "A5000193621",
+          "orcid": "https://orcid.org/0000-0003-0401-4058",
+          "institutions": [
+            "University College London",
+            "Anna Freud Centre"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-12",
+      "abstract": "Background There is a high prevalence of children and young people (CYP) experiencing mental health (MH) problems. Owing to accessibility, affordability, and scalability, an increasing number of digital health interventions (DHIs) have been developed and incorporated into MH treatment. Studies have shown the potential of DHIs to improve MH outcomes. However, the modes of delivery used to engage CYP in digital MH interventions may differ, with implications for the extent to which findings pertain to the level of engagement with the DHI. Knowledge of the various modalities could aid in the development of interventions that are acceptable and feasible. Objective This review aimed to (1) identify modes of delivery used in CYP digital MH interventions, (2) explore influencing factors to usage and implementation, and (3) investigate ways in which the interventions have been evaluated and whether CYP engage in DHIs. Methods A literature search was performed in the Cochrane Library, Excerpta Medica dataBASE (EMBASE), Medical Literature Analysis and Retrieval System Online (MEDLINE), and PsycINFO databases using 3 key concepts \u201cchild and adolescent mental health,\u201d \u201cdigital intervention,\u201d and \u201cengagement.\u201d Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines were followed using rigorous inclusion criteria and screening by at least two reviewers. The selected articles were assessed for quality using the mixed methods appraisal tool, and data were extracted to address the review aims. Data aggregation and synthesis were conducted and presented as descriptive numerical summaries and a narrative synthesis, respectively. Results This study identified 6 modes of delivery from 83 articles and 71 interventions for engaging CYP: (1) websites, (2) games and computer-assisted programs, (3) apps, (4) robots and digital devices, (5) virtual reality, and (6) mobile text messaging. Overall, 2 themes emerged highlighting intervention-specific and person-specific barriers and facilitators to CYP\u2019s engagement. These themes encompassed factors such as suitability, usability, and acceptability of the DHIs and motivation, capability, and opportunity for the CYP using DHIs. The literature highlighted that CYP prefer DHIs with features such as videos, limited text, ability to personalize, ability to connect with others, and options to receive text message reminders. The findings of this review suggest a high average retention rate of 79% in studies involving various DHIs. Conclusions The development of DHIs is increasing and may be of interest to CYP, particularly in the area of MH treatment. With continuous technological advancements, it is important to know which modalities may increase engagement and help CYP who are facing MH problems. This review identified the existing modalities and highlighted the influencing factors from the perspective of CYP. This knowledge provides information that can be used to design and evaluate new interventions and offers important theoretical insights into how and why CYP engage in DHIs.",
+      "cited_by_count": 393,
+      "type": "review",
+      "source": {
+        "name": "Journal of Medical Internet Research",
+        "type": "journal",
+        "issn": [
+          "1438-8871",
+          "1439-4456"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.2196/16317"
+      },
+      "topics": [
+        "Digital Mental Health Interventions",
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W3011154432"
+    },
+    {
+      "openalex_id": "W2914641321",
+      "doi": "10.31681/jetol.516971",
+      "title": "Higher Education in The Digital Age: The Impact of Digital Connective Technologies",
+      "authors": [
+        {
+          "name": "Abdullah Sayk\u0131l\u0131",
+          "openalex_id": "A5086887140",
+          "orcid": "https://orcid.org/0000-0001-7754-6755",
+          "institutions": [
+            "Usak University",
+            "Anadolu University",
+            "Eski\u015fehir City Hospital"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-31",
+      "abstract": "The dominant roles that digital connective technologies have in the 21st century are causing profound changes in all domains of life, which signal that we have reached a new age: the digital age. Education is one of the fundamental domains of life re-engineered to adopt to the changing landscape of what it means to function in this new age. The school paradigm which rests on the conditions and requirements of the industrial age appears to fall short in terms of meeting the needs and demands of the 21st century learner. The emerging digital connective technologies and the educational innovations they triggered such as open educational resources (OER), massive online open courses (MOOCs) and learning analytics are disrupting the learning processes and structures of the industrial age such that it is now an imperative to develop a new educational paradigm. These new innovations enable learners to extend learning outside the boundaries of traditional learning institutions through informal and enriched learning experiences using online communities on new platforms such as social media and other social platforms. The digital innovations aforementioned also free the learners from the shackles of time so that learners can, not only access but also create knowledge through social interaction and collaboration. The age we live in is ripe for unprecedented fundamental changes and opportunities for higher education (HE). Therefore, policymakers involved in education need to re-think the implications of digital connective technologies, the challenges and opportunities they bring to the educational scene while developing value-added policies regarding HE. This paper addresses the learner, instructor, learning environments and the administration dimensions of HE and how the digital connective technologies are impacting on these dimensions in the digital age. The paper also offers, as a conclusion, a road map for HE to better function in this age.",
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Journal of Educational Technology and Online Learning",
+        "type": "journal",
+        "issn": [
+          "2618-6586"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://dergipark.org.tr/en/download/article-file/638631"
+      },
+      "topics": [
+        "Online and Blended Learning",
+        "Online Learning and Analytics",
+        "Higher Education Governance and Development"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W2914641321"
+    },
+    {
+      "openalex_id": "W2901843047",
+      "doi": "10.1145/3234149",
+      "title": "Engagement in HCI",
+      "authors": [
+        {
+          "name": "Kevin Doherty",
+          "openalex_id": "A5059134273",
+          "orcid": "https://orcid.org/0000-0002-7647-5139",
+          "institutions": [
+            "Trinity College Dublin"
+          ]
+        },
+        {
+          "name": "Gavin Doherty",
+          "openalex_id": "A5072415254",
+          "orcid": "https://orcid.org/0000-0002-9617-7008",
+          "institutions": [
+            "Trinity College Dublin"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-11-19",
+      "abstract": "Engaging users is a priority for designers of products and services of every kind. The need to understand users\u2019 experiences has motivated a focus on user engagement across computer science. However, to date, there has been limited review of how Human--Computer Interaction and computer science research interprets and employs the concept. Questions persist concerning its conception, abstraction, and measurement. This article presents a systematic review of engagement spanning a corpus of 351 articles and 102 definitions. We map the current state of engagement research, including the diverse interpretation, theory, and measurement of the concept. We describe the ecology of engagement and strategies for the design of engaging experiences, discuss the value of the concept and its relationship to other terms, and present a set of guidelines and opportunities for future research.",
+      "cited_by_count": 242,
+      "type": "review",
+      "source": {
+        "name": "ACM Computing Surveys",
+        "type": "journal",
+        "issn": [
+          "0360-0300",
+          "1557-7341"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3234149"
+      },
+      "topics": [
+        "Innovative Human-Technology Interaction",
+        "Digital Games and Media",
+        "Persona Design and Applications"
+      ],
+      "referenced_works_count": 240,
+      "url": "https://openalex.org/W2901843047"
+    },
+    {
+      "openalex_id": "W3133013268",
+      "doi": "10.3389/fpsyg.2021.611155",
+      "title": "A Review of Evidence on the Role of Digital Technology in Shaping Attention and Cognitive Control in Children",
+      "authors": [
+        {
+          "name": "Maria Vedechkina",
+          "openalex_id": "A5041559927",
+          "orcid": "https://orcid.org/0000-0002-4336-5195",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Francesca Borgonovi",
+          "openalex_id": "A5043554042",
+          "orcid": "https://orcid.org/0000-0002-6759-4515",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-02-24",
+      "abstract": "The role of digital technology in shaping attention and cognitive development has been at the centre of public discourse for decades. The current review presents findings from three main bodies of literature on the implications of technology use for attention and cognitive control: television, video games, and digital multitasking. The aim is to identify key lessons from prior research that are relevant for the current generation of digital users. In particular, the lack of scientific consensus on whether digital technologies are good or bad for children reflects that effects depend on users\u2019 characteristics, the form digital technologies take, the circumstances in which use occurs and the interaction between the three factors. Some features of digital media may be particularly problematic, but only for certain users and only in certain contexts. Similarly, individual differences mediate how, when and why individuals use technology, as well as how much benefit or harm can be derived from its use. The finding emerging from the review on the large degree of heterogeneity in associations is especially relevant due to the rapid development and diffusion of a large number of different digital technologies and contents, and the increasing variety of user experiences. We discuss the importance of leveraging existing knowledge and integrating past research findings into a broader organizing framework in order to guide emerging technology-based research and practice. We end with a discussion of some of the challenges and unaddressed issues in the literature and propose directions for future research.",
+      "cited_by_count": 146,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.611155/pdf"
+      },
+      "topics": [
+        "Child Development and Digital Technology",
+        "Impact of Technology on Adolescents",
+        "Technology Use by Older Adults"
+      ],
+      "referenced_works_count": 258,
+      "url": "https://openalex.org/W3133013268"
+    },
+    {
+      "openalex_id": "W3136762272",
+      "doi": "10.1111/jcv2.12009",
+      "title": "How did the mental health symptoms of children and adolescents change over early lockdown during the COVID\u201019 pandemic in the UK?",
+      "authors": [
+        {
+          "name": "Polly Waite",
+          "openalex_id": "A5075606940",
+          "orcid": "https://orcid.org/0000-0002-1967-8028",
+          "institutions": [
+            "University of Oxford",
+            "University of Reading"
+          ]
+        },
+        {
+          "name": "Samantha Pearcey",
+          "openalex_id": "A5030455988",
+          "orcid": "https://orcid.org/0000-0003-2571-5750",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Adrienne Shum",
+          "openalex_id": "A5011317359",
+          "orcid": "https://orcid.org/0000-0003-2728-1490",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Jasmine Raw",
+          "openalex_id": "A5068026523",
+          "orcid": "https://orcid.org/0000-0002-2739-6215",
+          "institutions": [
+            "University of Reading",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Praveetha Patalay",
+          "openalex_id": "A5054032705",
+          "orcid": "https://orcid.org/0000-0002-5341-3461",
+          "institutions": [
+            "University College London",
+            "MRC Unit for Lifelong Health and Ageing"
+          ]
+        },
+        {
+          "name": "Cathy Creswell",
+          "openalex_id": "A5030885392",
+          "orcid": "https://orcid.org/0000-0003-1889-0956",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-01",
+      "abstract": "Abstract Background The COVID\u201019 pandemic has caused extensive disruption to the lives of children and young people. Understanding the psychological effects on children and young people, in the context of known risk factors is crucial to mitigate the effects of the pandemic. This study set out to explore how mental health symptoms in children and adolescents changed over a month of full lockdown in the United Kingdom in response to the pandemic. Methods UK\u2010based parents and carers ( n = 2673) of school\u2010aged children and young people aged between 4 and 16 years completed an online survey about their child's mental health at two time points between March and May 2020, during early lockdown. The survey examined changes in emotional symptoms, conduct problems and hyperactivity/inattention. Results The findings highlighted particular deteriorations in mental health symptoms among preadolescent children, which translated to a 10% increase in those meeting possible/probable caseness criteria for emotional symptoms, a 20% increase in hyperactivity/inattention, and a 35% increase in conduct problems. In contrast, changes among adolescents were smaller (4% and 8% increase for hyperactivity/inattention and conduct problems, respectively) with a small reduction in emotional symptoms (reflecting a 3% reduction in caseness). Overall, there were few differences in change in symptoms or caseness over time according to demographic characteristics, but children and young people in low income households and those with special educational needs and/or neurodevelopmental disorders exhibited elevated symptoms (and caseness) at both time points. Conclusions The findings highlight important areas of concern in terms of the potential impact of the first national lockdown on children and young people's adjustment. Developing an understanding of who has been most severely affected by the pandemic, and in what ways, is crucial in order to target effective support where it is most needed.",
+      "cited_by_count": 167,
+      "type": "article",
+      "source": {
+        "name": "JCPP Advances",
+        "type": "journal",
+        "issn": [
+          "2692-9384"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcv2.12009"
+      },
+      "topics": [
+        "COVID-19 and Mental Health",
+        "Child and Adolescent Psychosocial and Emotional Development",
+        "Maternal Mental Health During Pregnancy and Postpartum"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W3136762272"
+    },
+    {
+      "openalex_id": "W3094039342",
+      "doi": "10.3389/fpsyg.2020.570392",
+      "title": "Screen Time and Executive Function in Toddlerhood: A Longitudinal Study",
+      "authors": [
+        {
+          "name": "Gabrielle McHarg",
+          "openalex_id": "A5069886861",
+          "orcid": "https://orcid.org/0000-0002-2239-7294",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Andrew Ribner",
+          "openalex_id": "A5005342497",
+          "orcid": "https://orcid.org/0000-0001-7188-223X",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Rory T. Devine",
+          "openalex_id": "A5053613812",
+          "orcid": "https://orcid.org/0000-0002-3710-7878",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        },
+        {
+          "name": "Claire Hughes",
+          "openalex_id": "A5060017065",
+          "orcid": "https://orcid.org/0000-0003-2545-3025",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-22",
+      "abstract": "Technology is pervasive in homes with young children. Emerging evidence that electronic screen-based media use has adverse effects on executive functions may help explain negative relations between media use and early academic skills. However, longitudinal investigations are needed to test this idea. In a sample of 193 British toddlers tracked from age 2 to 3 years, we test concurrent and predictive relations between screen use and children's executive function. We find no concurrent association between screen use and executive function; however, screen time at age 2 is negatively associated with the development of executive functions in toddlerhood from age 2 to 3, controlling for a range of covariates including verbal ability. Implications for parenting, education, and pediatric recommendations are discussed.",
+      "cited_by_count": 84,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570392/pdf"
+      },
+      "topics": [
+        "Child Development and Digital Technology",
+        "Impact of Technology on Adolescents",
+        "Gender and Technology in Education"
+      ],
+      "referenced_works_count": 54,
+      "url": "https://openalex.org/W3094039342"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

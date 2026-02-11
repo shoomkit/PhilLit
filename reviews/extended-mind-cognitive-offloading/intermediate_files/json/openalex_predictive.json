@@ -1,0 +1,1867 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "predictive processing Hohwy",
+  "results": [
+    {
+      "openalex_id": "W2883521720",
+      "doi": "10.26913/50302014.0112.0008",
+      "title": "Reflections on predictive processing and the mind. Interview with Jakob Hohwy",
+      "authors": [
+        {
+          "name": "Jakob Hohwy",
+          "openalex_id": "A5083789193",
+          "orcid": "https://orcid.org/0000-0003-3906-3060"
+        },
+        {
+          "name": "Przemys\u0142aw Nowakowski",
+          "openalex_id": "A5060607184",
+          "orcid": "https://orcid.org/0000-0002-2714-9222"
+        },
+        {
+          "name": "Pawe\u0142 G\u0142adziejewski",
+          "openalex_id": "A5021835319",
+          "orcid": "https://orcid.org/0000-0001-5639-0923"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Avant",
+        "type": "journal",
+        "issn": [
+          "2082-6710",
+          "2082-7598"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.26913/50302014.0112.0008"
+      },
+      "topics": [
+        "Psychiatry, Mental Health, Neuroscience",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2883521720"
+    },
+    {
+      "openalex_id": "W2153791616",
+      "doi": "10.1017/s0140525x12000477",
+      "title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-05-10",
+      "abstract": "Abstract Brains, it has recently been argued, are essentially prediction machines. They are bundles of cells that support perception and action by constantly attempting to match incoming sensory inputs with top-down expectations or predictions. This is achieved using a hierarchical generative model that aims to minimize prediction error within a bidirectional cascade of cortical processing. Such accounts offer a unifying model of perception and action, illuminate the functional role of attention, and may neatly capture the special contribution of cortical processing to adaptive success. This target article critically examines this \u201chierarchical prediction machine\u201d approach, concluding that it offers the best clue yet to the shape of a unified science of mind and action. Sections 1 and 2 lay out the key elements and implications of the approach. Section 3 explores a variety of pitfalls and challenges, spanning the evidential, the methodological, and the more properly conceptual. The paper ends (sections 4 and 5) by asking how such approaches might impact our more general vision of mind, experience, and agency.",
+      "cited_by_count": 5597,
+      "type": "review",
+      "source": {
+        "name": "Behavioral and Brain Sciences",
+        "type": "journal",
+        "issn": [
+          "0140-525X",
+          "1469-1825"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/33542C736E17E3D1D44E8D03BE5F4CD9/S0140525X12000477a.pdf/div-class-title-whatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-science-div.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 394,
+      "url": "https://openalex.org/W2153791616"
+    },
+    {
+      "openalex_id": "W2576342949",
+      "doi": "10.1080/09515089.2016.1272674",
+      "title": "Transcending the evidentiary boundary: Prediction error minimization, embodied interaction, and explanatory pluralism",
+      "authors": [
+        {
+          "name": "Regina E. Fabry",
+          "openalex_id": "A5009657680",
+          "orcid": "https://orcid.org/0000-0003-1078-1499",
+          "institutions": [
+            "University of Giessen"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-12",
+      "abstract": "In a recent paper, Jakob Hohwy argues that the emerging predictive processing (PP) perspective on cognition requires us to explain cognitive functioning in purely internalistic and neurocentric terms. The purpose of the present paper is to challenge the view that PP entails a wholesale rejection of positions that are interested in the embodied, embedded, extended, or enactive dimensions of cognitive processes. I will argue that Hohwy's argument from analogy, which forces an evidentiary boundary into the picture, lacks the argumentative resources to make a convincing case for the conceptual necessity to interpret PP in solely internalistic terms. For this reason, I will reconsider the postulation and explanatory role of the evidentiary boundary. I will arrive at an account of prediction error minimization and its foundation on the free energy principle that is fully consistent with approaches to cognition that emphasize the embodied and interactive properties of cognitive processes. This gives rise to the suggestion that explanatory pluralism about the application of PP is to be preferred over Hohwy's explanatory monism that follows from his internalistic and neurocentric view of predictive cognitive systems.",
+      "cited_by_count": 36,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W2576342949"
+    },
+    {
+      "openalex_id": "W2951753437",
+      "doi": "10.1016/j.concog.2019.102763",
+      "title": "Integrating the global neuronal workspace into the framework of predictive processing: Towards a working hypothesis",
+      "authors": [
+        {
+          "name": "Christopher J. Whyte",
+          "openalex_id": "A5040892490",
+          "orcid": "https://orcid.org/0000-0002-4627-0503",
+          "institutions": [
+            "University of Sydney"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-06-19",
+      "abstract": null,
+      "cited_by_count": 35,
+      "type": "review",
+      "source": {
+        "name": "Consciousness and Cognition",
+        "type": "journal",
+        "issn": [
+          "1053-8100",
+          "1090-2376"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Neural and Behavioral Psychology Studies",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "referenced_works_count": 81,
+      "url": "https://openalex.org/W2951753437"
+    },
+    {
+      "openalex_id": "W3215794930",
+      "doi": "10.1007/s13164-021-00588-9",
+      "title": "Predictive Processing and Some Disillusions about Illusions",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Wollongong",
+            "University of Memphis"
+          ]
+        },
+        {
+          "name": "Daniel D. Hutto",
+          "openalex_id": "A5084720966",
+          "orcid": "https://orcid.org/0000-0002-3585-4618",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "In\u00eas Hip\u00f3lito",
+          "openalex_id": "A5055434592",
+          "orcid": "https://orcid.org/0000-0001-6351-9975",
+          "institutions": [
+            "University of Wollongong",
+            "Humboldt-Universit\u00e4t zu Berlin"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-24",
+      "abstract": "Abstract A number of perceptual (exteroceptive and proprioceptive) illusions present problems for predictive processing accounts. In this chapter we\u2019ll review explanations of the M\u00fcller-Lyer Illusion (MLI), the Rubber Hand Illusion (RHI) and the Alien Hand Illusion (AHI) based on the idea of Prediction Error Minimization (PEM), and show why they fail. In spite of the relatively open communicative processes which, on many accounts, are posited between hierarchical levels of the cognitive system in order to facilitate the minimization of prediction errors, perceptual illusions seemingly allow prediction errors to rule. Even if, at the top, we have reliable and secure knowledge that the lines in the MLI are equal, or that the rubber hand in the RHI is not our hand, the system seems unable to correct for sensory errors that form the illusion. We argue that the standard PEM explanation based on a short-circuiting principle doesn\u2019t work. This is the idea that where there are general statistical regularities in the environment there is a kind of short circuiting such that relevant priors are relegated to lower-level processing so that information from higher levels is not exchanged (Ogilvie and Carruthers, Review of Philosophy and Psychology 7:721\u2013742, 2016), or is not as precise as it should be (Hohwy, The Predictive Mind, Oxford University Press, Oxford, 2013). Such solutions (without convincing explanation) violate the idea of open communication and/or they over-discount the reliable and secure knowledge that is in the system. We propose an alternative, 4E (embodied, embedded, extended, enactive) solution. We argue that PEM fails to take into account the \u2018structural resistance\u2019 introduced by material and cultural factors in the broader cognitive system.",
+      "cited_by_count": 27,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-021-00588-9.pdf"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition",
+        "Visual perception and processing mechanisms"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W3215794930"
+    },
+    {
+      "openalex_id": "W3192813290",
+      "doi": "10.1007/s13164-021-00579-w",
+      "title": "Active Inference as a Computational Framework for Consciousness",
+      "authors": [
+        {
+          "name": "Martina G. Vilas",
+          "openalex_id": "A5054185529",
+          "orcid": "https://orcid.org/0000-0002-1097-8534",
+          "institutions": [
+            "Max Planck Institute for Empirical Aesthetics"
+          ]
+        },
+        {
+          "name": "Ryszard Auksztulewicz",
+          "openalex_id": "A5026508978",
+          "orcid": "https://orcid.org/0000-0001-9078-3667",
+          "institutions": [
+            "Max Planck Institute for Empirical Aesthetics"
+          ]
+        },
+        {
+          "name": "Luc\u00eda Melloni",
+          "openalex_id": "A5019045358",
+          "orcid": "https://orcid.org/0000-0001-8743-5071",
+          "institutions": [
+            "New York University",
+            "Max Planck Institute for Empirical Aesthetics"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-10",
+      "abstract": null,
+      "cited_by_count": 30,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-021-00579-w.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W3192813290"
+    },
+    {
+      "openalex_id": "W2605670937",
+      "doi": "10.15502/9783958573147",
+      "title": "Predictive Processing and Cognitive Development",
+      "authors": [
+        {
+          "name": "Regina E. Fabry",
+          "openalex_id": "A5009657680",
+          "orcid": "https://orcid.org/0000-0003-1078-1499",
+          "institutions": [
+            "University of Giessen"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "The ability to acquire new cognitive capacities is the hallmark of the human mind. Emerging predictive processing (PP) accounts promise to offer a unified, mechanistic perspective on the neuro-functional realization of this complex process. The acquisition of any given cognitive capacity can be depicted as a specific stage of the continuous prediction error minimization process. This stage is characterized by distinct functional profiles, unique patterns of neuronal activation in crucial brain areas, and the refinement and flexible adaptation of motor programs to new processing challenges. In this paper, I will suggest that PP is a good conceptual partner for accounts of enculturation. Enculturation is the idea that socio-culturally shaped cognitive processes emerge from an individual\u2019s scaffolded, embodied interaction with its cognitive niche. This structured engagement with specific, socio-culturally developed patterns in the niche transforms the overall cognitive capacities of an individual (Menary 2013; Menary 2015). The process of enculturation is associated with significant changes in the functional and structural properties of the brain. Furthermore, it alters and refines the functional profiles of bodily actions and motor programs. I will argue that PP offers important conceptual tools and theoretical considerations that complement these basic principles of enculturation in a new and original way. The resulting account of the enculturated predictive acquisition of cognitive capacities (EPACC) has the conceptual resources to consider specific cases of cognitive development at multiple levels of explanation. This new perspective on EPACC is a timely contribution to the debate about the philosophical implications of PP. On the one hand, Jakob Hohwy (Hohwy 2013) argues that PP implies an internalistic and neurocentric view of cognition. On his account, the embodiedness of cognitive systems and their flexible interaction with the local environment do not seem to play an important role in accounts of cognitive processes. On the other hand, Andy Clark (Clark 2016) defends the idea that PP is compatible with philosophical positions that emphasize the embodied, embedded, extended, or enacted (4E) dimensions of cognition. In this paper, I will discuss both interpretations of PP and assess their relationship to EPACC. I will challenge the internalistic account of PP on conceptual grounds. At the same time, I will argue that EPACC offers a concrete proposal for the complementarity of PP and enculturation. The overall argument is that the acquisition of new, socio-culturally shaped cognitive capacities is a matter of enculturation. The underlying neuronal and bodily transformation routines can be described in terms of PP. However, if we aim for a full-fledged account of the complexity and fragility of cognitive development, we also need an account of the fine-grained interactions of novices with their structured environment.",
+      "cited_by_count": 27,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.15502/9783958573147"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W2605670937"
+    },
+    {
+      "openalex_id": "W2604677307",
+      "doi": "10.15502/9783958573079",
+      "title": "Sleep and Dreaming in the Predictive Processing Framework",
+      "authors": [
+        {
+          "name": "Alessio Bucci",
+          "openalex_id": "A5022790049",
+          "orcid": "https://orcid.org/0000-0002-8594-5972"
+        },
+        {
+          "name": "Matteo Grasso",
+          "openalex_id": "A5016309710",
+          "orcid": "https://orcid.org/0000-0002-2124-7147"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Sleep and dreaming are important daily phenomena that are receiving growing attention from both the scientific and the philosophical field. The increasingly popular predictive brain framework within cognitive science aims to give a full account of all aspects of cognition. The aim of this paper is to critically assess the theoretical advantages of Predictive Processing (PP, as proposed by Clark 2013, Clark 2016; and Hohwy 2013) in defining sleep and dreaming. After a brief introduction, we overview the state of the art at the intersection between dream research and PP (with particular reference to Hobson and Friston 2012; Hobson et al. 2014). In the following sections we focus on two theoretically promising aspects of the research program. First, we consider the explanations of phenomenal consciousness during sleep (i.e. dreaming) and how it arises from the neural work of the brain. PP provides a good picture of the peculiarity of dreaming but it can\u2019t fully address the problem of how consciousness comes to be in the first place. We propose that Integrated Information Theory (IIT) (Oizumi et al. 2014; Tononi et al. 2016) is a good candidate for this role and we will show its advantages and points of contact with PP. After introducing IIT, we deal with the evolutionary function of sleeping and dreaming. We illustrate that PP fits with contemporary researches on the important adaptive function of sleep and we discuss why IIT can account for sleep mentation (i.e. dreaming) in evolutionary terms (Albantakis et al. 2014). In the final section, we discuss two future avenues for dream research that can fruitfully adopt the perspective offered by PP: (a) the role of bodily predictions in the constitution of the sleeping brain activity and the dreaming experience, and (b) the precise role of the difference stages of sleep (REM (Rapid eye movement), NREM (Non-rapid eye movement)) in the constitution and refinement of the predictive machinery.",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "Iris (Roma Tre University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://predictive-mind.net/papers/sleep-and-dreaming-in-the-predictive-processing-framework"
+      },
+      "topics": [
+        "Sleep and Wakefulness Research",
+        "Neural dynamics and brain function",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W2604677307"
+    },
+    {
+      "openalex_id": "W2605417277",
+      "doi": "10.15502/9783958573116",
+      "title": "Moderate Predictive Processing",
+      "authors": [
+        {
+          "name": "Krzysztof Do\u0142\u0119ga",
+          "openalex_id": "A5017188673",
+          "orcid": "https://orcid.org/0000-0001-6859-6179"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Recent developments in the predictive processing literature have led to the emergence of two opposing positions regarding the representational commitments of the framework (Hohwy 2013; Clark 2015; G\u0142adziejewski 2016; Orlandi 2015). Proponents of the conservative approach to predictive processing claim that the explanatory power of the framework comes from postulating a rich nesting of genuine representational structures which can account for many cognitive functions (G\u0142adziejewski 2016). Supporters of the more radical interpretation of predictive processing, on the other hand, postulate that not all elements of the computational architecture should be interpreted as full-blown representations, stressing the framework\u2019s connection to ecological and embodied approaches to cognition instead (Clark 2015, Orlandi 2015). Surprisingly, despite defending opposing positions, both camps seem to adopt William Ramsey's representational \u2018job description challenge\u2019 (Ramsey 2007) as a standard for genuine ascriptions of representational function. The aim of this paper is to evaluate competing approaches and show that both sides of the debate must overcome additional challenges with regard to determining the representational commitments of the predictive processing framework. Following the discussion of the opposing views and the way they employ the representational job description in their arguments, I raise a worry that Ramsey\u2019s criterion may be ill suited for establishing a strong distinction between the opposing positions. In light of this I propose to frame the debate between the two camps as a disagreement over the contents of generative models, rather than the functional roles fulfilled by the structures under investigation. Finally, presented with the problem of content determination and the lack of framework constrains strong enough to help resolve the disagreement, I call for moderation in making claims about predictive processing\u2019s representational status.",
+      "cited_by_count": 23,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.15502/9783958573116"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Computability, Logic, AI Algorithms"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2605417277"
+    },
+    {
+      "openalex_id": "W2606976246",
+      "doi": "10.15502/9783958573055",
+      "title": "Of Bayes and Bullets",
+      "authors": [
+        {
+          "name": "Michael L. Anderson",
+          "openalex_id": "A5079738981",
+          "orcid": "https://orcid.org/0000-0003-0572-115X"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Here I argue that Jakob Hohwy\u2019s (Hohwy 2013) cognitivist interpretation of predictive processing (a) does not necessarily follow from the evidence for the importance of Bayesian processing in the brain; (b) is rooted in a misunderstanding of our epistemic position in the world; and (c) is undesirable in that it leads to epistemic internalism or idealism. My claim is that the internalist/idealist conclusions do not follow from predictive processing itself, but instead from the model of perception Hohwy\u2019s adopts, and that there are alternate models of perception that do not lend themselves to idealist conclusions. The position I advocate is similar to Andy Clark\u2019s embodied/embedded interpretation of Bayesian processing (Clark 2015); however, I argue that Clark\u2019s position, as currently stated, also potentially leads to idealist conclusions. I offer a specific emendation to Clark\u2019s view that I believe avoids this pitfall.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.15502/9783958573055"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2606976246"
+    },
+    {
+      "openalex_id": "W4283765827",
+      "doi": "10.1007/s11229-022-03674-2",
+      "title": "A New Mark of the Cognitive? Predictive Processing and Extended Cognition",
+      "authors": [
+        {
+          "name": "Luke Kersten",
+          "openalex_id": "A5012949317",
+          "orcid": "https://orcid.org/0000-0001-7054-8942",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-30",
+      "abstract": "Abstract There is a longstanding debate between those who think that cognition extends into the external environment (extend cognition) and those who think it is located squarely within the individual (internalism). Recently, a new actor has emerged on the scene, one that looks to play kingmaker. Predictive processing (PP) says that the mind/brain is fundamentally engaged in a process of minimising the difference between what is predicted about the world and how the world actually is, what is known as \u2018prediction error minimisation\u2019 (PEM). The goal of this paper is to articulate a novel approach to extended cognition using the resources of PP. After outlining two recent proposals from Constant et al. (2020) and Kirchhoff and Kiverstein (2019), I argue that the case for extended cognition can be further developed by interpreting certain elements of the PP story (namely, PEM) as a \u201cmark of the cognitive\u201d. The suggestion is that when construed at an \u2018algorithmic level\u2019 PEM offers a direct route to thinking about extended systems as genuine cognitive systems. On route to articulating the proposal, I lay out the core argument, defend the proposal\u2019s novelty, and point to several of the advantages of the formulation. Finally, I conclude by taking up two challenges raised by Hohwy (2016, 2018) about the prospects of using PEM to argue for extended cognition.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-022-03674-2.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 66,
+      "url": "https://openalex.org/W4283765827"
+    },
+    {
+      "openalex_id": "W2944489201",
+      "doi": "10.1080/24740500.2018.1552093",
+      "title": "Perception Is Not Always and Everywhere Inferential",
+      "authors": [
+        {
+          "name": "In\u00eas Hip\u00f3lito",
+          "openalex_id": "A5055434592",
+          "orcid": "https://orcid.org/0000-0001-6351-9975",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-03",
+      "abstract": "This paper argues that it is possible to embrace the predictive processing framework (PP) without reducing affordances to inferential perception. The cognitivist account of PP contends that it can capture relational perception, such as affordances. The rationale for this claim is that over time, sensory data becomes highly-weighted. This paper, however, will show the inconsistency of this claim in the face of the cognitivist premise that 'encapsulated' models can throw away 'the body, the world, or other people' [Hohwy 2016 Hohwy, J. 2016. The Self-Evidencing Brain, No\u00fbs, 50/2: 259\u201385.[Crossref], [Web of Science \u00ae] , [Google Scholar]: 265]. It is then showed how it is possible to embrace a non-cognitivist reading of PP\u2014one that does not need to reduce affordances to representational content.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Australasian Philosophical Review",
+        "type": "journal",
+        "issn": [
+          "2474-0500",
+          "2474-0519"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W2944489201"
+    },
+    {
+      "openalex_id": "W2096822517",
+      "doi": "10.1162/pres_a_00124",
+      "title": "The Sense of Embodiment in Virtual Reality",
+      "authors": [
+        {
+          "name": "Konstantina Kilteni",
+          "openalex_id": "A5007216905",
+          "orcid": "https://orcid.org/0000-0002-6887-6434",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Raphaela Groten",
+          "openalex_id": "A5031866478",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Mel Slater",
+          "openalex_id": "A5073802250",
+          "orcid": "https://orcid.org/0000-0002-6223-0050",
+          "institutions": [
+            "Universitat de Barcelona",
+            "University College London",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-11-01",
+      "abstract": "What does it feel like to own, to control, and to be inside a body? The multidimensional nature of this experience together with the continuous presence of one's biological body, render both theoretical and experimental approaches problematic. Nevertheless, exploitation of immersive virtual reality has allowed a reframing of this question to whether it is possible to experience the same sensations towards a virtual body inside an immersive virtual environment as toward the biological body, and if so, to what extent. The current paper addresses these issues by referring to the Sense of Embodiment (SoE). Due to the conceptual confusion around this sense, we provide a working definition which states that SoE consists of three subcomponents: the sense of self-location, the sense of agency, and the sense of body ownership. Under this proposed structure, measures and experimental manipulations reported in the literature are reviewed and related challenges are outlined. Finally, future experimental studies are proposed to overcome those challenges, toward deepening the concept of SoE and enhancing it in virtual applications.",
+      "cited_by_count": 1484,
+      "type": "article",
+      "source": {
+        "name": "PRESENCE Virtual and Augmented Reality",
+        "type": "journal",
+        "issn": [
+          "1054-7460",
+          "1531-3263"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://direct.mit.edu/pvar/article-pdf/21/4/373/1625283/pres_a_00124.pdf"
+      },
+      "topics": [
+        "Virtual Reality Applications and Impacts",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 73,
+      "url": "https://openalex.org/W2096822517"
+    },
+    {
+      "openalex_id": "W2888311386",
+      "doi": "10.1007/s13164-018-0416-1",
+      "title": "Self-Knowledge in a Predictive Processing Framework",
+      "authors": [
+        {
+          "name": "Lukas Schwengerer",
+          "openalex_id": "A5065748093",
+          "orcid": "https://orcid.org/0000-0002-2653-0988",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-08-23",
+      "abstract": "In this paper I propose an account of self-knowledge based on a framework of predictive processing. Predictive processing understands the brain as a prediction-action machine that tries to minimize error in its predictions about the world. For this view to evolve into a complete account of human cognition we ought to provide an idea how it can account for self-knowledge \u2013 knowledge of one's own mental states. I provide an attempt for such an account starting from remarks on introspection made by Hohwy (2013). I develop Hohwy's picture into a general model for knowledge of one's mental states, discussing how predictions about oneself can be used to capture self-knowledge. I further explore empirical predictions, and thereby argue that the model provides a good explanation for failure of self-knowledge in cases involving motor aftereffects, such as the broken escalator phenomenon. I conclude that the proposed account is incomplete, but provides a valuable first step to connect research on predictive processing with the epistemology of self-knowledge.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-018-0416-1.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 79,
+      "url": "https://openalex.org/W2888311386"
+    },
+    {
+      "openalex_id": "W2552810632",
+      "doi": "10.1162/neco_a_00912",
+      "title": "Active Inference: A Process Theory",
+      "authors": [
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909"
+        },
+        {
+          "name": "Thomas H. B. FitzGerald",
+          "openalex_id": "A5011377871",
+          "orcid": "https://orcid.org/0000-0002-3855-1591"
+        },
+        {
+          "name": "Francesco Rigoli",
+          "openalex_id": "A5110418524"
+        },
+        {
+          "name": "Philipp Schwartenbeck",
+          "openalex_id": "A5000294737",
+          "orcid": "https://orcid.org/0000-0001-8943-9965",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University of Salzburg",
+            "Paracelsus Medical University",
+            "Christian Doppler Klinik",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Giovanni Pezzulo",
+          "openalex_id": "A5053290697",
+          "orcid": "https://orcid.org/0000-0001-6813-8282",
+          "institutions": [
+            "National Research Council",
+            "Institute of Cognitive Sciences and Technologies"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-21",
+      "abstract": "This article describes a process theory based on active inference and belief propagation. Starting from the premise that all neuronal processing (and action selection) can be explained by maximizing Bayesian model evidence\u2014or minimizing variational free energy\u2014we ask whether neuronal responses can be described as a gradient descent on variational free energy. Using a standard (Markov decision process) generative model, we derive the neuronal dynamics implicit in this description and reproduce a remarkable range of well-characterized neuronal phenomena. These include repetition suppression, mismatch negativity, violation responses, place-cell activity, phase precession, theta sequences, theta-gamma coupling, evidence accumulation, race-to-bound dynamics, and transfer of dopamine responses. Furthermore, the (approximately Bayes\u2019 optimal) behavior prescribed by these dynamics has a degree of face validity, providing a formal explanation for reward seeking, context learning, and epistemic foraging. Technically, the fact that a gradient descent appears to be a valid description of neuronal activity means that variational free energy is a Lyapunov function for neuronal dynamics, which therefore conform to Hamilton\u2019s principle of least action.",
+      "cited_by_count": 1115,
+      "type": "article",
+      "source": {
+        "name": "Neural Computation",
+        "type": "journal",
+        "issn": [
+          "0899-7667",
+          "1530-888X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ueaeprints.uea.ac.uk/id/eprint/61907/1/NECO_a_00912.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition",
+        "Memory and Neural Mechanisms"
+      ],
+      "referenced_works_count": 114,
+      "url": "https://openalex.org/W2552810632"
+    },
+    {
+      "openalex_id": "W4310679730",
+      "doi": "10.1007/s13164-022-00666-6",
+      "title": "Editorial: Predictive Processing and Consciousness",
+      "authors": [
+        {
+          "name": "Mark Miller",
+          "openalex_id": "A5102767297",
+          "orcid": "https://orcid.org/0000-0003-1783-889X",
+          "institutions": [
+            "Monash University"
+          ]
+        },
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Tobias Schlicht",
+          "openalex_id": "A5032044708",
+          "orcid": "https://orcid.org/0000-0002-1829-9253",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-01",
+      "abstract": "Predictive Processing (henceforth PP) is a recent, exciting framework emerging at the crossroads of cognitive science, statistical modeling and philosophy of mind (Friston 2005(Friston , 2010)).Informed by recent developments in computational neuroscience and Bayesian psychology, it offers a paradigm shifting approach to studying cognition, often being presented as \"the first truly unifying account of perception, cognition and action\" (Clark 2015, p. 2).Its highly ambitious character is expressed in Jakob Hohwy's statement that it postulates only one mechanism which has the potential to \"explain perception and action and everything mental in between\" (Hohwy, 2013, p. 1).The account has already been successfully applied to a rich variety of mental phenomena, but only recently have philosophers and psychologists begun to apply it to one of the more mysterious aspects of mind, namely, consciousness.This special issue assembles some of the leading experts on the predictive processing paradigm and discusses some of its prospects and problems in this regard.In this introduction, we first sketch the explanatory framework and introduce some of the key recurring notions in this context.We then lay out some of the tasks arising from the goal of addressing consciousness with it, distinguishing those pertaining to different aspects (or kinds or concepts) of consciousness.We then provide an overview of the main ideas of the papers.",
+      "cited_by_count": 6,
+      "type": "editorial",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-022-00666-6.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 65,
+      "url": "https://openalex.org/W4310679730"
+    },
+    {
+      "openalex_id": "W2534098824",
+      "doi": "10.1007/s11229-016-1239-1",
+      "title": "The anticipating brain is not a scientist: the free-energy principle from an ecological-enactive perspective",
+      "authors": [
+        {
+          "name": "Jelle Bruineberg",
+          "openalex_id": "A5076229839",
+          "orcid": "https://orcid.org/0000-0001-5675-3376",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Erik Rietveld",
+          "openalex_id": "A5002678933",
+          "orcid": "https://orcid.org/0000-0001-5197-142X",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-21",
+      "abstract": "In this paper, we argue for a theoretical separation of the free-energy principle from Helmholtzian accounts of the predictive brain. The free-energy principle is a theoretical framework capturing the imperative for biological self-organization in information-theoretic terms. The free-energy principle has typically been connected with a Bayesian theory of predictive coding, and the latter is often taken to support a Helmholtzian theory of perception as unconscious inference. If our interpretation is right, however, a Helmholtzian view of perception is incompatible with Bayesian predictive coding under the free-energy principle. We argue that the free energy principle and the ecological and enactive approach to mind and life make for a much happier marriage of ideas. We make our argument based on three points. First we argue that the free energy principle applies to the whole animal-environment system, and not only to the brain. Second, we show that active inference, as understood by the free-energy principle, is incompatible with unconscious inference understood as analagous to scientific hypothesis-testing, the main tenet of a Helmholtzian view of perception. Third, we argue that the notion of inference at work in Bayesian predictive coding under the free-energy principle is too weak to support a Helmholtzian theory of perception. Taken together these points imply that the free energy principle is best understood in ecological and enactive terms set out in this paper.",
+      "cited_by_count": 380,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11229-016-1239-1.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 93,
+      "url": "https://openalex.org/W2534098824"
+    },
+    {
+      "openalex_id": "W2893588935",
+      "doi": "10.7551/mitpress/9780262036993.003.0008",
+      "title": "Consciousness and Predictive Processing",
+      "authors": [
+        {
+          "name": "Wanja Wiese",
+          "openalex_id": "A5014500917",
+          "orcid": "https://orcid.org/0000-0003-3338-7398"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-12",
+      "abstract": "Predictive processing (PP) is not a theory of consciousness. Hence, it is not obvious that PP should have any relevance to research on consciousness. A first promising possibility opens up if we consider the ambitious assumption that PP is a general theory of brain function. If the brain\u2019s function is to minimize prediction error (just as the heart\u2019s function is to pump blood), as Jakob Hohwy (2015) suggests, then it might well be that the computational processes underlying consciousness can usefully be described within the PP framework. This chapter focuses on (i) how PP accounts for attention, and what this suggests with regards to the relation between attention and consciousness (e.g., how volitional attention may change the contents of consciousness); (ii) furthermore, it is suggested that PP can provide a unifying perspective on some proposed functions and theories of consciousness (such as global workspace theory, attention schema theory, and integrated information theoy).",
+      "cited_by_count": 6,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "EEG and Brain-Computer Interfaces",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2893588935"
+    },
+    {
+      "openalex_id": "W2530226740",
+      "doi": "10.1098/rstb.2016.0007",
+      "title": "Active interoceptive inference and the emotional brain",
+      "authors": [
+        {
+          "name": "Anil K. Seth",
+          "openalex_id": "A5084274787",
+          "orcid": "https://orcid.org/0000-0002-1421-6051",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-11",
+      "abstract": "We review a recent shift in conceptions of interoception and its relationship to hierarchical inference in the brain. The notion of interoceptive inference means that bodily states are regulated by autonomic reflexes that are enslaved by descending predictions from deep generative models of our internal and external milieu. This re-conceptualization illuminates several issues in cognitive and clinical neuroscience with implications for experiences of selfhood and emotion. We first contextualize interoception in terms of active (Bayesian) inference in the brain, highlighting its enactivist (embodied) aspects. We then consider the key role of uncertainty or precision and how this might translate into neuromodulation. We next examine the implications for understanding the functional anatomy of the emotional brain, surveying recent observations on agranular cortex. Finally, we turn to theoretical issues, namely, the role of interoception in shaping a sense of embodied self and feelings. We will draw links between physiological homoeostasis and allostasis, early cybernetic ideas of predictive control and hierarchical generative models in predictive processing. The explanatory scope of interoceptive inference ranges from explanations for autism and depression, through to consciousness. We offer a brief survey of these exciting developments. This article is part of the themed issue \u2018Interoception beyond homeostasis: affect, cognition and mental health\u2019.",
+      "cited_by_count": 857,
+      "type": "review",
+      "source": {
+        "name": "Philosophical Transactions of the Royal Society B Biological Sciences",
+        "type": "journal",
+        "issn": [
+          "0962-8436",
+          "1471-2970"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2016.0007"
+      },
+      "topics": [
+        "Psychosomatic Disorders and Their Treatments",
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W2530226740"
+    },
+    {
+      "openalex_id": "W2682853549",
+      "doi": "10.1007/s11023-017-9441-6",
+      "title": "Predictive Processing and the Representation Wars",
+      "authors": [
+        {
+          "name": "Daniel R. Williams",
+          "openalex_id": "A5101716563",
+          "orcid": "https://orcid.org/0000-0002-9774-2910",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-26",
+      "abstract": null,
+      "cited_by_count": 128,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11023-017-9441-6.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and History of Science",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 153,
+      "url": "https://openalex.org/W2682853549"
+    },
+    {
+      "openalex_id": "W2120536867",
+      "doi": "10.3389/fnhum.2014.00302",
+      "title": "An aberrant precision account of autism",
+      "authors": [
+        {
+          "name": "Rebecca Lawson",
+          "openalex_id": "A5034268797",
+          "orcid": "https://orcid.org/0000-0003-1228-1244",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Geraint Rees",
+          "openalex_id": "A5074881456",
+          "orcid": "https://orcid.org/0000-0002-9623-7007",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-14",
+      "abstract": "Autism is a neurodevelopmental disorder characterized by problems with social-communication, restricted interests and repetitive behavior. A recent and thought-provoking article presented a normative explanation for the perceptual symptoms of autism in terms of a failure of Bayesian inference (Pellicano and Burr, 2012). In response, we suggested that when Bayesian inference is grounded in its neural instantiation-namely, predictive coding-many features of autistic perception can be attributed to aberrant precision (or beliefs about precision) within the context of hierarchical message passing in the brain (Friston et al., 2013). Here, we unpack the aberrant precision account of autism. Specifically, we consider how empirical findings-that speak directly or indirectly to neurobiological mechanisms-are consistent with the aberrant encoding of precision in autism; in particular, an imbalance of the precision ascribed to sensory evidence relative to prior beliefs.",
+      "cited_by_count": 634,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00302/pdf"
+      },
+      "topics": [
+        "Functional Brain Connectivity Studies",
+        "Neural dynamics and brain function",
+        "Autism Spectrum Disorder Research"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W2120536867"
+    },
+    {
+      "openalex_id": "W2140313855",
+      "doi": "10.3389/fnhum.2015.00141",
+      "title": "Over my fake body: body ownership illusions for studying the multisensory basis of own-body perception",
+      "authors": [
+        {
+          "name": "Konstantina Kilteni",
+          "openalex_id": "A5007216905",
+          "orcid": "https://orcid.org/0000-0002-6887-6434",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Antonella Maselli",
+          "openalex_id": "A5062347291",
+          "orcid": "https://orcid.org/0000-0002-0564-3174",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Konrad P. K\u00f6rding",
+          "openalex_id": "A5072047827",
+          "orcid": "https://orcid.org/0000-0001-8408-4499",
+          "institutions": [
+            "Northwestern University",
+            "Shirley Ryan AbilityLab"
+          ]
+        },
+        {
+          "name": "Mel Slater",
+          "openalex_id": "A5073802250",
+          "orcid": "https://orcid.org/0000-0002-6223-0050",
+          "institutions": [
+            "Universitat de Barcelona",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-03-24",
+      "abstract": "Which is my body and how do I distinguish it from the bodies of others, or from objects in the surrounding environment? The perception of our own body and more particularly our sense of body ownership is taken for granted. Nevertheless, experimental findings from body ownership illusions (BOIs), show that under specific multisensory conditions, we can experience artificial body parts or fake bodies as our own body parts or body, respectively. The aim of the present paper is to discuss how and why BOIs are induced. We review several experimental findings concerning the spatial, temporal, and semantic principles of crossmodal stimuli that have been applied to induce BOIs. On the basis of these principles, we discuss theoretical approaches concerning the underlying mechanism of BOIs. We propose a conceptualization based on Bayesian causal inference for addressing how our nervous system could infer whether an object belongs to our own body, using multisensory, sensorimotor, and semantic information, and we discuss how this can account for several experimental findings. Finally, we point to neural network models as an implementational framework within which the computational problem behind BOIs could be addressed in the future.",
+      "cited_by_count": 502,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2015.00141/pdf"
+      },
+      "topics": [
+        "Multisensory perception and integration",
+        "Tactile and Sensory Interactions",
+        "Visual perception and processing mechanisms"
+      ],
+      "referenced_works_count": 208,
+      "url": "https://openalex.org/W2140313855"
+    },
+    {
+      "openalex_id": "W2564601941",
+      "doi": "10.1007/s11229-016-1288-5",
+      "title": "From cognitivism to autopoiesis: towards a computational framework for the embodied mind",
+      "authors": [
+        {
+          "name": "Micah Allen",
+          "openalex_id": "A5058730535",
+          "orcid": "https://orcid.org/0000-0001-9399-4179",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "National Hospital for Neurology and Neurosurgery",
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-22",
+      "abstract": "Predictive processing (PP) approaches to the mind are increasingly popular in the cognitive sciences. This surge of interest is accompanied by a proliferation of philosophical arguments, which seek to either extend or oppose various aspects of the emerging framework. In particular, the question of how to position predictive processing with respect to enactive and embodied cognition has become a topic of intense debate. While these arguments are certainly of valuable scientific and philosophical merit, they risk underestimating the variety of approaches gathered under the predictive label. Here, we first present a basic review of neuroscientific, cognitive, and philosophical approaches to PP, to illustrate how these range from solidly cognitivist applications-with a firm commitment to modular, internalistic mental representation-to more moderate views emphasizing the importance of 'body-representations', and finally to those which fit comfortably with radically enactive, embodied, and dynamic theories of mind. Any nascent predictive processing theory (e.g., of attention or consciousness) must take into account this continuum of views, and associated theoretical commitments. As a final point, we illustrate how the Free Energy Principle (FEP) attempts to dissolve tension between internalist and externalist accounts of cognition, by providing a formal synthetic account of how internal 'representations' arise from autopoietic self-organization. The FEP thus furnishes empirically productive process theories (e.g., predictive processing) by which to guide discovery through the formal modelling of the embodied mind.",
+      "cited_by_count": 374,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11229-016-1288-5.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 91,
+      "url": "https://openalex.org/W2564601941"
+    },
+    {
+      "openalex_id": "W2471746362",
+      "doi": "10.1016/j.biopsych.2016.05.006",
+      "title": "The Bayesian Savant",
+      "authors": [
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "University College London",
+            "Wellcome Centre for Human Neuroimaging"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-24",
+      "abstract": null,
+      "cited_by_count": 13,
+      "type": "letter",
+      "source": {
+        "name": "Biological Psychiatry",
+        "type": "journal",
+        "issn": [
+          "0006-3223",
+          "1873-2402"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Autism Spectrum Disorder Research",
+        "Primate Behavior and Ecology",
+        "Neuroendocrine regulation and behavior"
+      ],
+      "referenced_works_count": 10,
+      "url": "https://openalex.org/W2471746362"
+    },
+    {
+      "openalex_id": "W2148544865",
+      "doi": "10.3389/fnhum.2013.00547",
+      "title": "Minimal self-models and the free energy principle",
+      "authors": [
+        {
+          "name": "Jakub Limanowski",
+          "openalex_id": "A5067296485",
+          "orcid": "https://orcid.org/0000-0001-9673-5500",
+          "institutions": [
+            "Humboldt-Universit\u00e4t zu Berlin"
+          ]
+        },
+        {
+          "name": "Felix Blankenburg",
+          "openalex_id": "A5009949867",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin",
+            "Max Planck Institute for Human Development",
+            "Humboldt-Universit\u00e4t zu Berlin"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "The term \u201cminimal phenomenal selfhood\u201d (MPS) describes the basic, pre- reflective experience of being a self (Blanke and Metzinger, 2009). Theoretical accounts of the minimal self have long recognized the importance and the ambivalence of the body as both part of the physical world, and the enabling condition for being in this world (Gallagher, 2005a; Grafton, 2009). A recent account of MPS (Metzinger, 2004a) centers on the consideration that minimal selfhood emerges as the result of basic self-modeling mechanisms, thereby being founded on pre-reflective bodily processes. The free energy principle (FEP; Friston, 2010) is a novel unified theory of cortical function built upon the imperative that self-organizing systems entail hierarchical generative models of the causes of their sensory input, which are optimized by minimizing free energy as an approximation of the log-likelihood of the model. The implementation of the FEP via predictive coding mechanisms and in particular the active inference principle emphasizes the role of embodiment for predictive self-modeling, which has been appreciated in recent publications. In this review, we provide an overview of these conceptions and illustrate thereby the potential power of the FEP in explaining the mechanisms underlying minimal selfhood and its key constituents, multisensory integration, interoception, agency, perspective, and the experience of mineness. We conclude that the conceptualization of MPS can be well mapped onto a hierarchical generative model furnished by the FEP and may constitute the basis for higher-level, cognitive forms of self-referral, as well as the understanding of other minds.",
+      "cited_by_count": 274,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2013.00547/pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 155,
+      "url": "https://openalex.org/W2148544865"
+    },
+    {
+      "openalex_id": "W1967826667",
+      "doi": "10.3389/fpsyg.2012.00096",
+      "title": "Attention and Conscious Perception in the Hypothesis Testing Brain",
+      "authors": [
+        {
+          "name": "Jakob Hohwy",
+          "openalex_id": "A5083789193",
+          "orcid": "https://orcid.org/0000-0003-3906-3060",
+          "institutions": [
+            "Monash University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Conscious perception and attention are difficult to study, partly because their relation to each other is not fully understood. Rather than conceiving and studying them in isolation form each other it may be useful to locate them in an independently motivated, general framework, from which a principled account of how they relate can then transpire. Accordingly, these mental phenomena are here reviewed through the prism of the increasingly influential predictive coding framework. On this framework, conscious perception can be seen as the upshot of prediction error minimisation and attention as the optimisation of precision expectations during such perceptual inference. This approach maps on well to a range of standard characteristics of conscious perception and attention, and can be used to explain a range of empirical findings on their relation to each other.",
+      "cited_by_count": 413,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00096/pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Neural and Behavioral Psychology Studies",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 127,
+      "url": "https://openalex.org/W1967826667"
+    },
+    {
+      "openalex_id": "W2112560726",
+      "doi": "10.3389/fnhum.2013.00083",
+      "title": "The building blocks of the full body ownership illusion",
+      "authors": [
+        {
+          "name": "Antonella Maselli",
+          "openalex_id": "A5062347291",
+          "orcid": "https://orcid.org/0000-0002-0564-3174",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Mel Slater",
+          "openalex_id": "A5073802250",
+          "orcid": "https://orcid.org/0000-0002-6223-0050",
+          "institutions": [
+            "Universitat de Barcelona",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "Previous work has reported that it is not difficult to give people the illusion of ownership over an artificial body, providing a powerful tool for the investigation of the neural and cognitive mechanisms underlying body perception and self consciousness. We present an experimental study that uses immersive virtual reality (IVR) focused on identifying the perceptual building blocks of this illusion. We systematically manipulated visuotactile and visual sensorimotor contingencies, visual perspective, and the appearance of the virtual body in order to assess their relative role and mutual interaction. Consistent results from subjective reports and physiological measures showed that a first person perspective over a fake humanoid body is essential for eliciting a body ownership illusion. We found that the illusion of ownership can be generated when the virtual body has a realistic skin tone and spatially substitutes the real body seen from a first person perspective. In this case there is no need for an additional contribution of congruent visuotactile or sensorimotor cues. Additionally, we found that the processing of incongruent perceptual cues can be modulated by the level of the illusion: when the illusion is strong, incongruent cues are not experienced as incorrect. Participants exposed to asynchronous visuotactile stimulation can experience the ownership illusion and perceive touch as originating from an object seen to contact the virtual body. Analogously, when the level of realism of the virtual body is not high enough and/or when there is no spatial overlap between the two bodies, then the contribution of congruent multisensory and/or sensorimotor cues is required for evoking the illusion. On the basis of these results and inspired by findings from neurophysiological recordings in the monkey, we propose a model that accounts for many of the results reported in the literature.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2013.00083/pdf"
+      },
+      "topics": [
+        "Virtual Reality Applications and Impacts",
+        "Visual perception and processing mechanisms",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2112560726"
+    },
+    {
+      "openalex_id": "W2538626945",
+      "doi": "10.1093/scan/nsw154",
+      "title": "The theory of constructed emotion: an active inference account of interoception and categorization",
+      "authors": [
+        {
+          "name": "Lisa Feldman Barrett",
+          "openalex_id": "A5061385021",
+          "orcid": "https://orcid.org/0000-0003-4478-2051",
+          "institutions": [
+            "Northeastern University",
+            "Harvard University",
+            "Massachusetts General Hospital",
+            "Athinoula A. Martinos Center for Biomedical Imaging"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-12",
+      "abstract": "The science of emotion has been using folk psychology categories derived from philosophy to search for the brain basis of emotion. The last two decades of neuroscience research have brought us to the brink of a paradigm shift in understanding the workings of the brain, however, setting the stage to revolutionize our understanding of what emotions are and how they work. In this article, we begin with the structure and function of the brain, and from there deduce what the biological basis of emotions might be. The answer is a brain-based, computational account called the theory of constructed emotion.",
+      "cited_by_count": 1380,
+      "type": "article",
+      "source": {
+        "name": "Social Cognitive and Affective Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1749-5016",
+          "1749-5024"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Face Recognition and Perception"
+      ],
+      "referenced_works_count": 288,
+      "url": "https://openalex.org/W2538626945"
+    },
+    {
+      "openalex_id": "W2726898022",
+      "doi": "10.1093/nc/nix016",
+      "title": "Self unbound: ego dissolution in psychedelic experience",
+      "authors": [
+        {
+          "name": "Chris Letheby",
+          "openalex_id": "A5050099735",
+          "orcid": "https://orcid.org/0000-0002-6293-7873",
+          "institutions": [
+            "University of Adelaide"
+          ]
+        },
+        {
+          "name": "Philip Gerrans",
+          "openalex_id": "A5059384703",
+          "orcid": "https://orcid.org/0000-0002-1755-8727",
+          "institutions": [
+            "University of Adelaide"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Users of psychedelic drugs often report that their sense of being a self or 'I' distinct from the rest of the world has diminished or altogether dissolved. Neuroscientific study of such 'ego dissolution' experiences offers a window onto the nature of self-awareness. We argue that ego dissolution is best explained by an account that explains self-awareness as resulting from the integrated functioning of hierarchical predictive models which posit the existence of a stable and unchanging entity to which representations are bound. Combining recent work on the 'integrative self' and the phenomenon of self-binding with predictive processing principles yields an explanation of ego dissolution according to which self-representation is a useful Cartesian fiction: an ultimately false representation of a simple and enduring substance to which attributes are bound which serves to integrate and unify cognitive processing across levels and domains. The self-model is not a mere narrative posit, as some have suggested; it has a more robust and ubiquitous cognitive function than that. But this does not mean, as others have claimed, that the self-model has the right attributes to qualify as a self. It performs some of the right kinds of functions, but it is not the right kind of entity. Ego dissolution experiences reveal that the self-model plays an important binding function in cognitive processing, but the self does not exist.",
+      "cited_by_count": 267,
+      "type": "article",
+      "source": {
+        "name": "Neuroscience of Consciousness",
+        "type": "journal",
+        "issn": [
+          "2057-2107"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://academic.oup.com/nc/article-pdf/2017/1/nix016/25024251/nix016.pdf"
+      },
+      "topics": [
+        "Psychedelics and Drug Studies",
+        "Chemical synthesis and alkaloids"
+      ],
+      "referenced_works_count": 70,
+      "url": "https://openalex.org/W2726898022"
+    },
+    {
+      "openalex_id": "W2080654992",
+      "doi": "10.1080/17588928.2013.877880",
+      "title": "A predictive processing theory of sensorimotor contingencies: Explaining the puzzle of perceptual presence and its absence in synesthesia",
+      "authors": [
+        {
+          "name": "Anil K. Seth",
+          "openalex_id": "A5084274787",
+          "orcid": "https://orcid.org/0000-0002-1421-6051"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-21",
+      "abstract": "Normal perception involves experiencing objects within perceptual scenes as real, as existing in the world. This property of \"perceptual presence\" has motivated \"sensorimotor theories\" which understand perception to involve the mastery of sensorimotor contingencies. However, the mechanistic basis of sensorimotor contingencies and their mastery has remained unclear. Sensorimotor theory also struggles to explain instances of perception, such as synesthesia, that appear to lack perceptual presence and for which relevant sensorimotor contingencies are difficult to identify. On alternative \"predictive processing\" theories, perceptual content emerges from probabilistic inference on the external causes of sensory signals, however, this view has addressed neither the problem of perceptual presence nor synesthesia. Here, I describe a theory of predictive perception of sensorimotor contingencies which (1) accounts for perceptual presence in normal perception, as well as its absence in synesthesia, and (2) operationalizes the notion of sensorimotor contingencies and their mastery. The core idea is that generative models underlying perception incorporate explicitly counterfactual elements related to how sensory inputs would change on the basis of a broad repertoire of possible actions, even if those actions are not performed. These \"counterfactually-rich\" generative models encode sensorimotor contingencies related to repertoires of sensorimotor dependencies, with counterfactual richness determining the degree of perceptual presence associated with a stimulus. While the generative models underlying normal perception are typically counterfactually rich (reflecting a large repertoire of possible sensorimotor dependencies), those underlying synesthetic concurrents are hypothesized to be counterfactually poor. In addition to accounting for the phenomenology of synesthesia, the theory naturally accommodates phenomenological differences between a range of experiential states including dreaming, hallucination, and the like. It may also lead to a new view of the (in)determinacy of normal perception.",
+      "cited_by_count": 344,
+      "type": "review",
+      "source": {
+        "name": "Cognitive Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1758-8928",
+          "1758-8936"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17588928.2013.877880?needAccess=true&role=button"
+      },
+      "topics": [
+        "Multisensory perception and integration",
+        "Olfactory and Sensory Function Studies",
+        "Visual perception and processing mechanisms"
+      ],
+      "referenced_works_count": 122,
+      "url": "https://openalex.org/W2080654992"
+    },
+    {
+      "openalex_id": "W2623066203",
+      "doi": "10.1162/netn_a_00018",
+      "title": "The graphical brain: Belief propagation and active inference",
+      "authors": [
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Thomas Parr",
+          "openalex_id": "A5023659945",
+          "orcid": "https://orcid.org/0000-0001-5108-5743",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Bert de Vries",
+          "openalex_id": "A5019806922",
+          "institutions": [
+            "Eindhoven University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-07",
+      "abstract": "This paper considers functional integration in the brain from a computational perspective. We ask what sort of neuronal message passing is mandated by active inference\u2014and what implications this has for context-sensitive connectivity at microscopic and macroscopic levels. In particular, we formulate neuronal processing as belief propagation under deep generative models. Crucially, these models can entertain both discrete and continuous states, leading to distinct schemes for belief updating that play out on the same (neuronal) architecture. Technically, we use Forney (normal) factor graphs to elucidate the requisite message passing in terms of its form and scheduling. To accommodate mixed generative models (of discrete and continuous states), one also has to consider link nodes or factors that enable discrete and continuous representations to talk to each other. When mapping the implicit computational architecture onto neuronal connectivity, several interesting features emerge. For example, Bayesian model averaging and comparison, which link discrete and continuous states, may be implemented in thalamocortical loops. These and other considerations speak to a computational connectome that is inherently state dependent and self-organizing in ways that yield to a principled (variational) account. We conclude with simulations of reading that illustrate the implicit neuronal message passing, with a special focus on how discrete (semantic) representations inform, and are informed by, continuous (visual) sampling of the sensorium.",
+      "cited_by_count": 410,
+      "type": "article",
+      "source": {
+        "name": "Network Neuroscience",
+        "type": "journal",
+        "issn": [
+          "2472-1751"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mitpressjournals.org/doi/pdf/10.1162/NETN_a_00018"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 113,
+      "url": "https://openalex.org/W2623066203"
+    },
+    {
+      "openalex_id": "W4396733607",
+      "doi": "10.4324/9781003322511-12",
+      "title": "Integrating embodied cognition and predictive processing",
+      "authors": [
+        {
+          "name": "Elmarie Venter",
+          "openalex_id": "A5101779535",
+          "orcid": "https://orcid.org/0000-0002-1710-0118"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-08",
+      "abstract": "In this chapter, I consider the prospects of compatibility and integration of two accounts that have gained much popularity in the last two decades: predictive processing (PP) and embodied cognition (EC). Some argue that the two views are inconsistent, making contradictory claims, and that the only way to integrate them is to reduce the claims of one to the assumptions of the other (Hohwy 2018). Others think that the views are compatible and consistent and nothing more needs to be done to defend compatibility (Clark 2017). There is thus no sight of agreement on the compatibility and integration of these two accounts (Clark 2015a, 2017; Anderson 2018; Hohwy 2018; Kirchhoff 2018; Venter 2021).",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4396733607"
+    },
+    {
+      "openalex_id": "W2605399484",
+      "doi": "10.1038/srep46421",
+      "title": "Increased spontaneous MEG signal diversity for psychoactive doses of ketamine, LSD and psilocybin",
+      "authors": [
+        {
+          "name": "Michael Schartner",
+          "openalex_id": "A5070456193",
+          "orcid": "https://orcid.org/0000-0002-4854-3034",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Robin Carhart\u2010Harris",
+          "openalex_id": "A5038609897",
+          "institutions": [
+            "Imperial College London"
+          ]
+        },
+        {
+          "name": "Adam B. Barrett",
+          "openalex_id": "A5012720030",
+          "orcid": "https://orcid.org/0000-0003-4174-7779",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Anil K. Seth",
+          "openalex_id": "A5084274787",
+          "orcid": "https://orcid.org/0000-0002-1421-6051",
+          "institutions": [
+            "University of Sussex"
+          ]
+        },
+        {
+          "name": "Suresh Muthukumaraswamy",
+          "openalex_id": "A5000583874",
+          "orcid": "https://orcid.org/0000-0001-7042-3920",
+          "institutions": [
+            "University of Auckland"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-19",
+      "abstract": "Abstract What is the level of consciousness of the psychedelic state? Empirically, measures of neural signal diversity such as entropy and Lempel-Ziv (LZ) complexity score higher for wakeful rest than for states with lower conscious level like propofol-induced anesthesia. Here we compute these measures for spontaneous magnetoencephalographic (MEG) signals from humans during altered states of consciousness induced by three psychedelic substances: psilocybin, ketamine and LSD. For all three, we find reliably higher spontaneous signal diversity, even when controlling for spectral changes. This increase is most pronounced for the single-channel LZ complexity measure, and hence for temporal, as opposed to spatial, signal diversity. We also uncover selective correlations between changes in signal diversity and phenomenological reports of the intensity of psychedelic experience. This is the first time that these measures have been applied to the psychedelic state and, crucially, that they have yielded values exceeding those of normal waking consciousness. These findings suggest that the sustained occurrence of psychedelic phenomenology constitutes an elevated level of consciousness - as measured by neural signal diversity.",
+      "cited_by_count": 430,
+      "type": "article",
+      "source": {
+        "name": "Scientific Reports",
+        "type": "journal",
+        "issn": [
+          "2045-2322"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/srep46421.pdf"
+      },
+      "topics": [
+        "Psychedelics and Drug Studies",
+        "Neurotransmitter Receptor Influence on Behavior",
+        "Biochemical Analysis and Sensing Techniques"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W2605399484"
+    },
+    {
+      "openalex_id": "W2901153025",
+      "doi": "10.3389/fpsyg.2018.02270",
+      "title": "The Embodied Self, the Pattern Theory of Self, and the Predictive Mind",
+      "authors": [
+        {
+          "name": "Albert Newen",
+          "openalex_id": "A5017789510",
+          "orcid": "https://orcid.org/0000-0001-5906-6061",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-11-23",
+      "abstract": "Do we have to presuppose a self to account for human self-consciousness? If so, how should we characterize the self? These questions are discussed in the context of two alternatives, i.e., the no-self position held by Metzinger (2003, 2009) and the claim that the only self we have to presuppose is a narrative self (Dennett, 1992; Schechtman, 2007; Hardcastle, 2008) which is primarily an abstract entity. In contrast to these theories, I argue that we have to presuppose an embodied self, although this is not a metaphysical substance, nor an entity for which stable necessary and jointly sufficient conditions can be given. Self-consciousness results from an integration of an embodied, basic affective flow with an intentional object (the self as agent or as center of imagination or thought), where this integration remains anchored in an embodied self. This embodied self is a flexible and variable entity, which we can account for only with a pattern theory of the self (in line with Gallagher, 2013). Furthermore, I outline how this pattern theory of the self fits into the predictive coding framework, which also answers the open question whether self-representation is prior to world-representation or the other way around. The principal organization of a mechanism of building up a self-model is such that both types of representations are always activated and developed in parallel. Modeling oneself is a process which is always activated when one interacts with the world - much as a shadow is present when a person walks in the sun.",
+      "cited_by_count": 87,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02270/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W2901153025"
+    },
+    {
+      "openalex_id": "W2484983710",
+      "doi": "10.3389/fpsyg.2016.01090",
+      "title": "Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention",
+      "authors": [
+        {
+          "name": "Maxwell J. D. Ramstead",
+          "openalex_id": "A5010108818",
+          "orcid": "https://orcid.org/0000-0002-1477-8177",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Samuel P. L. Veissi\u00e8re",
+          "openalex_id": "A5017587005",
+          "orcid": "https://orcid.org/0000-0002-1158-2347",
+          "institutions": [
+            "University of Johannesburg",
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Laurence J. Kirmayer",
+          "openalex_id": "A5054510055",
+          "orcid": "https://orcid.org/0000-0002-6228-1739",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-07-26",
+      "abstract": "In this paper we outline a framework for the study of the mechanisms involved in the engagement of human agents with cultural affordances. Our aim is to better understand how culture and context interact with human biology to shape human behavior, cognition, and experience. We attempt to integrate several related approaches in the study of the embodied, cognitive, and affective substrates of sociality and culture and the sociocultural scaffolding of experience. The integrative framework we propose bridges cognitive and social sciences to provide (i) an expanded concept of 'affordance' that extends to sociocultural forms of life, and (ii) a multilevel account of the socioculturally scaffolded forms of affordance learning and the transmission of affordances in patterned sociocultural practices and regimes of shared attention. This framework provides an account of how cultural content and normative practices are built on a foundation of contentless basic mental processes that acquire content through immersive participation of the agent in social practices that regulate joint attention and shared intentionality.",
+      "cited_by_count": 411,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01090/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 193,
+      "url": "https://openalex.org/W2484983710"
+    },
+    {
+      "openalex_id": "W2021306965",
+      "doi": "10.3389/fpsyg.2012.00548",
+      "title": "How Prediction Errors Shape Perception, Attention, and Motivation",
+      "authors": [
+        {
+          "name": "Hanneke E.M. den Ouden",
+          "openalex_id": "A5091066494",
+          "orcid": "https://orcid.org/0000-0001-7039-5130",
+          "institutions": [
+            "Radboud University Nijmegen",
+            "New York University"
+          ]
+        },
+        {
+          "name": "Peter Kok",
+          "openalex_id": "A5016715765",
+          "orcid": "https://orcid.org/0000-0001-5153-4959",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        },
+        {
+          "name": "Floris P. de Lange",
+          "openalex_id": "A5091104349",
+          "orcid": "https://orcid.org/0000-0002-6730-1452",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Prediction errors (PE) are a central notion in theoretical models of reinforcement learning, perceptual inference, decision-making and cognition, and prediction error signals have been reported across a wide range of brain regions and experimental paradigms. Here, we will make an attempt to see the forest for the trees and consider the commonalities and differences of reported PE signals in light of recent suggestions that the computation of PE forms a fundamental mode of brain function. We discuss where different types of PE are encoded, how they are generated, and the different functional roles they fulfill. We suggest that while encoding of PE is a common computation across brain regions, the content and function of these error signals can be very different and are determined by the afferent and efferent connections within the neural circuitry in which they arise.",
+      "cited_by_count": 525,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00548/pdf"
+      },
+      "topics": [
+        "Visual perception and processing mechanisms",
+        "Neural dynamics and brain function",
+        "Aesthetic Perception and Analysis"
+      ],
+      "referenced_works_count": 164,
+      "url": "https://openalex.org/W2021306965"
+    },
+    {
+      "openalex_id": "W2558206955",
+      "doi": "10.1007/s11229-016-1269-8",
+      "title": "Active inference, enactivism and the hermeneutics of social cognition",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis"
+          ]
+        },
+        {
+          "name": "Micah Allen",
+          "openalex_id": "A5058730535",
+          "orcid": "https://orcid.org/0000-0001-9399-4179",
+          "institutions": [
+            "University College London",
+            "Wellcome Centre for Human Neuroimaging"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-29",
+      "abstract": null,
+      "cited_by_count": 217,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11229-016-1269-8.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W2558206955"
+    },
+    {
+      "openalex_id": "W4396675645",
+      "doi": "10.1007/s11097-024-09979-6",
+      "title": "Framing the predictive mind: why we should think again about Dreyfus",
+      "authors": [
+        {
+          "name": "Jack Reynolds",
+          "openalex_id": "A5028957989",
+          "orcid": "https://orcid.org/0000-0002-4725-0395",
+          "institutions": [
+            "Deakin University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-06",
+      "abstract": "Abstract In this paper I return to Hubert Dreyfus\u2019 old but influential critique of artificial intelligence, redirecting it towards contemporary predictive processing models of the mind (PP). I focus on Dreyfus\u2019 arguments about the \u201cframe problem\u201d for artificial cognitive systems, and his contrasting account of embodied human skills and expertise. The frame problem presents as a prima facie problem for practical work in AI and robotics, but also for computational views of the mind in general, including for PP. Indeed, some of the issues it presents seem more acute for PP, insofar as it seeks to unify all cognition and intelligence, and aims to do so without admitting any cognitive processes or mechanisms outside of the scope of the theory. I contend, however, that there is an unresolved problem for PP concerning whether it can both explain all cognition and intelligent behavior as minimizing prediction error with just the core formal elements of the PP toolbox, and also adequately comprehend (or explain away) some of the apparent cognitive differences between biological and prediction-based artificial intelligence, notably in regard to establishing relevance and flexible context-switching, precisely the features of interest to Dreyfus\u2019 work on embodied indexicality, habits/skills, and abductive inference. I address several influential philosophical versions of PP, including the work of Jakob Hohwy and Andy Clark, as well as more enactive-oriented interpretations of active inference coming from a broadly Fristonian perspective.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11097-024-09979-6.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Social Representations and Identity",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 59,
+      "url": "https://openalex.org/W4396675645"
+    },
+    {
+      "openalex_id": "W2150013078",
+      "doi": "10.1007/s11229-015-0762-9",
+      "title": "Predictive coding and representationalism",
+      "authors": [
+        {
+          "name": "Pawe\u0142 G\u0142adziejewski",
+          "openalex_id": "A5021835319",
+          "orcid": "https://orcid.org/0000-0001-5639-0923",
+          "institutions": [
+            "Institute of Philosophy and Sociology",
+            "Polish Academy of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-09",
+      "abstract": null,
+      "cited_by_count": 183,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-015-0762-9.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 75,
+      "url": "https://openalex.org/W2150013078"
+    },
+    {
+      "openalex_id": "W2068780404",
+      "doi": "10.1111/ejn.12816",
+      "title": "Attention and prediction in human audition: a lesson from cognitive psychophysiology",
+      "authors": [
+        {
+          "name": "Erich Schr\u00f6ger",
+          "openalex_id": "A5065543874",
+          "orcid": "https://orcid.org/0000-0002-8321-6629",
+          "institutions": [
+            "Leipzig University"
+          ]
+        },
+        {
+          "name": "Anna Marzecov\u00e1",
+          "openalex_id": "A5011384696",
+          "orcid": "https://orcid.org/0000-0002-2914-0766",
+          "institutions": [
+            "Leipzig University"
+          ]
+        },
+        {
+          "name": "Iria SanMiguel",
+          "openalex_id": "A5091150137",
+          "orcid": "https://orcid.org/0000-0002-7462-8621",
+          "institutions": [
+            "Leipzig University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-03-01",
+      "abstract": "Abstract Attention is a hypothetical mechanism in the service of perception that facilitates the processing of relevant information and inhibits the processing of irrelevant information. Prediction is a hypothetical mechanism in the service of perception that considers prior information when interpreting the sensorial input. Although both (attention and prediction) aid perception, they are rarely considered together. Auditory attention typically yields enhanced brain activity, whereas auditory prediction often results in attenuated brain responses. However, when strongly predicted sounds are omitted, brain responses to silence resemble those elicited by sounds. Studies jointly investigating attention and prediction revealed that these different mechanisms may interact, e.g. attention may magnify the processing differences between predicted and unpredicted sounds. Following the predictive coding theory, we suggest that prediction relates to predictions sent down from predictive models housed in higher levels of the processing hierarchy to lower levels and attention refers to gain modulation of the prediction error signal sent up to the higher level. As predictions encode contents and confidence in the sensory data, and as gain can be modulated by the intention of the listener and by the predictability of the input, various possibilities for interactions between attention and prediction can be unfolded. From this perspective, the traditional distinction between bottom\u2010up/exogenous and top\u2010down/endogenous driven attention can be revisited and the classic concepts of attentional gain and attentional trace can be integrated.",
+      "cited_by_count": 272,
+      "type": "review",
+      "source": {
+        "name": "European Journal of Neuroscience",
+        "type": "journal",
+        "issn": [
+          "0953-816X",
+          "1460-9568"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejn.12816"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Neural dynamics and brain function",
+        "Hearing Loss and Rehabilitation"
+      ],
+      "referenced_works_count": 236,
+      "url": "https://openalex.org/W2068780404"
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

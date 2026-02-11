@@ -1,0 +1,690 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Evan Risko cognitive offloading",
+  "results": [
+    {
+      "paperId": "a43c46209e447520c0753707baa8c9f12cead7c5",
+      "title": "Cognitive Offloading",
+      "authors": [
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 619,
+      "doi": "10.1016/j.tics.2016.07.002",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a43c46209e447520c0753707baa8c9f12cead7c5",
+      "venue": "Trends in Cognitive Sciences",
+      "journal": {
+        "name": "Trends in Cognitive Sciences",
+        "pages": "676-688",
+        "volume": "20"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "7aa6ead490e5db244d597167b97019cbabb42b5f",
+      "title": "Toward a Metacognitive Account of Cognitive Offloading",
+      "authors": [
+        {
+          "name": "T. Dunn",
+          "authorId": "35244659"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 89,
+      "doi": "10.1111/cogs.12273",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7aa6ead490e5db244d597167b97019cbabb42b5f",
+      "venue": "Cognitive Sciences",
+      "journal": {
+        "name": "Cognitive science",
+        "pages": "\n          1080-127\n        ",
+        "volume": "40 5"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "61293130eb357f1ec44ad348383035fdac248cc7",
+      "title": "Rotating With Rotated Text: A Natural Behavior Approach to Investigating Cognitive Offloading",
+      "authors": [
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "Srdan Medimorec",
+          "authorId": "2932420"
+        },
+        {
+          "name": "Joseph D. Chisholm",
+          "authorId": "2509387"
+        },
+        {
+          "name": "A. Kingstone",
+          "authorId": "3124688"
+        }
+      ],
+      "year": 2014,
+      "abstract": "Determining how we use our body to support cognition represents an important part of understanding the embodied and embedded nature of cognition. In the present investigation, we pursue this question in the context of a common perceptual task. Specifically, we report a series of experiments investigating head tilt (i.e., external normalization) as a strategy in letter naming and reading stimuli that are upright or rotated. We demonstrate that the frequency of this natural behavior is modulated by the cost of stimulus rotation on performance. In addition, we demonstrate that external normalization can benefit performance. All of the results are consistent with the notion that external normalization represents a form of cognitive offloading and that effort is an important factor in the decision to adopt an internal or external strategy.",
+      "citationCount": 83,
+      "doi": "10.1111/cogs.12087",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/61293130eb357f1ec44ad348383035fdac248cc7",
+      "venue": "Cognitive Sciences",
+      "journal": {
+        "name": "Cognitive science",
+        "pages": "\n          537-64\n        ",
+        "volume": "38 3"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f913307a38ec302998f9aa034c9d6a2d55dba89f",
+      "title": "Storing information in-the-world: Metacognition and cognitive offloading in a short-term memory task",
+      "authors": [
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "T. Dunn",
+          "authorId": "35244659"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 163,
+      "doi": "10.1016/j.concog.2015.05.014",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f913307a38ec302998f9aa034c9d6a2d55dba89f",
+      "venue": "Consciousness and Cognition",
+      "journal": {
+        "name": "Consciousness and Cognition",
+        "pages": "61-74",
+        "volume": "36"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "e11c36f4b7d0e9984750a6ad5e50b6a349d92b04",
+      "title": "Action for Memory: Cognitive Offloading and Demands on Short-Term Memory",
+      "authors": [
+        {
+          "name": "T. Dunn",
+          "authorId": "35244659"
+        },
+        {
+          "name": "Srdan Medimorec",
+          "authorId": "2932420"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e11c36f4b7d0e9984750a6ad5e50b6a349d92b04",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "journal": {
+        "name": "Cognitive Science",
+        "volume": "36"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f855d9657f6e0e8b49c312c9ac02bcc2d4d5ce80",
+      "title": "Cognitive Offloading 1 Running Head : COGNITIVE OFFLOADING Cognitive Offloading",
+      "authors": [
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f855d9657f6e0e8b49c312c9ac02bcc2d4d5ce80",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "44cdcac7d8a912994488465270ffd984d7afc7d3",
+      "title": "External Normalization: Testing a Cognitive Offloading Account",
+      "authors": [
+        {
+          "name": "T. Dunn",
+          "authorId": "35244659"
+        },
+        {
+          "name": "Srdan Medimorec",
+          "authorId": "2932420"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/44cdcac7d8a912994488465270ffd984d7afc7d3",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "journal": {
+        "name": "Cognitive Science",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "e4e77c6b798c02e3bc5fc0a00abac14628097c58",
+      "title": "Cognitive offloading increases false recall",
+      "authors": [
+        {
+          "name": "Xinyi Lu",
+          "authorId": "1850654180"
+        },
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e4e77c6b798c02e3bc5fc0a00abac14628097c58",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "journal": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "b9ba934ce2ee6cf0c8b17b4a533180d4554a1ffa",
+      "title": "Cognitive Offloading Meeting 2021",
+      "authors": [
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        },
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Xinyi Lu",
+          "authorId": "1850654180"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "Tobias Tempel",
+          "authorId": "3580066"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "Hauke S. Meyerhoff",
+          "authorId": "31628804"
+        },
+        {
+          "name": "D. Richardson",
+          "authorId": "50428608"
+        },
+        {
+          "name": "E. Marsh",
+          "authorId": "143797375"
+        },
+        {
+          "name": "Emmaline Drew Eliseev",
+          "authorId": "146598626"
+        },
+        {
+          "name": "Lauren L. Richmond",
+          "authorId": "2209342"
+        },
+        {
+          "name": "Lois K. Burnett",
+          "authorId": "2122848248"
+        },
+        {
+          "name": "Jonathan Redshaw",
+          "authorId": "143822824"
+        },
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Joyce S. Park",
+          "authorId": "2149154351"
+        },
+        {
+          "name": "Mary B. Hargis",
+          "authorId": "38423517"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b9ba934ce2ee6cf0c8b17b4a533180d4554a1ffa",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7ed3be87fa2581a5127663b91048e0175349bf06",
+      "title": "Offloading memory: Serial position effects",
+      "authors": [
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 46,
+      "doi": "10.3758/s13423-019-01615-8",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7ed3be87fa2581a5127663b91048e0175349bf06",
+      "venue": "Psychonomic Bulletin & Review",
+      "journal": {
+        "name": "Psychonomic Bulletin & Review",
+        "pages": "1347 - 1353",
+        "volume": "26"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "1f521ad297029a3090d5699f88e3bdceee50b585",
+      "title": "Does expecting external memory support cost recognition memory?",
+      "authors": [
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Batul Karimjee",
+          "authorId": "2343392845"
+        },
+        {
+          "name": "April E. Pereira",
+          "authorId": "2109756567"
+        },
+        {
+          "name": "Xinyi Lu",
+          "authorId": "1850654180"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "2264651893"
+        }
+      ],
+      "year": 2025,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.3758/s13421-025-01688-y",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1f521ad297029a3090d5699f88e3bdceee50b585",
+      "venue": "Memory & Cognition",
+      "journal": {
+        "name": "Memory & Cognition",
+        "pages": "1865 - 1887",
+        "volume": "53"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "9656351f3e50892e2a40413ead80b80b3e903fb1",
+      "title": "Influences of task difficulty on initiation time and overall use of an external strategy",
+      "authors": [
+        {
+          "name": "T. Dunn",
+          "authorId": "35244659"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9656351f3e50892e2a40413ead80b80b3e903fb1",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "journal": {
+        "name": "Cognitive Science",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "29dacd73c6dee827c0e4e09db98f4b341dcdd857",
+      "title": "Offloading items from memory: individual differences in cognitive offloading in a short-term memory task",
+      "authors": [
+        {
+          "name": "Alexandra B. Morrison",
+          "authorId": "6246166"
+        },
+        {
+          "name": "Lauren L. Richmond",
+          "authorId": "2209342"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Cognitive offloading refers to the act of reducing the mental processing requirements of a task through physical actions like writing down information or storing information on a cell phone or computer. Offloading can lead to improved performance on ongoing tasks with high cognitive demand, such as tasks where multiple pieces of information must be simultaneously maintained. However, less is known about why some individuals choose to engage in offloading and under what conditions they might choose to do so. In the present study, offloading behavior is investigated in a short-term memory task requiring memory for letters. The present study is a replication and extension of a previous study conducted by Risko and Dunn, and tests the new prediction that individuals with lower working memory capacity will be more likely to offload. Here, we find that offloading information confers a performance advantage over relying on internal memory stores, particularly at higher memory loads. However, we fail to observe that those with poorer memory abilities have a greater propensity for offloading or benefit more from it. Instead, our findings suggest that cognitive offloading may be a valid compensatory strategy to improve performance of memory-based tasks for individuals with a wide range of memory ability.",
+      "citationCount": 74,
+      "doi": "10.1186/s41235-019-0201-4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/29dacd73c6dee827c0e4e09db98f4b341dcdd857",
+      "venue": "Cognitive Research",
+      "journal": {
+        "name": "Cognitive Research: Principles and Implications",
+        "volume": "5"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "4693de4dcfa6a03c00fdeb09cfed02ad0030f90e",
+      "title": "Dunn, T. L., & Risko, E. F. (2015). Toward a metacognitive account of cognitive offloading. Cognitive Science.",
+      "authors": [
+        {
+          "name": "Canb Lab",
+          "authorId": "117401151"
+        },
+        {
+          "name": "T. Dunn",
+          "authorId": "35244659"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4693de4dcfa6a03c00fdeb09cfed02ad0030f90e",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "e41d5bfd8b5810dffb871d3de273c45f3b5376a5",
+      "title": "Boredom signals deviation from a cognitive homeostatic set point",
+      "authors": [
+        {
+          "name": "Chantal Trudel",
+          "authorId": "2329156880"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "6175736"
+        },
+        {
+          "name": "John D. Eastwood",
+          "authorId": "2304871959"
+        },
+        {
+          "name": "Wijnand A. P. van Tilburg",
+          "authorId": "2192831492"
+        },
+        {
+          "name": "Andreas Elpidorou",
+          "authorId": "2015562"
+        },
+        {
+          "name": "James Danckert",
+          "authorId": "2267178465"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Boredom is the feeling of wanting but failing to engage the mind and can be conceived as one among many signals of suboptimal utilization of cognitive and neural resources. Using homeostasis as an analogy, this perspective argues that boredom represents a signal indicating deviation from optimal engagement\u2014that is, deviation from a cognitive homeostatic set point. Within this model, allostasis accounts for chronic boredom (i.e., trait boredom proneness), according to which faulty internal models are responsible for why the highly boredom prone may set unrealistic expectations for engagement. In other words, the model characterizes boredom as a dynamic response to both internal and external exigencies, leading to testable hypotheses for both the nature of the state and the trait disposition. Furthermore, this perspective presents the broader notion that humans strive to optimally engage with their environs to maintain a kind of cognitive homeostatic set-point. Humans are driven to deploy their cognitive and neural resources in optimal ways \u2013 to maintain a kind of cognitive homeostasis. This perspective outlines the case of boredom as a signal of deviation from that optimal cognitive homeostatic range.",
+      "citationCount": 3,
+      "doi": "10.1038/s44271-025-00209-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e41d5bfd8b5810dffb871d3de273c45f3b5376a5",
+      "venue": "Communications Psychology",
+      "journal": {
+        "name": "Communications Psychology",
+        "volume": "3"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "ce682a2c5d9d05b8a0258e6d589760be6eb01de1",
+      "title": "Breaking the Fourth Wall of Cognitive Science",
+      "authors": [
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "Daniel C. Richardson",
+          "authorId": "2893987"
+        },
+        {
+          "name": "A. Kingstone",
+          "authorId": "3124688"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 228,
+      "doi": "10.1177/0963721415617806",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ce682a2c5d9d05b8a0258e6d589760be6eb01de1",
+      "venue": "",
+      "journal": {
+        "name": "Current Directions in Psychological Science",
+        "pages": "70 - 74",
+        "volume": "25"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "02f31fba7f4254ae2957793c0a551cac5725c48a",
+      "title": "The gist of it: offloading memory does not reduce the benefit of list categorisation",
+      "authors": [
+        {
+          "name": "Xinyi Lu",
+          "authorId": "1850654180"
+        },
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2021,
+      "abstract": "ABSTRACT When we can offload to-be-remembered information to an external store, our ability to recall that information from internal memory can be diminished. However, previous research has suggested that associative memory processes may remain intact in the face of offloading behaviour. In the present investigation, we examine how the opportunity to offload memory demands affects the learning of categorised word lists. Across six experiments, participants studied and wrote down word lists that were either strongly associated with a semantic theme (categorised) or word lists that consisted of the same set of words but shuffled across the categorised lists (shuffled). When participants expected to have access to their written lists during the recall test (i.e., a condition that would encourage offloading) but were not given access to it, we found the typical recall advantage for categorised lists. This effect was found to be the same size or larger compared to a condition where participants did not expect to have access to their written lists during the recall test (i.e., a condition that would not allow offloading). We propose that gist memory supported by semantic associations is not substantially reduced in offloading.",
+      "citationCount": 12,
+      "doi": "10.1080/09658211.2021.1989465",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/02f31fba7f4254ae2957793c0a551cac5725c48a",
+      "venue": "Memory",
+      "journal": {
+        "name": "Memory",
+        "pages": "396 - 411",
+        "volume": "30"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "8ce6eea31a77e7aa3cf51806da87c0fde56b9531",
+      "title": "Revisiting the influence of offloading memory on free recall",
+      "authors": [
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.3758/s13421-021-01237-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8ce6eea31a77e7aa3cf51806da87c0fde56b9531",
+      "venue": "Memory & Cognition",
+      "journal": {
+        "name": "Memory & Cognition",
+        "pages": "710 - 721",
+        "volume": "50"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "29fd2d57e101aff7e95c9df33bfa5c0572d5a549",
+      "title": "Offloading memory leaves us vulnerable to memory manipulation",
+      "authors": [
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "P. Patel",
+          "authorId": "2118544375"
+        },
+        {
+          "name": "Connor Gaspar",
+          "authorId": "41134417"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 23,
+      "doi": "10.1016/j.cognition.2019.04.023",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/29fd2d57e101aff7e95c9df33bfa5c0572d5a549",
+      "venue": "Cognition",
+      "journal": {
+        "name": "Cognition",
+        "volume": "191"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "51423a704d9ad44f861df08263c66b3a7b230365",
+      "title": "Offloading information to an external store increases false recall",
+      "authors": [
+        {
+          "name": "Xinyi Lu",
+          "authorId": "1850654180"
+        },
+        {
+          "name": "Megan O. Kelly",
+          "authorId": "134415458"
+        },
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 23,
+      "doi": "10.1016/j.cognition.2020.104428",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/51423a704d9ad44f861df08263c66b3a7b230365",
+      "venue": "Cognition",
+      "journal": {
+        "name": "Cognition",
+        "volume": "205"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

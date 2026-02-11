@@ -1,0 +1,982 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "ee50e19dd68ccecd5394887ddff5cb246c09f7f3",
+  "results": [
+    {
+      "paper": {
+        "paperId": "ee50e19dd68ccecd5394887ddff5cb246c09f7f3",
+        "title": "Outsourcing Memory to External Tools: A Review of \u2018Intention Offloading\u2019",
+        "authors": [
+          {
+            "name": "S. Gilbert",
+            "authorId": "1901108"
+          },
+          {
+            "name": "Annika Boldt",
+            "authorId": "3387192"
+          },
+          {
+            "name": "Chhavi Sachdeva",
+            "authorId": "1395809643"
+          },
+          {
+            "name": "C. Scarampi",
+            "authorId": "1694860088"
+          },
+          {
+            "name": "Pei\u2010Chun Tsai",
+            "authorId": "48201858"
+          }
+        ],
+        "year": 2022,
+        "abstract": "How do we remember delayed intentions? Three decades of research into prospective memory have provided insight into the cognitive and neural mechanisms involved in this form of memory. However, we depend on more than just our brains to remember intentions. We also use external props and tools such as calendars and diaries, strategically placed objects, and technologies such as smartphone alerts. This is known as \u2018intention offloading\u2019. Despite the progress in our understanding of brain-based prospective memory, we know much less about the role of intention offloading in individuals\u2019 ability to fulfil delayed intentions. Here, we review recent research into intention offloading, with a particular focus on how individuals decide between storing intentions in internal memory versus external reminders. We also review studies investigating how intention offloading changes across the lifespan and how it relates to underlying brain mechanisms. We conclude that intention offloading is highly effective, experimentally tractable, and guided by metacognitive processes. Individuals have systematic biases in their offloading strategies that are stable over time. Evidence also suggests that individual differences and developmental changes in offloading strategies are driven at least in part by metacognitive processes. Therefore, metacognitive interventions could play an important role in promoting individuals\u2019 adaptive use of cognitive tools.",
+        "citationCount": 46,
+        "doi": "10.3758/s13423-022-02139-4",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/ee50e19dd68ccecd5394887ddff5cb246c09f7f3",
+        "venue": "Psychonomic Bulletin & Review"
+      },
+      "references": [
+        {
+          "paperId": "38deac5fc1666b159caed72f30cdcaa727bcab95",
+          "title": "Optimal cognitive offloading: Increased reminder usage but reduced proreminder bias in older adults.",
+          "authors": [
+            {
+              "name": "Pei\u2010Chun Tsai",
+              "authorId": "48201858"
+            },
+            {
+              "name": "C. Scarampi",
+              "authorId": "1694860088"
+            },
+            {
+              "name": "M. Kliegel",
+              "authorId": "3803104"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            }
+          ],
+          "year": 2023,
+          "abstract": null,
+          "citationCount": 12,
+          "doi": "10.1037/pag0000751",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/38deac5fc1666b159caed72f30cdcaa727bcab95",
+          "venue": "Psychology and Aging",
+          "isInfluential": false,
+          "contexts": [
+            "Older age: bias towards reminders Older age predicts reduced bias towards reminders, relative to objective need Tsai et al. (2022) 71"
+          ],
+          "intents": [
+            "background"
+          ]
+        },
+        {
+          "paperId": "c1b76335bc554c956508fadeb38826ffb2918ce3",
+          "title": "Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders",
+          "authors": [
+            {
+              "name": "Lea Fr\u00f6scher",
+              "authorId": "2176488687"
+            },
+            {
+              "name": "Ann-Kathrin Friedrich",
+              "authorId": "2176488918"
+            },
+            {
+              "name": "Max Berentelg",
+              "authorId": "2176488395"
+            },
+            {
+              "name": "Curtis Widmer",
+              "authorId": "2176489262"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            },
+            {
+              "name": "F. Papenmeier",
+              "authorId": "6409010"
+            }
+          ],
+          "year": 2022,
+          "abstract": null,
+          "citationCount": 6,
+          "doi": "10.1186/s41235-022-00416-3",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/c1b76335bc554c956508fadeb38826ffb2918ce3",
+          "venue": "Cognitive Research",
+          "isInfluential": false,
+          "contexts": [
+            "Sachdeva and Gilbert (2020) argued that manipulating performance-based financial rewards allows a test of whether effort-avoidance influences intention offloading.",
+            "Gain versus loss framing Bias towards offloading is reduced when it is framed in terms of loss rather than gain Fr\u00f6scher et al. (2022)"
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "cb34de5e604e132b5b9fc42073e25064150e6ab1",
+          "title": "Effects of incidental reminders on prospective memory in children.",
+          "authors": [
+            {
+              "name": "Nuala Ryder",
+              "authorId": "33387444"
+            },
+            {
+              "name": "L. Kvavilashvili",
+              "authorId": "5938250"
+            },
+            {
+              "name": "Ruth M Ford",
+              "authorId": "34701211"
+            }
+          ],
+          "year": 2022,
+          "abstract": null,
+          "citationCount": 11,
+          "doi": "10.1037/dev0001035",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/cb34de5e604e132b5b9fc42073e25064150e6ab1",
+          "venue": "Developmental Psychology",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "2a72e5660a0b9c790946a2e5a73230cd36734b94",
+          "title": "Partially Overlapping Neural Correlates of Metacognitive Monitoring and Metacognitive Control",
+          "authors": [
+            {
+              "name": "Annika Boldt",
+              "authorId": "3387192"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            }
+          ],
+          "year": 2022,
+          "abstract": null,
+          "citationCount": 24,
+          "doi": "10.1523/JNEUROSCI.1326-21.2022",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/2a72e5660a0b9c790946a2e5a73230cd36734b94",
+          "venue": "Journal of Neuroscience",
+          "isInfluential": false,
+          "contexts": [
+            "Boldt and Gilbert (2022) developed a new paradigm to investigate the first question using functional magnetic resonance imaging (fMRI)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "b2df58cf9578ff34c6ea0ea6ca2d59b6c65ee41a",
+          "title": "Individual differences in working memory capacity predict benefits to memory from intention offloading",
+          "authors": [
+            {
+              "name": "H. Ball",
+              "authorId": "144658855"
+            },
+            {
+              "name": "P. Peper",
+              "authorId": "118012413"
+            },
+            {
+              "name": "D. Alakbarova",
+              "authorId": "2089129672"
+            },
+            {
+              "name": "Gene A. Brewer",
+              "authorId": "35135684"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            }
+          ],
+          "year": 2021,
+          "abstract": null,
+          "citationCount": 24,
+          "doi": "10.1080/09658211.2021.1991380",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/b2df58cf9578ff34c6ea0ea6ca2d59b6c65ee41a",
+          "venue": "Memory",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "bc9c1f414c66eb462349a36acb160c6929b991d8",
+          "title": "Children boost their cognitive performance with a novel offloading technique.",
+          "authors": [
+            {
+              "name": "Kristy L. Armitage",
+              "authorId": "1438614841"
+            },
+            {
+              "name": "Jonathan Redshaw",
+              "authorId": "143822824"
+            }
+          ],
+          "year": 2021,
+          "abstract": null,
+          "citationCount": 19,
+          "doi": "10.1111/cdev.13664",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/bc9c1f414c66eb462349a36acb160c6929b991d8",
+          "venue": "Child Development",
+          "isInfluential": false,
+          "contexts": [
+            "These findings show that under the right circumstances, selective offloading strategies may be observed in very young children (see also Armitage et\u00a0al., 2020; Armitage & Redshaw, 2021)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "f3d2bf264b688cc8045c4c8deedf1b60c45fded1",
+          "title": "Value-based routing of delayed intentions into brain-based versus external memory stores.",
+          "authors": [
+            {
+              "name": "Dawa Dupont",
+              "authorId": "1580411016"
+            },
+            {
+              "name": "Qianmeng Zhu",
+              "authorId": "2152208467"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            }
+          ],
+          "year": 2021,
+          "abstract": null,
+          "citationCount": 14,
+          "doi": "10.31234/osf.io/wq7rs",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/f3d2bf264b688cc8045c4c8deedf1b60c45fded1",
+          "venue": "Journal of experimental psychology. General",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "f241a88ec7605570f286d837603a4ee5ba00be71",
+          "title": "Technology may change cognition without necessarily harming it",
+          "authors": [
+            {
+              "name": "Lorenzo Cecutti",
+              "authorId": "117556256"
+            },
+            {
+              "name": "A. Chemero",
+              "authorId": "2767496"
+            },
+            {
+              "name": "Spike W. S. Lee",
+              "authorId": "4172002"
+            }
+          ],
+          "year": 2021,
+          "abstract": null,
+          "citationCount": 26,
+          "doi": "10.1038/s41562-021-01162-0",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/f241a88ec7605570f286d837603a4ee5ba00be71",
+          "venue": "Nature Human Behaviour",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "8365832901028425a34236ebc7ba4f859aac501a",
+          "title": "Preserving prospective memory in daily life: A systematic review and meta-analysis of mnemonic strategy, cognitive training, external memory aid, and combination interventions.",
+          "authors": [
+            {
+              "name": "Winston E Jones",
+              "authorId": "144061502"
+            },
+            {
+              "name": "J. Benge",
+              "authorId": "4523151"
+            },
+            {
+              "name": "M. Scullin",
+              "authorId": "5775974"
+            }
+          ],
+          "year": 2021,
+          "abstract": null,
+          "citationCount": 56,
+          "doi": "10.1037/neu0000704",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/8365832901028425a34236ebc7ba4f859aac501a",
+          "venue": "Neuropsychology",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "5c407c4fd0dca5224ef0c41f111b3b7da5256edf",
+          "title": "Individual differences in cognitive offloading: a comparison of intention offloading, pattern copy, and short-term memory capacity",
+          "authors": [
+            {
+              "name": "Hauke S. Meyerhoff",
+              "authorId": "31628804"
+            },
+            {
+              "name": "Sandra Grinschgl",
+              "authorId": "51294259"
+            },
+            {
+              "name": "F. Papenmeier",
+              "authorId": "6409010"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 26,
+          "doi": "10.1186/s41235-021-00298-x",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/5c407c4fd0dca5224ef0c41f111b3b7da5256edf",
+          "venue": "Cognitive Research",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "9f5fa4a4061de4cdf123d7afd9c3295b2d76ede3",
+          "title": "From metacognitive beliefs to strategy selection: does fake performance feedback influence cognitive offloading?",
+          "authors": [
+            {
+              "name": "Sandra Grinschgl",
+              "authorId": "51294259"
+            },
+            {
+              "name": "Hauke S. Meyerhoff",
+              "authorId": "31628804"
+            },
+            {
+              "name": "S. Schwan",
+              "authorId": "1682320"
+            },
+            {
+              "name": "F. Papenmeier",
+              "authorId": "6409010"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 21,
+          "doi": "10.1007/s00426-020-01435-9",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/9f5fa4a4061de4cdf123d7afd9c3295b2d76ede3",
+          "venue": "Psychological Research",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "2de999256b13a29bdc50b9bdf24162374003f7b9",
+          "title": "Excessive use of reminders: Metacognition and effort-minimisation in cognitive offloading",
+          "authors": [
+            {
+              "name": "Chhavi Sachdeva",
+              "authorId": "1395809643"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 42,
+          "doi": "10.1016/j.concog.2020.103024",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/2de999256b13a29bdc50b9bdf24162374003f7b9",
+          "venue": "Consciousness and Cognition",
+          "isInfluential": true,
+          "contexts": [
+            "Sachdeva and Gilbert (2020) provided evidence that one such factor is a preference to avoid cognitive effort.",
+            "This is exactly what was found by Sachdeva and Gilbert (2020): the bias towards external reminders was significantly reduced, but not eliminated, when participants received a financial reward for their performance of the task.",
+            "Sachdeva and Gilbert (2020) argued that manipulating performance-based financial rewards allows a test of whether effort-avoidance influences intention offloading.",
+            "(2022)\nFinancial reward (2) Financial incentive leads to more optimal offloading (less effort avoidance)\nSachdeva and Gilbert (2020)\nTask instructions Explicit instructions increase uptake of offloading strategy\nBoldt and Gilbert (2019)\nStrategy perseveration Prior use of offloading strategy\u2026",
+            "\u2026for a systematic bias: Individuals tend to set reminders on a greater number of trials (and, equivalently, use internal memory on a smaller number of trials) than would be optimal (Ball et\u00a0al., 2022; Engeler & Gilbert, 2020; Gilbert et\u00a0al., 2020; Kirk et\u00a0al., 2021; Sachdeva & Gilbert, 2020)."
+          ],
+          "intents": [
+            "result",
+            "background"
+          ]
+        },
+        {
+          "paperId": "51423a704d9ad44f861df08263c66b3a7b230365",
+          "title": "Offloading information to an external store increases false recall",
+          "authors": [
+            {
+              "name": "Xinyi Lu",
+              "authorId": "1850654180"
+            },
+            {
+              "name": "Megan O. Kelly",
+              "authorId": "134415458"
+            },
+            {
+              "name": "Evan F. Risko",
+              "authorId": "1831734"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 23,
+          "doi": "10.1016/j.cognition.2020.104428",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/51423a704d9ad44f861df08263c66b3a7b230365",
+          "venue": "Cognition",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "394419f11ddf491b617fa8f8b719a9aa684189d1",
+          "title": "Children Devise and Selectively Use Tools to Offload Cognition",
+          "authors": [
+            {
+              "name": "Adam Bulley",
+              "authorId": "4632946"
+            },
+            {
+              "name": "Thomas McCarthy",
+              "authorId": "2106067920"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            },
+            {
+              "name": "T. Suddendorf",
+              "authorId": "4087456"
+            },
+            {
+              "name": "Jonathan Redshaw",
+              "authorId": "143822824"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 32,
+          "doi": "10.1016/j.cub.2020.06.035",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/394419f11ddf491b617fa8f8b719a9aa684189d1",
+          "venue": "Current Biology",
+          "isInfluential": false,
+          "contexts": [
+            "Bulley et al. (2020) investigated a short-term retrospective memory task, finding that once the offloading strategy was instructed, even children as young as 4 years selectively set reminders at a higher memory load."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "98d470d643d4ae4eb6699d2e9d6c34b378920b9d",
+          "title": "Age differences in strategic reminder setting and the compensatory role of metacognition.",
+          "authors": [
+            {
+              "name": "C. Scarampi",
+              "authorId": "1694860088"
+            },
+            {
+              "name": "S. Gilbert",
+              "authorId": "1901108"
+            }
+          ],
+          "year": 2020,
+          "abstract": null,
+          "citationCount": 33,
+          "doi": "10.31234/osf.io/vsa45",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/98d470d643d4ae4eb6699d2e9d6c34b378920b9d",
+          "venue": "Psychology and Aging",
+          "isInfluential": true,
+          "contexts": [
+            "Table 1 Factors influencing intention offloading\nFactor Finding Evidence\nMemory load Higher memory load increases offloading Gilbert (2015a), Scarampi and Gilbert (2020, 2021), Redshaw et\u00a0al.",
+            "In sum, the results of Scarampi and Gilbert (2021) and Tsai et\u00a0al.",
+            "This appears to be the case in older adults studied by Scarampi and Gilbert (2021), who were overconfident in their memory ability and did not fully compensate for impaired performance when reminder-setting was allowed.",
+            "(2018)\nOlder age: absolute use of reminder Older age predicts numerically increased use of reminders Scarampi and Gilbert (2021); Tsai et\u00a0al.",
+            "Scarampi and Gilbert (2021) administered a version of the intention offloading task used by Gilbert (2015a) to a group of younger (18\u201330 years) and older (65\u201384 years) participants."
+          ],
+          "intents": [
+            "methodology",
+            "result",
+            "background"
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "paperId": "c9917eaa1f4977cf793da96cfcac1cd68d1c37e3",
+          "title": "Exploring the influence of strategy choice involving cognitive offloading on metacognitive judgments",
+          "authors": [
+            {
+              "name": "Yuan Ma",
+              "authorId": "2260006826"
+            },
+            {
+              "name": "Tsutomu Fujinami",
+              "authorId": "2259954351"
+            }
+          ],
+          "year": 2026,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1007/s44202-025-00539-w",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/c9917eaa1f4977cf793da96cfcac1cd68d1c37e3",
+          "venue": "Discover Psychology",
+          "isInfluential": false,
+          "contexts": [
+            "Prior research has focused on how meta-cognition guides the selection of cognitive offloading [2, 7, 9, 12, 14, 23, 25, 28] and has shown that confidence typically increases with cognitive offloading [2, 25], often without distinguishing FOJs from SOJs.",
+            "Cognitive offloading has received increasing research attention over the past decade (see reviews by [12, 24]), driven by the widespread adoption of various digital technologies."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "cffe957f7f6886018b5c8b22e3431b6745631318",
+          "title": "The Transparency Paradox in Explainable AI: A Theory of Autonomy Depletion Through Cognitive Load",
+          "authors": [
+            {
+              "name": "Ancuta Margondai",
+              "authorId": "2306790089"
+            },
+            {
+              "name": "Mustapha Mouloua",
+              "authorId": "2402530254"
+            }
+          ],
+          "year": 2026,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": null,
+          "arxivId": "2601.13973",
+          "url": "https://www.semanticscholar.org/paper/cffe957f7f6886018b5c8b22e3431b6745631318",
+          "venue": "",
+          "isInfluential": false,
+          "contexts": [
+            "Individual differences in capacity mean optimal information levels vary systematically (Gilbert, Boldt, Sachdeva, Scarampi, & Tsai, 2023; Navarro, Macnamara, Glucksberg, & Conway, 2020).",
+            "The stopping time is This formalizes the psychological reality that individuals with higher working memory tolerate more cognitive load before autonomy depletes to disengagement (Gilbert et al., 2023; Navarro et al., 2020)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "f75431e9b2977d7da1526528890bd7f0bbd23ab9",
+          "title": "Effects of Ego Depletion on Prospective Memory and Its Components",
+          "authors": [
+            {
+              "name": "Rui Jia",
+              "authorId": "2407935798"
+            },
+            {
+              "name": "Mengqi Wu",
+              "authorId": "2408264201"
+            },
+            {
+              "name": "Jiaqun Gan",
+              "authorId": "1444611444"
+            },
+            {
+              "name": "Yunfei Guo",
+              "authorId": "2124923166"
+            }
+          ],
+          "year": 2026,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1002/acp.70173",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/f75431e9b2977d7da1526528890bd7f0bbd23ab9",
+          "venue": "Applied Cognitive Psychology",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "c4b9ecf9e072543ab4a2572abed041b521e5bba1",
+          "title": "Investigating novice translation students\u2019 AI literacy in translation education",
+          "authors": [
+            {
+              "name": "Jia Zhang",
+              "authorId": "2375296191"
+            },
+            {
+              "name": "Stephen Doherty",
+              "authorId": "2292587334"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1080/1750399X.2025.2541478",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/c4b9ecf9e072543ab4a2572abed041b521e5bba1",
+          "venue": "The Interpreter and Translator Trainer",
+          "isInfluential": false,
+          "contexts": [
+            "In a review conducted by Gilbert et al. (2023), cognitive offloading was found to be both beneficial and detrimental."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "4d5ab324b844d6301f38ac0acb2ee71777902480",
+          "title": "Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach",
+          "authors": [
+            {
+              "name": "S. Alghamdi",
+              "authorId": "2220897225"
+            },
+            {
+              "name": "Christopher Bull",
+              "authorId": "2326129208"
+            },
+            {
+              "name": "Ahmed Kharrufa",
+              "authorId": "2445830"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.48550/arXiv.2507.22671",
+          "arxivId": "2507.22671",
+          "url": "https://www.semanticscholar.org/paper/4d5ab324b844d6301f38ac0acb2ee71777902480",
+          "venue": "arXiv.org",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "032479d1bca5bfd6417ca20c30658880bd7ee3b6",
+          "title": "The role of short-term memory, type of practice and metacognitive judgments in predicting cognitive offloading",
+          "authors": [
+            {
+              "name": "Dan Chiappe",
+              "authorId": "2260764684"
+            },
+            {
+              "name": "Kim-Phuong L. Vu",
+              "authorId": "2287673474"
+            },
+            {
+              "name": "Michelle Tornquist",
+              "authorId": "46370667"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.3389/fcogn.2025.1595956",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/032479d1bca5bfd6417ca20c30658880bd7ee3b6",
+          "venue": "Frontiers in Cognition",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "324e3be916282b68dc4db774694c299e0e61a6f8",
+          "title": "Meta-analytic investigations of the effect of cognitive offloading on memory-based task performance and interindividual variability",
+          "authors": [
+            {
+              "name": "Lois K. Burnett",
+              "authorId": "2122848248"
+            },
+            {
+              "name": "Lauren L. Richmond",
+              "authorId": "2253791110"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.3758/s13421-025-01743-8",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/324e3be916282b68dc4db774694c299e0e61a6f8",
+          "venue": "Memory & Cognition",
+          "isInfluential": false,
+          "contexts": [
+            "1 Since that time, several reviews of the cognitive offloading literature have been published (see Gilbert et al., 2023; Gilbert, 2024; Risko & Kelly, 2024).",
+            "\u2026has shown that metacognition plays an important role in the decision to use cognitive offloading (Boldt & Gilbert, 2019; Engeler & Gilbert, 2020; Gilbert et al. 2023; Hu et al., 2019), that more frequent offloading is associated with a greater benefit to performance (e.g., Morrison & Richmond,\u2026"
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "6438c192c782b75a3b2644eb298b75d21f494d7a",
+          "title": "Transdiagnostic compulsivity is associated with reduced reminder setting, only partially attributable to overconfidence",
+          "authors": [
+            {
+              "name": "Annika Boldt",
+              "authorId": "3387192"
+            },
+            {
+              "name": "C. Fox",
+              "authorId": "2050185895"
+            },
+            {
+              "name": "C. Gillan",
+              "authorId": "1958207"
+            },
+            {
+              "name": "Sam J. Gilbert",
+              "authorId": "2250733428"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 5,
+          "doi": "10.7554/eLife.98114",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/6438c192c782b75a3b2644eb298b75d21f494d7a",
+          "venue": "eLife",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "bd35324c98ad1589caac3fbb8aa02b308c684241",
+          "title": "Extending Minds with Generative AI",
+          "authors": [
+            {
+              "name": "Andy Clark",
+              "authorId": "2275070206"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 26,
+          "doi": "10.1038/s41467-025-59906-9",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/bd35324c98ad1589caac3fbb8aa02b308c684241",
+          "venue": "Nature Communications",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "84f97d0bfe5ec5f59055bbb569cf56be72b0b400",
+          "title": "Microstructural organization of superior longitudinal fasciculus and cingulum bundle support metacognition driven cognitive offloading",
+          "authors": [
+            {
+              "name": "Yunxuan Zheng",
+              "authorId": "1600485048"
+            },
+            {
+              "name": "Bin Bo",
+              "authorId": "2330365860"
+            },
+            {
+              "name": "Danni Wang",
+              "authorId": "2155680830"
+            },
+            {
+              "name": "Yiyang Liu",
+              "authorId": "2317118188"
+            },
+            {
+              "name": "Sam J Gilbert",
+              "authorId": "2295518663"
+            },
+            {
+              "name": "Yao Li",
+              "authorId": "2239165076"
+            },
+            {
+              "name": "S. C. Kwok",
+              "authorId": "2603479"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.1038/s41598-025-18631-5",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/84f97d0bfe5ec5f59055bbb569cf56be72b0b400",
+          "venue": "bioRxiv",
+          "isInfluential": false,
+          "contexts": [
+            "We adapted a cognitive offloading task from Sachdeva and Gilbert 11 , measuring aspects of prospective memory in a way that requires remembering and acting delayed intentions (Fig.",
+            "In this task, participants either choose freely between using internal memory (for maximum points) or external reminders (for fewer points), or were forced to use one or the other strategy.",
+            "In the following, we described three key stages of the task: Delayed intention, external reminder strategy selection, and pre-task confidence ratings."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "51444f70be9098f30c1545df6a31c058c97187ec",
+          "title": "Understanding Older Adults' Experience of Prospective Memory Errors and Strategy Use",
+          "authors": [
+            {
+              "name": "Maria A. Nygaard",
+              "authorId": "2360071576"
+            },
+            {
+              "name": "Eva Rub\u00ednov\u00e1",
+              "authorId": "2360071397"
+            },
+            {
+              "name": "Julia L. Allan",
+              "authorId": "2271519585"
+            },
+            {
+              "name": "Louise H. Phillips",
+              "authorId": "2250973535"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.1002/acp.70066",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/51444f70be9098f30c1545df6a31c058c97187ec",
+          "venue": "Applied Cognitive Psychology",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "277b643ed994515f5b07b51c29784ab85b9a4a39",
+          "title": "A Bayesian Exploration on the Motivational and Behavioral Impacts of Chatbots in Language Learning",
+          "authors": [
+            {
+              "name": "M. Carlon",
+              "authorId": "1471719001"
+            },
+            {
+              "name": "J. Matthews",
+              "authorId": "144081673"
+            },
+            {
+              "name": "Yasuo Kuniyoshi",
+              "authorId": "2238792957"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1145/3706599.3720088",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/277b643ed994515f5b07b51c29784ab85b9a4a39",
+          "venue": "CHI Extended Abstracts",
+          "isInfluential": false,
+          "contexts": [
+            "Additionally, excessive reliance on these tools may lead to reduced critical thinking and skill degradation, as noted in studies on cognitive offloading [11, 14, 15].",
+            "These observations align with research indicating that overly complex interfaces can induce cognitive overload, thereby diminishing their effectiveness in educational settings [14, 15]."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "351a8f7042da10aa922aad422f0e1fa1fdf286db",
+          "title": "Strategic reminder setting for time-based intentions: Influence of metacognition, delay length, and cue visibility",
+          "authors": [
+            {
+              "name": "Pei-Chun Tsai",
+              "authorId": "2355822349"
+            },
+            {
+              "name": "Sam J Gilbert",
+              "authorId": "2295518663"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.3758/s13421-025-01708-x",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/351a8f7042da10aa922aad422f0e1fa1fdf286db",
+          "venue": "Memory & Cognition",
+          "isInfluential": false,
+          "contexts": [
+            "While research into PM has traditionally focused on brain-based mechanisms for remembering intentions (e.g., McDaniel et al., 2015), recent studies have also investigated the ways in which people use their bodies and the wider physical environment (reviewed by Gilbert et al., 2023).",
+            "This is a form of cognitive offloading (Risko & Gilbert, 2016) known as \u2018intention offloading\u2019 (Gilbert et al., 2023)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "d2ef1bbf79c348f9758478ea1dba54587ab968cb",
+          "title": "Individual differences in prospective and retrospective memory offloading.",
+          "authors": [
+            {
+              "name": "Lauren L. Richmond",
+              "authorId": "2253791110"
+            },
+            {
+              "name": "Lois K. Burnett",
+              "authorId": "2122848248"
+            },
+            {
+              "name": "Julia Kearley",
+              "authorId": "2122943677"
+            },
+            {
+              "name": "Sam J. Gilbert",
+              "authorId": "2250733428"
+            },
+            {
+              "name": "Alexandra B. Morrison",
+              "authorId": "2341980348"
+            },
+            {
+              "name": "B. H. Ball",
+              "authorId": "2250963301"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 5,
+          "doi": "10.1016/j.jml.2025.104617",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/d2ef1bbf79c348f9758478ea1dba54587ab968cb",
+          "venue": "Journal of Memory and Language",
+          "isInfluential": true,
+          "contexts": [
+            "Participants perform better when they have the opportunity to (Boldt & Gilbert, 2019; Chiu & Gilbert, 2023; Gilbert, 2015b, 2015a) or are forced to (Ball, Peper, et al., 2022; Engeler & Gilbert, 2020; Gilbert et al., 2020; Sachdeva & Gilbert, 2020; Scarampi & Gilbert, 2020) engage in cognitive\u2026",
+            "Despite the consistency of findings across the literature around the benefits of cognitive offloading (Burnett & Richmond, under review; Gilbert et al., 2023), there are individual differences in the extent to which people may choose to engage in offloading and the benefits that they derive from\u2026",
+            "In this context, if participants believe that it would be more effortful to create an external store than to retrieve information from memory, they may opt not to engage in cognitive offloading (Chiu & Gilbert, 2023; Gilbert, 2024).",
+            "Studies have consistently shown that people perform better when they have the opportunity to offload information compared to relying on internal memory alone (Burnett & Richmond, under review; Gilbert et al., 2023), akin to instructions for standard memory tasks administered in laboratory settings."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "6fb8247079c285dbff937a59ddbf856c9baec359",
+          "title": "Exploring the Role of Search Experience and Self-Efficacy in Cognitive Self-Esteem: A Latent Growth Modelling Approach",
+          "authors": [
+            {
+              "name": "Mahir Akg\u00fcn",
+              "authorId": "2364343607"
+            },
+            {
+              "name": "Sacip Toker",
+              "authorId": "40271999"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1177/21582440251329736",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/6fb8247079c285dbff937a59ddbf856c9baec359",
+          "venue": "SAGE Open",
+          "isInfluential": false,
+          "contexts": [
+            "Repeated success in cognitive offloading reinforces reliance on search engines over memory recall (Gilbert et al., 2023)."
+          ],
+          "intents": []
+        }
+      ],
+      "references_count": 15,
+      "citations_count": 15
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

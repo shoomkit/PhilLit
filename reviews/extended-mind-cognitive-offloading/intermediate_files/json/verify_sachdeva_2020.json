@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1016/j.concog.2020.103024"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1016/j.concog.2020.103024",
+      "title": "Excessive use of reminders: Metacognition and effort-minimisation in cognitive offloading",
+      "authors": [
+        {
+          "family": "Sachdeva",
+          "given": "Chhavi"
+        },
+        {
+          "family": "Gilbert",
+          "given": "Sam J."
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Consciousness and Cognition",
+      "volume": "85",
+      "issue": "",
+      "page": "103024",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1016/j.concog.2020.103024"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

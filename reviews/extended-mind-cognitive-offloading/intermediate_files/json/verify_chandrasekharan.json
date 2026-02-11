@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/cogs.12203"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/cogs.12203",
+      "title": "Building Cognition: The Construction of Computational Representations for Scientific Discovery",
+      "authors": [
+        {
+          "family": "Chandrasekharan",
+          "given": "Sanjay"
+        },
+        {
+          "family": "Nersessian",
+          "given": "Nancy J."
+        }
+      ],
+      "editors": [],
+      "year": 2014,
+      "container_title": "Cognitive Science",
+      "volume": "39",
+      "issue": "8",
+      "page": "1727-1763",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/cogs.12203"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

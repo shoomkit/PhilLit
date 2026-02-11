@@ -1,0 +1,1633 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "extended mind thesis",
+  "results": [
+    {
+      "openalex_id": "W2014529154",
+      "doi": "10.1007/s10339-005-0012-z",
+      "title": "Collective memory, group minds, and the extended mind thesis",
+      "authors": [
+        {
+          "name": "Robert A. Wilson",
+          "openalex_id": "A5073390460",
+          "orcid": "https://orcid.org/0000-0002-8034-0317",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-08-11",
+      "abstract": null,
+      "cited_by_count": 228,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Processing",
+        "type": "journal",
+        "issn": [
+          "1612-4782",
+          "1612-4790"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Memory and Neural Mechanisms",
+        "Evolutionary Game Theory and Cooperation"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W2014529154"
+    },
+    {
+      "openalex_id": "W2002771475",
+      "doi": "10.1080/15265160701518466",
+      "title": "Rethinking Neuroethics in the Light of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Neil Levy",
+          "openalex_id": "A5051836354",
+          "orcid": "https://orcid.org/0000-0002-5679-1986",
+          "institutions": [
+            "University of Melbourne",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-09-12",
+      "abstract": "The extended mind thesis is the claim that mental states extend beyond the skulls of the agents whose states they are. This seemingly obscure and bizarre claim has far-reaching implications for neuroethics, I argue. In the first half of this article, I sketch the extended mind thesis and defend it against criticisms. In the second half, I turn to its neuroethical implications. I argue that the extended mind thesis entails the falsity of the claim that interventions into the brain are especially problematic just because they are internal interventions, but that many objections to such interventions rely, at least in part, on this claim. Further, I argue that the thesis alters the focus of neuroethics, away from the question of whether we ought to allow interventions into the mind, and toward the question of which interventions we ought to allow and under what conditions. The extended mind thesis dramatically expands the scope of neuroethics: because interventions into the environment of agents can count as interventions into their minds, decisions concerning such interventions become questions for neuroethics.",
+      "cited_by_count": 89,
+      "type": "article",
+      "source": {
+        "name": "The American Journal of Bioethics",
+        "type": "journal",
+        "issn": [
+          "1526-5161",
+          "1536-0075"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Psychology of Moral and Emotional Judgment",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2002771475"
+    },
+    {
+      "openalex_id": "W1972144033",
+      "doi": "10.1007/s11406-011-9355-0",
+      "title": "Two Versions of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Katalin Farkas",
+          "openalex_id": "A5023948387",
+          "orcid": "https://orcid.org/0000-0001-9567-091X",
+          "institutions": [
+            "Central European University"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-12-23",
+      "abstract": null,
+      "cited_by_count": 38,
+      "type": "article",
+      "source": {
+        "name": "Philosophia",
+        "type": "journal",
+        "issn": [
+          "0048-3893",
+          "1574-9274"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W1972144033"
+    },
+    {
+      "openalex_id": "W2060879424",
+      "doi": "10.1111/j.1467-9744.2009.01022.x",
+      "title": "PERSONS AND THE EXTENDED\u2010MIND THESIS",
+      "authors": [
+        {
+          "name": "Lynne Rudder Baker",
+          "openalex_id": "A5110739936",
+          "institutions": [
+            "University of Massachusetts Amherst",
+            "Zygon Center for Religion and Science"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-08-21",
+      "abstract": "The extended\u2010mind thesis (EM) is the claim that mentality need not be situated just in the brain, or even within the boundaries of the skin. Some versions take \u201cextended selves\u201d be to relatively transitory couplings of biological organisms and external resources. First, I show how EM can be seen as an extension of traditional views of mind. Then, after voicing a couple of qualms about EM, I reject EM in favor of a more modest hypothesis that recognizes enduring subjects of experience and agents with integrated bodies. Nonetheless, my modest hypothesis allows subpersonal states to have nonbiological parts that play essential roles in cognitive processing. I present empirical warrant for this modest hypothesis and show how it leaves room for science and religion to coexist.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "Zygon\u00ae",
+        "type": "journal",
+        "issn": [
+          "0591-2385",
+          "1467-9744"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1111/j.1467-9744.2009.01022.x"
+      },
+      "topics": [
+        "Evolutionary Game Theory and Cooperation",
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W2060879424"
+    },
+    {
+      "openalex_id": "W2553390966",
+      "doi": "10.1080/09515089.2016.1236369",
+      "title": "Out of our skulls: How the extended mind thesis can extend psychiatry",
+      "authors": [
+        {
+          "name": "Ginger A. Hoffman",
+          "openalex_id": "A5089963243",
+          "orcid": "https://orcid.org/0000-0002-3674-8809",
+          "institutions": [
+            "Saint Joseph's University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-08",
+      "abstract": "The thesis that mental states extend beyond the skull, otherwise known as the extended mind thesis (ExM), has attracted considerable philosophical attention and support. It has also been accused of lacking practical import. At the same time, the field of psychiatry has remained largely unacquainted with ExM, tending to rely instead upon what ExM proponents would consider to be outdated models of the mind. ExM and psychiatry, therefore, have much to offer one another, but the connection between the two has remained largely unexplored. Here, I consider what implications ExM may have for psychiatry and, in so doing, reveal how psychiatry may lend practical import to ExM. First, I detail the possibility of the extension of one mental state relevant to psychiatry. I augment this example by surveying other possibilities for extension in the context of psychiatric diagnoses. I then consider ways in which such extensions might alter psychiatric diagnosis and treatment. Overall, I argue that recognition of the truth of ExM could alter the diagnostic status of certain individuals by correcting both false positives and false negatives, re-conceptualize certain aspects of treatment, help us re-envision psychiatric research, and potentially increase empathy towards those individuals considered to be mentally disordered or mentally different.",
+      "cited_by_count": 57,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Mental Health and Psychiatry",
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 54,
+      "url": "https://openalex.org/W2553390966"
+    },
+    {
+      "openalex_id": "W2281915484",
+      "doi": "10.1093/obo/9780195396577-0099",
+      "title": "The Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Mirko Farina",
+          "openalex_id": "A5039029789",
+          "orcid": "https://orcid.org/0000-0001-8342-6549"
+        },
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-11-27",
+      "abstract": "The extended mind thesis (EMT) claims that the cognitive processes that make up the human mind can reach beyond the boundaries of individual to include as proper parts aspects of the individual\u2019s physical and sociocultural environment. Proponents of the extended mind story thus hold that even quite familiar human mental states (such as states of believing that so-and-so) can be realized, in part, by structures and processes located outside the human head. Such claims go far beyond the important, but less challenging, assertion that human cognizing leans heavily on various forms of external scaffolding and support. Instead, they paint mind itself (or better, the physical machinery that realizes some of our cognitive processes and mental states) as, under humanly attainable conditions, extending beyond the bounds of skin and skull. Extended cognition in its most general form occurs when internal and external resources become fluently tuned and deeply integrated in such a way as to enable a cognitive agent to solve problems and accomplish their projects, goals, and interests. Consider, for instance, how technological resources such as pens, paper, and personal computers are now so deeply integrated into our everyday lives that we couldn\u2019t accomplish many of our cognitive goals and purposes without them. The extended mind thesis claims that technological resources have become so thoroughly enmeshed with our internal cognitive machinery that they now count as part of the machinery of thought itself. Underlying (but distinct from) the extended mind thesis is a commonplace observation thatintelligent problem solving of the kind we find in adult humans isn\u2019t something the naked brain can achieve all on its own, but is instead the outcome of the brain and body operating together in an environmental and often technologically loaded setting. As humans, we possess the kinds of high-level cognitive skills and abilities we do in no small part because of the many tools we use for thinking. The extended mind thesis goes further, however, by claiming that it is mere prejudice to suppose that all cognition must take place within the confines of the organism\u2019s skin and skull. Cognitive science, it is then claimed, shouldn\u2019t only concern itself with the more or less enduring processes taking place inside the heads of cognitive agents. Cognitive scientists should also investigate, on a kind of equal footing, temporary, soft-assembled wholes that mesh the problem-solving contributions of the brain and nervous system with the body and physical and sociocultural environment.",
+      "cited_by_count": 16,
+      "type": "dataset",
+      "source": {
+        "name": "Oxford Bibliographies Online Datasets",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2281915484"
+    },
+    {
+      "openalex_id": "W2089027783",
+      "doi": "10.1007/s11097-013-9319-x",
+      "title": "The artifactual mind: overcoming the \u2018inside\u2013outside\u2019 dualism in the extended mind thesis and recognizing the technological dimension of cognition",
+      "authors": [
+        {
+          "name": "Ciano Aydin",
+          "openalex_id": "A5028695853",
+          "orcid": "https://orcid.org/0000-0002-4654-2628",
+          "institutions": [
+            "Delft University of Technology",
+            "University of Twente"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-05-29",
+      "abstract": "This paper explains why Clark\u2019s Extended Mind thesis is not capable of sufficiently grasping how and in what sense external objects and technical artifacts can become part of our human cognition. According to the author, this is because a pivotal distinction between inside and outside is preserved in the Extended Mind theorist\u2019s account of the relation between the human organism and the world of external objects and artifacts, a distinction which they proclaim to have overcome. Inspired by Charles S. Peirce\u2019s philosophy of mind, in particular, the author tries to find a way out of this \u2018inside\u2013outside\u2019 fallacy. External objects, artifacts or processes should, according to him, not be conceived as inanimate and unintelligent matter utilised by a separately living, inner mental sphere that has set certain pre-established goals for itself. Mind has rather an artifactual character. It is not extended by an inner biological cognitive core but rather unfolds itself through objects and artifacts. Mind as such is, especially in our modern technological culture, shaped by virtue of and through technical artifacts. Recognizing this artifactual dimension of mind will, the author concludes, enable a more critical analysis of contemporary claims that ascribe certain original and irreducible features to thinking.",
+      "cited_by_count": 34,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://research.utwente.nl/en/publications/2e233c20-55dd-480d-801c-8e5dc593b18c"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Origins and Evolution of Life"
+      ],
+      "referenced_works_count": 92,
+      "url": "https://openalex.org/W2089027783"
+    },
+    {
+      "openalex_id": "W4310522411",
+      "doi": "10.1007/s11229-022-03963-w",
+      "title": "Mind embedded or extended: transhumanist and posthumanist reflections in support of the extended mind thesis",
+      "authors": [
+        {
+          "name": "Mirko Farina",
+          "openalex_id": "A5039029789",
+          "orcid": "https://orcid.org/0000-0001-8342-6549",
+          "institutions": [
+            "Innopolis University"
+          ]
+        },
+        {
+          "name": "Andrea Lavazza",
+          "openalex_id": "A5002896092",
+          "orcid": "https://orcid.org/0000-0003-2608-2609",
+          "institutions": [
+            "Centro Universitario Internazionale"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-01",
+      "abstract": null,
+      "cited_by_count": 17,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 119,
+      "url": "https://openalex.org/W4310522411"
+    },
+    {
+      "openalex_id": "W639262043",
+      "doi": null,
+      "title": "\u00abRes cogitans extensa\u00bb: A Philosophical Defense of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "openalex_id": "A5088373052",
+          "orcid": "https://orcid.org/0000-0001-7632-0412"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-01",
+      "abstract": "Contents: Extending the Mind: Mortification or Empowerment? - A Primer on the Principle of Parity - Embodiment, Dynamicism, and Extended Cognition - Language and Writing as Technologies of the Mind - Extended Reasoning - Three Objections to the Extended Mind Rebutted - Hybrid Creatures.",
+      "cited_by_count": 18,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Thought and Analysis",
+        "Literary and Cultural Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W639262043"
+    },
+    {
+      "openalex_id": "W3038192041",
+      "doi": "10.1007/978-3-030-78471-3_6",
+      "title": "The Extended Mind Thesis and Its Applications",
+      "authors": [
+        {
+          "name": "Mirko Farina",
+          "openalex_id": "A5039029789",
+          "orcid": "https://orcid.org/0000-0001-8342-6549",
+          "institutions": [
+            "Innopolis University"
+          ]
+        },
+        {
+          "name": "Sergei Levin",
+          "openalex_id": "A5000407908",
+          "orcid": "https://orcid.org/0000-0002-1207-9874",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": null,
+      "cited_by_count": 9,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Psychology of Moral and Emotional Judgment",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 146,
+      "url": "https://openalex.org/W3038192041"
+    },
+    {
+      "openalex_id": "W2905999482",
+      "doi": "10.2298/fid1804489v",
+      "title": "Overcoming deadlock: Scientific and ethical reasons to embrace the extended mind thesis",
+      "authors": [
+        {
+          "name": "Karina Vold",
+          "openalex_id": "A5005878131",
+          "orcid": "https://orcid.org/0000-0002-0768-7517",
+          "institutions": [
+            "Leverhulme Trust",
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "The extended mind thesis maintains that while minds may be centrally located in one?s brain-and-body, they are sometimes partly constituted by tools in our environment. Critics argue that we have no reason to move from the claim that cognition is embedded in the environment to the stronger claim that cognition can be constituted by the environment. I will argue that there are normative reasons, both scientific and ethical, for preferring the extended account of the mind to the rival embedded account.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Filozofija i drustvo",
+        "type": "journal",
+        "issn": [
+          "0353-5738",
+          "2334-8577"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.doiserbia.nb.rs/ft.aspx?id=0353-57381804489V"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W2905999482"
+    },
+    {
+      "openalex_id": "W4392154033",
+      "doi": "10.1136/jme-2023-109645",
+      "title": "Right to mental integrity and neurotechnologies: implications of the extended mind thesis",
+      "authors": [
+        {
+          "name": "Vera Tesink",
+          "openalex_id": "A5077846024",
+          "orcid": "https://orcid.org/0000-0003-2293-8860",
+          "institutions": [
+            "Vrije Universiteit Amsterdam"
+          ]
+        },
+        {
+          "name": "Thomas Douglas",
+          "openalex_id": "A5012634256",
+          "orcid": "https://orcid.org/0000-0002-6788-3608",
+          "institutions": [
+            "Wellcome Centre for Ethics and Humanities",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Lisa Forsberg",
+          "openalex_id": "A5102976211",
+          "orcid": "https://orcid.org/0000-0002-5239-393X",
+          "institutions": [
+            "Wellcome Centre for Ethics and Humanities",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Sjors Ligthart",
+          "openalex_id": "A5082303900",
+          "orcid": "https://orcid.org/0000-0001-6458-4058",
+          "institutions": [
+            "Tilburg University",
+            "Utrecht University"
+          ]
+        },
+        {
+          "name": "Gerben Meynen",
+          "openalex_id": "A5033242394",
+          "orcid": "https://orcid.org/0000-0001-7298-8407",
+          "institutions": [
+            "Vrije Universiteit Amsterdam",
+            "Utrecht University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-26",
+      "abstract": "The possibility of neurotechnological interference with our brain and mind raises questions about the moral rights that would protect against the (mis)use of these technologies. One such moral right that has received recent attention is the right to mental integrity. Though the metaphysical boundaries of the mind are a matter of live debate, most defences of this moral right seem to assume an internalist (brain-based) view of the mind. In this article, we will examine what an extended account of the mind might imply for the right to mental integrity and the protection it provides against neurotechnologies. We argue that, on an extended account of the mind, the scope of the right to mental integrity would expand significantly, implying that neurotechnologies would no longer pose a uniquely serious threat to the right. In addition, some neurotechnologies may even be protected by the right to mental integrity, as the technologies would become part of the mind. We conclude that adopting an extended account of the mind has significant implications for the right to mental integrity in terms of its protective scope and capacity to protect against neurotechnologies, demonstrating that metaphysical assumptions about the mind play an important role in determining the moral protection provided by the right.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Journal of Medical Ethics",
+        "type": "journal",
+        "issn": [
+          "0306-6800",
+          "1473-4257"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://jme.bmj.com/content/medethics/early/2024/02/26/jme-2023-109645.full.pdf"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 66,
+      "url": "https://openalex.org/W4392154033"
+    },
+    {
+      "openalex_id": "W2466735315",
+      "doi": null,
+      "title": "Mcluhan extended and the extended mind thesis (EMT)",
+      "authors": [
+        {
+          "name": "Robert K. Logan",
+          "openalex_id": "A5035637185",
+          "orcid": "https://orcid.org/0000-0002-3307-2356",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "We develop complementary connections between McLuhan\u2019s media ecology notion of media as \u2018extensions of man\u2019 and the Extended Mind Thesis of Andy Clark.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "OCAD University Open Research Repository (OCAD University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://openresearch.ocadu.ca/id/eprint/841/1/Logan_McLuhanExtended_2013.pdf"
+      },
+      "topics": [
+        "Cybernetics and Technology in Society",
+        "Media, Communication, and Education",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W2466735315"
+    },
+    {
+      "openalex_id": "W2036601316",
+      "doi": "10.1080/14639947.2011.610638",
+      "title": "Empty and extended craving: an application of the extended mind thesis to the four noble truths",
+      "authors": [
+        {
+          "name": "David DeMoss",
+          "openalex_id": "A5015331228",
+          "institutions": [
+            "Pacific Environment"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-11-01",
+      "abstract": "Abstract According to Buddhism's four noble truths, (1) we find our lives filled with anguished suffering because (2) we habitually crave for life to be other than it is; and (3) this habit of craving will cease (4) only if we cultivate in our lives the Buddha's path of mental discipline, wisdom, and moral conduct. The aim of Buddhist practice is to cure craving. There is a model of the self that can be derived from the recent work of some philosophers in the field of cognitive science, Andy Clark in particular. His writings suggest a model of the self that is spread out or extended. I will argue that the model of the extended self offers contemporary insight for interpreting what craving is in the Buddhist sense and how to cure it. Notes 1. Clark Citation2008, xxviii. 2. Otto's notebook is the most famous (in some circles) example, elaborated in 'The Extended Mind.' (That essay, co-authored by Clark and David Chalmers, hatched the extended mind thesis. The paper was published in Analysis in 1998 and is reprinted as an appendix in Clark Citation2008.) In the thought experiment Otto, who has Alzheimer's, always carries a notebook to write down new information, and then consults the notebook as needed to retrieve information, such as: Museum of Modern Art (MOMA) is on 53rd Street. The notebook is Otto's memory and its information functions like the information in an ordinary non-occurrent belief. Thus, Clark concludes, 'beliefs can be constituted partly by features of the environment, when those features play the right sort of role in driving cognitive processes. If so, the mind extends into the world' (Clark Citation2008, 226). 3. Clark Citation2008, xxvii. 4. Clark Citation2008, xxvii, sections 1.3\u20131.5, and see this pair of passages: 'Sensing here acts as a constantly available channel that productively couples agent and environment rather than as a kind of 'veil of transduction' whereby world-originating signals must be converted into a persisting inner model of the external scene\u2026. Instead of using sensing to get enough information inside, past the visual bottleneck, so as to allow the reasoning system to 'throw away the world' and solve the problem wholly internally, [extended sensorimotor strategies] use the sensor as an open conduit allowing environmental magnitudes to exert a constant influence on behavior. Sensing is here depicted as the opening of a channel, with successful whole-system behavior emerging when activity in this channel is kept within a certain range. What is created is thus a kind of new, task-specific agent-world circuit' (Clark Citation2008, 15\u201316). 5. Clark Citation2008, 39. 6. Clark Citation2008, 31. Examples of such extended agents include all kinds of fluent tool use, as well as more surprising cases, such as 'a brain-machine interface\u2026 that allows a macaque monkey to use thought control to move a robot arm' (p. 33) and Tactile-Visual Substitution Systems that allow blind people to recognize faces and to bat rolling balls (p. 35). Clark explores the agent-tool extension in detail in chapter 2, and this is also the launching point for his book, Natural-born cyborgs (Clark Citation2003). 7. See Clark Citation2008, 59\u201375. 8. See Clark Citation2008, 40. 9. See Clark Citation2008, 232. 10. Newland Citation2008, 14. The founder of the Ge-luk sect of Tibetan Buddhism is Tsong-kha-pa, who in 1402 presented a synthesizing vision of Buddhism in his Great treatise. Tsong-kha-pa is of the Madhyamaka tradition of Buddhist philosophy and relies heavily on the writings of N\u0101g\u0101rjuna. Guy Newland is an editor of the three volume English translation of the Great treatise (Snow Lion Publications, 2000\u20132004). Newland's Introduction to emptiness is a distillation, summary, and restatement of Tsong-kha-pa's key ideas, aimed at a contemporary but educated audience. In what follows I rely on Newland for statements of the views of Tsong-kha-pa. 11. Newland Citation2008, 44. 12. See Clark Citation2008, 118. In this passage he expresses the view that we identify, in an ordinary practical (conventional) way, existing agents as perceivers and actors motivated by beliefs and desires. '[W]e don't find or individuate human agents by first finding their cognitive mechanisms! Instead, we find an agent by identifying (roughly speaking) a reliable, easily identifiable physical nexus of perception and action, apparently driven by a persisting and modestly integrated body of goals and knowledge. Then and only then do we ask, of some particular problem-solving performance displayed by that very agent, what and where are the underlying mechanisms that make possible that performance. It is at this point that we may sometimes be surprised to find that the target performance depends on a far wider variety of factors and forces than we initially imagined. In so doing, we retain a perfectly good grip on the cognitive agents that are our primary objects of study.' 13. Clark Citation2008, 131. 14. Clark (Citation2008) develops this line of thought in sections 6.10\u20136.12. He is borrowing from Dennett (Citation1991; Citation1998). Here is Clark's gloss on Dennett: 'In place of such an all-knowing inner executive, we should consider the possibility of a vast parallel coalition of more or less influential forces, whose largely self-organizing unfolding makes each of us the thinking beings we are. Thus Dennett (Citation1991, Citation1998) depicts the human mind in terms that more closely resemble a semianarchic parallel organization of competing elements, whose average level of intelligence remains well below that traditionally ascribed to the so-called central executive (a horde of competing miniexecutives or, better, maxiassistants with nobody to assist). Within this flatter competing-cooperating nexus, different elements gain control at different times. But crucially, no element in the dodging and bumping horde is the privileged source of thinking such that the job of the rest is just to articulate or store its fully formed (though perhaps as yet verbally unarticulated) thoughts. Within such an economy, our ongoing cycles of gestural and linguistic self-stimulation are neither simply the products of, nor the servants of, a single stable independent central reasoning element' (Clark Citation2008, 131\u20132). 15. Clark Citation2008, 137. 16. Clark Citation2008, 136. 17. See Newland Citation2008, 37\u20138. 18. See Newland Citation2008, 95. 19. Batchelor Citation1997, 76, 78, 79. 20. Dancing with my partner is a task-specific agent-world circuit. I don't need to transduce sensory inputs into an inner model in order to calculate where to put my foot next. 21. Like most of you, I have in a sense become one with my keyboard and screen. My plastic neural resources have become recalibrated in such a way that my eyes automatically take account of what my fingers caused the keyboard to display on the screen, thus providing feedback to my fingers guiding their next move, and so on. Fingers, eyes, keyboard, screen, and all sorts of neural subsystems form an extended agency confronting a wider world, including other extended agents\u2014think of social networks like Facebook as interaction among extended embodied agents. 22. In these cases I change the world in ways that enable feedback loops, and hence agent-world circuits that extend my cognitive processes out into the world. It is worth mentioning that Clark Citation2008 (see pp. 58\u20139) claims that language use itself engenders extended cognitive processes, arguing that words on the page and speech sounds in the air are 'material symbols' with which we form agent-world circuits. 'As soon as we formulate a thought in words or on paper, it becomes an object for both ourselves and for others. As an object, it is the kind of thing we can have thoughts about.' 23. It may be helpful at this point to offer a primary text enumerating the four noble truths. From the first sermon of the Buddha translated by Walpola Rahula: 'The Noble Truth of suffering (Dukkha) is this: Birth is suffering; aging is suffering; sickness is suffering; death is suffering; sorrow and lamentation, pain, grief and despair are suffering; association with the unpleasant is suffering; dissociation from the pleasant is suffering; not to get what one wants is suffering\u2014in brief, the five aggregates of attachment are suffering.' 'The Noble Truth of the origin of suffering is this: It is this thirst (craving) which produces re-existence and re-becoming, bound up with passionate greed. It finds fresh delight now here and now there, namely, thirst for sense-pleasures; thirst for existence and becoming; and thirst for non-existence (self-annihilation).' 'The Noble Truth of the cessation of suffering is this: It is the complete cessation of that very thirst, giving it up, renouncing it, emancipating oneself from it, detaching oneself from it.' 'The Noble Truth of the Path leading to the Cessation of suffering is this: It is simply the Noble Eightfold Path, namely right view; right thought; right speech; right action; right livelihood; right effort; right mindfulness; right concentration\u2026.' (Smith Citation1999, 66). 24. Batchelor Citation2010, 154. 25. Batchelor Citation1997, 4, italics removed. 26. Schroeder Citation2001, 5\u20136. Schroeder is borrowing the distinction between metaphysical and metapractical reflection from Kasulis (Citation1992). 27. Schroeder Citation2001, 150. 28. Schroeder Citation2001, 116. See especially the entire section on 'N\u0101g\u0101rjuna's Critique of the Fours Noble Truths' (Schroeder Citation2001, 114\u201320). 29. Koller Citation2007, 55. 30. More accurately, the metapractical point would be that one should engage in practices, including appropriate forms of meditation, that discourage attachments that bind one to the assumption of a permanent self. Thus, meditating on and about the five-aggregate model would be good Buddhist praxis. However, as Schroeder argues, this metapractical point, like all of the Buddha's teachings, is itself empty\u2014that is, teachings about effective doing, including teachings about how to meditate and what to meditate on, are pragmatic, and should not be taken as static doctrine. Here is Schroeder's historical analysis: 'The abhidharma texts analyze [the five] skhandas into finer experiential units (dharmas) and show\u2026 how all experience is deeply intertwined within a vast causal nexus\u2026. [T]he later Abhidharma philosophers developed sophisticated metapractical arguments to justify the type of praxis embodied in the abhidharma texts. That is, they tried to philosophically justify the abhidharma as the \"highest\" form of Buddhist praxis\u2026. Mah\u0101y\u0101na Buddhism originated as an attack against this way of justifying the abhidharma texts. The development of \"skillful means\" [up\u0101ya] is a critical weapon against what the Mah\u0101y\u0101na Buddhists see as attachment to Buddhist praxis: in privileging one set of texts and one type of meditation, the Abhidharma Buddhists have neglected the complexity of human development and reduced Buddhism to a static doctrine' (Schroeder Citation2001, 39\u201340). 31. Batchelor Citation1997, 36\u20137. 32. For an overview see Siderits (Citation2007, 22\u20134). At the end of his discussion, Siderits offers this gloss, echoed in the pragmatic reading of karma and rebirth offered in section 1 of my essay: 'In effect what we have in this theory is an account of how ignorance, by bringing about suffering, reinforces and thus perpetuates itself. When the chain of dependent origination is seen in this way, it is even possible to separate it from the doctrine of karma and rebirth. What it then amounts to is basically just the claim that the ignorance occurring at any one point in one's life causes one to act in certain ways that set the stage for both later suffering and continued ignorance' (Siderits Citation2007, 24). 33. Batchelor Citation1997, 73. 34. Clark Citation2008, 226. See also note 3 of this essay. 35. Clark Citation2008, 79. 36. Clark Citation2008, 96. 37. Batchelor Citation1997, 8. 38. Batchelor Citation1997, 22. 39. Siderits Citation2007, 24. 40. Batchelor Citation1997, 10\u201311. 41. Batchelor Citation1997, 59. 42. Gunaratana Citation2002, 143. 43. Gunaratana Citation2002, 147. 44. Gunaratana Citation2002, 159. 45. Batchleor Citation1997, 112.",
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Contemporary Buddhism",
+        "type": "journal",
+        "issn": [
+          "1463-9947",
+          "1476-7953"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2036601316"
+    },
+    {
+      "openalex_id": "W198938282",
+      "doi": null,
+      "title": "The Extended Mind Thesis and Mechanistic Explanations",
+      "authors": [
+        {
+          "name": "P\u00e9ter Fazekas",
+          "openalex_id": "A5063087786",
+          "orcid": "https://orcid.org/0000-0002-2922-1865"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "The Extended Mind Thesis (EMT) is traditionally formulated against the bedrock of functionalism, and ongoing debates are typically bogged down with questions concerning the exact relationship between EMT and different versions of functionalism. In this paper, I offer a novel ally for EMT: the new mechanistic approach to explanation. I argue that the mechanistic framework provides useful resources not just to disambiguate EMT, and to show which objections fail to pose a serious challenge, but also to answer some of the deeper problems that stem from the functionalist roots of EMT.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://real.mtak.hu/8546/1/Fazekas-IWS2013.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Origins and Evolution of Life",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 9,
+      "url": "https://openalex.org/W198938282"
+    },
+    {
+      "openalex_id": "W4392399980",
+      "doi": "10.1016/bs.dnb.2024.02.004",
+      "title": "The extended mind thesis and the cognitive artifacts approach: A comparison",
+      "authors": [
+        {
+          "name": "Guido Cassinadri",
+          "openalex_id": "A5016557937",
+          "orcid": "https://orcid.org/0000-0002-1084-4421",
+          "institutions": [
+            "Scuola Superiore Sant'Anna"
+          ]
+        },
+        {
+          "name": "Marco Fasoli",
+          "openalex_id": "A5028326309",
+          "orcid": "https://orcid.org/0000-0001-6176-8257",
+          "institutions": [
+            "Sapienza University of Rome"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "abstract": null,
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Developments in neuroethics and bioethics",
+        "type": "book series",
+        "issn": [
+          "2589-2959"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neuroscience, Education and Cognitive Function"
+      ],
+      "referenced_works_count": 103,
+      "url": "https://openalex.org/W4392399980"
+    },
+    {
+      "openalex_id": "W4400935449",
+      "doi": "10.1111/raju.12414",
+      "title": "A New Opening for the Alternative Punishments Debate: Applying the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Kamil Mamak",
+          "openalex_id": "A5084336786",
+          "orcid": "https://orcid.org/0000-0002-5081-792X",
+          "institutions": [
+            "Jagiellonian University",
+            "University of Helsinki"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-24",
+      "abstract": "Abstract The debate on alternative punishments appears to be stagnating. The impasse may be overcome if we consider humans from a different philosophical perspective. If we answer differently the question of who we are punishing, we open new possibilities regarding the question of how we punish. In particular, by applying the extended mind thesis we can arrive at interesting outcomes and reopen the debate on alternative punishments. According to this theory, external artifacts\u2014such as smartphones\u2014can be considered part of our minds. In this article, I defend the thesis that restricting access to personal technologies that are a part of one's self should be considered a form of punishment. Thus, a human who is considered from an extended perspective can be punished in a new way.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Ratio Juris",
+        "type": "journal",
+        "issn": [
+          "0952-1917",
+          "1467-9337"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/raju.12414"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Psychology of Moral and Emotional Judgment",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 89,
+      "url": "https://openalex.org/W4400935449"
+    },
+    {
+      "openalex_id": "W1989248721",
+      "doi": "10.1007/s11245-008-9043-2",
+      "title": "Making Sense of Sense-Making: Reflections on Enactive and Extended Mind Theories",
+      "authors": [
+        {
+          "name": "Evan Thompson",
+          "openalex_id": "A5045147879",
+          "orcid": "https://orcid.org/0000-0003-0084-8477",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Mog Stapleton",
+          "openalex_id": "A5030124671",
+          "orcid": "https://orcid.org/0000-0002-1244-4317",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-12-19",
+      "abstract": null,
+      "cited_by_count": 476,
+      "type": "article",
+      "source": {
+        "name": "Topoi",
+        "type": "journal",
+        "issn": [
+          "0167-7411",
+          "1572-8749"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W1989248721"
+    },
+    {
+      "openalex_id": "W4282040452",
+      "doi": "10.31234/osf.io/wuxbn",
+      "title": "Extended Mind Thesis and Quantum Cognition",
+      "authors": [
+        {
+          "name": "Navjot Singh Gadda",
+          "openalex_id": "A5077405953"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-05-27",
+      "abstract": "The Extended Mind Thesis holds that mental states are realized in extended physical systems and are not identical with processes occurring inside the brain. A central question raised by this hypothesis is how to model cognition within this extended framework. Here I propose that classical computation can't explain this extension and one rather needs a quantum mechanical description of cognition to help solve the Extended Minds Problem. I develop a computational model of the relationship between quantum information processing and cognition. In particular, I focus on a ramification of Quantum Cognition representing probabilistic relationships amongst information processing units associated directly through reversible local operations performed on data bits. Based on this, I formulate three classes of memory storage incorporating arbitrary permutations allowed during reversible computations which occur both locally as well as nonlocally and act upon inputted data bits and encode initial correlations amongst separate memory elements existing before computation occurred. In conclusion, I dicuss various implications of my work.",
+      "cited_by_count": 2,
+      "type": "preprint",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://psyarxiv.com/wuxbn/download"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Mechanics and Applications"
+      ],
+      "referenced_works_count": 19,
+      "url": "https://openalex.org/W4282040452"
+    },
+    {
+      "openalex_id": "W4407179887",
+      "doi": "10.1007/s12152-025-09586-5",
+      "title": "Mental Integrity, Neurotechnology, and the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Tom Buller",
+          "openalex_id": "A5027060588",
+          "orcid": "https://orcid.org/0000-0003-2714-252X",
+          "institutions": [
+            "Illinois State University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-02-05",
+      "abstract": "We ordinarily think of the mind as private, \u201cinside,\u201d and accessible only to the person whose mind it is, and that the integrity of the mind is threatened by \u201coutside\u201d intervention. The prospect that neurotechnologies could be developed that are able to \u201cread\u201d our brains and directly manipulate our thoughts and feelings is, therefore, alarming to many. Implicit behind this sense of alarm is the view that, unlike other types of manipulation and persuasion that depend for their success on rational autonomy, direct interventions into the brain uniquely undermine this autonomy. According to the Extended Mind Thesis (EMT), there is no necessary reason why mental states and processes must be realized by internal neural states. External artifacts can constitute part of a coupled cognitive system if these artifacts play the same functional role as internal states and processes. Interventions into these artifacts could, therefore, be considered direct interventions into the mind. If we alarmed by the threat to mental integrity posed by neurotechnology, then it is likely that we will be aghast at the idea that the mind can extend beyond the brain. For intuitively, extending the mind beyond the brain makes the mind more vulnerable to invasion. This paper argues that this fear may be misplaced. Specifically, the paper argues: (i) the most relevant processes to mental integrity are conscious, personal-level processes, (ii) the types of processes that can be extended according to the most influential account of EMT are unconscious, non-occurrent, and subpersonal processes, therefore (iii) the threat posed to mental integrity by neurotechnology if EMT is adopted may be quite modest.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Neuroethics",
+        "type": "journal",
+        "issn": [
+          "1874-5490",
+          "1874-5504"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12152-025-09586-5.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W4407179887"
+    },
+    {
+      "openalex_id": "W2942226360",
+      "doi": "10.12832/92304",
+      "title": "The Extended Mind Thesis Is about Demarcation and Use of Words",
+      "authors": [
+        {
+          "name": "Vincent C. M\u00fcller",
+          "openalex_id": "A5026465320",
+          "orcid": "https://orcid.org/0000-0002-4144-4957",
+          "institutions": [
+            "University of Leeds"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": null,
+      "cited_by_count": 3,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Wittgensteinian philosophy and applications",
+        "Philosophy and Theoretical Science",
+        "Classical Philosophy and Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2942226360"
+    },
+    {
+      "openalex_id": "W2129434025",
+      "doi": null,
+      "title": "The Extended Mind Thesis: A Critical Perspective",
+      "authors": [
+        {
+          "name": "Mansour Fahim",
+          "openalex_id": "A5045624443",
+          "institutions": [
+            "Islamic Azad University, Science and Research Branch"
+          ]
+        },
+        {
+          "name": "Kamran Mehrgan",
+          "openalex_id": "A5039106356"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-21",
+      "abstract": "Abstract \u2013 It has been claimed that human beings &amp;apos; cognitive processes do not transpire all in the head. This view refers to the human organism as is linked with an external entity in a two-way interaction and creates a coupled system which can be seen as a cognitive system in its own right. It is also stated that the components in the system possess an active causal role, monitoring and controlling behavior in the same manner that cognition usually does. Such an argument has led to a strong debate among philosophers. Some support it but others reject it. It is also claimed that removing the external component will lead to the fact that the system&amp;apos;s behavioral competence will drop, just as it would if some part of its brain is removed. Human being&amp;apos;s brain may have been structured in such a way that enables the mind to be in sporadic interactions beyond the body. It could be stated that since the biological structure of the human brain sometimes encounters cognitive failures such as the disability to retain and retrieve information, the mind which is supported by the brain requires being in conscious interactions with the parts outside the human body. The article reviews the notion of the extended mind thesis and presents the criticism which has been leveled against it.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "JES (Jurnal Ekonomi Syariah)",
+        "type": "journal",
+        "issn": [
+          "2528-5610",
+          "2541-0431"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://worldsciencepublisher.org/journals/index.php/AEL/article/view/1202"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2129434025"
+    },
+    {
+      "openalex_id": "W4210318093",
+      "doi": "10.7551/mitpress/9780262014038.001.0001",
+      "title": "The Extended Mind",
+      "authors": [],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": "Leading scholars respond to the famous proposition by Andy Clark and David Chalmers that cognition and mind are not located exclusively in the head. Where does the mind stop and the rest of the world begin? In their famous 1998 paper \"The Extended Mind,\" philosophers Andy Clark and David J. Chalmers posed this question and answered it provocatively: cognitive processes \"ain't all in the head.\" The environment has an active role in driving cognition; cognition is sometimes made up of neural, bodily, and environmental processes. Their argument excited a vigorous debate among philosophers, both supporters and detractors. This volume brings together for the first time the best responses to Clark and Chalmers's bold proposal. These responses, together with the original paper by Clark and Chalmers, offer a valuable overview of the latest research on the extended mind thesis. The contributors first discuss (and answer) objections raised to Clark and Chalmers's thesis. Clark himself responds to critics in an essay that uses the movie Memento's amnesia-aiding notes and tattoos to illustrate the workings of the extended mind. Contributors then consider the different directions in which the extended mind project might be taken, including the need for an approach that focuses on cognitive activity and practice. Bradford Books imprint",
+      "cited_by_count": 398,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4210318093"
+    },
+    {
+      "openalex_id": "W1552415422",
+      "doi": "10.5860/choice.47-0788",
+      "title": "Supersizing the mind: embodiment, action, and cognitive extension",
+      "authors": [],
+      "publication_year": 2009,
+      "publication_date": "2009-10-01",
+      "abstract": "Forward: By David Chalmers / Acknowledgements / Introduction: BRAINBOUND versus EXTENDED / I: From Embodiment to Cognitive Extension - 1. The Active Body: 1.1 A Walk on the Wild Side 1.2 Inhabited Interaction 1.3 Active Sensing 1.4 Distributed Functional Decomposition 1.5 Sensing for Coupling 1.6 Information Self-Structuring 1.7 Perception, Qualia, and Sensorimotor Expectations 1.8 Time and Mind 1.9 Dynamics and (Soft) Computation. 1.10 Out from the Bedrock 2. The Negotiable Body: 2.1 Where the Rubber Meets the Road 2.2 What's in an Interface? 2.3 New Systemic Wholes 2.4 Substitutes 2.5 Incorporation Vs Use 2.6 Towards Cognitive Extension 2.7 Three Grades of Embodiment 3. Material Symbols: 3.1 Language as Scaffolding 3.2 Augmenting Reality 3.3 Sculpting Attention 3.4 Hybrid Thoughts? 3.5 From Translation to Coordination 3.6 Second-order Cognitive Dynamics 3.7 Self-made Minds. 4. World, Incorporated: 4.1 Cognitive Niche Construction: A Primer 4.2 Cognition in the Globe: A Cameo 4.3 Thinking Space 4.4 Epistemic Engineers 4.5 Exploitative Representation and Wide Computation 4.6 Tetris: The Update 4.7 The Swirl of Organization 4.8 Extending the Mind 4.9 BRAINBOUND versus EXTENDED: The Case So Far. II. Boundary Disputes - 5. Mind Re-bound?: 5.1 EXTENDED Anxiety 5.2 Pencil Me In 5.3 The Odd Coupling 5.4 Cognitive Candidacy 5.5 The Mark of the Cognitive? 5.6 Kinds and Minds 5.7 Perception and Development 5.8 Deception and Contested Space 5.9 Folk Intuition and Cognitive Extension 5.10 Asymmetry and Lopsideness 5.11 Similarity vs Complementarity 5.12 Hippo-World 6. The Cure for Cognitive Hiccups (HEMC, HEC, HEMC): 6.1 Rupert's Challenge 6.2 HEC versus HEMC 6.3 Parity and Cognitive Kinds (Again) 6.4 The Persisting Core 6.5 Cognitive Impartiality 6.6 A Brain Teaser 6.7 Thoughtful Gestures 6.8 Material Carriers 6.9 Loops as Mechanisms 6.10 Anarchic Self-Stimulation 6.11Autonomous Coupling 6.12 Why the HEC? 6.13 The Cure 7. Rediscovering the Brain: 7.1 Matter into Mind 7.2.Honey, I Shrunk the Representations 7.3 Change Spotting: The Sequel 7.4 Thinking about Thinking: The Brain's Eye View.: 7.5 Born-Again Cartesians? 7.6 Surrogate Situations 7.7 Plug Points 7.8 Brain Control 7.9 Asymmetry Arguments 7.10 Extended in a Vat 7.11 The (Situated) Cognizer's Innards III: The Limits of Embodiment - 8. Painting, Planning, and Perceiving: 8.1 Enacting Perceptual Experience 8.2 The Painter and the Perceiver 8.3 Three Virtues of the Strong Sensorimotor Model 8.4 A Vice: Sensorimotor (Hyper) Sensitivity 8.5 What Reaching Teaches 8.6 (Tweaked)Tele-Assistance 8.7 Sensorimotor Summarizing 8.8 Virtual Content, Again 8.9 Beyond the Sensorimotor Frontier 9. Disentangling Embodiment: 9.1 Three Threads 9.2 The Separability Thesis 9.3 Beyond Flesh-eating Functionalism. 9.4 Ada, Adder, and Odder 9.5 A Tension Revealed 9.6 What Bodies Are 9.7 Participant Machinery and Morphological Computation 9.8 Quantifying Embodiment 9.9 The Heideggerian Theatre / 10. Conclusions: Mindsized Bites / Appendix: The Extended Mind (Andy Clark and David Chalmers)",
+      "cited_by_count": 2235,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1552415422"
+    },
+    {
+      "openalex_id": "W2781647985",
+      "doi": "10.22201/iifs.18704905e.2012.752",
+      "title": "Georg Theiner, Res cogitans extensa. A Philosophical Defense of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Patricia King D\u00e1valos",
+          "openalex_id": "A5026828828",
+          "institutions": [
+            "Universidad Aut\u00f3noma del Estado de Morelos"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-12-12",
+      "abstract": "Georg Theiner, Res cogitans extensa. A Philosophical Defense of the Extended Mind Thesis, Peter Lang, Fr\u00e1ncfort del Meno, 2011, xiv + 267 pp.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Cr\u00edtica (M\u00e9xico D F En l\u00ednea)",
+        "type": "journal",
+        "issn": [
+          "0011-1503",
+          "1870-4905"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://critica.filosoficas.unam.mx/index.php/critica/article/download/752/726"
+      },
+      "topics": [
+        "Ethics and bioethics in healthcare",
+        "Law, Ethics, and AI Impact",
+        "Philosophical Thought and Analysis"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W2781647985"
+    },
+    {
+      "openalex_id": "W2033617583",
+      "doi": "10.1016/j.cogsys.2010.07.002",
+      "title": "Recognizing group cognition",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "openalex_id": "A5088373052",
+          "orcid": "https://orcid.org/0000-0001-7632-0412",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Colin Allen",
+          "openalex_id": "A5053716967",
+          "orcid": "https://orcid.org/0000-0003-4497-1725",
+          "institutions": [
+            "Indiana University Bloomington"
+          ]
+        },
+        {
+          "name": "Robert L. Goldstone",
+          "openalex_id": "A5029222386",
+          "orcid": "https://orcid.org/0000-0001-8357-8358",
+          "institutions": [
+            "Indiana University Bloomington"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-07-06",
+      "abstract": null,
+      "cited_by_count": 226,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Evolutionary Game Theory and Cooperation",
+        "Complex Systems and Decision Making",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 132,
+      "url": "https://openalex.org/W2033617583"
+    },
+    {
+      "openalex_id": "W2097331849",
+      "doi": "10.1016/j.concog.2010.09.022",
+      "title": "Extended cognition and the space of social interaction",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-11-30",
+      "abstract": null,
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Consciousness and Cognition",
+        "type": "journal",
+        "issn": [
+          "1053-8100",
+          "1090-2376"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Hearing Impairment and Communication",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 228,
+      "url": "https://openalex.org/W2097331849"
+    },
+    {
+      "openalex_id": "W4409576649",
+      "doi": "10.1590/0101-3173.2025.v48.n6.e025061",
+      "title": "Rethinking Human-AI interactions through the maintainability: a new criterion for Trust and Glue in the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Deivide Garcia da Silva Oliveira",
+          "openalex_id": "A5082077850",
+          "orcid": "https://orcid.org/0000-0002-5004-1949",
+          "institutions": [
+            "Universidade Federal de Sergipe"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "Abstract: This paper explores the implications of the Extended Mind Hypothesis (ExM), as introduced by Andy Clark and David Chalmers in 1998. Focusing on cognitive integration and the Trust and Glue criteria, we have two objectives. First, we examine how ExM reshapes perspectives on human-AI interaction, particularly by challenging the Standard model of AI. We argue that AI, as an active non-organic agent, significantly influences cognitive processes beyond initial expectations. Secondly, we propose the maintainability as a fourth criterion in the Trust and Glue criteria of ExM, in addition to trustworthiness, reliability and accessibility. This addition aims to evaluate parity in coupled systems comprehensively addressing concerns about control in human-AI interactions. We highlight the risks posed by AI\u2019s understanding of human psychology, which may lead to unintended shifts in our objectives and choices. Our analysis concludes that maintainability serves as a critical safeguard against the evolving challenges of human-AI integration.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Trans/Form/A\u00e7\u00e3o",
+        "type": "journal",
+        "issn": [
+          "0101-3173",
+          "1980-539X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.1590/0101-3173.2025.v48.n6.e025061"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Psychiatry, Mental Health, Neuroscience",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4409576649"
+    },
+    {
+      "openalex_id": "W2593940038",
+      "doi": "10.1007/s11229-017-1351-x",
+      "title": "Emotional sharing and the extended mind",
+      "authors": [
+        {
+          "name": "Felipe Le\u00f3n",
+          "openalex_id": "A5044338936",
+          "orcid": "https://orcid.org/0000-0002-6150-5489",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        },
+        {
+          "name": "Thomas Szanto",
+          "openalex_id": "A5034989004",
+          "orcid": "https://orcid.org/0000-0001-5114-677X",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        },
+        {
+          "name": "Dan Zahavi",
+          "openalex_id": "A5031927870",
+          "orcid": "https://orcid.org/0000-0002-2869-4951",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-03",
+      "abstract": null,
+      "cited_by_count": 112,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchprofiles.ku.dk/da/publications/8e96c78c-a60e-4098-b615-fc0eefa6a976"
+      },
+      "topics": [
+        "Emotions and Moral Behavior",
+        "Embodied and Extended Cognition",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 143,
+      "url": "https://openalex.org/W2593940038"
+    },
+    {
+      "openalex_id": "W2145370102",
+      "doi": "10.1007/s10670-014-9620-2",
+      "title": "Belief May Not Be a Necessary Condition for Knowledge",
+      "authors": [
+        {
+          "name": "Katalin Farkas",
+          "openalex_id": "A5023948387",
+          "orcid": "https://orcid.org/0000-0001-9567-091X",
+          "institutions": [
+            "Central European University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-04-01",
+      "abstract": null,
+      "cited_by_count": 67,
+      "type": "article",
+      "source": {
+        "name": "Erkenntnis",
+        "type": "journal",
+        "issn": [
+          "0165-0106",
+          "1572-8420"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and Theoretical Science",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W2145370102"
+    },
+    {
+      "openalex_id": "W2104857366",
+      "doi": "10.1007/s11023-011-9258-7",
+      "title": "The Extended Self",
+      "authors": [
+        {
+          "name": "Eric T. Olson",
+          "openalex_id": "A5048878440",
+          "institutions": [
+            "University of Sheffield"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-08-23",
+      "abstract": null,
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2104857366"
+    },
+    {
+      "openalex_id": "W2962564927",
+      "doi": "10.1145/3306618.3314238",
+      "title": "AI Extenders",
+      "authors": [
+        {
+          "name": "Jos\u00e9 Hern\u00e1ndez\u2010Orallo",
+          "openalex_id": "A5029864546",
+          "orcid": "https://orcid.org/0000-0001-9746-7632",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+          ]
+        },
+        {
+          "name": "Karina Vold",
+          "openalex_id": "A5005878131",
+          "orcid": "https://orcid.org/0000-0002-0768-7517",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-27",
+      "abstract": "Humans and AI systems are usually portrayed as separate systems that we need to align in values and goals. However, there is a great deal of AI technology found in non-autonomous systems that are used as cognitive tools by humans. Under the extended mind thesis, the functional contributions of these tools become as essential to our cognition as our brains. But AI can take cognitive extension towards totally new capabilities, posing new philosophical, ethical and technical challenges. To analyse these challenges better, we define and place AI extenders in a continuum between fully-externalized systems, loosely coupled with humans, and fully internalized processes, with operations ultimately performed by the brain, making the tool redundant. We dissect the landscape of cognitive capabilities that can foreseeably be extended by AI and examine their ethical implications.We suggest that cognitive extenders using AI be treated as distinct from other cognitive enhancers by all relevant stakeholders, including developers, policy makers, and human users.",
+      "cited_by_count": 82,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3306618.3314238"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2962564927"
+    },
+    {
+      "openalex_id": "W2045135889",
+      "doi": "10.1007/s10670-007-9095-5",
+      "title": "Patrolling the Mind\u2019s Boundaries",
+      "authors": [
+        {
+          "name": "Daniel A. Weiskopf",
+          "openalex_id": "A5020750585",
+          "orcid": "https://orcid.org/0000-0002-2788-2280",
+          "institutions": [
+            "University of South Florida"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-12-27",
+      "abstract": null,
+      "cited_by_count": 78,
+      "type": "article",
+      "source": {
+        "name": "Erkenntnis",
+        "type": "journal",
+        "issn": [
+          "0165-0106",
+          "1572-8420"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Evolutionary Game Theory and Cooperation",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2045135889"
+    },
+    {
+      "openalex_id": "W2944958817",
+      "doi": "10.1093/oso/9780190662813.003.0002",
+      "title": "Extended Cognition and Extended Consciousness",
+      "authors": [
+        {
+          "name": "David J. Chalmers",
+          "openalex_id": "A5103215889",
+          "orcid": "https://orcid.org/0000-0003-4190-3161"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-23",
+      "abstract": "Abstract Chapter 1 discusses two questions about the extended mind. First, what is the extended mind thesis? Second, can there be extended consciousness, and if not, why not? The chapter answers the first question by arguing that the thesis should be formulated in terms of perception and action: a subject\u2019s cognitive processes and mental states can be partly constituted by entities that are external to the subject, in virtue of the subject\u2019s interacting with these entities via perception and action. The second question is answered by appealing to direct availability for global control as the physical correlate of consciousness: extended processes always involve indirect availability for global control, mediated by perception and action, so there is no extended consciousness.",
+      "cited_by_count": 63,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W2944958817"
+    },
+    {
+      "openalex_id": "W2070151735",
+      "doi": "10.1007/s12152-011-9133-5",
+      "title": "Neurotechnology, Invasiveness and the Extended Mind",
+      "authors": [
+        {
+          "name": "Tom Buller",
+          "openalex_id": "A5027060588",
+          "orcid": "https://orcid.org/0000-0003-2714-252X",
+          "institutions": [
+            "Providence College",
+            "University of Alaska Anchorage"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-08-17",
+      "abstract": null,
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "Neuroethics",
+        "type": "journal",
+        "issn": [
+          "1874-5490",
+          "1874-5504"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Neuroscience and Neural Engineering",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W2070151735"
+    },
+    {
+      "openalex_id": "W4212787757",
+      "doi": "10.1007/s13347-022-00508-4",
+      "title": "Incorporation, Transparency and Cognitive Extension: Why the Distinction Between Embedded and Extended Might Be More Important to Ethics Than to Metaphysics",
+      "authors": [
+        {
+          "name": "Mirko Farina",
+          "openalex_id": "A5039029789",
+          "orcid": "https://orcid.org/0000-0001-8342-6549",
+          "institutions": [
+            "Innopolis University",
+            "Institute of Social and Humanities"
+          ]
+        },
+        {
+          "name": "Andrea Lavazza",
+          "openalex_id": "A5002896092",
+          "orcid": "https://orcid.org/0000-0003-2608-2609",
+          "institutions": [
+            "Centro Universitario Internazionale"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-16",
+      "abstract": null,
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 74,
+      "url": "https://openalex.org/W4212787757"
+    },
+    {
+      "openalex_id": "W1692844732",
+      "doi": "10.5860/choice.40-3943",
+      "title": "Furnishing the mind: concepts and their perceptual basis",
+      "authors": [],
+      "publication_year": 2003,
+      "publication_date": "2003-03-01",
+      "abstract": "Western philosophy has long been divided between empiricists, who argue that human understanding has its basis in experience, and rationalists, who argue that reason is the source of knowledge. A central issue in the debate is the nature of concepts, the internal representations we use to think about the world. The traditional empiricist thesis that concepts are built up from sensory input has fallen out of favor. Mainstream cognitive science tends to echo the rationalist tradition, with its emphasis on innateness. In Furnishing the Mind, Jesse Prinz attempts to swing the pendulum back toward empiricism. Prinz provides a critical survey of leading theories of concepts, including imagism, definitionism, prototype theory, exemplar theory, the theory theory, and informational atomism. He sets forth a new defense of concept empiricism that draws on philosophy, neuroscience, and psychology and introduces a new version of concept empiricism called proxytype theory. He also provides accounts of abstract concepts, intentionality, narrow content, and concept combination. In an extended discussion of innateness, he covers Noam Chomsky's arguments for the innateness of grammar, developmental psychologists' arguments for innate cognitive domains, and Jerry Fodor's argument for radical concept nativism.",
+      "cited_by_count": 711,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1692844732"
+    },
+    {
+      "openalex_id": "W1971192684",
+      "doi": "10.1080/09515089.2013.828568",
+      "title": "Ten questions concerning extended cognition",
+      "authors": [
+        {
+          "name": "Robert A. Wilson",
+          "openalex_id": "A5073390460",
+          "orcid": "https://orcid.org/0000-0002-8034-0317",
+          "institutions": [
+            "University of Alberta",
+            "The Robertson Trust"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-08-13",
+      "abstract": "This paper considers ten questions that those puzzled by or skeptical of extended cognition have posed. Discussion of these questions ranges across substantive, methodological, and dialectical issues in the ongoing debate over extended cognition, such as whether the issue between proponents and opponents of extended cognition is merely semantic or a matter of convention; whether extended cognition should be treated in the same way as extended biology; and whether conscious mental states pose a special problem for the extended mind thesis. Lethocerus, the giant water bug, will be a recurrent reference point for much of the discussion.",
+      "cited_by_count": 39,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W1971192684"
+    },
+    {
+      "openalex_id": "W1515665115",
+      "doi": "10.1007/978-94-007-4707-4_14",
+      "title": "Extended Mind and Identity",
+      "authors": [
+        {
+          "name": "Robert A. Wilson",
+          "openalex_id": "A5073390460",
+          "orcid": "https://orcid.org/0000-0002-8034-0317",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Bartlomiej A. Lenart",
+          "openalex_id": "A5068634672",
+          "orcid": "https://orcid.org/0000-0001-5632-7078",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-29",
+      "abstract": null,
+      "cited_by_count": 41,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W1515665115"
+    },
+    {
+      "openalex_id": "W4237908291",
+      "doi": "10.7551/mitpress/9780262019477.001.0001",
+      "title": "Feeling Extended",
+      "authors": [
+        {
+          "name": "Douglas Robinson",
+          "openalex_id": "A5083746818",
+          "orcid": "https://orcid.org/0000-0002-3222-6122"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-08-16",
+      "abstract": "A new view of the extended mind thesis argues that a stark binary opposition between really extending and seeming to extend oversimplifies the issue. The extended-mind thesis (EMT), usually attributed to Andy Clark and David Chalmers, proposes that in specific kinds of mind-body-world interaction there emerges an extended cognitive system incorporating such extracranial supports as pencils, papers, computers, and other objects and environments in the world. In Feeling Extended, Douglas Robinson accepts the thesis, but argues that the usual debate over EMT\u2014which centers on whether mind really (literally, actually, materially) extends to body and world or only seems to\u2014oversimplifies the issue. When we say that mind feels as if it extends, Robinson argues, what extends is precisely feeling\u2014and mind, insofar as it arises out of feeling. Robinson explores the world of affect and conation as intermediate realms of being between the physical movements of body and the qualitative movements of mind. He shows that affect is transcranial and tends to become interpersonal conation. Affective-becoming-conative sociality, he argues, is in fact the primary area in which body-becoming-mind extends. To make his case, Robinson draws on a wide spectrum of philosophical thought\u2014from the EMT and qualia debates among cognitivists to the prehistory of such debates in the work of Hegel and Peirce to continental challenges to Hegelianism from Bakhtin and Derrida\u2014as well as on extensive empirical research in social psychology and important sociological theories of face (Goffman), ritual (Connerton), and habitus (Bourdieu).",
+      "cited_by_count": 30,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4237908291"
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

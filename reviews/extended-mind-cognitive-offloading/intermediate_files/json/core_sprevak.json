@@ -1,0 +1,15 @@
+{
+  "status": "partial",
+  "source": "core",
+  "query": "Sprevak extended mind",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "rate_limit",
+      "message": "Rate limit exceeded during pagination",
+      "recoverable": true
+    }
+  ],
+  "warning": "Completed with 1 error(s). Found 0 papers."
+}

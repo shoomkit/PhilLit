@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/02691728.2020.1815095"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/02691728.2020.1815095",
+      "title": "Online Intellectual Virtues and the Extended Mind",
+      "authors": [
+        {
+          "family": "Schwengerer",
+          "given": "Lukas"
+        }
+      ],
+      "editors": [],
+      "year": 2020,
+      "container_title": "Social Epistemology",
+      "volume": "35",
+      "issue": "3",
+      "page": "312-322",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/02691728.2020.1815095"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

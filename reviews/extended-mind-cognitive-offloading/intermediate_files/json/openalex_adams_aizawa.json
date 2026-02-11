@@ -1,0 +1,807 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Adams Aizawa bounds of cognition",
+  "results": [
+    {
+      "openalex_id": "W1587071557",
+      "doi": "10.1007/s11097-009-9120-z",
+      "title": "A review of Frederick Adams and Kenneth Aizawa, The Bounds of Cognition",
+      "authors": [
+        {
+          "name": "Lawrence A. Shapiro",
+          "openalex_id": "A5059544996",
+          "orcid": "https://orcid.org/0000-0002-7774-9015",
+          "institutions": [
+            "University of Wisconsin\u2013Madison"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-02-05",
+      "abstract": null,
+      "cited_by_count": 10,
+      "type": "review",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Cognitive Science and Education Research",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W1587071557"
+    },
+    {
+      "openalex_id": "W1490413234",
+      "doi": "10.1007/s10670-009-9161-2",
+      "title": "Fred Adams, Ken Aizawa: The Bounds of Cognition",
+      "authors": [
+        {
+          "name": "Sven Walter",
+          "openalex_id": "A5039127261",
+          "orcid": "https://orcid.org/0000-0003-0635-6633",
+          "institutions": [
+            "Osnabr\u00fcck University"
+          ]
+        },
+        {
+          "name": "Miriam Kyselo",
+          "openalex_id": "A5030878392",
+          "orcid": "https://orcid.org/0000-0001-9248-1902",
+          "institutions": [
+            "Osnabr\u00fcck University"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-04-02",
+      "abstract": null,
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Erkenntnis",
+        "type": "journal",
+        "issn": [
+          "0165-0106",
+          "1572-8420"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1490413234"
+    },
+    {
+      "openalex_id": "W622207125",
+      "doi": null,
+      "title": "Beyond the Bounds of Cognition",
+      "authors": [
+        {
+          "name": "Tarja Susi",
+          "openalex_id": "A5018267489"
+        },
+        {
+          "name": "Jessica Lindblom",
+          "openalex_id": "A5080497330",
+          "orcid": "https://orcid.org/0000-0003-0946-7531"
+        },
+        {
+          "name": "Tom Ziemke",
+          "openalex_id": "A5001467069",
+          "orcid": "https://orcid.org/0000-0001-6883-2450"
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": "One of the questions that frequently come up in discussions of situated, embodied and distributed cognition is where to draw the boundary between cognisers and their environment. Adams and Aizawa (2001) have recently formulated a critique of what they consider a \u201cradical view of tool use\u201d, i.e., the view of tools as part of the cognitive system. We analyse their critique and show that much of what they consider \u2018radical \u2019 turns out to be compatible with what they consider \u2018common sense\u2019. Hence, we argue that much of the debate boils down to a disagreement over different uses of the term \u2018cognitive\u2019, whereas there is growing agreement about the central role that agent-environment interaction in general, and tool use in particular, play in cognitive processes. We therefore suggest to drop the \u2018bounds of cognition \u2019 debate, and conclude by raising what we consider more important questions in the study of cognitive tool use.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/37s2095c"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W622207125"
+    },
+    {
+      "openalex_id": "W1976979456",
+      "doi": "10.1080/13869795.2012.670717",
+      "title": "Extended cognition meets epistemology",
+      "authors": [
+        {
+          "name": "Fred Adams",
+          "openalex_id": "A5110466364",
+          "institutions": [
+            "University of Delaware"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-15",
+      "abstract": "Abstract This article examines the intersection of the theory of extended mind/cognition and theory of knowledge. In the minds of some, it matters to conditions for knowing whether the mind extends beyond the boundaries of body and brain. I examine these intuitions and find no support for this view from tracking theories of knowledge. I then argue that the apparent difference extended mind is supposed to have for ability or credit theories is also illusory. Keywords: extended mindepistemologytracking theoriesability/credit theories Acknowledgements I would like to thank Ken Aizawa, John A. Barker, Peter Bauman, John Greco, Jennifer Lackey, Orestis Palermos, Duncan Pritchard, and Krist Vaesen for helpful conversation about this topic. Also thanks to the members of the audience at CLMPS 14 in Nancy France and GPPC at Swarthmore for comments on earlier drafts. Notes For some of the ensuing fuss see Menary (2010 Menary, R. 2010. The extended mind, Cambridge, MA: MIT Press. [Crossref] , [Google Scholar]). An example from Clark and Chalmers (1998 Clark, A. and Chalmers, D. 1998. The extended mind. Analysis, 58: 7\u201319. [Crossref], [Web of Science \u00ae] , [Google Scholar]) is that of Otto who uses a notebook to remember how to get to MOMA in New York. The claim is that Otto's consulting his notebook for information is no different in principle than our consulting our memories for information. Hence, Otto's mind extends to this notebook. Rowlands (2010 Rowlands, M. 2010. The new science of the mind, Cambridge, MA: MIT Press. [Crossref] , [Google Scholar]) includes cases such as manipulating scrabble puzzle pieces to form words. Moving the pieces with one's hands is not different in principle than rotating them in the mind's eye. So, Rowlands would include such \"disclosing\" movements as cognitive. For opposition EC in its strong flavor and explanation of the controversy see Adams and Aizawa (2008 Adams, F. and Aizawa, K. 2008. The bounds of cognition, Oxford: Blackwell. [Google Scholar]). Notoriously, Dave Chalmers proclaimed in the forward to Clark's (2008 Clark, A. 2008. Supersizing the mind, Oxford: Oxford University Press. [Crossref] , [Google Scholar]) that his i-Phone was now part of his mind. Recent articles by Greco (2003 Greco, J. 2003. \"Knowledge as credit for true belief\". In Intellectual virtue: Perspectives from ethics and epistemology, Edited by: DePaul, M. and Zagzebski, L. 111\u201334. Oxford: Oxford University Press. [Crossref] , [Google Scholar], forthcoming Greco, J. Forthcoming. A (different) virtue epistemology. Philosophy and Phenomenological Research, [Web of Science \u00ae] , [Google Scholar]), Pritchard (2010 Pritchard, D. 2010. Cognitive ability and the extended cognition thesis. Synthese, 175: 133\u201351. [Crossref], [Web of Science \u00ae] , [Google Scholar]), Vaesen (2011), and others have addressed this intersection of EC and epistemology. See Adams (2004 Adams, F. 2004. \"Knowledge\". In The Blackwell guide to the philosophy of information and computing, Edited by: Floridi, L. 228\u201336. Oxford: Basil Blackwell. [Crossref] , [Google Scholar]), Adams (2005 Adams, F. 2005. Tracking theories of knowledge. Veritas, 50: 11\u201335. [Google Scholar]), Adams and Clarke (2005 Adams, F. and Clarke, M. 2005. Resurrecting the tracking theories. Australasian Journal of Philosophy, 83: 207\u201321. [Taylor & Francis Online], [Web of Science \u00ae] , [Google Scholar]), Adams, Barker, and Figurelli (forthcoming Adams, F., Barker, J. A. and Figurelli, J. Forthcoming. Towards closure on closure. Synthese, [Web of Science \u00ae] , [Google Scholar]). Now one may still be skeptical of Otto's notebook's being \"integrated into his character.\" Peter Bauman (personal correspondence) seems to be skeptical: \"There is a difference between me using the data from an instrument carefully and that instrument being part of my character \u2026 .Another issue I'd have with saying that the notebook is part of Otto's cognitive character is the further consequence that almost everything would be: the informant who tells him about the time would be part of Otto's character if the notebook is, and lots of other stuff too.\" Below I suggest that \"ability\" may become vacuous if it is too weak. Bauman says the same thing is true about minimizing requirements for cognitive integration into one's character. John A. Barker reminds me that one area where ability and tracking accounts may nicely come apart is a case such as this: Leroy is a highly skilled gambler who can successfully figure out the odds of various outcomes in fair games of chance. He believes that Alice lost a certain bet on the basis of her chances of losing having been 99.9999999%. His belief is true and is a product of extremely reliable belief-forming processes and of exceptional intellectual abilities and virtues. Almost everyone seems to have the pre-analytic intuition that Leroy's belief doesn't qualify as knowledge, and even Stich and his fellow \"experimental\" epistemologists have found that that such intuitions appear to be culturally universal. Tracking theories imply that Leroy's belief fails to qualify as knowledge, while ability/credit/virtue theories seem to imply that the belief does qualify as knowledge. At least at times Sosa bites the bullet and holds that Leroy's belief qualifies as knowledge. What is more, this example may help show that EC is orthogonal to whether one knows. Suppose that Leroy, who is getting old and can no longer figure out the relevant odds in \"real time,\" has had a sophisticated computing device implanted in his head that helps him maintain his level of performance. Such a supposition seems to have no implications regarding the issue of whether or not his belief qualifies as knowledge. We will see more formulations of this type of view below. Of course the attentive reader knows that Pritchard is going to allow that Sissi's cognitive abilities meet his WeakCog requirement, because it is so \"minimal.\" We will see a similar judgment from Greco (forthcoming). See Jennifer Lackey's (2007 Lackey, J. 2007. Why we don't deserve credit for everything we know. Synthese, 158: 345\u201361. [Crossref], [Web of Science \u00ae] , [Google Scholar]) arguments designed to show problems for ability/credit views based upon knowledge by testimony. I know that doxastic voluntarism is trying to make a come-back, but I won't have time to discuss here why I'm not persuaded. See Adams (1986 Adams, F. 1986. The function of epistemic justification. Canadian Journal of Philosophy, 16: 465\u201392. [Taylor & Francis Online], [Web of Science \u00ae] , [Google Scholar], 2003 Adams, F. 2003. \"Epistemology\". In Reflections on philosophy, 2, Edited by: McHenry, L. and Yagisawa, T. 81\u2013101. New York: Longmans Press. [Google Scholar]). Rowlands may say that these cognitive processes are \"sub-personal\" but he would insist that they are Sissi's and they are cognitive nevertheless. I thought this result might surprise Vaesen, but he assures me that he anticipated it. Indeed, I confess that as I think seriously about this possibility of strong EC and ability views and tracking theories, I begin to lose my grip on their differences. Kripke's critical review of Nozick remains unpublished, as far as I know. Parts of it have been widely circulated and are quoted often in the literature. I presented a response orally as an invited discussant at the 2001 Rutgers Epistemology Conference and discuss the red barn example at length in (Adams and Clarke 2005 Adams, F. and Clarke, M. 2005. Resurrecting the tracking theories. Australasian Journal of Philosophy, 83: 207\u201321. [Taylor & Francis Online], [Web of Science \u00ae] , [Google Scholar]). I say \"virtually\" because on Hyman's view, a key difference between tracking theories and his view is that Hyman's theory doesn't imply that belief is a requirement for knowledge, and this seems to make his theory vulnerable to certain counterexamples. For details, see (Barker and Adams forthcoming). See also Hyman (2006 Hyman, J. 2006. Knowledge and evidence. Mind, 115: 633\u201358. [Crossref], [Web of Science \u00ae] , [Google Scholar]).",
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Explorations",
+        "type": "journal",
+        "issn": [
+          "1386-9795",
+          "1741-5918"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Epistemology, Ethics, and Metaphysics",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W1976979456"
+    },
+    {
+      "openalex_id": "W2479332255",
+      "doi": "10.1057/9780230592889_4",
+      "title": "Defending Cognitive Integration",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "openalex_id": "A5055720061",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "Recently internalists (Adams and Aizawa 2001, 2007, forthcoming, Rupert 2004, 2007) have mounted a counter-attack on the attempt to redefine the bounds of cognition. Their counter-arguments are aimed at the extended mind framework, but are also relevant to the integrationist framework. Cognitive integration can be defended against the internalist counter arguments of Adams and Aizawa (henceforth A&A), and Rupert and I shall endeavour to show how.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Palgrave Macmillan UK eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2479332255"
+    },
+    {
+      "openalex_id": "W2048058602",
+      "doi": "10.1093/analys/anp032",
+      "title": "The Bounds of Cognition * By FREDERICK ADAMS AND KENNETH AIZAWA",
+      "authors": [
+        {
+          "name": "Deirdre Browne",
+          "openalex_id": "A5053344734",
+          "institutions": [
+            "University of Canterbury"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-04-01",
+      "abstract": "Tools and technologies expand our capacities, including our cognitive capacities. Microscopes extend our perceptual capacities. Notebooks extend the natural limits of memory. These facts are important, for all that they are obvious. The extended cognition hypothesis wants more. Some external devices and processes are literal parts of cognitive processes themselves. When there is fast and reliable access to external data or processes (and some other conditions are satisfied, perhaps), then the cognitive processes that occur uncontroversially inside the brain literally and controversially extend out into the world to incorporate external structures or processes. Retrieval of an address from memory and retrieval of the same information from a notebook can both be fully cognitive processes involving fully cognitive representations. So say the proponents of extended cognition. It is an attractive metaphor. But is there any good reason to take it as literal truth? Adams and Aizawa argue that the debate on...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Analysis",
+        "type": "journal",
+        "issn": [
+          "0003-2638",
+          "1467-8284"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cognitive Science and Education Research",
+        "Cognitive Science and Mapping",
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2048058602"
+    },
+    {
+      "openalex_id": "W2114814877",
+      "doi": "10.1016/j.cogsys.2013.03.008",
+      "title": "The socially extended mind",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Hertfordshire"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-03-26",
+      "abstract": null,
+      "cited_by_count": 354,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1389041713000272"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W2114814877"
+    },
+    {
+      "openalex_id": "W3129510688",
+      "doi": null,
+      "title": "Critical Notice-The Bounds of Cognition-by Frederick Adams and Kenneth Aizawa",
+      "authors": [
+        {
+          "name": "Justin C. Fisher",
+          "openalex_id": "A5025933900"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "\u0098The \u009cJournal of mind and behavior",
+        "type": "journal",
+        "issn": [
+          "0271-0137"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3129510688"
+    },
+    {
+      "openalex_id": "W2012147130",
+      "doi": "10.1007/s11023-013-9309-3",
+      "title": "Causal Parity and Externalisms: Extensions in Life and Mind",
+      "authors": [
+        {
+          "name": "Philippe Huneman",
+          "openalex_id": "A5041369196",
+          "orcid": "https://orcid.org/0000-0002-7789-6197",
+          "institutions": [
+            "Institut d'Histoire et de Philosophie des Sciences et des Techniques",
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris 1 Panth\u00e9on-Sorbonne"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-03-05",
+      "abstract": null,
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Evolutionary Game Theory and Cooperation",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W2012147130"
+    },
+    {
+      "openalex_id": "W2064577500",
+      "doi": "10.1080/00048400802636502",
+      "title": "Book Notes: Adams, Frederick and Kenneth Aizawa, <i>The Bounds of Cognition</i>, Oxford: Blackwell Publishing, 2008, pp. xiii + 197, AU$120.00 / NZ$130.00 (cloth)",
+      "authors": [
+        {
+          "name": "William Fish",
+          "openalex_id": "A5023906809",
+          "institutions": [
+            "Massey University"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-06-01",
+      "abstract": "Adams, Frederick and Kenneth Aizawa, The Bounds of Cognition, Oxford: Blackwell Publishing, 2008, pp. xiii + 197, AU$120.00 / NZ$130.00 (cloth). In The Bounds of Cognition, Adams and Aizawa defend ...",
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Australasian Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0004-8402",
+          "1470-6828",
+          "1471-6828"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2064577500"
+    },
+    {
+      "openalex_id": "W1969822175",
+      "doi": "10.1093/mind/fzr002",
+      "title": "Much Ado About Cognition",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-10-01",
+      "abstract": "The Bounds of Cognition, by Frederick Adams and Kenneth Aizawa. Malden, MA: Blackwell Publishing, 2008. Pp. xiii + 197. H/b \u00a350.00/$78.95, P/b \u00a319.99/$29.95. Cognitive Systems and the Extended Mind, by Robert D. Rupert. New York: Oxford University Press, 2009. Pp. xiii + 268. H/b \u00a337.50/$55.00, P/b \u00a318.99/$29.95. Where in physical space lies the machinery of mind and cognition? Is mind all \u2018in the head\u2019 or might parts of the enabling physical apparatus underlying at least some of our mental states and processes be spread across brain, (extra-neural) body, and even (extra-bodily) world? In these two laudably clear, rewarding, and challenging treatments, we are offered reasons to be sceptical. The central target of each treatment is the radical-sounding claim that the local physical machinery whose whirrings and grindings make minds like ours possible is not (or not always) fully contained by the ancient metabolic boundaries of skin and skull. Such a claim, despite its radical-sounding nature, can be found (in varying degrees, and in one form or another) in a wide variety of recent treatments, spanning philosophy (e.g. Wilson 1994, 2004; Haugeland 1998; Hurley 1998; Clark and Chalmers 1998; Rowlands 1999, 2003, 2006; No\u00eb 2004, 2009; Wheeler 2005; Menary 2007; Sutton 2010); psychology (e.g. Thelen and Smith 1995; Spivey et al. 2004; Gray et al. 2006), robotics and dynamical systems theory (e.g. Beer 2000) and beyond (e.g. Hutchins 1995; Malafouris 2008; Roepstorff 2008). Philosophically, it is to be distinguished from more standard externalist claims (such as those made by Putnam (1975) and by Burge (1979, 1986)) about the role of the distal environment in the fixation of content. It is to be distinguished also from any mere modal claim to the effect that the machinery of mind might \u2014 perhaps in some strange or alien beings, or even in some future incarnation (transcarnation?) \u2014 of humanity, be smeared across more than the neural economy. Instead it is the claim, sometimes dubbed \u2018the extended mind hypothesis\u2019 following the coinage in Clark and Chalmers 1998, that the physical vehicles (for this usage see Hurley 1998, Ch. 8) of some of our actual cognitive states and processes might include more than the usual neural suspects. Such cases might include the functioning (subject perhaps to various additional requirements of sufficient degrees of reliability, availability, and agentive trust) of a notebook or an iPhone, where these \u2014 and hence, the specific encodings of information that they \u2018vehicle\u2019 \u2014 appear as elements in an integrated web of causal machinery whose combined action enables the guidance and modulation of an agent\u2019s behaviour in some of the ways distinctive of cognitive or mental states. The central example given in Clark and Chalmers 1998 concerned the state of dispositionally believing such and such to be the address of a particular art gallery. That state, Clark and Chalmers maintained, might be realized either by states of the neural apparatus alone or by various combinations of neural and non-neural resources. These could include the biological system plus written entries in a constantly-carried and fluently deployed notebook or (for a more contemporary version) plus entries in the memory of a portable device such as an iPhone. The former, in extremely rough outline, is sometimes referred to as the case of \u2018Otto\u2019: a mildly (biologically) memory-impaired agent whose success depends frequently upon such notebook-based encodings.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Mind",
+        "type": "journal",
+        "issn": [
+          "0026-4423",
+          "1460-2113"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W1969822175"
+    },
+    {
+      "openalex_id": "W1509922667",
+      "doi": "10.5840/jphil2009106937",
+      "title": "Extended Cognition and Functionalism",
+      "authors": [
+        {
+          "name": "Mark Sprevak",
+          "openalex_id": "A5012071072",
+          "orcid": "https://orcid.org/0000-0002-1413-5534",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": null,
+      "cited_by_count": 169,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-362X",
+          "1939-8549"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.research.ed.ac.uk/en/publications/d8cd6448-3dad-4747-a665-bad513e64cc0"
+      },
+      "topics": [
+        "Philosophy and Theoretical Science",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1509922667"
+    },
+    {
+      "openalex_id": "W2007549063",
+      "doi": "10.1016/j.cogsys.2013.04.002",
+      "title": "Loops, constitution, and cognitive extension",
+      "authors": [
+        {
+          "name": "S. Orestis Palermos",
+          "openalex_id": "A5004967642",
+          "orcid": "https://orcid.org/0000-0002-0297-084X",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-04-28",
+      "abstract": "The 'causal-constitution' fallacy, the 'cognitive bloat' worry, and the persisting theoretical confusion about the fundamental difference between the hypotheses of embedded (HEMC) and extended (HEC) cognition are three interrelated worries, whose common point-and the problem they accentuate-is the lack of a principled criterion of constitution. Attempting to address the 'causal-constitution' fallacy, mathematically oriented philosophers of mind have previously suggested that the presence of non-linear relations between the inner and the outer contributions is sufficient for cognitive extension. The abstract idea of non-linearity, however, can be easily misunderstood and has, in the past, led to incorrect and counterintuitive conclusions about what may count as part of one's overall cognitive system. In order to prevent any further mistakes I revisit dynamical systems theory to study the nature of the continuous mutual interactions that give rise to the aforementioned non-linear relations. Moreover, focusing on these interactions will allow us to provide two distinct arguments in support of the ontological postulation of extended cognitive systems, as well as an objective criterion of constitution. Accordingly, I put forward a version of HEC that treats continuous mutual interactions (and the resultant non-linear relations) not just as sufficient but also as necessary for cognitive extension. Such a qualified version of HEC may exclude certain alleged cases of cognitive extension where the agent does not mutually interact with his artifacts (e.g., shopping lists and directory services), but it is immune both to the 'causal-constitution' fallacy and the 'cognitive bloat' worry, and it can be sharply distinguished from HEMC.",
+      "cited_by_count": 144,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.research.ed.ac.uk/en/publications/921d8bee-005f-4631-ad31-1e7fc402a394"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Cognitive Science and Education Research",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 71,
+      "url": "https://openalex.org/W2007549063"
+    },
+    {
+      "openalex_id": "W2082398981",
+      "doi": "10.1007/s11098-014-0347-3",
+      "title": "Extending the extended mind: the case for extended affectivity",
+      "authors": [
+        {
+          "name": "Giovanna Colombetti",
+          "openalex_id": "A5072857737",
+          "orcid": "https://orcid.org/0000-0003-0935-1109",
+          "institutions": [
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Tom Roberts",
+          "openalex_id": "A5101934654",
+          "orcid": "https://orcid.org/0000-0002-6675-7060",
+          "institutions": [
+            "University of Exeter"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-06-23",
+      "abstract": null,
+      "cited_by_count": 190,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11098-014-0347-3.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 85,
+      "url": "https://openalex.org/W2082398981"
+    },
+    {
+      "openalex_id": "W4380446133",
+      "doi": "10.7551/mitpress/8535.003.0009",
+      "title": "Exograms and Interdisciplinarity: History, the Extended Mind, and the Civilizing Process",
+      "authors": [
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": null,
+      "cited_by_count": 123,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Interdisciplinary Research and Collaboration"
+      ],
+      "referenced_works_count": 119,
+      "url": "https://openalex.org/W4380446133"
+    },
+    {
+      "openalex_id": "W2086684289",
+      "doi": "10.3389/fpsyg.2013.01003",
+      "title": "Affordances and the musically extended mind",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "I defend a model of the musically extended mind. I consider how acts of \"musicking\" grant access to novel emotional experiences otherwise inaccessible. First, I discuss the idea of \"musical affordances\" and specify both what musical affordances are and how they invite different forms of entrainment. Next, I argue that musical affordances - via soliciting different forms of entrainment - enhance the functionality of various endogenous, emotion-granting regulative processes, drawing novel experiences out of us with an expanded complexity and phenomenal character. I argue that music therefore ought to be thought of as part of the vehicle needed to realize these emotional experiences. I appeal to different sources of empirical work to develop this idea.",
+      "cited_by_count": 258,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.01003/pdf"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 190,
+      "url": "https://openalex.org/W2086684289"
+    },
+    {
+      "openalex_id": "W2048487711",
+      "doi": "10.1007/s13164-013-0131-x",
+      "title": "Distributed Cognition and Memory Research: History and Current Directions",
+      "authors": [
+        {
+          "name": "Kourken Michaelian",
+          "openalex_id": "A5005971328",
+          "orcid": "https://orcid.org/0000-0002-5205-3046",
+          "institutions": [
+            "Bilkent University"
+          ]
+        },
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-19",
+      "abstract": null,
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-013-0131-x.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Memory and Neural Mechanisms",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2048487711"
+    },
+    {
+      "openalex_id": "W2038677167",
+      "doi": "10.3389/fnhum.2014.00706",
+      "title": "Extensive enactivism: why keep it all in?",
+      "authors": [
+        {
+          "name": "Daniel D. Hutto",
+          "openalex_id": "A5084720966",
+          "orcid": "https://orcid.org/0000-0002-3585-4618",
+          "institutions": [
+            "University of Hertfordshire",
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718"
+        },
+        {
+          "name": "Erik Myin",
+          "openalex_id": "A5026660825",
+          "orcid": "https://orcid.org/0000-0002-2805-9966",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-25",
+      "abstract": "Radical enactive and embodied approaches to cognitive science oppose the received view in the sciences of the mind in denying that cognition fundamentally involves contentful mental representation. This paper argues that the fate of representationalism in cognitive science matters significantly to how best to understand the extent of cognition. It seeks to establish that any move away from representationalism toward pure, empirical functionalism fails to provide a substantive \"mark of the cognitive\" and is bereft of other adequate means for individuating cognitive activity. It also argues that giving proper attention to the way the folk use their psychological concepts requires questioning the legitimacy of commonsense functionalism. In place of extended functionalism-empirical or commonsensical-we promote the fortunes of extensive enactivism, clarifying in which ways it is distinct from notions of extended mind and distributed cognition.",
+      "cited_by_count": 93,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00706/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W2038677167"
+    },
+    {
+      "openalex_id": "W4247939221",
+      "doi": "10.1093/analys/65.1.1",
+      "title": "Intrinsic content, active memory and the extended mind",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "Journal Article Intrinsic content, active memory and the extended mind Get access Andy Clark Andy Clark University of Edinburgh George SquareEdinburgh EH8 9JX Scotland, UKandy.clark@ed.ac.uk Search for other works by this author on: Oxford Academic Google Scholar Analysis, Volume 65, Issue 1, January 2005, Pages 1\u201311, https://doi.org/10.1093/analys/65.1.1 Published: 01 January 2005",
+      "cited_by_count": 85,
+      "type": "article",
+      "source": {
+        "name": "Analysis",
+        "type": "journal",
+        "issn": [
+          "0003-2638",
+          "1467-8284"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/analysis/article-pdf/65/1/1/302892/65-1-1.pdf"
+      },
+      "topics": [
+        "Advanced Memory and Neural Computing"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W4247939221"
+    },
+    {
+      "openalex_id": "W4380445882",
+      "doi": "10.7551/mitpress/8535.003.0011",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "Michael Wheeler",
+          "openalex_id": "A5101818008",
+          "orcid": "https://orcid.org/0000-0003-3638-1215"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": "The Dynamic DuoAccording to the extended cognition hypothesis (henceforth ExC), there are conditions under which thinking and thoughts (or more precisely, the material vehicles that realize thinking and thoughts) are spatially distributed over brain, body and world, in such a way that the external (beyond-the-skin) factors concerned are rightly accorded fully-paid-up cognitive status. 1 According to functionalism in the philosophy of mind, \"what makes something a mental state of a particular type does not depend on its internal constitution, but rather on the way it functions, or the role it plays, in the system of which it is a part\" (Levin 2008).The respective fates of these two positions may not be independent of each other.The claim that ExC is in some way a form of, dependent on, entailed by, or at least commonly played out in terms of, functionalism is now pretty much part of the received view of things (see, e.g.,",
+      "cited_by_count": 86,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W4380445882"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

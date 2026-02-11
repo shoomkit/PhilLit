@@ -1,0 +1,621 @@
+{
+  "status": "success",
+  "source": "core",
+  "query": "transactive memory",
+  "results": [
+    {
+      "core_id": "8859723",
+      "doi": null,
+      "title": "Collective memory",
+      "authors": [
+        {
+          "name": "Michaelian, Kourken"
+        },
+        {
+          "name": "Sutton, John"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/81670321.pdf",
+      "source_url": "https://philpapers.org/archive/MICCM-2.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8863871",
+      "doi": null,
+      "title": "The best memories: Identity, narrative, and objects",
+      "authors": [
+        {
+          "name": "Heersmink, Richard"
+        },
+        {
+          "name": "McCarroll, Christopher Jade"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Memory is everywhere in Blade Runner 2049. From the dead tree that serves as a memorial and a site of remembrance (\u201cWho keeps a dead tree?\u201d), to the \u2018flashbulb\u2019 memories individuals hold about the moment of the \u2018blackout\u2019, when all the electronic stores of data were irretrievably erased (\u201ceveryone remembers where they were at the blackout\u201d). Indeed, the data wiped out in the blackout itself involves a loss of memory (\u201call our memory bearings from the time, they were all damaged in the blackout\u201d). Memory, and lack of it, permeates place, where from the post-blackout Las Vegas Deckard remembers it as somewhere you could \u201cforget your troubles.\u201d Memory is a commodity, called upon and consumed by the Wallace Corporation, purchased from the memory-maker, Dr Ana Stelline, who constructs and implants \u201cthe best memories\u201d in replicants so as to instil in them real human responses.\n          \n          Memory is ubiquitous in Blade Runner 2049, involving humans, replicants, objects, and\n          machines. Even \u201cGod,\u201d we are told, \u201cremembered Rachael.\u201d Nowhere, though, is the depiction of memory more important than in the attempt to solve a question of identity. Officer K has a memory of his past. Even though he knows it is an implant, it is a memory he is emotionally attached to, frequently narrating it to Joi, his digital girlfriend.\n          But it is a memory that starts to puzzle and trouble him. When K discovers the remains of a dead replicant, a female NEXUS-7, he uncovers a secret\u2014this replicant was pregnant and died during childbirth, a discovery that could \u201cbreak the world.\u201d K is charged with hunting down the child and making the problem disappear. Yet as K starts seeking answers to the question of the child\u2019s identity he gets inextricably caught up in the mystery. Is he merely Officer K, or is he Joe, the miracle child of Rachael and Deckard? The answer to this question hinges on K\u2019s memory. But is the memory genuine? Is the memory his?\n          \n          Blade Runner 2049 encourages us to think deeply about the nature of memory, identity, and the relation between them. Indeed, the film does not just serve as a starting point for thinking about philosophical issues related to memory and identity. Rather, as we show in this chapter, the film seems to offer a view on these philosophical issues. Blade Runner 2049 offers us a view of memory as spread out over people, objects, and the environment, and it shows us that memory\u2019s role in questions of identity goes beyond merely accurately recalling one\u2019s past. Identity depends not on memory per se, but partly on what we use memory for",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/186332090.pdf",
+      "source_url": "https://philpapers.org/archive/HEETBM.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8856403",
+      "doi": "10.1007/s11098-017-0935-0",
+      "title": "The narrative self, distributed memory, and evocative objects",
+      "authors": [
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Kind"
+        },
+        {
+          "name": "A K\u00f8ster"
+        },
+        {
+          "name": "A Stephan"
+        },
+        {
+          "name": "B Huebner"
+        },
+        {
+          "name": "BS Osborne"
+        },
+        {
+          "name": "C Mackenzie"
+        },
+        {
+          "name": "CS Peirce"
+        },
+        {
+          "name": "D Dennett"
+        },
+        {
+          "name": "D Ihde"
+        },
+        {
+          "name": "D Lupton"
+        },
+        {
+          "name": "D Petrelli"
+        },
+        {
+          "name": "DM Wegner"
+        },
+        {
+          "name": "E Hoven van den"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "ET Olson"
+        },
+        {
+          "name": "F Adams"
+        },
+        {
+          "name": "F Jongepier"
+        },
+        {
+          "name": "G Colombetti"
+        },
+        {
+          "name": "G Theiner"
+        },
+        {
+          "name": "GM Bell"
+        },
+        {
+          "name": "J Brockmeier"
+        },
+        {
+          "name": "J Dijck van"
+        },
+        {
+          "name": "J Gonzalez"
+        },
+        {
+          "name": "J Krueger"
+        },
+        {
+          "name": "J Locke"
+        },
+        {
+          "name": "J McClelland"
+        },
+        {
+          "name": "J Slaby"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "JA Carter"
+        },
+        {
+          "name": "JA Skorburg"
+        },
+        {
+          "name": "K Beach"
+        },
+        {
+          "name": "K Michaelian"
+        },
+        {
+          "name": "K Sterelny"
+        },
+        {
+          "name": "L Floridi"
+        },
+        {
+          "name": "L Lindemann"
+        },
+        {
+          "name": "L Malafouris"
+        },
+        {
+          "name": "LR Baker"
+        },
+        {
+          "name": "M Crete-Nishihata"
+        },
+        {
+          "name": "M Merleau-Ponty"
+        },
+        {
+          "name": "M Rowlands"
+        },
+        {
+          "name": "M Rowlands"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Wheeler"
+        },
+        {
+          "name": "P Goldie"
+        },
+        {
+          "name": "P Griffiths"
+        },
+        {
+          "name": "P Smart"
+        },
+        {
+          "name": "R Clowes"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Menary"
+        },
+        {
+          "name": "R Menary"
+        },
+        {
+          "name": "R Rupert"
+        },
+        {
+          "name": "R Wilson"
+        },
+        {
+          "name": "R Wilson"
+        },
+        {
+          "name": "Richard Heersmink"
+        },
+        {
+          "name": "S Shoemaker"
+        },
+        {
+          "name": "W James"
+        }
+      ],
+      "year": 2018,
+      "abstract": "In this article, I outline various ways in which artifacts are interwoven with autobiographical memory systems and conceptualize what this implies for the self. I first sketch the narrative approach to the self, arguing that who we are as persons is essentially our (unfolding) life story, which, in turn, determines our present beliefs and desires, but also directs our future goals and actions. I then argue that our autobiographical memory is partly anchored in our embodied interactions with an ecology of artifacts in our environment. Lifelogs, photos, videos, journals, diaries, souvenirs, jewelry, books, works of art, and many other meaningful objects trigger and sometimes constitute emotionally-laden autobiographical memories. Autobiographical memory is thus distributed across embodied agents and various environmental structures. To defend this claim, I draw on and integrate distributed cognition theory and empirical research in human-technology interaction. Based on this, I conclude that the self is neither defined by psychological states realized by the brain nor by biological states realized by the organism, but should be seen as a distributed and relational construct",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/131213175.pdf",
+      "source_url": "https://philpapers.org/archive/HEETNS.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8855482",
+      "doi": "10.1093/oso/9780198737865.003.0013",
+      "title": "Collaborative memory knowledge: A distributed reliabilist perspective",
+      "authors": [
+        {
+          "name": "Arango-Munoz, Santiago"
+        },
+        {
+          "name": "Michaelian, Kourken"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Collaborative remembering, in which two or more individuals cooperate to remember together, is an ordinary occurrence. Ordinary though it may be, it challenges traditional understandings of remembering as a cognitive process unfolding within a single subject, as well as traditional understandings of memory knowledge as a justified memory belief held within the mind of a single subject. Collaborative memory has come to be a major area of research in psychology, but it has so far not been investigated in epistemology. In this chapter, we attempt an initial exploration of the epistemological implications of collaborative memory research, taking as our starting point the \u201cextended knowledge\u201d debate which has resulted from the recent encounter between extracranialist theories of cognition and externalist theories of knowledge (Carter et al., 2014; Carter et al., forthcoming).\n          \tVarious forms of socially and technologically augmented memory have played important roles in the extended knowledge debate, but the debate has so far not taken collaborative memory, in particular, into account. We will argue that collaborative memory supports a novel externalist theory of knowledge: distributed reliabilism. Distributed reliabilism departs in two important respects from both traditional reliabilism (Goldman, 2012) and updated theories such as extended (Goldberg, 2010) and social reliabilism (Goldman, 2014). First, it acknowledges that belief-forming processes may extend extracranially to include processing performed both by other subjects and by technological artifacts. Second, it acknowledges that distributed sociotechnical systems themselves may be knowing subjects. Overall, then, the main aim of the chapter is to draw out the philosophical implications of psychological research on collaborative memory. But our argument will also suggest that it may be useful to broaden the standard conception of collaborative memory to include not only the sorts of direct interactions among subjects that have been the focus of psychological research so far but also a range of more indirect, technology-supported and -mediated interactions, and it thus has implications for psychology as well",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/81670323.pdf",
+      "source_url": "https://hal.science/hal-03704932",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "5179765",
+      "doi": null,
+      "title": "Data Envelopment Analysis (Dea) approach In efficiency transport manufacturing industry in Malaysia",
+      "authors": [
+        {
+          "name": "Abdul Talib, Basri"
+        },
+        {
+          "name": "Abdullah, Mohd Fahmy"
+        }
+      ],
+      "year": 2018,
+      "abstract": "The objective of this study was to measure of technical efficiency, transport manufacturing industry in Malaysia score using the data envelopment analysis (DEA) from 2005 to 2010. The efficiency score analysis used only two inputs, i.e., capital and labor and one output i.e., total of sales. The results shown that the average efficiency score of the Banker, Charnes, Cooper - Variable Returns to Scale (BCC-VRS) model is higher than the Charnes, Cooper, Rhodes - Constant Return to Scale (CCR-CRS) model. Based on the BCC-VRS model, the average efficiency score was at a moderate level and only four sub-industry that recorded an average efficiency score more than 0.50 percent during the period study. The implication of this result suggests that the transport manufacturing industry needs to increase investment, especially in human capital such as employee training, increase communication expenses such as ICT and carry out joint ventures as well as research and development activities to enhance industry efficiency",
+      "publisher": "'Science Publishing Corporation'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/12008200.pdf",
+      "source_url": null,
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "5177978",
+      "doi": "10.1109/infrkm.2010.5466896",
+      "title": "Internet of things security implementation using blockchain for wireless technology",
+      "authors": [
+        {
+          "name": "Karim, Karim Jabur"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Blockchain is a new security system which group many data into a block or so called classifying the data into a block. The block can have many types and each of them content data and security code. By using a decentralize mechanism, one security code protect all the data. That could happen at the server. In this research, a network of wireless sensor technology is proposed. The transmission of sensor data is via the Internet of things (Internet of Thing) technology. As many data transmitted, they have to classified and group them into a block. All the blocks are then send to the central processing unit, like a microcontroller. The block of data is then processed, identified and encrypted before send over the internet network. At the receiver, a GUI or Apps is developed to open and view the data. The Apps or GUI have an encrypted data or security code. User must key in the password before they can view the data. The password used by the end user at the Apps or GUI must be equivalent to the one encrypted at the sensor nodes. This is to satisfy the decentralized concept used in the Blockchain. To demonstrate the Blockchain technology applied to the wireless sensor network, a MATLAB Simulink function is used. The expected results should show a number of block of data in cryptography manner and chain together. The two set of data. Both have the data encrypted using hash. The black dots indicate the data has been encrypted whereas the white dot indicate indicates the data is not encrypted. The half white and half black indicates the data is in progress of encrypted. All this data should arrange in cryptography order and chain together in a vertical line. A protocol called block and chain group the data into the block and then chain then. The data appears in the blocks and send over the network. As seen in the simulation results, the yellow color represents the user data. This data has a default amplitude as 1 or 5. The data is chained and blocked to produce the Blockchain waveform\n\nKeywords: Blockchain, Internet of things, Wireless Sensor Network and MATLAB Simulin",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/12005801.pdf",
+      "source_url": "http://eprints.uthm.edu.my/id/eprint/13167/3/KARIM%20JABUR%20KARIM%20WATERMARK.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8852504",
+      "doi": "10.1080/09515089.2017.1282606",
+      "title": "Lessons and new directions for extended cognition from social and personality psychology",
+      "authors": [
+        {
+          "name": "Skorburg, Joshua August"
+        }
+      ],
+      "year": 2017,
+      "abstract": "This paper aims to expand the range of empirical work\n          relevant to the extended cognition debates. First, I trace the\n          historical development of the person-situation debate in\n          social and personality psychology and the extended cognition\n          debate in the philosophy of mind. Next, I highlight some\n          instructive similarities between the two and consider possible\n          objections to my comparison. I then argue that the resolution\n          of the person-situation debate in terms of interactionism\n          lends support for an analogously interactionist conception\n          of extended cognition. I argue that this interactionism might\n          necessitate a shift away from the dominant agent-artifact\n          paradigm toward an agent\u2013agent paradigm. If this is right,\n          then social and personality psychology\u2014the discipline(s) that\n          developed from the person-situation debate\u2014opens a whole\n          new range of empirical considerations for extended cognition\n          theorists which align with Clark & Chalmers original vision of\n          agents themselves as spread into the world",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/131210549.pdf",
+      "source_url": "https://philpapers.org/archive/SKOLAN.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "37626156",
+      "doi": "10.1109/cdc.2016.7798803",
+      "title": "Dynamic Models of Appraisal Networks Explaining Collective Learning",
+      "authors": [
+        {
+          "name": "Bullo, Francesco"
+        },
+        {
+          "name": "Friedkin, Noah E"
+        },
+        {
+          "name": "IEEE"
+        },
+        {
+          "name": "Lewis, Kyle"
+        },
+        {
+          "name": "Mei, Wenjun"
+        }
+      ],
+      "year": 2016,
+      "abstract": "This paper proposes models of learning process in teams of individuals who\ncollectively execute a sequence of tasks and whose actions are determined by\nindividual skill levels and networks of interpersonal appraisals and influence.\nThe closely-related proposed models have increasing complexity, starting with a\ncentralized manager-based assignment and learning model, and finishing with a\nsocial model of interpersonal appraisal, assignments, learning, and influences.\nWe show how rational optimal behavior arises along the task sequence for each\nmodel, and discuss conditions of suboptimality. Our models are grounded in\nreplicator dynamics from evolutionary games, influence networks from\nmathematical sociology, and transactive memory systems from organization\nscience.Comment: A preliminary version has been accepted by the 53rd IEEE Conference\n  on Decision and Control. The journal version has been submitted to IEEE\n  Transactions on Automatic Contro",
+      "publisher": "",
+      "journal": null,
+      "download_url": "http://arxiv.org/abs/1609.09546",
+      "source_url": "http://arxiv.org/abs/1609.09546",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "44170233",
+      "doi": "10.1177/0033294119835765",
+      "title": "Cultural Diversity in Couples and Collective Performance: Using a Culture-Based Memory Game to Measure Transactive Memory",
+      "authors": [
+        {
+          "name": "Brown, Genavee"
+        },
+        {
+          "name": "Delamarre-Allaoui, Halima"
+        },
+        {
+          "name": "Michinov, Nicolas"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Transactive memory refers to the way people in close relationships use each other\u2019s memories as extensions of their own to improve their collaborative performance.  Although pioneer research has been conducted among close couples, no studies have examined the effects of the cultural composition of couples on transactive memory.  The goal of the present study was to extend research about the positive impact of cultural diversity on team performance to mixed- (French-Moroccan) and same-culture couples (French-French, Moroccan-Moroccan).  Thirty heterosexual couples aged from 22 to 55 (M = 42.25 years and SD = 8.15) performed a culture-based memory game with cards depicting French and Moroccan culture.  The order in which the pairs of cards were found is thought to reflect the efficiency of transactive memory.  Results revealed that collective performance was better in mixed French-Moroccan couples than in same-culture couples, but only for the French culture cards.  These findings suggest that cultural diversity in couples has an impact on transactive memory and should be taken into consideration",
+      "publisher": "'SAGE Publications'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/237199475.pdf",
+      "source_url": "https://hal.science/hal-04686595",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "14209832",
+      "doi": "10.1453/jel.v4i4.1523",
+      "title": "A critique on the \u201cwhere-what\u201d perspective for organizational memory research",
+      "authors": [
+        {
+          "name": "CHANG, Ya-Feng"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Abstract. The following issues regarding to organization memory were mainly discussed in extant literature: 1. What is organization memory \u2013 organizations as knowledge bases. 2. Where is the memory stored? This article offers a compact commentary for these two questions, revisiting from a where-what perspective \u2013 that we should consider the nature of the context where known memory is embedded then we could really know the nature of what that knowledge piece is. Implications for research were elaborated.Keywords. Organization memory, Knowledge bases, Known memory.JEL. D80, L22, L23",
+      "publisher": "Journal of Economics Library",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/153389315.pdf",
+      "source_url": "http://www.kspjournals.org/index.php/JEL/article/download/1523/1463",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "8860161",
+      "doi": null,
+      "title": "Distributed selves: Personal identity and extended memory systems",
+      "authors": [
+        {
+          "name": "Heersmink, Richard"
+        }
+      ],
+      "year": 2017,
+      "abstract": "This paper explores the implications of extended and distributed cognition theory for our notions of personal identity. On an extended and distributed approach to cognition, external information is under certain conditions constitutive of memory. On a narrative approach to personal identity, autobiographical memory is constitutive of our diachronic self. In this paper, I bring these two approaches together and argue that external information can be constitutive of one\u2019s autobiographical memory and thus also of one\u2019s diachronic self. To develop this claim, I draw on recent empirical work in human-computer interaction, looking at lifelogging technologies in both healthcare and everyday contexts. I argue that personal identity can neither be reduced to psychological structures instantiated by the brain nor by biological structures instantiated by the organism, but should be seen as an environmentally-distributed and relational construct. In other words, the complex web of cognitive relations we develop and maintain with other people and technological artifacts partly determines our self. This view has conceptual, methodological, and normative implications: we should broaden our concepts of the self as to include social and artifactual structures, focus on external memory systems in the (empirical) study of personal identity, and not interfere with people\u2019s distributed minds and selves",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/131205943.pdf",
+      "source_url": "https://philpapers.org/archive/HEEDSP.pdf",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "8294083",
+      "doi": "10.1109/ceec.2018.8674195",
+      "title": "The development and evolution of transactive memory system over time in MUVEs",
+      "authors": [
+        {
+          "name": "Kleanthous, Styliani"
+        },
+        {
+          "name": "Nisiotis, Louis"
+        }
+      ],
+      "year": 2018,
+      "abstract": "CSCW in education is a topic that drew a lot of attention over the years, and Multi User Virtual Environments (MUVEs) are one of the tools utilized by many educators to support their teaching objectives. MUVEs enable students to connect, immerse and interact with their peers and the environment, and synchronously engage and collaborate in learning activities. Effective communication and collaboration contributes to student learning, and the topic of Transactive Memory System (TMS) within working groups has been found to\n\nbe very beneficial. TMS relates to the representation of the knowledge possessed by the members of a team that allows identifying who knows what, providing efficiency in collaboration. While the use of educational MUVEs has been thoroughly investigated in the literature, little is known about the use of such environments to support TMS and their relationship with working group dynamics. This paper presents the results of a study\n\ninvestigating the development and evolution of a TMS between groups within a MUVE, in order to better understand the dynamics that need to be considered when using MUVEs to support teaching and learning",
+      "publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/160276049.pdf",
+      "source_url": "http://shura.shu.ac.uk/22181/1/The%20Development%20and%20Evolution%20of%20Transactive%20Memory%20System%20Over%20Time%20in%20MUVEs.pdf",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "40322315",
+      "doi": null,
+      "title": "Side Effects of Google",
+      "authors": [
+        {
+          "name": "Fruits, Taylor"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Throughout history, humans and technology have developed simultaneously. The internet is one of the most modern examples of this phenomenon and researchers have noticed that as the internet becomes increasingly available, humans rely on it more. As a result, people seem to retain less information, and what they do remember is often false or misleading. This article examines the impact the internet has had on memory, education, and healthcare",
+      "publisher": "Digital Commons @ Butler University",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/212825634.pdf",
+      "source_url": "https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1046&amp;context=buwell",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8016356",
+      "doi": "10.1177/0149206319900537",
+      "title": "Creating New Ventures: A review and research agenda",
+      "authors": [
+        {
+          "name": "Gruber, M."
+        },
+        {
+          "name": "Shepherd, D."
+        },
+        {
+          "name": "Souitaris, V."
+        }
+      ],
+      "year": 2020,
+      "abstract": "Creating new ventures is one of the most central topics to entrepreneurship and is a critical step from which many theories of management, organizational behavior, and strategic management build. Therefore, this review and proposed research agenda is not only relevant to entrepreneurship scholars but also other management scholars who wish to challenge some of the implicit assumptions of their current streams of research and extend the boundaries of their current theories to earlier in the organization\u2019s life. Given that the last systematic review of the topic was published 16 years ago, and that the topic has evolved rapidly over this time, an overview and research outlook are long overdue. From our review, we inductively generated ten sub-topics: (1) Lead founder, (2) Founding team, (3) Social relationships, (4) Cognitions, (5) Emergent organizing, (6) New venture strategy, (7) Organizational emergence, (8) New venture legitimacy, (9) Founder exit, and (10) Entrepreneurial environment. These sub-topics are then organized into three major stages of the entrepreneurial process\u2014co-creating, organizing, and performing. Together, the framework provides a cohesive story of the past and a road map for future research on creating new ventures, focusing on the links connecting these sub-topics",
+      "publisher": "'SAGE Publications'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/286270043.pdf",
+      "source_url": "https://openaccess.city.ac.uk/id/eprint/23448/1/creating%20new%20ventures%20final.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "41665818",
+      "doi": null,
+      "title": "\u201cTransfer Talk\u201d in Talk about Writing in Progress: Two Propositions about Transfer of Learning",
+      "authors": [
+        {
+          "name": "Bodee, Bridget"
+        },
+        {
+          "name": "Douglas, Julia E."
+        },
+        {
+          "name": "Fitzsimmons, William V."
+        },
+        {
+          "name": "Hausladen, Katherine A."
+        },
+        {
+          "name": "Knowles, Megan"
+        },
+        {
+          "name": "Nowacek, Rebecca"
+        },
+        {
+          "name": "Nugent, Molly"
+        }
+      ],
+      "year": 2019,
+      "abstract": "This article tracks the emergence of the concept of \u201ctransfer talk\u201d\u2014a concept distinct from transfer of learning\u2014and teases out the implications of transfer talk for theories of transfer of learning. The concept of transfer talk was developed through a systematic examination of 30 writing center transcripts and is defined as \u201cthe talk through which individuals make visible their prior learning (in this case, about writing) or try to access the prior learning of someone else.\u201d In addition to including a taxonomy of transfer talk and analysis of which types occur most often in this set of conferences, this article advances two propositions about the nature of transfer of learning: (1) transfer of learning may have an important social, even collaborative, component and (2) although meta-awareness about writing has long been recognized as valuable for transfer of learning, more automatized knowledge may play an important role as well",
+      "publisher": "e-Publications@Marquette",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/322826221.pdf",
+      "source_url": "https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1540&amp;context=english_fac",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8418583",
+      "doi": "10.1108/ijopm-12-2015-0775",
+      "title": "Improving Retail Supply Flexibility using Buyer-Supplier Relational Capabilities",
+      "authors": [
+        {
+          "name": "Ebrahimi, S.M."
+        },
+        {
+          "name": "Koh, S.C."
+        },
+        {
+          "name": "Obayi, R."
+        },
+        {
+          "name": "Oglethorpe, D."
+        }
+      ],
+      "year": 2017,
+      "abstract": "Purpose\n\nThis study investigates the mediating role of three important relational capabilities - \n\nAbsorptive Capacity, Transactive Memory Systems, and Organizational Interoperability; on\n\nthe flexibility of buyer-supplier relationships and performance in retail supply chains.\n\nDrawing on the Relational view of strategic management, the impact of relational capabilities\n\non two forms of supply chain flexibility is examined \u2013 (a) Configuration Flexibility for\n\nswitching suppliers with minimal penalties and (b) Planning and Control Flexibility for\n\naltering supply schedules, quality, and delivery lead-time.\n\nDesign/methodology/approach\n\nStrategic and tactical level managers from 211 retail stores in the UK were surveyed. We\n\nvalidated a measurement model with structural equation modeling, and tested four hypotheses\n\non the mediating role of relational capabilities on supply chain flexibility and retail\n\nperformance, controlling for size, duration of relationship and market segment.\n\nFindings\n\nResults showed that the three relational capabilities partially mediated the positive effect of\n\nconfiguration flexibility and planning and control flexibility on operational performance in\n\nbig-middle and niche retailers. Examining the interaction effect of the forms of flexibility on\n\nthe relational capabilities and performance, we found positive interaction effects on\n\nTransactive Memory Systems and Organizational Interoperability but a non-significant effect\n\non Absorptive Capacity.\n\nPractical Implications\n\nIn addition to providing novel theoretical insights on supply chain flexibility, our findings\n\nhave practical implications for supplier selection and buyer-supplier relationship\n\nmanagement.\n\nOriginality/value\n\nOverall, the study highlights the impacts of relational capabilities on adopted operational\n\nstrategies such as flexibility, buyer-supplier relationships, and retail performanc",
+      "publisher": "'Emerald'",
+      "journal": "International Journal of Operations & Production Management",
+      "download_url": "https://core.ac.uk/download/42626126.pdf",
+      "source_url": "https://pure.manchester.ac.uk/ws/files/98495265/IJOPM2.PDF",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "18100042",
+      "doi": "10.1080/23744006.2015.1051756",
+      "title": "A review of the collective interviewing approach to detecting deception in pairs",
+      "authors": [
+        {
+          "name": "Vernham, Zarah"
+        },
+        {
+          "name": "Vrij, Aldert"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "publisher": "'Informa UK Limited'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/29589574.pdf",
+      "source_url": "https://researchportal.port.ac.uk/portal/services/downloadRegister/2867600/Collective_Interviewing_to_Detect_Deceit.pdf",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "36131719",
+      "doi": "10.1037/bul0000071",
+      "title": "A meta-analytic review of collaborative inhibition and postcollaborative memory: Testing the predictions of the retrieval strategy disruption hypothesis",
+      "authors": [
+        {
+          "name": "Marion, SB"
+        },
+        {
+          "name": "Thorley, C"
+        }
+      ],
+      "year": 2016,
+      "abstract": "The retrieval strategy disruption hypothesis (Basden, Basden, Bryner, & Thomas, 1997) is the most widely cited theoretical explanation for why the memory performance of collaborative groups is inferior to the pooled performance of individual group members remembering alone (i.e., collaborative inhibition). This theory also predicts that several variables will moderate collaborative inhibition. This meta-analysis tests the veracity of the theory by systematically examining whether or not these variables do moderate the presence and strength of collaborative inhibition. A total of 75 effect sizes from 64 studies were included in the analysis. Collaborative inhibition was found to be a robust effect. Moreover, it was enhanced when remembering took place in larger groups, when uncategorized content items were retrieved, when group members followed free-flowing and free-order procedures, and when group members did not know one another. These findings support the retrieval strategy disruption hypothesis as a general theoretical explanation for the collaborative inhibition effect. Several additional analyses were also conducted to elucidate the potential contributions of other cognitive mechanisms to collaborative inhibition. Some results suggest that a contribution of retrieval inhibition is possible, but we failed to find any evidence to suggest retrieval blocking and encoding specificity impact upon collaborative inhibition effects. In a separate analysis (27 effect sizes), moderating factors of postcollaborative memory performance were examined. Generally, collaborative remembering tends to benefit later individual retrieval. Moderator analyses suggest that reexposure to study material may be partly responsible for this postcollaborative memory enhancement. Some applied implications of the meta-analyses are discussed",
+      "publisher": "'American Psychological Association (APA)'",
+      "journal": "Psychological Bulletin",
+      "download_url": "https://core.ac.uk/download/80777204.pdf",
+      "source_url": null,
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "44005092",
+      "doi": "10.1287/orsc.2016.1078",
+      "title": "Knowledge Utilization, Coordination, and Team Performance",
+      "authors": [
+        {
+          "name": "Argote, Linda"
+        },
+        {
+          "name": "Miron-Spektor, Ella"
+        },
+        {
+          "name": "Reagans, Ray"
+        }
+      ],
+      "year": 2016,
+      "abstract": "Considerable research has established the superior performance of teams on which team members utilize specialized knowledge and also develop transactive processes that promote coordination. Less is known, however, about the consequences for team performance when team members only possess one of the two productivity factors. We develop and test a framework highlighting the distinct challenges these teams will face. In particular, our results show that each productivity factor contributed significantly more to team performance when the other factor was present. And our findings also illustrate a potential failure mode for knowledge utilization. If team members could not coordinate their collective efforts, utilizing knowledge undermined team performance. Our framework outlines a similar risk for too much coordination, if team members cannot utilize their specialized knowledge and are asked to perform a task with a \u201crugged\u201d performance landscape. We discuss the implications of our framework and results for theory and practice",
+      "publisher": "'Institute for Operations Research and the Management Sciences (INFORMS)'",
+      "journal": "Organization Science",
+      "download_url": "https://core.ac.uk/download/89359118.pdf",
+      "source_url": "http://dspace.mit.edu/bitstream/1721.1/111115/1/knowledge_utilization_coordination-Ray-Reagans.pdf",
+      "language": null,
+      "document_type": "research"
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

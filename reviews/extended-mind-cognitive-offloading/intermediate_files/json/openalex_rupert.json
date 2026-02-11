@@ -1,0 +1,878 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Rupert extended cognition",
+  "results": [
+    {
+      "openalex_id": "W2044641495",
+      "doi": "10.1080/02691720701674197",
+      "title": "Distributed Cognition without Distributed Knowing",
+      "authors": [
+        {
+          "name": "Ronald N. Giere",
+          "openalex_id": "A5068834229",
+          "institutions": [
+            "Schlumberger (Ireland)"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-07-01",
+      "abstract": "Abstract In earlier works, I have argued that it is useful to think of much scientific activity, particularly in experimental sciences, as involving the operation of distributed cognitive systems, as these are understood in the contemporary cognitive sciences. Introducing a notion of distributed cognition, however, invites consideration of whether, or in what way, related cognitive activities, such as knowing, might also be distributed. In this paper I will argue that one can usefully introduce a notion of distributed cognition without attributing other cognitive attributes, such as knowing, let alone having a mind or being conscious, to distributed cognitive systems. I will first briefly introduce the cognitive science understanding of distributed cognition, partly so as to distinguish full\u2010blown distributed cognition from mere collective cognition.Footnote 1 Keywords: Distributed CognitionDistributed Cognitive SystemCollective CognitionDistributed Knowledge Notes [1] The present article is adapted from chapter 5 of my Scientific Perspectivism (Giere Citation2006). See also (Giere Citation2002). [2] I have not been able to find these claims about mind in Cognition in the Wild. I did, however, personally hear Hutchins make these claims in a richly illustrated plenary lecture at the Annual Conference of the Cognitive Science Society in Boston, MA, 31 July\u20132 August 2003. [3] Here I discount the idea that some sort of linguistic or conceptual analysis could demonstrate that irreducibly collective knowledge either does or does not exist. [4] For a detailed critique of the idea of extended minds from the standpoint of analytical philosophy of mind, see Rupert (Citation2004). [5] The latest and best I know on this topic is due not to a philosopher but to a psychologist, Daniel Wegener (Citation2002). [6] My argument would be similar, although less dramatic, if we leave out the use of gravitational lensing in the Hubble system and regard the system as extending only from Earth orbit to the Space Telescope Science Institute in Maryland. There is no denying that the system is at least that large. [7] Among Anglo\u2010America philosophers, for example, \"cognitive\" has typically been associated with \"rational\" or \"reasons\". Thus, a philosopher would distinguish between a person's cognitive grounds (reasons) for a particular belief and mere causes of that belief. [8] Here I am not claiming that the scientists who interpret the final images produced by the Hubble Telescope System need to know every detail of the system or could successfully perform most of the tasks required to keep the system operating. Knorr Cetina is surely correct about the distribution of expertise needed to operate large\u2010scale experimental systems. I question only her attribution of agency and self\u2010consciousness to the operations of such systems as a whole. [9] I suspect that most historians of science and technology, for example, would have little difficulty with notions of distributed or collective cognition. But most, I think, would balk at the notion of extended minds and be very suspicious of talk about collective consciousness.",
+      "cited_by_count": 101,
+      "type": "article",
+      "source": {
+        "name": "Social Epistemology",
+        "type": "journal",
+        "issn": [
+          "0269-1728",
+          "1464-5297"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and History of Science",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W2044641495"
+    },
+    {
+      "openalex_id": "W2118887693",
+      "doi": "10.1080/13869795.2012.677851",
+      "title": "Cognitive practices and cognitive character",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "openalex_id": "A5055720061",
+          "institutions": [
+            "ARC Centre of Excellence in Cognition and its Disorders",
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-15",
+      "abstract": "Abstract The argument of this paper is that we should think of the extension of cognitive abilities and cognitive character in integrationist terms. Cognitive abilities are extended by acquired practices of creating and manipulating information that is stored in a publicly accessible environment. I call these cognitive practices (2007). In contrast to Pritchard (2010) I argue that such processes are integrated into our cognitive characters rather than artefacts; such as notebooks. There are two routes to cognitive extension that I contrast in the paper, the first I call artefact extension which is the now classic position of the causal coupling of an agent with an artefact. This approach needs to overcome the objection from cognitive outsourcing: that we simply get an artefact or tool to do the cognitive processing for us without extending our cognitive abilities. Enculturated cognition, by contrast, does not claim that artefacts themselves extend our cognitive abilities, but rather that the acquired practices for manipulating artefacts and the information stored in them extend our cognitive abilities (by augmenting and transforming them). In the rest of the paper I provide a series of arguments and cases which demonstrate that an enculturated approach works better for both epistemic and cognitive cases of the extension of ability and character. Keywords: cognitive practicescognitive characterextended cognitionepistemic virtue Acknowledgements This research was supported by the Australian Research Council Discovery grant: Embodied Virtues and Expertise. The author thanks audiences at the University of Hertfordshire and the epistemology and extended mind workshop at the University of Edinburgh. The author also thanks Duncan Pritchard and Krist Vaesen. Notes I follow Pritchard in talking of abilities rather than of capacities. I take interpreted information to be something like a written sentence, or a diagram, or a string of a code in a computer programme and so on. Natural information may well surround us in the ambient array of light or waiting to be discovered in natural relationships such as the number of tree rings and the age of a tree and so on, but I would not be considering natural information here. I just use information for short from here on. Hutchins (Citation2011) and Roepstorff, Niew\u00f6hner, and Beck (Citation2010) have called for an articulation of enculturated cognition. My account of enculturation is based on prior work on cognitive practices and the transformation of cognition by immersion in cultural practices in ontogeny (Menary Citation2006, Citation2007, Chapters 4\u20137; also see Menary 2008 for an account of cognitive transformation by narrative practices and Citation2010a, Citation2010b for more on practices and transformation). Many species construct their niches to some extent, beavers and their dams, termites and their mounds (Laland, Feldman, and Odling-Smee Citation2003). The niches confer a selective advantage on the species. Humans are niche constructors par excellence; in particular, they construct cognitive niches which include tools, representations and systems for cooperative actions (Sterelny Citation2003). Albeit a kind of reciprocal causal relationship. I cannot give a comprehensive set of reasons here, but see Menary (Citation2007) for a book length argument for why they are open and unbounded. I avoid the talk of modules here since their discussion would take us too far afield. I have no track of the talk of the mind getting extended from the brain into the world or Adams and Aizawa's (Citation2010) weird metaphysics of \"cognitive processes extending into tool\". I have no idea what this means or do I know who holds such a position (see Menary Citation2010c for a discussion of this point). See Menary (Citation2007, 48\u201350) for a discussion. See Rupert (Citation2009), Sterelny (Citation2010) and Menary (Citation2010a) for a discussion. But also see Hutchins (Citation2011) and Roepstorff, Niew\u00f6hner, and Beck (Citation2010), who have independently postulated a hypothesis of enculturated cognition. However, the analysis that I give is based on the account of cognitive practices as cultural practices and cognitive transformations from Menary (Citation2006, Citation2007, Chapters 4\u20137) and Menary (Citation2010a, Citation2010b). It can also mean that our abilities have been extended, in terms of what we can do now, by the resulting transformation of our abilities \u2013 \u00e0 la Dehaene. Even if it lies under the skin of the agent. In this case, Barney's reliable perceptual faculties cannot discriminate between barns and barn facades; therefore, his belief is unsafe. The original example is due to Lackey (Citation2007). See the earlier discussion in Section 2. Remember that AE leans on a principle of functional parity. If the informational source is very reliable and we know this, Otto would be an example. We can imagine that Zachary uses a system that employs some of the methods of the memory notebook system for memory-impaired patients. While Zachary is not memory impaired, his life requires him to perform a lot of different tasks and to store and retrieve a lot of information. This is a case of processing that is better done in the world as retrieving and organising the information by using the brain alone are just too inefficient. I am not trying to provide a critique of Vaesen's case against credit theories here, I merely aim to show that this case is not one of cognitive extension, but of cognitive outsourcing. To be fair to Vaesen, he does point out that this is a very weak form of extended cognition. See Pritchard's (Citation2010) tempo case where Temp now has a thermometer grafted into him physically.",
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Explorations",
+        "type": "journal",
+        "issn": [
+          "1386-9795",
+          "1741-5918"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W2118887693"
+    },
+    {
+      "openalex_id": "W2153791616",
+      "doi": "10.1017/s0140525x12000477",
+      "title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-05-10",
+      "abstract": "Abstract Brains, it has recently been argued, are essentially prediction machines. They are bundles of cells that support perception and action by constantly attempting to match incoming sensory inputs with top-down expectations or predictions. This is achieved using a hierarchical generative model that aims to minimize prediction error within a bidirectional cascade of cortical processing. Such accounts offer a unifying model of perception and action, illuminate the functional role of attention, and may neatly capture the special contribution of cortical processing to adaptive success. This target article critically examines this \u201chierarchical prediction machine\u201d approach, concluding that it offers the best clue yet to the shape of a unified science of mind and action. Sections 1 and 2 lay out the key elements and implications of the approach. Section 3 explores a variety of pitfalls and challenges, spanning the evidential, the methodological, and the more properly conceptual. The paper ends (sections 4 and 5) by asking how such approaches might impact our more general vision of mind, experience, and agency.",
+      "cited_by_count": 5597,
+      "type": "review",
+      "source": {
+        "name": "Behavioral and Brain Sciences",
+        "type": "journal",
+        "issn": [
+          "0140-525X",
+          "1469-1825"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/33542C736E17E3D1D44E8D03BE5F4CD9/S0140525X12000477a.pdf/div-class-title-whatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-science-div.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 394,
+      "url": "https://openalex.org/W2153791616"
+    },
+    {
+      "openalex_id": "W2479332255",
+      "doi": "10.1057/9780230592889_4",
+      "title": "Defending Cognitive Integration",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "openalex_id": "A5055720061",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "Recently internalists (Adams and Aizawa 2001, 2007, forthcoming, Rupert 2004, 2007) have mounted a counter-attack on the attempt to redefine the bounds of cognition. Their counter-arguments are aimed at the extended mind framework, but are also relevant to the integrationist framework. Cognitive integration can be defended against the internalist counter arguments of Adams and Aizawa (henceforth A&A), and Rupert and I shall endeavour to show how.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Palgrave Macmillan UK eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2479332255"
+    },
+    {
+      "openalex_id": "W2114814877",
+      "doi": "10.1016/j.cogsys.2013.03.008",
+      "title": "The socially extended mind",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Hertfordshire"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-03-26",
+      "abstract": null,
+      "cited_by_count": 354,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1389041713000272"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W2114814877"
+    },
+    {
+      "openalex_id": "W2117702238",
+      "doi": "10.1017/s0020818305050010",
+      "title": "Power in International Politics",
+      "authors": [
+        {
+          "name": "Michael Barnett",
+          "openalex_id": "A5051458649",
+          "orcid": "https://orcid.org/0000-0002-4773-7638",
+          "institutions": [
+            "Institute of Public Affairs"
+          ]
+        },
+        {
+          "name": "Raymond Duvall",
+          "openalex_id": "A5041863509",
+          "institutions": [
+            "University of Minnesota System",
+            "Watershed"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-01-01",
+      "abstract": "The concept of power is central to international relations. Yet disciplinary discussions tend to privilege only one, albeit important, form: an actor controlling another to do what that other would not otherwise do. By showing conceptual favoritism, the discipline not only overlooks the different forms of power in international politics, but also fails to develop sophisticated understandings of how global outcomes are produced and how actors are differentially enabled and constrained to determine their fates. We argue that scholars of international relations should employ multiple conceptions of power and develop a conceptual framework that encourages rigorous attention to power in its different forms. We first begin by producing a taxonomy of power. Power is the production, in and through social relations, of effects that shape the capacities of actors to determine their circumstances and fate. This general concept entails two crucial, analytical dimensions: the kinds of social relations through which power works (in relations of interaction or in social relations of constitution); and the specificity of social relations through which effects are produced (specific/direct or diffuse/indirect). These distinctions generate our taxonomy and four concepts of power: compulsory, institutional, structural, and productive. We then illustrate how attention to the multiple forms of power matters for the analysis of global governance and American empire. We conclude by urging scholars to beware of the idea that the multiple concepts are competing, and instead to see connections between them in order to generate more robust understandings of how power works in international politics.This article was first presented at a conference, \"Who Governs in Global Governance?\" at the University of Wisconsin-Madison. We thank the participants at the conference, including Emanuel Adler, Alex Wendt, Neta Crawford, Kathryn Sikkink, Helen Kinsella, Martha Finnemore, Jutta Weldes, Jon Pevehouse, Andrew Hurrell, John Ruggie, and especially Duncan Snidal, Robert Keohane, and Charles Kupchan. Other versions were presented at the University of Minnesota and the International Studies Association meetings in Budapest, Hungary in June, 2003. We also want to thank Kurt Burch, Thomas Diez, Tom Donahue, William Duvall, Ayten Gundogdu, Stefano Guzzini, Colin Kahl, Amit Ron, Latha Varadarajan, Michael Williams, Anne-Marie Slaughter, the editors of the journal, and two anonymous reviewers. We also acknowledge the bibliographic assistance of Emilie Hafner-Burton and Jonathan Havercroft.",
+      "cited_by_count": 1692,
+      "type": "article",
+      "source": {
+        "name": "International Organization",
+        "type": "journal",
+        "issn": [
+          "0020-8183",
+          "1531-5088"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F5F3C74D30A12A5C4CC9B4EFEA152967/S0020818305050010a.pdf/div-class-title-power-in-international-politics-div.pdf"
+      },
+      "topics": [
+        "International Relations and Foreign Policy",
+        "International Development and Aid",
+        "Global Peace and Security Dynamics"
+      ],
+      "referenced_works_count": 140,
+      "url": "https://openalex.org/W2117702238"
+    },
+    {
+      "openalex_id": "W1969822175",
+      "doi": "10.1093/mind/fzr002",
+      "title": "Much Ado About Cognition",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-10-01",
+      "abstract": "The Bounds of Cognition, by Frederick Adams and Kenneth Aizawa. Malden, MA: Blackwell Publishing, 2008. Pp. xiii + 197. H/b \u00a350.00/$78.95, P/b \u00a319.99/$29.95. Cognitive Systems and the Extended Mind, by Robert D. Rupert. New York: Oxford University Press, 2009. Pp. xiii + 268. H/b \u00a337.50/$55.00, P/b \u00a318.99/$29.95. Where in physical space lies the machinery of mind and cognition? Is mind all \u2018in the head\u2019 or might parts of the enabling physical apparatus underlying at least some of our mental states and processes be spread across brain, (extra-neural) body, and even (extra-bodily) world? In these two laudably clear, rewarding, and challenging treatments, we are offered reasons to be sceptical. The central target of each treatment is the radical-sounding claim that the local physical machinery whose whirrings and grindings make minds like ours possible is not (or not always) fully contained by the ancient metabolic boundaries of skin and skull. Such a claim, despite its radical-sounding nature, can be found (in varying degrees, and in one form or another) in a wide variety of recent treatments, spanning philosophy (e.g. Wilson 1994, 2004; Haugeland 1998; Hurley 1998; Clark and Chalmers 1998; Rowlands 1999, 2003, 2006; No\u00eb 2004, 2009; Wheeler 2005; Menary 2007; Sutton 2010); psychology (e.g. Thelen and Smith 1995; Spivey et al. 2004; Gray et al. 2006), robotics and dynamical systems theory (e.g. Beer 2000) and beyond (e.g. Hutchins 1995; Malafouris 2008; Roepstorff 2008). Philosophically, it is to be distinguished from more standard externalist claims (such as those made by Putnam (1975) and by Burge (1979, 1986)) about the role of the distal environment in the fixation of content. It is to be distinguished also from any mere modal claim to the effect that the machinery of mind might \u2014 perhaps in some strange or alien beings, or even in some future incarnation (transcarnation?) \u2014 of humanity, be smeared across more than the neural economy. Instead it is the claim, sometimes dubbed \u2018the extended mind hypothesis\u2019 following the coinage in Clark and Chalmers 1998, that the physical vehicles (for this usage see Hurley 1998, Ch. 8) of some of our actual cognitive states and processes might include more than the usual neural suspects. Such cases might include the functioning (subject perhaps to various additional requirements of sufficient degrees of reliability, availability, and agentive trust) of a notebook or an iPhone, where these \u2014 and hence, the specific encodings of information that they \u2018vehicle\u2019 \u2014 appear as elements in an integrated web of causal machinery whose combined action enables the guidance and modulation of an agent\u2019s behaviour in some of the ways distinctive of cognitive or mental states. The central example given in Clark and Chalmers 1998 concerned the state of dispositionally believing such and such to be the address of a particular art gallery. That state, Clark and Chalmers maintained, might be realized either by states of the neural apparatus alone or by various combinations of neural and non-neural resources. These could include the biological system plus written entries in a constantly-carried and fluently deployed notebook or (for a more contemporary version) plus entries in the memory of a portable device such as an iPhone. The former, in extremely rough outline, is sometimes referred to as the case of \u2018Otto\u2019: a mildly (biologically) memory-impaired agent whose success depends frequently upon such notebook-based encodings.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Mind",
+        "type": "journal",
+        "issn": [
+          "0026-4423",
+          "1460-2113"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W1969822175"
+    },
+    {
+      "openalex_id": "W1984513249",
+      "doi": "10.1080/09515089.2011.569919",
+      "title": "Active internalism and open dynamical systems",
+      "authors": [
+        {
+          "name": "Jeff Yoshimi",
+          "openalex_id": "A5076447296",
+          "institutions": [
+            "Schlumberger (Ireland)"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-18",
+      "abstract": "Abstract The question whether cognition is subserved by internal processes in the brain (internalism) or extends in to the world (active externalism) has been vigorously debated in recent years. I show how internalist and externalist ideas can be pursued in a common framework, using (1) open dynamical systems, which allow for separate analysis of an agent's intrinsic and embodied dynamics, and (2) supervenience functions, which can be used to study how low-level dynamical systems give rise to higher-level dynamical structures. Keywords: Active ExternalismDynamical Systems TheoryEmbodied CognitionInternalismSupervenience Acknowledgements I am grateful to Bill Bechtel, Rick Dale, Scott Hotton, Georg Theiner, an anonymous referee, and audiences at two conferences where earlier versions of this paper were presented\u2014Embodied, Embedded, Enactive and Extended Cognition, at the University of Central Florida, and a meeting of the Central Valley Philosophy Association, at the College of the Sequoias. Notes Notes [1] I refer to this debate as the \u201cembodiment debate.\u201d I take \u201cexternalism\u201d to be a covering term for positions that emphasize the importance of the environment in cognitive processes. \u201cExternalism\u201d in this sense covers active externalism, semantic externalism, embodiment, the enactive approach to perception, etc. When a more specific approach is in question, and the context does not make this clear, that position is referred to using appropriate terminology. [2] Recent treatments, with references to earlier work, are Chemero (Citation2009), Clark (Citation2008), Gibbs (Citation2006), Kiverstein and Clark (Citation2009), and No\u00eb (Citation2004). [3] For overview of the internalist response, see Adams and Aizawa (Citation2008), and Rupert (Citation2009). The internalist position is also treated in detail in Clark (Citation2008). [4] Similar approaches exist in the literature. Clark (Citation2008) endorses externalism for much cognitive processing, but is also an internalist about consciousness (2009). Wilson describes a \u201cmoderate externalist view,\u201d \u201ca kind of pluralistic view of the mind vis-\u00e0-vis the debate over individualism, whereby individualistic and externalist views of cognition divide the mind between them\u201d (2010a, p. 277) Wilson (Citation2001) also provides a set of tools for distinguishing different aspects of realization, which is similar to the set of tools described here. Bechtel (forthcoming) shows how mechanistic explanation often requires simultaneously considering internal dynamics and external couplings, at multiple levels of analysis. Also note that the tools I use\u2014what I call \u201copen dynamical systems\u201d and \u201csupervenience functions\u201d\u2014involve formalization of concepts associated with existing areas of research (more in section 3). [5] When I refer to a \u201csystem\u201d or \u201cobject,\u201d I mean a real thing or collection of things, something like a spatio-temporal particular. I denote systems (and their parts) by upper case letters. When I refer to \u201cstates\u201d and \u201cstate spaces,\u201d by contrast, I mean ways these systems can be. More specifically, I take state spaces to be a special kind of property set, and states to be members of such sets (Yoshimi, forthcoming). I denote state spaces by upper case bold letters. For example, if T is a total system, and A is an agent system \u201cin\u201d T (i.e., a mereological part of T), then we can talk about a state space S 1 for A, which is a set of ways A could be, and a separate state space S 2 for T, which is a set of ways T could be. As we will see, multiple state spaces can apply to the same system. [6] As Rupert says, \u201cproponents of the extended view often rest their case on observations about dependence\u201d (2010, p. 2; see also Rupert, Citation2004, section 2). [7] Also compare what Donald (Citation1991) calls \u201cexograms\u201d (e.g., written texts) which serve as external stores of memory (see also Sutton, Citation2010). [8] This was only labeled the \u201cparity principle\u201d later (Clark, Citation2008). Compare Adams and Aizawa (Citation2008) on \u201ccognitive equivalence.\u201d For critical discussion of the parity principle, see Menary (Citation2006); Sutton (Citation2010); and Wilson and Clark (Citation2009). The issues raised in these papers are addressed in section 4. [9] See Clark (Citation2008, p. 88). [10] For a helpful review, history, and analysis of internalism, see Bartlett (Citation2008). [11] One property of supervenience is that (roughly), if A supervenes on B then A also supervenes on any set of properties that in some sense \u201cincludes\u201d B. For example, if conscious states supervene on brain states, then conscious states also supervene on world states (if changes in conscious states entail changes in brain state, they thereby entail changes in the world those brains are part of). Thus, it is sometimes stipulated that a given base set of properties be minimal, i.e. the \u201csmallest\u201d set of properties B that A supervenes on (e.g., for the case of conscious states, this minimal set might contain states of some subsystem of the brain). This concept of a \u201cminimal subvenient base\u201d has not, to my knowledge, ever been made precise. Throughout when referring to \u201csubvenient bases\u201d I have this kind of minimal subvenient base in mind. For example, when referring to the brain as the subvenient base of consciousness, I assume that there is actually some mereological part of the brain which is the minimal subvenient base of consciousness. [12] As Bartlett (Citation2008) says, there was no \u201corganized defense\u201d of internalism until recently; in fact, the position was initially formulated as a foil for critics to attack. [13] Among Greek and Roman scholars there was a debate between those who thought the heart was the seat of the soul (e.g., Aristotle), and those who thought the brain was (e.g., Plato). The Roman physician Galen is said to have settled the issue. In his most famous demonstration, he removed the laryngeal nerves from a pig, and observed that this eliminated vocalization but no other functions. Other experiments showed that damage to specific parts of the brain had a specific impact on cognition (e.g., inducing blindness), even if the sense organs were intact (Gross, Citation1988). [14] Clark (Citation2009) is critical of this type of evidence (wrongly I think), but I will not respond to his arguments here (though I will respond to related worries in section 4). Clark also describes a novel way of supporting a neural basis for consciousness. Citing an earlier suggestion by Chalmers, Clark notes that relatively high bandwidth communication channels within the brain (as compared with lower bandwidth channels connecting the brain to its environment) make it the \u201conly adequate \u2018vehicle\u2019\u201d for consciousness (2009, p. 983). [15] Compare Grush's (Citation2003) arguments concerning the control-theoretic functions of the nervous system. [16] On symbolic dynamics in relation to cognitive science, see Dale and Spivey (Citation2005); and Atmanspracher and beim Graben (Citation2007). On the relationship between recurrent neural networks and state machines, see Casey (Citation1996), which includes references to earlier work. On both topics see beim Graben and Potthast (Citation2009). These ideas are discussed in relation to the philosophical literature on supervenience in Yoshimi (forthcoming). [17] Also see Phattanasri, Chiel, and Beer (Citation2007). [18] Dynamical systems can be formally defined (see Hotton & Yoshimi, Citation2010, for a discussion of the formal definition), but we will not consider the formal definition here. Also note that there is a common equivocation at this point, between the formal mathematical structure and the real system being modeled (van Gelder, Citation1998). The equivocation is mostly harmless and will be ignored in what follows. [19] The term \u201corbit\u201d is standard in dynamical systems theory. The term \u201cpath\u201d is neutral between classical dynamical systems and open dynamical systems, and so I will prefer that term here. [20] I am using the phrase \u201cphase portrait\u201d in a somewhat non-standard way. The phrase usually refers to a visual depiction of selected orbits of a dynamical system (e.g., Figure 1). I also use it to refer to a logical rather than a graphical object\u2014namely, the full set of orbits of a dynamical system, what is sometimes called an \u201corbit space.\u201d [21] Of course, outside influences can be incorporated, but then they are taken to be part of a larger dynamical system which is not subject to external influences (a useful strategy, as we\u2019re about to see). [22] As noted above, others have analyzed the dynamics of agents in environments. Our contribution is to formalize and generalize these ideas using an explicit mathematical framework, which in turn provides (among other things) for a more rigorous analysis of certain dynamical concepts, e.g., \u201chysteresis.\u201d We also describe tools for analyzing some of the complex structures that occur in an open system. These points are elaborated in Hotton and Yoshimi (Citation2010), and Hotton and Yoshimi (forthcoming). In those papers we also differentiate open dynamical systems in our sense from open thermodynamic systems and open loop control systems. [23] In what follows, I distinguish open dynamical systems, which are compound systems like the one shown in Figure 2, from open systems or \u201cembodied agent systems,\u201d which correspond to one part of an open dynamical system, namely the agent system when it is embedded in an environment (see the bottom right panel in Figure 2). [24] The act of \u201cplacing\u201d the agent system in the total space involves more formalism than this (Hotton & Yoshimi, forthcoming), but the intuitive idea should be clear. In this case, a dynamical system that consists of an infinite collection of copies of the agent system is defined on the total space. Placing the agent system in the total space then amounts to associating the agent system with one of these copies. [25] Technically, there is also a third classical dynamical system, corresponding to the embedding of the agent system in the total state space. [26] Compare Wilson's (Citation2010a) concept of \u201cfunctional gain,\u201d a property of integrated systems whereby they display novel functions compared to the behavior of any of their components considered in isolation. Also see Wilson and Clark (Citation2009). [27] In Hotton and Yoshimi (Citation2010), and Hotton and Yoshimi (forthcoming), techniques for dealing with this complexity are described (e.g., grouping paths into collections of paths that do roughly the same thing, and then color coding these collections). [28] See Yoshimi (forthcoming) for discussion of the relation between supervenience and dynamics, and for review of authors who distinguish diachronic causal process and synchronic determination relations. In the context of the embodiment debate, this kind of distinction has been invoked with aims similar to my own. Adams and Aizawa (Citation2001, 2008) distinguish coupling (which is dynamic) from constitution (which is static). Clark, drawing on such philosophers as Susan Hurley and Ned Block, distinguishes \u201cinstrumental dependence\u201d (dynamic) and \u201cconstitutive involvement\u201d (which is static; 2009, p. 965). I say more on this in section 4. [29] I have discussed elsewhere how standard formulations of supervenience imply this functional formulation (Yoshimi, Citationforthcoming). Varieties of supervenience such as strong, weak, and global (see McLaughlin & Bennett, Citation2005, for review) imply different functional formulations. For example, strong supervenience entails a single supervenience function prefixed by a modal parameter (so that base states determine the same supervenient states in all possible worlds), while weak supervenience entails a family of supervenience functions, one for each possible world. These differences can largely be bracketed here, though in a fuller treatment varieties of supervenience (including explicit modal parameters) could usefully enrich the overarching framework, with its emphasis on adaptability to different cases. [30] The function need not be defined on the entire domain; there are most likely brain states that don\u2019t determine any conscious state, and similarly in other cases of supervenience. This introduces trivial complications, which I deal with elsewhere. [31] Note that, while the supervenient state set in this example is discrete, this need not be the case; it could be a continuum. [32] As Clark says, \u201cinscriptions in the notebook figure as part of the physical supervenience base for certain standing beliefs of the agent\u201d (2009, p. 966). [33] Matters are even more complex than this. Having specified a base space of interest, it is sometimes the case that a hierarchy of spaces supervenes on that base space. For example, physical states of the brain determine chemical states, which determine biological states, which sometimes determine psychological states. This situation has an interesting analysis in terms of the partitions described above, whereby as one moves up the hierarchy of supervenience functions, increasingly coarse-grained partitions are induced on the lowest level base space. [34] See Wilson (Citation2010a), who refers to \u201csystems of various levels of durability and robustness over time and circumstance\u201d (see also Wilson & Clark, Citation2009). [35] Recall that this was Haugeland's example in discussing \u201ccausal intimacy.\u201d For review see Chiel and Beer (Citation1997). [36] Compare the analysis of dissociated cortical cultures (which allow isolated brain tissue to be studied), or for that matter just about any analysis of a biological system in vitro. [37] Also see Clark's (Citation2008) discussion of \u201ccoarse grained functional poise,\u201d and Bartlett's (Citation2008) discussion of \u201ccore realizers.\u201d [38] Clark counters this argument in a similar way; see (Citation2009, pp. 970\u2013987). Also see the discussion of \u201cSearle's objection\u201d in No\u00eb (Citation2004, p. 219). [39] On \u201csoft assembly\u201d and related concepts, see Bingham (Citation1988). [40] Pluralist approaches to cognitive science have been a subject of considerable recent discussion. See, e.g., Dale, Dietrich, and Chemero (Citation2009), McClelland et al. (Citation2010), and Spivey and Anderson (Citation2008). [41] Of course, the tools I\u2019ve described are neutral with respect to the philosophical positions. In particular, they could be used by someone with strictly internalist or externalist leanings.",
+      "cited_by_count": 30,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and History of Science",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 70,
+      "url": "https://openalex.org/W1984513249"
+    },
+    {
+      "openalex_id": "W2586308256",
+      "doi": null,
+      "title": "Where Syllogistic Reasoning Happens: An Argument for the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "openalex_id": "A5088373052",
+          "orcid": "https://orcid.org/0000-0001-7632-0412",
+          "institutions": [
+            "Indiana University"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "Where Syllogistic Reasoning Happens An Argument for the Extended Mind Hypothesis Georg Theiner (gtheiner@indiana.edu) Department of Philosophy, 1033 E. Third St. Bloomington, IN 47405 USA constitutes a single, extended cognitive system is determined by the level of duration, reliability, and functional integration of the coupling between biological on-board and environmental off-board resources assembled for the performance of specific cognitive tasks (Wilson & Clark, forthcoming). In return, critics such as Adams and Aizawa (forthcoming) have branded the \u201ccoupling- constitution fallacy\u201d as \u201cthe most common mistake extended mind theorists make\u201d (p.2) when they infer, on the basis of showing that an external resource is coupled in some principled fashion to a cognitive agent, that this resource constitutes a mereological part of the agent\u2019s cognitive apparatus. Contested by their criticism is a tacit premise which would close the suggested logical gap: Abstract Does cognition sometimes literally extend into the extra- organismic environment (Clark, 2003), or is it always \u201cmerely\u201d environmentally embedded (Rupert, 2004)? Underlying this current border dispute is the question about how to individuate cognitive processes on principled grounds. Based on recent evidence about the active role of representation selection and construction in learning how to reason (Stenning, 2002), I raise the question: what makes two distinct, modality-specific pen-and-paper manipulations of external representations \u2013 diagrams versus sentences \u2013 cognitive processes of the same kind, e.g. episodes of syllogistic reasoning? In response, I defend a \u201cdivision of labor\u201d hypothesis, according to which external representations are dependent on perceptually grounded neural representations and mechanisms to guide our behavior; these internal mechanisms, however, are dependent on external representations to have their syllogistic content fixed. Only their joint contributions qualify the extended computational process as an episode of syllogistic reasoning in good standing. The A-B PRINCIPLE: In certain cases where an understanding of A\u2019s relation to B is significantly relevant to our understanding of A, we should posit a single system, A-B, as a single unit of study 1 . Keywords: Philosophy of Psychology; Extended Mind Hypothesis; Situated Cognition; Diagrammatic Reasoning Extended or Merely Embedded Cognition? In recent years, the development and use of epistemic artifacts \u2013 tools for thinking \u2013 have come to play a central role in the evolutionary and psychological explanation of human intellectual prowess. We deploy them to access new kinds of information (e.g. compass, sextant); to off-load, re- represent, and return information (e.g. pen and paper, writing systems); and to introduce new active sources of information-processing (e.g. abacus, pocket calculator, neural implants). They allow us to accomplish cognitive tasks that would otherwise remain beyond the ken of our \u201cnaked\u201d biological brains. How should we characterize these intriguing capacity- enhancing interactions? Proponents of the Extended Mind Hypothesis (EMH) view them as episodes of cognitive processing which literally stretch beyond the head to include elements of the organism\u2019s local environment among its proper parts (Clark & Chalmers, 1998; Clark, 2003; Wilson & Clark forthcoming). From the perspective of a more conservative competitor, which Rupert (2004) calls the Hypothesis of Embedded Cognition (HEMC), cognitive processes are safely encased within the brain, but sometimes \u201cdepend very heavily, in hitherto unexpected ways, on organismically external props and devices\u201d (p. 393). Underlying this border dispute is a question about how to individuate cognitive systems. According to EMH, what As a theoretical hypothesis in cognitive science, EMH should be evaluated on a case-by-case basis in terms of its empirical and methodological credentials. Consequently, if we can enumerate conditions under which psychologists are profitably committed to specific applications of the A-B Principle for demarcating the boundaries of a cognitive system, we have good reasons to prefer EMH over HEMC as a theoretical gloss of what\u2019s going on in these cases. In this paper, my defense of the A-B Principle within the psychology of deductive reasoning is predicated on showing two things: first, that it is befitting to characterize pen-and- paper performances of syllogistic problem-solving as products of a single hybrid computational system realized by parts of the brain, body, and elements of the locally scaffolded environment; second, which insights we can only obtain by treating the extended system as a single cognitive system. The Argument from Modality The dominant naturalist approaches to the psychology of so-called \u201cmental\u201d (i.e. in-the-head) syllogistic reasoning exhibit various reflexes of the traditional belief that logical competence is a fixed part of human nature. For instance, it is widely assumed that human subjects are essentially homogeneous in what kind of internal representation system they use; that the main theoretical role of external A stronger, unrestricted version of this principle is discussed and rightly criticized by Rupert (2004).",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/5225t3j6"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W2586308256"
+    },
+    {
+      "openalex_id": "W2116651343",
+      "doi": "10.1007/s11251-010-9128-3",
+      "title": "Team learning: building shared mental models",
+      "authors": [
+        {
+          "name": "Piet Van den Bossche",
+          "openalex_id": "A5101734984",
+          "orcid": "https://orcid.org/0000-0003-4459-7008",
+          "institutions": [
+            "Maastricht University",
+            "University of Antwerp"
+          ]
+        },
+        {
+          "name": "Wim Gijselaers",
+          "openalex_id": "A5042964362",
+          "orcid": "https://orcid.org/0000-0002-4218-2944",
+          "institutions": [
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Mien Segers",
+          "openalex_id": "A5056449633",
+          "orcid": "https://orcid.org/0000-0001-6578-8722",
+          "institutions": [
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Geert Woltjer",
+          "openalex_id": "A5025143294",
+          "institutions": [
+            "Wageningen University & Research"
+          ]
+        },
+        {
+          "name": "Paul A. Kirschner",
+          "openalex_id": "A5069373510",
+          "orcid": "https://orcid.org/0000-0002-8743-0462",
+          "institutions": [
+            "Open University of the Netherlands"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-03-16",
+      "abstract": null,
+      "cited_by_count": 358,
+      "type": "article",
+      "source": {
+        "name": "Instructional Science",
+        "type": "journal",
+        "issn": [
+          "0020-4277",
+          "1573-1952"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11251-010-9128-3.pdf"
+      },
+      "topics": [
+        "Team Dynamics and Performance",
+        "Knowledge Management and Sharing",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W2116651343"
+    },
+    {
+      "openalex_id": "W1509922667",
+      "doi": "10.5840/jphil2009106937",
+      "title": "Extended Cognition and Functionalism",
+      "authors": [
+        {
+          "name": "Mark Sprevak",
+          "openalex_id": "A5012071072",
+          "orcid": "https://orcid.org/0000-0002-1413-5534",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": null,
+      "cited_by_count": 169,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0022-362X",
+          "1939-8549"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.research.ed.ac.uk/en/publications/d8cd6448-3dad-4747-a665-bad513e64cc0"
+      },
+      "topics": [
+        "Philosophy and Theoretical Science",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1509922667"
+    },
+    {
+      "openalex_id": "W2048487711",
+      "doi": "10.1007/s13164-013-0131-x",
+      "title": "Distributed Cognition and Memory Research: History and Current Directions",
+      "authors": [
+        {
+          "name": "Kourken Michaelian",
+          "openalex_id": "A5005971328",
+          "orcid": "https://orcid.org/0000-0002-5205-3046",
+          "institutions": [
+            "Bilkent University"
+          ]
+        },
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-19",
+      "abstract": null,
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-013-0131-x.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Memory and Neural Mechanisms",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2048487711"
+    },
+    {
+      "openalex_id": "W2018404773",
+      "doi": "10.1186/1743-0003-6-5",
+      "title": "Robotic neurorehabilitation: a computational motor learning perspective",
+      "authors": [
+        {
+          "name": "Vincent Huang",
+          "openalex_id": "A5103066668",
+          "orcid": "https://orcid.org/0000-0002-7686-2980",
+          "institutions": [
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "John W. Krakauer",
+          "openalex_id": "A5000991643",
+          "orcid": "https://orcid.org/0000-0002-4316-1846",
+          "institutions": [
+            "Columbia University",
+            "The Neurological Institute"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-02-25",
+      "abstract": null,
+      "cited_by_count": 418,
+      "type": "review",
+      "source": {
+        "name": "Journal of NeuroEngineering and Rehabilitation",
+        "type": "journal",
+        "issn": [
+          "1743-0003"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://jneuroengrehab.biomedcentral.com/counter/pdf/10.1186/1743-0003-6-5"
+      },
+      "topics": [
+        "Stroke Rehabilitation and Recovery",
+        "EEG and Brain-Computer Interfaces",
+        "Cerebral Palsy and Movement Disorders"
+      ],
+      "referenced_works_count": 128,
+      "url": "https://openalex.org/W2018404773"
+    },
+    {
+      "openalex_id": "W2007549063",
+      "doi": "10.1016/j.cogsys.2013.04.002",
+      "title": "Loops, constitution, and cognitive extension",
+      "authors": [
+        {
+          "name": "S. Orestis Palermos",
+          "openalex_id": "A5004967642",
+          "orcid": "https://orcid.org/0000-0002-0297-084X",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-04-28",
+      "abstract": "The 'causal-constitution' fallacy, the 'cognitive bloat' worry, and the persisting theoretical confusion about the fundamental difference between the hypotheses of embedded (HEMC) and extended (HEC) cognition are three interrelated worries, whose common point-and the problem they accentuate-is the lack of a principled criterion of constitution. Attempting to address the 'causal-constitution' fallacy, mathematically oriented philosophers of mind have previously suggested that the presence of non-linear relations between the inner and the outer contributions is sufficient for cognitive extension. The abstract idea of non-linearity, however, can be easily misunderstood and has, in the past, led to incorrect and counterintuitive conclusions about what may count as part of one's overall cognitive system. In order to prevent any further mistakes I revisit dynamical systems theory to study the nature of the continuous mutual interactions that give rise to the aforementioned non-linear relations. Moreover, focusing on these interactions will allow us to provide two distinct arguments in support of the ontological postulation of extended cognitive systems, as well as an objective criterion of constitution. Accordingly, I put forward a version of HEC that treats continuous mutual interactions (and the resultant non-linear relations) not just as sufficient but also as necessary for cognitive extension. Such a qualified version of HEC may exclude certain alleged cases of cognitive extension where the agent does not mutually interact with his artifacts (e.g., shopping lists and directory services), but it is immune both to the 'causal-constitution' fallacy and the 'cognitive bloat' worry, and it can be sharply distinguished from HEMC.",
+      "cited_by_count": 144,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.research.ed.ac.uk/en/publications/921d8bee-005f-4631-ad31-1e7fc402a394"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Cognitive Science and Education Research",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 71,
+      "url": "https://openalex.org/W2007549063"
+    },
+    {
+      "openalex_id": "W2082398981",
+      "doi": "10.1007/s11098-014-0347-3",
+      "title": "Extending the extended mind: the case for extended affectivity",
+      "authors": [
+        {
+          "name": "Giovanna Colombetti",
+          "openalex_id": "A5072857737",
+          "orcid": "https://orcid.org/0000-0003-0935-1109",
+          "institutions": [
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Tom Roberts",
+          "openalex_id": "A5101934654",
+          "orcid": "https://orcid.org/0000-0002-6675-7060",
+          "institutions": [
+            "University of Exeter"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-06-23",
+      "abstract": null,
+      "cited_by_count": 190,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11098-014-0347-3.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 85,
+      "url": "https://openalex.org/W2082398981"
+    },
+    {
+      "openalex_id": "W2010804586",
+      "doi": "10.3758/bf03194989",
+      "title": "Vibrotactile localization on the abdomen: Effects of place and space",
+      "authors": [
+        {
+          "name": "Roger W. Cholewiak",
+          "openalex_id": "A5052258612",
+          "institutions": [
+            "Naval Aerospace Medical Research Laboratory"
+          ]
+        },
+        {
+          "name": "J. Christopher Brill",
+          "openalex_id": "A5005431912",
+          "institutions": [
+            "Naval Aerospace Medical Research Laboratory"
+          ]
+        },
+        {
+          "name": "Anja Schwab",
+          "openalex_id": "A5024456446",
+          "institutions": [
+            "Naval Aerospace Medical Research Laboratory"
+          ]
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-08-01",
+      "abstract": null,
+      "cited_by_count": 291,
+      "type": "article",
+      "source": {
+        "name": "Perception & Psychophysics",
+        "type": "journal",
+        "issn": [
+          "0031-5117",
+          "1532-5962"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.3758/BF03194989.pdf"
+      },
+      "topics": [
+        "Tactile and Sensory Interactions",
+        "Multisensory perception and integration",
+        "Visual perception and processing mechanisms"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W2010804586"
+    },
+    {
+      "openalex_id": "W4380445882",
+      "doi": "10.7551/mitpress/8535.003.0011",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "Michael Wheeler",
+          "openalex_id": "A5101818008",
+          "orcid": "https://orcid.org/0000-0003-3638-1215"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": "The Dynamic DuoAccording to the extended cognition hypothesis (henceforth ExC), there are conditions under which thinking and thoughts (or more precisely, the material vehicles that realize thinking and thoughts) are spatially distributed over brain, body and world, in such a way that the external (beyond-the-skin) factors concerned are rightly accorded fully-paid-up cognitive status. 1 According to functionalism in the philosophy of mind, \"what makes something a mental state of a particular type does not depend on its internal constitution, but rather on the way it functions, or the role it plays, in the system of which it is a part\" (Levin 2008).The respective fates of these two positions may not be independent of each other.The claim that ExC is in some way a form of, dependent on, entailed by, or at least commonly played out in terms of, functionalism is now pretty much part of the received view of things (see, e.g.,",
+      "cited_by_count": 86,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W4380445882"
+    },
+    {
+      "openalex_id": "W2086684289",
+      "doi": "10.3389/fpsyg.2013.01003",
+      "title": "Affordances and the musically extended mind",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "I defend a model of the musically extended mind. I consider how acts of \"musicking\" grant access to novel emotional experiences otherwise inaccessible. First, I discuss the idea of \"musical affordances\" and specify both what musical affordances are and how they invite different forms of entrainment. Next, I argue that musical affordances - via soliciting different forms of entrainment - enhance the functionality of various endogenous, emotion-granting regulative processes, drawing novel experiences out of us with an expanded complexity and phenomenal character. I argue that music therefore ought to be thought of as part of the vehicle needed to realize these emotional experiences. I appeal to different sources of empirical work to develop this idea.",
+      "cited_by_count": 258,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.01003/pdf"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 190,
+      "url": "https://openalex.org/W2086684289"
+    },
+    {
+      "openalex_id": "W2038677167",
+      "doi": "10.3389/fnhum.2014.00706",
+      "title": "Extensive enactivism: why keep it all in?",
+      "authors": [
+        {
+          "name": "Daniel D. Hutto",
+          "openalex_id": "A5084720966",
+          "orcid": "https://orcid.org/0000-0002-3585-4618",
+          "institutions": [
+            "University of Hertfordshire",
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718"
+        },
+        {
+          "name": "Erik Myin",
+          "openalex_id": "A5026660825",
+          "orcid": "https://orcid.org/0000-0002-2805-9966",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-25",
+      "abstract": "Radical enactive and embodied approaches to cognitive science oppose the received view in the sciences of the mind in denying that cognition fundamentally involves contentful mental representation. This paper argues that the fate of representationalism in cognitive science matters significantly to how best to understand the extent of cognition. It seeks to establish that any move away from representationalism toward pure, empirical functionalism fails to provide a substantive \"mark of the cognitive\" and is bereft of other adequate means for individuating cognitive activity. It also argues that giving proper attention to the way the folk use their psychological concepts requires questioning the legitimacy of commonsense functionalism. In place of extended functionalism-empirical or commonsensical-we promote the fortunes of extensive enactivism, clarifying in which ways it is distinct from notions of extended mind and distributed cognition.",
+      "cited_by_count": 93,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00706/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W2038677167"
+    },
+    {
+      "openalex_id": "W1513036998",
+      "doi": "10.3389/fnhum.2015.00237",
+      "title": "The embodied brain: towards a radical embodied cognitive neuroscience",
+      "authors": [
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367"
+        },
+        {
+          "name": "Mark Miller",
+          "openalex_id": "A5102767297",
+          "orcid": "https://orcid.org/0000-0003-1783-889X",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-06",
+      "abstract": "In this programmatic paper we explain why a radical embodied cognitive neuroscience is needed. We argue for such a claim based on problems that have arisen in cognitive neuroscience for the project of localizing function to specific brain structures. The problems come from research concerned with functional and structural connectivity that strongly suggests that the function a brain region serves is dynamic, and changes over time. We argue that in order to determine the function of a specific brain area, neuroscientists need to zoom out and look at the larger organism-environment system. We therefore argue that instead of looking to cognitive psychology for an analysis of psychological functions, cognitive neuroscience should look to an ecological dynamical psychology. A second aim of our paper is to develop an account of embodied cognition based on the inseparability of cognitive and emotional processing in the brain. We argue that emotions are best understood in terms of action readiness (Frijda, 1986, 2007) in the context of the organism's ongoing skillful engagement with the environment (Rietveld, 2008; Bruineberg and Rietveld, 2014; Kiverstein and Rietveld, 2015, forthcoming). States of action readiness involve the whole living body of the organism, and are elicited by possibilities for action in the environment that matter to the organism. Since emotion and cognition are inseparable processes in the brain it follows that what is true of emotion is also true of cognition. Cognitive processes are likewise processes taking place in the whole living body of an organism as it engages with relevant possibilities for action.",
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2015.00237/pdf"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 104,
+      "url": "https://openalex.org/W1513036998"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

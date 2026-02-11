@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.31234/osf.io/7fxrg"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.31234/osf.io/7fxrg",
+      "title": "Optimal use of reminders: Metacognition, effort, and cognitive offloading",
+      "authors": [
+        {
+          "family": "Gilbert",
+          "given": "Sam"
+        },
+        {
+          "family": "Bird",
+          "given": "Arabella"
+        },
+        {
+          "family": "Carpenter",
+          "given": "Jason"
+        },
+        {
+          "family": "Fleming",
+          "given": "Stephen M"
+        },
+        {
+          "family": "Sachdeva",
+          "given": "Chhavi"
+        },
+        {
+          "family": "TSAI",
+          "given": "PEI-CHUN"
+        }
+      ],
+      "editors": [],
+      "year": 2018,
+      "container_title": "",
+      "volume": "",
+      "issue": "",
+      "page": "",
+      "publisher": "Center for Open Science",
+      "type": "posted-content",
+      "suggested_bibtex_type": "misc",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.31234/osf.io/7fxrg"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

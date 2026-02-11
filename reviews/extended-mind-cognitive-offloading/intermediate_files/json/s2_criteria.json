@@ -1,0 +1,97 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "cognitive criteria Rupert Sprevak",
+  "results": [
+    {
+      "paperId": "3fa90e5ff17f123e23e1a7ff657b5d999ee31f26",
+      "title": "\u201cMemory, Natural Kinds, and Cognitive Extension; or, Martians Don\u2019t Remember, and Cognitive Science Is Not about Cognition\u201d",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 28,
+      "doi": "10.1007/S13164-012-0129-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3fa90e5ff17f123e23e1a7ff657b5d999ee31f26",
+      "venue": "",
+      "journal": {
+        "name": "Review of Philosophy and Psychology",
+        "pages": "25-47",
+        "volume": "4"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "62444cd79fe9daf5dc1b97d8e4270a111139936e",
+      "title": "\u201cMemory, Natural Kinds, and Cognitive Extension; or, Martians Don\u2019t Remember, and Cognitive Science Is Not about Cognition\u201d",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s13164-012-0129-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/62444cd79fe9daf5dc1b97d8e4270a111139936e",
+      "venue": "Review of Philosophy and Psychology",
+      "journal": {
+        "name": "Review of Philosophy and Psychology",
+        "pages": "25 - 47",
+        "volume": "4"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 131,
+      "doi": "10.7551/mitpress/9780262014038.003.0011",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "245-270",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "bfd9d1a6baf816c37136727cc409e65867ed9ad6",
+      "title": "Intentionality in predictive signaling systems 1",
+      "authors": [
+        {
+          "name": "Carrie Figdor",
+          "authorId": "35241341"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/bfd9d1a6baf816c37136727cc409e65867ed9ad6",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    }
+  ],
+  "count": 4,
+  "errors": []
+}

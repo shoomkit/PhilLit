@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/desc.13204"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/desc.13204",
+      "title": "Young children spontaneously devise an optimal external solution to a cognitive problem",
+      "authors": [
+        {
+          "family": "Armitage",
+          "given": "Kristy L."
+        },
+        {
+          "family": "Taylor",
+          "given": "Alex H."
+        },
+        {
+          "family": "Suddendorf",
+          "given": "Thomas"
+        },
+        {
+          "family": "Redshaw",
+          "given": "Jonathan"
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Developmental Science",
+      "volume": "25",
+      "issue": "3",
+      "page": "",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/desc.13204"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

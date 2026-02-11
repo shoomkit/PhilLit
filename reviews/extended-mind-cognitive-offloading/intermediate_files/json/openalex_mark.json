@@ -1,0 +1,1615 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "mark of the cognitive",
+  "results": [
+    {
+      "openalex_id": "W2022350326",
+      "doi": "10.1080/09515080802703620",
+      "title": "Extended cognition and the mark of the cognitive",
+      "authors": [
+        {
+          "name": "Mark Rowlands",
+          "openalex_id": "A5073867131",
+          "orcid": "https://orcid.org/0000-0001-9152-902X",
+          "institutions": [
+            "University of Miami"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-02-01",
+      "abstract": "According to the thesis of the extended mind (EM), at least some token cognitive processes extend into the cognizing subject's environment in the sense that they are (partly) composed of manipulative, exploitative, and transformative operations performed by that subject on suitable environmental structures. EM has attracted four ostensibly distinct types of objection. This paper has two goals. First, it argues that these objections all reduce to one basic sort: all the objections can be resolved by the provision of an adequate and properly motivated criterion\u2014or mark\u2014of the cognitive. Second, it provides such a criterion\u2014one made up of four conditions that are sufficient for a process to count as cognitive.",
+      "cited_by_count": 137,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W2022350326"
+    },
+    {
+      "openalex_id": "W2050782723",
+      "doi": "10.1007/s11023-012-9291-1",
+      "title": "The Mark of the Cognitive",
+      "authors": [
+        {
+          "name": "Fred Adams",
+          "openalex_id": "A5110466364",
+          "institutions": [
+            "University of Delaware"
+          ]
+        },
+        {
+          "name": "Rebecca Garrison",
+          "openalex_id": "A5027338747",
+          "institutions": [
+            "University of Delaware"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-11-17",
+      "abstract": null,
+      "cited_by_count": 54,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W2050782723"
+    },
+    {
+      "openalex_id": "W1971262678",
+      "doi": "10.1016/j.cogsys.2010.03.001",
+      "title": "Why we still need a mark of the cognitive",
+      "authors": [
+        {
+          "name": "Frederick Adams",
+          "openalex_id": "A5110766364",
+          "institutions": [
+            "University of Delaware"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-07-06",
+      "abstract": null,
+      "cited_by_count": 45,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W1971262678"
+    },
+    {
+      "openalex_id": "W1986490512",
+      "doi": "10.1007/s11229-010-9844-x",
+      "title": "Cognitive extension: the parity argument, functionalism, and the mark of the cognitive",
+      "authors": [
+        {
+          "name": "Sven Walter",
+          "openalex_id": "A5039127261",
+          "orcid": "https://orcid.org/0000-0003-0635-6633",
+          "institutions": [
+            "Osnabr\u00fcck University"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-11-01",
+      "abstract": null,
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W1986490512"
+    },
+    {
+      "openalex_id": "W3150764730",
+      "doi": "10.1007/s10539-021-09788-0",
+      "title": "Is free-energy minimisation the mark of the cognitive?",
+      "authors": [
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367"
+        },
+        {
+          "name": "Matthew Sims",
+          "openalex_id": "A5081354576",
+          "orcid": "https://orcid.org/0000-0003-2418-9330",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-01",
+      "abstract": "Abstract A mark of the cognitive should allow us to specify theoretical principles for demarcating cognitive from non-cognitive causes of behaviour in organisms. Specific criteria are required to settle the question of when in the evolution of life cognition first emerged. An answer to this question should however avoid two pitfalls. It should avoid overintellectualising the minds of other organisms, ascribing to them cognitive capacities for which they have no need given the lives they lead within the niches they inhabit. But equally it should do justice to the remarkable flexibility and adaptiveness that can be observed in the behaviour of microorganisms that do not have a nervous system. We should resist seeking non-cognitive explanations of behaviour simply because an organism fails to exhibit human-like feats of thinking, reasoning and problem-solving. We will show how Karl Friston\u2019s Free-Energy Principle (FEP) can serve as the basis for a mark of the cognitive that avoids the twin pitfalls of overintellectualising or underestimating the cognitive achievements of evolutionarily primitive organisms. The FEP purports to describe principles of organisation that any organism must instantiate if it is to remain well-adapted to its environment. Living systems from plants and microorganisms all the way up to humans act in ways that tend in the long run to minimise free energy. If the FEP provides a mark of the cognitive, as we will argue it does, it mandates that cognition should indeed be ascribed to plants, microorganisms and other organisms that lack a nervous system.",
+      "cited_by_count": 24,
+      "type": "article",
+      "source": {
+        "name": "Biology & Philosophy",
+        "type": "journal",
+        "issn": [
+          "0169-3867",
+          "1572-8404"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10539-021-09788-0.pdf"
+      },
+      "topics": [
+        "Plant and Biological Electrophysiology Studies",
+        "Origins and Evolution of Life",
+        "Slime Mold and Myxomycetes Research"
+      ],
+      "referenced_works_count": 128,
+      "url": "https://openalex.org/W3150764730"
+    },
+    {
+      "openalex_id": "W4313324610",
+      "doi": "10.1007/s10539-022-09889-4",
+      "title": "Cognitive science meets the mark of the cognitive: putting the horse before the cart",
+      "authors": [
+        {
+          "name": "Joe Gough",
+          "openalex_id": "A5038889632",
+          "orcid": "https://orcid.org/0000-0003-2591-5744",
+          "institutions": [
+            "University of Sussex"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-12-17",
+      "abstract": null,
+      "cited_by_count": 22,
+      "type": "article",
+      "source": {
+        "name": "Biology & Philosophy",
+        "type": "journal",
+        "issn": [
+          "0169-3867",
+          "1572-8404"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10539-022-09889-4.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W4313324610"
+    },
+    {
+      "openalex_id": "W2768982324",
+      "doi": "10.3389/fpsyg.2017.02061",
+      "title": "The Mark of the Cognitive and the Coupling-Constitution Fallacy: A Defense of the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "openalex_id": "A5082408200",
+          "orcid": "https://orcid.org/0000-0002-4967-7907",
+          "institutions": [
+            "Istituto Universitario di Studi Superiori di Pavia"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-11-28",
+      "abstract": "Clark and Chalmers (1998) introduced the extended mind hypothesis, according to which some mental states can be realized by non-biological external resources. A lively debate has flourished around this hypothesis, connected with the issues of embodiment, embeddedness, situatedness and enaction (cf. Clark, 2008; Menary, 2010; Shapiro, 2011). Two of the main criticisms addressed to the functionalist version of the extended mind thesis have been the so-called \"coupling-constitution fallacy\" and the alleged lack of a mark of the cognitive (Adams and Aizawa, 2001, 2005, 2009, 2010a,b). According to Adams and Aizawa, extended cognition is a logical possibility, but is not instantiated in our world. Following this view, they defend a \"contingent intracranialism,\" based on a specific mark of the cognitive that they propose. In this paper I intend to show that neither criticism is effective against the extended cognition thesis. In particular: the mark of the cognitive proposed by Adams and Aizawa does not secure contingent intracranialism;the coupling-constitution fallacy criticizes extended cognition on precisely the point the theory was intended to defend: namely, that the best way to individuate cognitive systems, given a minimal mark of the cognitive, is to rely on coupling relations between agents and environmental resources.",
+      "cited_by_count": 14,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02061/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2768982324"
+    },
+    {
+      "openalex_id": "W2972162645",
+      "doi": "10.1007/s11229-019-02376-6",
+      "title": "Autopoietic theory, enactivism, and their incommensurable marks of the cognitive",
+      "authors": [
+        {
+          "name": "Mario Villalobos",
+          "openalex_id": "A5001970903",
+          "orcid": "https://orcid.org/0000-0003-0567-2888",
+          "institutions": [
+            "University of Tarapac\u00e1"
+          ]
+        },
+        {
+          "name": "Sim\u00f3n Palacios",
+          "openalex_id": "A5102836077",
+          "orcid": "https://orcid.org/0000-0002-5370-1439",
+          "institutions": [
+            "Instituto de Filosof\u00eda y Ciencias de la Complejidad",
+            "Alberto Hurtado University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-03",
+      "abstract": null,
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Origins and Evolution of Life",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W2972162645"
+    },
+    {
+      "openalex_id": "W4283765827",
+      "doi": "10.1007/s11229-022-03674-2",
+      "title": "A New Mark of the Cognitive? Predictive Processing and Extended Cognition",
+      "authors": [
+        {
+          "name": "Luke Kersten",
+          "openalex_id": "A5012949317",
+          "orcid": "https://orcid.org/0000-0001-7054-8942",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-06-30",
+      "abstract": "Abstract There is a longstanding debate between those who think that cognition extends into the external environment (extend cognition) and those who think it is located squarely within the individual (internalism). Recently, a new actor has emerged on the scene, one that looks to play kingmaker. Predictive processing (PP) says that the mind/brain is fundamentally engaged in a process of minimising the difference between what is predicted about the world and how the world actually is, what is known as \u2018prediction error minimisation\u2019 (PEM). The goal of this paper is to articulate a novel approach to extended cognition using the resources of PP. After outlining two recent proposals from Constant et al. (2020) and Kirchhoff and Kiverstein (2019), I argue that the case for extended cognition can be further developed by interpreting certain elements of the PP story (namely, PEM) as a \u201cmark of the cognitive\u201d. The suggestion is that when construed at an \u2018algorithmic level\u2019 PEM offers a direct route to thinking about extended systems as genuine cognitive systems. On route to articulating the proposal, I lay out the core argument, defend the proposal\u2019s novelty, and point to several of the advantages of the formulation. Finally, I conclude by taking up two challenges raised by Hohwy (2016, 2018) about the prospects of using PEM to argue for extended cognition.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-022-03674-2.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 66,
+      "url": "https://openalex.org/W4283765827"
+    },
+    {
+      "openalex_id": "W1536258620",
+      "doi": "10.5860/choice.40-1223",
+      "title": "The way we think: conceptual blending and the mind's hidden complexities",
+      "authors": [],
+      "publication_year": 2002,
+      "publication_date": "2002-10-01",
+      "abstract": "A long-awaited synthesis that marks a major turning point in cognitive science. . Until recently, cognitive science focused on such mental functions as problem solving, grammar, and pattern-the functions in which the human mind most closely resembles a computer. But humans are more than computers: we invent new meanings, imagine wildly, and even have ideas that have never existed before. Today the cutting edge of cognitive science addresses precisely these mysterious, creative aspects of the mind. The Way We Think is a landmark analysis of the imaginative nature of the mind. Conceptual blending is already widely known in research laboratories throughout the world; this book, written to be accessible to both lay readers and interested scientists, is its definitive statement. Gilles Fauconnier and Mark Turner show that conceptual blending is the root of the cognitively modern human mind, and that conceptual blends themselves are continually combined and reblended to create the rich mental fabric in which we live. The Way We Think shows how this blending operates; how it is affected by (and gives rise to) language, identity, culture, and invention; and how we imagine what could be and what might have been. The result is a bold and exciting new view of how the mind works.",
+      "cited_by_count": 5370,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1536258620"
+    },
+    {
+      "openalex_id": "W2218659545",
+      "doi": "10.1016/j.neurobiolaging.2015.09.019",
+      "title": "Neuromelanin marks the spot: identifying a locus coeruleus biomarker of cognitive reserve in healthy aging",
+      "authors": [
+        {
+          "name": "David Clewett",
+          "openalex_id": "A5032666143",
+          "orcid": "https://orcid.org/0000-0003-0026-8034",
+          "institutions": [
+            "University of Southern California"
+          ]
+        },
+        {
+          "name": "Tae\u2010Ho Lee",
+          "openalex_id": "A5100759354",
+          "orcid": "https://orcid.org/0000-0001-6458-0620",
+          "institutions": [
+            "University of Southern California"
+          ]
+        },
+        {
+          "name": "Steven G. Greening",
+          "openalex_id": "A5012772790",
+          "orcid": "https://orcid.org/0000-0003-4578-4139",
+          "institutions": [
+            "University of Southern California",
+            "Louisiana State University"
+          ]
+        },
+        {
+          "name": "Allison Ponzio",
+          "openalex_id": "A5042338463",
+          "institutions": [
+            "University of Southern California"
+          ]
+        },
+        {
+          "name": "Eshed Margalit",
+          "openalex_id": "A5026259311",
+          "orcid": "https://orcid.org/0000-0003-0841-7444",
+          "institutions": [
+            "University of Southern California"
+          ]
+        },
+        {
+          "name": "Mara Mather",
+          "openalex_id": "A5048937263",
+          "orcid": "https://orcid.org/0000-0003-4331-6112",
+          "institutions": [
+            "University of Southern California"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-11-03",
+      "abstract": null,
+      "cited_by_count": 242,
+      "type": "article",
+      "source": {
+        "name": "Neurobiology of Aging",
+        "type": "journal",
+        "issn": [
+          "0197-4580",
+          "1558-1497"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5134892"
+      },
+      "topics": [
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Neurological Disease Mechanisms and Treatments",
+        "Regulation of Appetite and Obesity"
+      ],
+      "referenced_works_count": 105,
+      "url": "https://openalex.org/W2218659545"
+    },
+    {
+      "openalex_id": "W1552415422",
+      "doi": "10.5860/choice.47-0788",
+      "title": "Supersizing the mind: embodiment, action, and cognitive extension",
+      "authors": [],
+      "publication_year": 2009,
+      "publication_date": "2009-10-01",
+      "abstract": "Forward: By David Chalmers / Acknowledgements / Introduction: BRAINBOUND versus EXTENDED / I: From Embodiment to Cognitive Extension - 1. The Active Body: 1.1 A Walk on the Wild Side 1.2 Inhabited Interaction 1.3 Active Sensing 1.4 Distributed Functional Decomposition 1.5 Sensing for Coupling 1.6 Information Self-Structuring 1.7 Perception, Qualia, and Sensorimotor Expectations 1.8 Time and Mind 1.9 Dynamics and (Soft) Computation. 1.10 Out from the Bedrock 2. The Negotiable Body: 2.1 Where the Rubber Meets the Road 2.2 What's in an Interface? 2.3 New Systemic Wholes 2.4 Substitutes 2.5 Incorporation Vs Use 2.6 Towards Cognitive Extension 2.7 Three Grades of Embodiment 3. Material Symbols: 3.1 Language as Scaffolding 3.2 Augmenting Reality 3.3 Sculpting Attention 3.4 Hybrid Thoughts? 3.5 From Translation to Coordination 3.6 Second-order Cognitive Dynamics 3.7 Self-made Minds. 4. World, Incorporated: 4.1 Cognitive Niche Construction: A Primer 4.2 Cognition in the Globe: A Cameo 4.3 Thinking Space 4.4 Epistemic Engineers 4.5 Exploitative Representation and Wide Computation 4.6 Tetris: The Update 4.7 The Swirl of Organization 4.8 Extending the Mind 4.9 BRAINBOUND versus EXTENDED: The Case So Far. II. Boundary Disputes - 5. Mind Re-bound?: 5.1 EXTENDED Anxiety 5.2 Pencil Me In 5.3 The Odd Coupling 5.4 Cognitive Candidacy 5.5 The Mark of the Cognitive? 5.6 Kinds and Minds 5.7 Perception and Development 5.8 Deception and Contested Space 5.9 Folk Intuition and Cognitive Extension 5.10 Asymmetry and Lopsideness 5.11 Similarity vs Complementarity 5.12 Hippo-World 6. The Cure for Cognitive Hiccups (HEMC, HEC, HEMC): 6.1 Rupert's Challenge 6.2 HEC versus HEMC 6.3 Parity and Cognitive Kinds (Again) 6.4 The Persisting Core 6.5 Cognitive Impartiality 6.6 A Brain Teaser 6.7 Thoughtful Gestures 6.8 Material Carriers 6.9 Loops as Mechanisms 6.10 Anarchic Self-Stimulation 6.11Autonomous Coupling 6.12 Why the HEC? 6.13 The Cure 7. Rediscovering the Brain: 7.1 Matter into Mind 7.2.Honey, I Shrunk the Representations 7.3 Change Spotting: The Sequel 7.4 Thinking about Thinking: The Brain's Eye View.: 7.5 Born-Again Cartesians? 7.6 Surrogate Situations 7.7 Plug Points 7.8 Brain Control 7.9 Asymmetry Arguments 7.10 Extended in a Vat 7.11 The (Situated) Cognizer's Innards III: The Limits of Embodiment - 8. Painting, Planning, and Perceiving: 8.1 Enacting Perceptual Experience 8.2 The Painter and the Perceiver 8.3 Three Virtues of the Strong Sensorimotor Model 8.4 A Vice: Sensorimotor (Hyper) Sensitivity 8.5 What Reaching Teaches 8.6 (Tweaked)Tele-Assistance 8.7 Sensorimotor Summarizing 8.8 Virtual Content, Again 8.9 Beyond the Sensorimotor Frontier 9. Disentangling Embodiment: 9.1 Three Threads 9.2 The Separability Thesis 9.3 Beyond Flesh-eating Functionalism. 9.4 Ada, Adder, and Odder 9.5 A Tension Revealed 9.6 What Bodies Are 9.7 Participant Machinery and Morphological Computation 9.8 Quantifying Embodiment 9.9 The Heideggerian Theatre / 10. Conclusions: Mindsized Bites / Appendix: The Extended Mind (Andy Clark and David Chalmers)",
+      "cited_by_count": 2235,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1552415422"
+    },
+    {
+      "openalex_id": "W2054331804",
+      "doi": "10.1007/s11023-013-9319-1",
+      "title": "Reasoning About the Mark of the Cognitive: A Response to Adams and Garrison",
+      "authors": [
+        {
+          "name": "Andreas Elpidorou",
+          "openalex_id": "A5076225113",
+          "orcid": "https://orcid.org/0000-0001-7317-339X",
+          "institutions": [
+            "University of Louisville Hospital",
+            "University of Louisville"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-08-01",
+      "abstract": null,
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Embodied and Extended Cognition",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2054331804"
+    },
+    {
+      "openalex_id": "W1989472519",
+      "doi": "10.1007/s11023-013-9336-0",
+      "title": "The Mark of the Cognitive: Reply to Elpidorou",
+      "authors": [
+        {
+          "name": "Fred Adams",
+          "openalex_id": "A5110466364",
+          "institutions": [
+            "University of Delaware"
+          ]
+        },
+        {
+          "name": "Rebecca Garrison",
+          "openalex_id": "A5027338747",
+          "institutions": [
+            "University of Delaware"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-11-27",
+      "abstract": null,
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W1989472519"
+    },
+    {
+      "openalex_id": "W2129624700",
+      "doi": "10.1007/s00429-010-0262-0",
+      "title": "Saliency, switching, attention and control: a network model of insula function",
+      "authors": [
+        {
+          "name": "Vinod Menon",
+          "openalex_id": "A5072595126",
+          "orcid": "https://orcid.org/0000-0003-1622-9857",
+          "institutions": [
+            "Stanford University",
+            "Stanford Medicine"
+          ]
+        },
+        {
+          "name": "Lucina Q. Uddin",
+          "openalex_id": "A5088839359",
+          "orcid": "https://orcid.org/0000-0003-2278-8962",
+          "institutions": [
+            "Stanford University"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-28",
+      "abstract": null,
+      "cited_by_count": 5444,
+      "type": "review",
+      "source": {
+        "name": "Brain Structure and Function",
+        "type": "journal",
+        "issn": [
+          "1863-2653",
+          "1863-2661"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2899886"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Neural and Behavioral Psychology Studies",
+        "Multisensory perception and integration"
+      ],
+      "referenced_works_count": 93,
+      "url": "https://openalex.org/W2129624700"
+    },
+    {
+      "openalex_id": "W2000209515",
+      "doi": "10.1007/s00406-013-0463-7",
+      "title": "Cluster analysis of cognitive deficits may mark heterogeneity in schizophrenia in terms of outcome and response to treatment",
+      "authors": [
+        {
+          "name": "Elsa Gilbert",
+          "openalex_id": "A5110362529",
+          "institutions": [
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec"
+          ]
+        },
+        {
+          "name": "Chantal M\u00e9rette",
+          "openalex_id": "A5002060836",
+          "orcid": "https://orcid.org/0000-0003-4033-0576",
+          "institutions": [
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec",
+            "Universit\u00e9 Laval"
+          ]
+        },
+        {
+          "name": "Val\u00e9rie Jomphe",
+          "openalex_id": "A5111941856",
+          "institutions": [
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec"
+          ]
+        },
+        {
+          "name": "Claudia \u00c9mond",
+          "openalex_id": "A5075729611",
+          "orcid": "https://orcid.org/0000-0003-1594-3055",
+          "institutions": [
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec"
+          ]
+        },
+        {
+          "name": "Nancie Rouleau",
+          "openalex_id": "A5012292797",
+          "orcid": "https://orcid.org/0000-0002-6602-8263",
+          "institutions": [
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec",
+            "Universit\u00e9 Laval"
+          ]
+        },
+        {
+          "name": "Roch-Hugo Bouchard",
+          "openalex_id": "A5109564392",
+          "institutions": [
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec"
+          ]
+        },
+        {
+          "name": "Marc\u2010Andr\u00e9 Roy",
+          "openalex_id": "A5090820982",
+          "orcid": "https://orcid.org/0000-0002-0123-6651",
+          "institutions": [
+            "Universit\u00e9 Laval",
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec"
+          ]
+        },
+        {
+          "name": "Thomas Paccalet",
+          "openalex_id": "A5027932714",
+          "orcid": "https://orcid.org/0000-0003-4955-2140",
+          "institutions": [
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec"
+          ]
+        },
+        {
+          "name": "Michel Maziade",
+          "openalex_id": "A5059441143",
+          "orcid": "https://orcid.org/0000-0001-6029-6702",
+          "institutions": [
+            "Universit\u00e9 Laval",
+            "Institut Universitaire en Sant\u00e9 Mentale de Qu\u00e9bec"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-10-30",
+      "abstract": null,
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "European Archives of Psychiatry and Clinical Neuroscience",
+        "type": "journal",
+        "issn": [
+          "0940-1334",
+          "1433-8491"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5025284"
+      },
+      "topics": [
+        "Schizophrenia research and treatment",
+        "Functional Brain Connectivity Studies",
+        "Mental Health Research Topics"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W2000209515"
+    },
+    {
+      "openalex_id": "W2143093968",
+      "doi": "10.1017/s0140525x11001452",
+      "title": "The cognitive bases of human tool use",
+      "authors": [
+        {
+          "name": "Krist Vaesen",
+          "openalex_id": "A5063730953",
+          "orcid": "https://orcid.org/0000-0002-7496-7463",
+          "institutions": [
+            "Eindhoven University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-06-15",
+      "abstract": "Abstract This article has two goals. The first is to assess, in the face of accruing reports on the ingenuity of great ape tool use, whether and in what sense human tool use still evidences unique, higher cognitive ability. To that effect, I offer a systematic comparison between humans and nonhuman primates with respect to nine cognitive capacities deemed crucial to tool use: enhanced hand-eye coordination, body schema plasticity, causal reasoning, function representation, executive control, social learning, teaching, social intelligence, and language. Since striking differences between humans and great apes stand firm in eight out of nine of these domains, I conclude that human tool use still marks a major cognitive discontinuity between us and our closest relatives. As a second goal of the paper, I address the evolution of human technologies. In particular, I show how the cognitive traits reviewed help to explain why technological accumulation evolved so markedly in humans, and so modestly in apes.",
+      "cited_by_count": 269,
+      "type": "article",
+      "source": {
+        "name": "Behavioral and Brain Sciences",
+        "type": "journal",
+        "issn": [
+          "0140-525X",
+          "1469-1825"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Child and Animal Learning Development",
+        "Cultural Differences and Values",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 494,
+      "url": "https://openalex.org/W2143093968"
+    },
+    {
+      "openalex_id": "W2157364895",
+      "doi": "10.6100/ir759659",
+      "title": "Extended cognition and the mark of the cognitive : prospects of a proper function-based approach",
+      "authors": [
+        {
+          "name": "van M Marieke Holland",
+          "openalex_id": "A5015445865",
+          "institutions": [
+            "Ethics and Public Policy Center"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": null,
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Data Archiving and Networked Services (DANS)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.tue.nl/nl/publications/14f396d8-b829-47ef-a6de-1bec17aa34ba"
+      },
+      "topics": [
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2157364895"
+    },
+    {
+      "openalex_id": "W2801449481",
+      "doi": "10.1016/j.mad.2018.04.007",
+      "title": "Antioxidants linked with physical, cognitive and psychological frailty: Analysis of candidate biomarkers and markers derived from the MARK-AGE study",
+      "authors": [
+        {
+          "name": "M. Liset Rietman",
+          "openalex_id": "A5010209043",
+          "orcid": "https://orcid.org/0000-0002-1796-7037",
+          "institutions": [
+            "National Institute for Public Health and the Environment",
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Annemieke M. W. Spijkerman",
+          "openalex_id": "A5041769803",
+          "institutions": [
+            "National Institute for Public Health and the Environment"
+          ]
+        },
+        {
+          "name": "Albert Wong",
+          "openalex_id": "A5103914020",
+          "institutions": [
+            "National Institute for Public Health and the Environment"
+          ]
+        },
+        {
+          "name": "Harry van Steeg",
+          "openalex_id": "A5062870063",
+          "orcid": "https://orcid.org/0000-0001-7490-6137",
+          "institutions": [
+            "National Institute for Public Health and the Environment"
+          ]
+        },
+        {
+          "name": "Alexander B\u00fcrkle",
+          "openalex_id": "A5021983212",
+          "orcid": "https://orcid.org/0000-0003-1069-2656",
+          "institutions": [
+            "University of Konstanz"
+          ]
+        },
+        {
+          "name": "Mar\u00eda Moreno\u2010Villanueva",
+          "openalex_id": "A5070936460",
+          "orcid": "https://orcid.org/0000-0002-7143-0871",
+          "institutions": [
+            "University of Konstanz"
+          ]
+        },
+        {
+          "name": "Thilo Sindlinger",
+          "openalex_id": "A5016247323",
+          "institutions": [
+            "University of Konstanz"
+          ]
+        },
+        {
+          "name": "Claudio Franceschi",
+          "openalex_id": "A5078302741",
+          "orcid": "https://orcid.org/0000-0001-9841-6386",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Beatrix Grubeck\u2010Loebenstein",
+          "openalex_id": "A5113762534",
+          "institutions": [
+            "Universit\u00e4t Innsbruck"
+          ]
+        },
+        {
+          "name": "J\u00fcrgen Bernhardt",
+          "openalex_id": "A5108545145",
+          "institutions": [
+            "BioTeSys (Germany)"
+          ]
+        },
+        {
+          "name": "P. Eline Slagboom",
+          "openalex_id": "A5071478025",
+          "orcid": "https://orcid.org/0000-0002-2875-4723",
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Olivier Toussaint",
+          "openalex_id": "A5002361830",
+          "institutions": [
+            "University of Namur"
+          ]
+        },
+        {
+          "name": "Florence Debacq\u2010Chainiaux",
+          "openalex_id": "A5058364877",
+          "orcid": "https://orcid.org/0000-0003-3949-395X",
+          "institutions": [
+            "University of Namur"
+          ]
+        },
+        {
+          "name": "Ewa Sikora",
+          "openalex_id": "A5061862694",
+          "orcid": "https://orcid.org/0000-0002-1111-1748",
+          "institutions": [
+            "Instytut Biologii Do\u015bwiadczalnej im. Marcelego Nenckiego",
+            "Polish Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Efstathios S. Gonos",
+          "openalex_id": "A5020772381",
+          "orcid": "https://orcid.org/0000-0001-8956-9954",
+          "institutions": [
+            "National Hellenic Research Foundation"
+          ]
+        },
+        {
+          "name": "Nicolle Breusing",
+          "openalex_id": "A5008908419",
+          "institutions": [
+            "University of Hohenheim"
+          ]
+        },
+        {
+          "name": "Wolfgang Stuetz",
+          "openalex_id": "A5018243414",
+          "orcid": "https://orcid.org/0000-0002-8011-5849",
+          "institutions": [
+            "University of Hohenheim"
+          ]
+        },
+        {
+          "name": "Daniela Weber",
+          "openalex_id": "A5017635489",
+          "orcid": "https://orcid.org/0000-0002-2054-6233",
+          "institutions": [
+            "German Institute of Human Nutrition"
+          ]
+        },
+        {
+          "name": "Tilman Grune",
+          "openalex_id": "A5087695782",
+          "orcid": "https://orcid.org/0000-0003-4775-9973",
+          "institutions": [
+            "German Institute of Human Nutrition"
+          ]
+        },
+        {
+          "name": "Andrea Basso",
+          "openalex_id": "A5031609787",
+          "orcid": "https://orcid.org/0000-0001-5896-0854",
+          "institutions": [
+            "Istituto Nazionale di Riposo e Cura per Anziani"
+          ]
+        },
+        {
+          "name": "Francesco Piacenza",
+          "openalex_id": "A5029217720",
+          "orcid": "https://orcid.org/0000-0001-7440-804X",
+          "institutions": [
+            "Istituto Nazionale di Riposo e Cura per Anziani"
+          ]
+        },
+        {
+          "name": "Marco Malavolta",
+          "openalex_id": "A5014227532",
+          "orcid": "https://orcid.org/0000-0002-8442-1763",
+          "institutions": [
+            "Istituto Nazionale di Riposo e Cura per Anziani"
+          ]
+        },
+        {
+          "name": "Sebastiano Collino",
+          "openalex_id": "A5038195518",
+          "institutions": [
+            "Nestl\u00e9 (Switzerland)"
+          ]
+        },
+        {
+          "name": "Eug\u00e8ne Jansen",
+          "openalex_id": "A5058394398",
+          "orcid": "https://orcid.org/0000-0002-3151-5897",
+          "institutions": [
+            "National Institute for Public Health and the Environment"
+          ]
+        },
+        {
+          "name": "W. M. Monique Verschuren",
+          "openalex_id": "A5040031334",
+          "orcid": "https://orcid.org/0000-0003-2134-4227",
+          "institutions": [
+            "University Medical Center Utrecht",
+            "National Institute for Public Health and the Environment"
+          ]
+        },
+        {
+          "name": "Martijn E.T. Doll\u00e9",
+          "openalex_id": "A5035765579",
+          "orcid": "https://orcid.org/0000-0001-6137-6544"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-30",
+      "abstract": null,
+      "cited_by_count": 43,
+      "type": "article",
+      "source": {
+        "name": "Mechanisms of Ageing and Development",
+        "type": "journal",
+        "issn": [
+          "0047-6374",
+          "1872-6216"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://nbn-resolving.de/urn:nbn:de:bsz:352-2-1tp2b7eai2o4k2"
+      },
+      "topics": [
+        "Frailty in Older Adults",
+        "Nutrition and Health in Aging",
+        "Nutritional Studies and Diet"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W2801449481"
+    },
+    {
+      "openalex_id": "W2118820000",
+      "doi": "10.1016/j.infbeh.2010.04.008",
+      "title": "Learning to walk changes infants\u2019 social interactions",
+      "authors": [
+        {
+          "name": "Melissa W. Clearfield",
+          "openalex_id": "A5031852663",
+          "institutions": [
+            "Whitman College"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-18",
+      "abstract": null,
+      "cited_by_count": 220,
+      "type": "article",
+      "source": {
+        "name": "Infant Behavior and Development",
+        "type": "journal",
+        "issn": [
+          "0163-6383",
+          "1879-0453"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Child and Animal Learning Development",
+        "Animal Vocal Communication and Behavior",
+        "Primate Behavior and Ecology"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2118820000"
+    },
+    {
+      "openalex_id": "W1939733999",
+      "doi": "10.7208/chicago/9780226026992.001.0001",
+      "title": "The Meaning of the Body",
+      "authors": [
+        {
+          "name": "Mark H. Johnson",
+          "openalex_id": "A5050660463",
+          "orcid": "https://orcid.org/0000-0003-4229-2585",
+          "institutions": [
+            "University of Oregon"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "abstract": "In The Meaning of the Body, Mark Johnson continues his pioneering work on the exciting connections between cognitive science, language, and meaning first begun in the classic Metaphors We Live By. Johnson uses recent research into infant psychology to show how the body generates meaning even before self-consciousness has fully developed. From there he turns to cognitive neuroscience to further explore the bodily origins of meaning, thought, and language and examines the many dimensions of meaning - including images, qualities, emotions, and metaphors - that are all rooted in the body's physical encounters with the world. Drawing on the psychology of art and pragmatist philosophy, Johnson argues that all of these aspects of meaning-making are fundamentally aesthetic. He concludes that the arts are the culmination of human attempts to find meaning and that studying the aesthetic dimensions of our experience is crucial to unlocking meaning's bodily sources.Throughout, Johnson puts forth a bold new conception of the mind rooted in the understanding that philosophy will matter to nonphilosophers only if it is built on a visceral connection to the world.",
+      "cited_by_count": 1360,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroscience, Education and Cognitive Function"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1939733999"
+    },
+    {
+      "openalex_id": "W2033617583",
+      "doi": "10.1016/j.cogsys.2010.07.002",
+      "title": "Recognizing group cognition",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "openalex_id": "A5088373052",
+          "orcid": "https://orcid.org/0000-0001-7632-0412",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Colin Allen",
+          "openalex_id": "A5053716967",
+          "orcid": "https://orcid.org/0000-0003-4497-1725",
+          "institutions": [
+            "Indiana University Bloomington"
+          ]
+        },
+        {
+          "name": "Robert L. Goldstone",
+          "openalex_id": "A5029222386",
+          "orcid": "https://orcid.org/0000-0001-8357-8358",
+          "institutions": [
+            "Indiana University Bloomington"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-07-06",
+      "abstract": null,
+      "cited_by_count": 226,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Evolutionary Game Theory and Cooperation",
+        "Complex Systems and Decision Making",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 132,
+      "url": "https://openalex.org/W2033617583"
+    },
+    {
+      "openalex_id": "W4386806674",
+      "doi": "10.1007/s11357-023-00902-6",
+      "title": "Associations of circulating GDF15 with combined cognitive frailty and depression in older adults of the MARK-AGE study",
+      "authors": [
+        {
+          "name": "Bastian Kochlik",
+          "openalex_id": "A5008213448",
+          "orcid": "https://orcid.org/0000-0003-0214-7092",
+          "institutions": [
+            "German Institute of Human Nutrition",
+            "Leibniz Institute of Vegetable and Ornamental Crops"
+          ]
+        },
+        {
+          "name": "Catrin Herpich",
+          "openalex_id": "A5061598539",
+          "orcid": "https://orcid.org/0000-0003-3059-1705",
+          "institutions": [
+            "Humboldt-Universit\u00e4t zu Berlin",
+            "Freie Universit\u00e4t Berlin",
+            "University of Potsdam",
+            "German Institute of Human Nutrition",
+            "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
+          ]
+        },
+        {
+          "name": "Mar\u00eda Moreno\u2010Villanueva",
+          "openalex_id": "A5070936460",
+          "orcid": "https://orcid.org/0000-0002-7143-0871",
+          "institutions": [
+            "University of Konstanz"
+          ]
+        },
+        {
+          "name": "Susanne Klaus",
+          "openalex_id": "A5050618776",
+          "orcid": "https://orcid.org/0000-0001-8726-185X",
+          "institutions": [
+            "German Institute of Human Nutrition",
+            "University of Potsdam"
+          ]
+        },
+        {
+          "name": "Ursula M\u00fcller\u2010Werdan",
+          "openalex_id": "A5037442051",
+          "orcid": "https://orcid.org/0000-0003-4440-8991",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin",
+            "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+            "Humboldt-Universit\u00e4t zu Berlin"
+          ]
+        },
+        {
+          "name": "Birgit Weinberger",
+          "openalex_id": "A5050068835",
+          "orcid": "https://orcid.org/0000-0002-7084-946X",
+          "institutions": [
+            "Universit\u00e4t Innsbruck"
+          ]
+        },
+        {
+          "name": "Simone Fiegl",
+          "openalex_id": "A5074435038",
+          "institutions": [
+            "UMIT - Private Universit\u00e4t f\u00fcr Gesundheitswissenschaften, Medizinische Informatik und Technik"
+          ]
+        },
+        {
+          "name": "Olivier Toussaint",
+          "openalex_id": "A5002361830",
+          "institutions": [
+            "University of Namur"
+          ]
+        },
+        {
+          "name": "Florence Debacq\u2010Chainiaux",
+          "openalex_id": "A5058364877",
+          "orcid": "https://orcid.org/0000-0003-3949-395X",
+          "institutions": [
+            "University of Namur"
+          ]
+        },
+        {
+          "name": "Christiane Sch\u00f6n",
+          "openalex_id": "A5074473559",
+          "orcid": "https://orcid.org/0000-0003-3787-5268",
+          "institutions": [
+            "BioTeSys (Germany)"
+          ]
+        },
+        {
+          "name": "J\u00fcrgen Bernhard",
+          "openalex_id": "A5028923278",
+          "institutions": [
+            "BioTeSys (Germany)"
+          ]
+        },
+        {
+          "name": "Nicolle Breusing",
+          "openalex_id": "A5008908419",
+          "institutions": [
+            "University of Hohenheim"
+          ]
+        },
+        {
+          "name": "Efstathios S. Gonos",
+          "openalex_id": "A5020772381",
+          "orcid": "https://orcid.org/0000-0001-8956-9954",
+          "institutions": [
+            "National Hellenic Research Foundation"
+          ]
+        },
+        {
+          "name": "Claudio Franceschi",
+          "openalex_id": "A5078302741",
+          "orcid": "https://orcid.org/0000-0001-9841-6386",
+          "institutions": [
+            "N. I. Lobachevsky State University of Nizhny Novgorod"
+          ]
+        },
+        {
+          "name": "Miriam Capri",
+          "openalex_id": "A5064987589",
+          "orcid": "https://orcid.org/0000-0001-9077-0401",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Ewa Sikora",
+          "openalex_id": "A5061862694",
+          "orcid": "https://orcid.org/0000-0002-1111-1748",
+          "institutions": [
+            "Instytut Biologii Do\u015bwiadczalnej im. Marcelego Nenckiego",
+            "Polish Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Antti Hervonen",
+          "openalex_id": "A5084398249",
+          "institutions": [
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "Mikko Hurme",
+          "openalex_id": "A5042344507",
+          "orcid": "https://orcid.org/0000-0002-8614-1044",
+          "institutions": [
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "P. Eline Slagboom",
+          "openalex_id": "A5071478025",
+          "orcid": "https://orcid.org/0000-0002-2875-4723",
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Martijn E.T. Doll\u00e9",
+          "openalex_id": "A5035765579",
+          "orcid": "https://orcid.org/0000-0001-6137-6544",
+          "institutions": [
+            "National Institute for Public Health and the Environment"
+          ]
+        },
+        {
+          "name": "Eug\u00e8ne Jansen",
+          "openalex_id": "A5058394398",
+          "orcid": "https://orcid.org/0000-0002-3151-5897",
+          "institutions": [
+            "National Institute for Public Health and the Environment"
+          ]
+        },
+        {
+          "name": "Tilman Grune",
+          "openalex_id": "A5087695782",
+          "orcid": "https://orcid.org/0000-0003-4775-9973",
+          "institutions": [
+            "University of Vienna",
+            "University of Potsdam",
+            "German Centre for Cardiovascular Research",
+            "German Institute of Human Nutrition"
+          ]
+        },
+        {
+          "name": "Alexander B\u00fcrkle",
+          "openalex_id": "A5021983212",
+          "orcid": "https://orcid.org/0000-0003-1069-2656",
+          "institutions": [
+            "University of Konstanz"
+          ]
+        },
+        {
+          "name": "Kristina Norman",
+          "openalex_id": "A5011553379",
+          "orcid": "https://orcid.org/0000-0003-2029-9102",
+          "institutions": [
+            "Humboldt-Universit\u00e4t zu Berlin",
+            "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+            "Freie Universit\u00e4t Berlin"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-16",
+      "abstract": null,
+      "cited_by_count": 23,
+      "type": "article",
+      "source": {
+        "name": "GeroScience",
+        "type": "journal",
+        "issn": [
+          "2509-2715",
+          "2509-2723"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11357-023-00902-6.pdf"
+      },
+      "topics": [
+        "GDF15 and Related Biomarkers",
+        "Nutrition and Health in Aging",
+        "Frailty in Older Adults"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W4386806674"
+    },
+    {
+      "openalex_id": "W3009391341",
+      "doi": "10.1186/s13148-020-0816-9",
+      "title": "Widespread loss of the silencing epigenetic mark H3K9me3 in astrocytes and neurons along with hippocampal-dependent cognitive impairment in C9orf72 BAC transgenic mice",
+      "authors": [
+        {
+          "name": "Nur Jury",
+          "openalex_id": "A5001408964",
+          "orcid": "https://orcid.org/0000-0002-1143-3595",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello",
+            "Pontificia Universidad Cat\u00f3lica de Chile"
+          ]
+        },
+        {
+          "name": "Sebasti\u00e1n Abarz\u00faa",
+          "openalex_id": "A5053765207",
+          "institutions": [
+            "Pontificia Universidad Cat\u00f3lica de Chile",
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Iv\u00e1n Dar\u00edo Parrado D\u00edaz",
+          "openalex_id": "A5101944412",
+          "orcid": "https://orcid.org/0000-0002-8511-4917",
+          "institutions": [
+            "Pontificia Universidad Cat\u00f3lica de Chile",
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Miguel V. Guerra",
+          "openalex_id": "A5029561706",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Est\u00edbaliz Ampuero",
+          "openalex_id": "A5054702560",
+          "orcid": "https://orcid.org/0000-0001-5543-1594",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello",
+            "Pontificia Universidad Cat\u00f3lica de Chile",
+            "Universidad Aut\u00f3noma de Chile"
+          ]
+        },
+        {
+          "name": "Paula Cubillos",
+          "openalex_id": "A5016418713",
+          "orcid": "https://orcid.org/0009-0004-9782-3069",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello",
+            "Pontificia Universidad Cat\u00f3lica de Chile"
+          ]
+        },
+        {
+          "name": "Pablo Mart\u00ednez",
+          "openalex_id": "A5001751719",
+          "orcid": "https://orcid.org/0000-0003-3496-4652",
+          "institutions": [
+            "Pontificia Universidad Cat\u00f3lica de Chile",
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Andrea Herrera-Soto",
+          "openalex_id": "A5063626217",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Cristi\u00e1n Arredondo",
+          "openalex_id": "A5010346041",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello",
+            "Pontificia Universidad Cat\u00f3lica de Chile"
+          ]
+        },
+        {
+          "name": "Fabiola Rojas",
+          "openalex_id": "A5016756972",
+          "institutions": [
+            "Pontificia Universidad Cat\u00f3lica de Chile",
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Marcia Manterola",
+          "openalex_id": "A5031630809",
+          "orcid": "https://orcid.org/0000-0002-5802-1301",
+          "institutions": [
+            "University of Chile"
+          ]
+        },
+        {
+          "name": "Adriana Rojas",
+          "openalex_id": "A5089008505",
+          "orcid": "https://orcid.org/0000-0001-8528-4433",
+          "institutions": [
+            "Pontificia Universidad Javeriana"
+          ]
+        },
+        {
+          "name": "Mart\u0131\u0301n Montecino",
+          "openalex_id": "A5012717530",
+          "orcid": "https://orcid.org/0000-0002-6025-0023",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Lorena Varela\u2010Nallar",
+          "openalex_id": "A5008711195",
+          "orcid": "https://orcid.org/0000-0003-2588-6437",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello"
+          ]
+        },
+        {
+          "name": "Brigitte van Zundert",
+          "openalex_id": "A5036161196",
+          "orcid": "https://orcid.org/0000-0002-4129-9972",
+          "institutions": [
+            "Universidad Andr\u00e9s Bello"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-18",
+      "abstract": "Abstract Background Hexanucleotide repeat expansions of the G 4 C 2 motif in a non-coding region of the C9ORF72 gene are the most common genetic cause of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). Tissues from C9ALS/FTD patients and from mouse models of ALS show RNA foci, dipeptide-repeat proteins, and notably, widespread alterations in the transcriptome. Epigenetic processes regulate gene expression without changing DNA sequences and therefore could account for the altered transcriptome profiles in C9ALS/FTD; here, we explore whether the critical repressive marks H3K9me2 and H3K9me3 are altered in a recently developed C9ALS/FTD BAC mouse model (C9BAC). Results Chromocenters that constitute pericentric constitutive heterochromatin were visualized as DAPI- or Nucblue-dense foci in nuclei. Cultured C9BAC astrocytes exhibited a reduced staining signal for H3K9me3 (but not for H3K9me2) at chromocenters that was accompanied by a marked decline in the global nuclear level of this mark. Similar depletion of H3K9me3 at chromocenters was detected in astrocytes and neurons of the spinal cord, motor cortex, and hippocampus of C9BAC mice. The alterations of H3K9me3 in the hippocampus of C9BAC mice led us to identify previously undetected neuronal loss in CA1, CA3, and dentate gyrus, as well as hippocampal-dependent cognitive deficits. Conclusions Our data indicate that a loss of the repressive mark H3K9me3 in astrocytes and neurons in the central nervous system of C9BAC mice represents a signature during neurodegeneration and memory deficit of C9ALS/FTD.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "Clinical Epigenetics",
+        "type": "journal",
+        "issn": [
+          "1868-7075",
+          "1868-7083"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://clinicalepigeneticsjournal.biomedcentral.com/track/pdf/10.1186/s13148-020-0816-9"
+      },
+      "topics": [
+        "Epigenetics and DNA Methylation",
+        "Genetics and Neurodevelopmental Disorders",
+        "Nuclear Receptors and Signaling"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W3009391341"
+    },
+    {
+      "openalex_id": "W632224533",
+      "doi": "10.7551/mitpress/1251.001.0001",
+      "title": "The Analogical Mind",
+      "authors": [],
+      "publication_year": 2001,
+      "publication_date": "2001-03-02",
+      "abstract": "Analogy has been the focus of extensive research in cognitive science over the past two decades. Through analogy, novel situations and problems can be understood in terms of familiar ones. Indeed, a case can be made for analogical processing as the very core of cognition. This is the first book to span the full range of disciplines concerned with analogy. Its contributors represent cognitive, developmental, and comparative psychology; neuroscience; artificial intelligence; linguistics; and philosophy. The book is divided into three parts. The first part describes computational models of analogy as well as their relation to computational models of other cognitive processes. The second part addresses the role of analogy in a wide range of cognitive tasks, such as forming complex cognitive structures, conveying emotion, making decisions, and solving problems. The third part looks at the development of analogy in children and the possible use of analogy in nonhuman primates. Contributors Miriam Bassok, Consuelo B. Boronat, Brian Bowdle, Fintan Costello, Kevin Dunbar, Gilles Fauconnier, Kenneth D. Forbus, Dedre Gentner, Usha Goswami, Brett Gray, Graeme S. Halford, Douglas Hofstadter, Keith J. Holyoak, John E. Hummel, Mark T. Keane, Boicho N. Kokinov, Arthur B. Markman, C. Page Moreau, David L. Oden, Alexander A. Petrov, Steven Phillips, David Premack, Cameron Shelley, Paul Thagard, Roger K.R. Thompson, William H. Wilson, Phillip Wolff Bradford Books imprint",
+      "cited_by_count": 1133,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W632224533"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

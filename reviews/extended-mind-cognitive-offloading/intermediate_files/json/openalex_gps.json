@@ -1,0 +1,1348 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "GPS spatial memory navigation",
+  "results": [
+    {
+      "openalex_id": "W3015865106",
+      "doi": "10.1038/s41598-020-62877-0",
+      "title": "Habitual use of GPS negatively impacts spatial memory during self-guided navigation",
+      "authors": [
+        {
+          "name": "Louisa Dahmani",
+          "openalex_id": "A5011890951",
+          "orcid": "https://orcid.org/0000-0003-1335-6340",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "V\u00e9ronique D. Bohbot",
+          "openalex_id": "A5084875654",
+          "institutions": [
+            "McGill University",
+            "Douglas Mental Health University Institute"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-14",
+      "abstract": null,
+      "cited_by_count": 161,
+      "type": "article",
+      "source": {
+        "name": "Scientific Reports",
+        "type": "journal",
+        "issn": [
+          "2045-2322"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-020-62877-0.pdf"
+      },
+      "topics": [
+        "Spatial Cognition and Navigation",
+        "Memory and Neural Mechanisms",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W3015865106"
+    },
+    {
+      "openalex_id": "W2587658087",
+      "doi": "10.3389/fpsyg.2017.00193",
+      "title": "Modified Navigation Instructions for Spatial Navigation Assistance Systems Lead to Incidental Spatial Learning",
+      "authors": [
+        {
+          "name": "Klaus Gramann",
+          "openalex_id": "A5034464263",
+          "orcid": "https://orcid.org/0000-0003-2673-1832",
+          "institutions": [
+            "Technische Universit\u00e4t Berlin",
+            "University of California, San Diego"
+          ]
+        },
+        {
+          "name": "Paul Hoepner",
+          "openalex_id": "A5047600479",
+          "institutions": [
+            "Technische Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "Katja Karrer-Gau\u00df",
+          "openalex_id": "A5027151855",
+          "orcid": "https://orcid.org/0000-0002-3838-720X",
+          "institutions": [
+            "Fraunhofer Institute for Production Systems and Design Technology",
+            "Technische Universit\u00e4t Berlin"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-02-13",
+      "abstract": "Spatial cognitive skills deteriorate with the increasing use of automated GPS navigation and a general decrease in the ability to orient in space might have further impact on independence, autonomy, and quality of life. In the present study we investigate whether modified navigation instructions support incidental spatial knowledge acquisition. A virtual driving environment was used to examine the impact of modified navigation instructions on spatial learning while using a GPS navigation assistance system. Participants navigated through a simulated urban and suburban environment, using navigation support to reach their destination. Driving performance as well as spatial learning was thereby assessed. Three navigation instruction conditions were tested: (i) a control group that was provided with classical navigation instructions at decision points, and two other groups that received navigation instructions at decision points including either (ii) additional irrelevant information about landmarks or (iii) additional personally relevant information (i.e., individual preferences regarding food, hobbies, etc.), associated with landmarks. Driving performance revealed no differences between navigation instructions. Significant improvements were observed in both modified navigation instruction conditions on three different measures of spatial learning and memory: subsequent navigation of the initial route without navigation assistance, landmark recognition, and sketch map drawing. Future navigation assistance systems could incorporate modified instructions to promote incidental spatial learning and to foster more general spatial cognitive abilities. Such systems might extend mobility across the lifespan.",
+      "cited_by_count": 52,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00193/pdf"
+      },
+      "topics": [
+        "Spatial Cognition and Navigation",
+        "Child and Animal Learning Development",
+        "Categorization, perception, and language"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W2587658087"
+    },
+    {
+      "openalex_id": "W2953747561",
+      "doi": "10.2478/nor-2019-0016",
+      "title": "Walking Through, Going Along and Scrolling Back: Ephemeral mobilities in digital ethnography",
+      "authors": [
+        {
+          "name": "Kristian M\u00f6ller",
+          "openalex_id": "A5109607126",
+          "institutions": [
+            "IT University of Copenhagen"
+          ]
+        },
+        {
+          "name": "Brady Robards",
+          "openalex_id": "A5003315058",
+          "orcid": "https://orcid.org/0000-0001-5031-1235",
+          "institutions": [
+            "Monash University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-06-01",
+      "abstract": "Abstract Spatial metaphors have long been part of the way we make sense of media. From early conceptualizations of the internet, we have come to understand digital media as spaces that support, deny or are subject to different mobilities. With the availability of GPS data, somatic bodily movement has enjoyed significant attention in media geography, but recently innovations in digital ethnographic methods have paid attention to other, more ephemeral ways of moving and being with social media. In this article, we consider three case studies in qualitative, \u201csmall data\u201d social media research methods: the walkthrough, the go-along and the scroll back methods. Each is centred on observing navigational flows through app infrastructures, fingers hovering across device surfaces and scrolling-and-remembering practices in social media archives. We advocate an ethnography of ephemeral media mobilities and suggest that small data approaches should analytically integrate four dimensions of mediated mobility: bodies and affect, media objects and environments, memory and narrative, and the overall research encounter.",
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "Nordicom review/NORDICOM review",
+        "type": "journal",
+        "issn": [
+          "1403-1108",
+          "2001-5119"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://content.sciendo.com/downloadpdf/journals/nor/40/s1/article-p95.pdf"
+      },
+      "topics": [
+        "Anthropological Studies and Insights",
+        "Focus Groups and Qualitative Methods",
+        "Geographies of human-animal interactions"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W2953747561"
+    },
+    {
+      "openalex_id": "W2134295053",
+      "doi": "10.1109/comst.2015.2444095",
+      "title": "Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications",
+      "authors": [
+        {
+          "name": "Ala Al\u2010Fuqaha",
+          "openalex_id": "A5008695053",
+          "orcid": "https://orcid.org/0000-0002-0903-1204",
+          "institutions": [
+            "Western Michigan University"
+          ]
+        },
+        {
+          "name": "Mohsen Guizani",
+          "openalex_id": "A5057916222",
+          "orcid": "https://orcid.org/0000-0002-8972-8094",
+          "institutions": [
+            "Qatar University"
+          ]
+        },
+        {
+          "name": "Mehdi Mohammadi",
+          "openalex_id": "A5015767232",
+          "orcid": "https://orcid.org/0000-0001-9947-3470",
+          "institutions": [
+            "Western Michigan University"
+          ]
+        },
+        {
+          "name": "Mohammed Aledhari",
+          "openalex_id": "A5034854700",
+          "orcid": "https://orcid.org/0000-0002-5380-6003",
+          "institutions": [
+            "Western Michigan University"
+          ]
+        },
+        {
+          "name": "Moussa Ayyash",
+          "openalex_id": "A5050702557",
+          "orcid": "https://orcid.org/0000-0003-0868-143X",
+          "institutions": [
+            "Chicago State University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "This paper provides an overview of the Internet of Things (IoT) with emphasis on enabling technologies, protocols, and application issues. The IoT is enabled by the latest developments in RFID, smart sensors, communication technologies, and Internet protocols. The basic premise is to have smart sensors collaborate directly without human involvement to deliver a new class of applications. The current revolution in Internet, mobile, and machine-to-machine (M2M) technologies can be seen as the first phase of the IoT. In the coming years, the IoT is expected to bridge diverse technologies to enable new applications by connecting physical objects together in support of intelligent decision making. This paper starts by providing a horizontal overview of the IoT. Then, we give an overview of some technical details that pertain to the IoT enabling technologies, protocols, and applications. Compared to other survey papers in the field, our objective is to provide a more thorough summary of the most relevant protocols and application issues to enable researchers and application developers to get up to speed quickly on how the different protocols fit together to deliver desired functionalities without having to go through RFCs and the standards specifications. We also provide an overview of some of the key IoT challenges presented in the recent literature and provide a summary of related research work. Moreover, we explore the relation between the IoT and other emerging technologies including big data analytics and cloud and fog computing. We also present the need for better horizontal integration among IoT services. Finally, we present detailed service use-cases to illustrate how the different protocols presented in the paper fit together to deliver desired IoT services.",
+      "cited_by_count": 8030,
+      "type": "article",
+      "source": {
+        "name": "IEEE Communications Surveys & Tutorials",
+        "type": "journal",
+        "issn": [
+          "1553-877X",
+          "2373-745X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/9739/7331734/07123563.pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Energy Efficient Wireless Sensor Networks",
+        "Context-Aware Activity Recognition Systems"
+      ],
+      "referenced_works_count": 178,
+      "url": "https://openalex.org/W2134295053"
+    },
+    {
+      "openalex_id": "W2758072489",
+      "doi": "10.1145/3125634",
+      "title": "Grid-Based Method for GPS Route Analysis for Retrieval",
+      "authors": [
+        {
+          "name": "Radu Mariescu-Istodor",
+          "openalex_id": "A5084665994",
+          "orcid": "https://orcid.org/0000-0002-0721-041X",
+          "institutions": [
+            "University of Eastern Finland"
+          ]
+        },
+        {
+          "name": "Pasi Fr\u00e4nti",
+          "openalex_id": "A5037846871",
+          "orcid": "https://orcid.org/0000-0002-9554-2827",
+          "institutions": [
+            "University of Eastern Finland"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-29",
+      "abstract": "Grids are commonly used as histograms to process spatial data in order to detect frequent patterns, predict destinations, or to infer popular places. However, they have not been previously used for GPS trajectory similarity searches or retrieval in general. Instead, slower and more complicated algorithms based on individual point-pair comparison have been used. We demonstrate how a grid representation can be used to compute four different route measures: novelty, noteworthiness, similarity, and inclusion. The measures may be used in several applications such as identifying taxi fraud, automatically updating GPS navigation software, optimizing traffic, and identifying commuting patterns. We compare our proposed route similarity measure, C-SIM, to eight popular alternatives including Edit Distance on Real sequence (EDR) and Frechet distance. The proposed measure is simple to implement and we give a fast, linear time algorithm for the task. It works well under noise, changes in sampling rate, and point shifting. We demonstrate that by using the grid, a route similarity ranking can be computed in real-time on the Mopsi2014 1 route dataset, which consists of over 6,000 routes. This ranking is an extension of the most similar route search and contains an ordered list of all similar routes from the database. The real-time search is due to indexing the cell database and comes at the cost of spending 80% more memory space for the index. The methods are implemented inside the Mopsi 2 route module.",
+      "cited_by_count": 40,
+      "type": "article",
+      "source": {
+        "name": "ACM Transactions on Spatial Algorithms and Systems",
+        "type": "journal",
+        "issn": [
+          "2374-0353",
+          "2374-0361"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Data Management and Algorithms",
+        "Geographic Information Systems Studies",
+        "Automated Road and Building Extraction"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W2758072489"
+    },
+    {
+      "openalex_id": "W4207059666",
+      "doi": "10.3390/ijerph19031225",
+      "title": "Orientation Experiences and Navigation Aid Use: A Self-Report Lifespan Study on the Role of Age and Visuospatial Factors",
+      "authors": [
+        {
+          "name": "Veronica Muffato",
+          "openalex_id": "A5014553525",
+          "orcid": "https://orcid.org/0000-0003-2696-4871",
+          "institutions": [
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Erika Borella",
+          "openalex_id": "A5085617629",
+          "orcid": "https://orcid.org/0000-0001-5481-6601",
+          "institutions": [
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Francesca Pazzaglia",
+          "openalex_id": "A5028796780",
+          "institutions": [
+            "Centro Interuniversitario di Ricerca Per lo Sviluppo sostenibile",
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Chiara Meneghetti",
+          "openalex_id": "A5018817696",
+          "orcid": "https://orcid.org/0000-0002-1838-7958",
+          "institutions": [
+            "University of Padua"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-22",
+      "abstract": "Spatial orientation is essential for daily life, but it deteriorates with aging. The present study was aimed at investigating age changes across the adult lifespan in the self-reported use of navigation aids and everyday orientation experiences, as well as investigating to what extent these are related to visuospatial working memory (VSWM) and self-reported wayfinding inclinations. A sample of 456 people aged 25\u201384 years rated how much they use navigation aids (maps, GPS, verbal directions), how much they went out, and how much they reached or lost their way to unfamiliar destinations (in 2016). Then, they performed the jigsaw puzzle test (VSWM) and questionnaires on sense of direction, pleasure in exploring, and spatial anxiety. The results showed that increasing age is related to a lower tendency to go out, fewer experiences of finding one\u2019s way and getting lost, a lower level of GPS use, and increased verbal directions use. After age changes were accounted for, VSWM was related to aid use and orientation experiences (except for losing one\u2019s way), wayfinding inclinations (especially spatial anxiety) to using a map, and orientation experiences. Overall, other than age, VSWM and one\u2019s wayfinding attitudes can play a role\u2013albeit it a modest one\u2013in spatial behaviors.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Environmental Research and Public Health",
+        "type": "journal",
+        "issn": [
+          "1660-4601",
+          "1661-7827"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1660-4601/19/3/1225/pdf?version=1642845966"
+      },
+      "topics": [
+        "Spatial Cognition and Navigation",
+        "Geographic Information Systems Studies",
+        "Geography Education and Pedagogy"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W4207059666"
+    },
+    {
+      "openalex_id": "W3094290081",
+      "doi": "10.1109/tits.2020.3030546",
+      "title": "D-LSTM: Short-Term Road Traffic Speed Prediction Model Based on GPS Positioning Data",
+      "authors": [
+        {
+          "name": "Xianwei Meng",
+          "openalex_id": "A5069135682",
+          "orcid": "https://orcid.org/0000-0001-8253-1785",
+          "institutions": [
+            "University of Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Hao Fu",
+          "openalex_id": "A5031351839",
+          "orcid": "https://orcid.org/0000-0002-1791-3311",
+          "institutions": [
+            "University of Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Liqun Peng",
+          "openalex_id": "A5071057752",
+          "orcid": "https://orcid.org/0000-0002-9275-5990",
+          "institutions": [
+            "East China Jiaotong University"
+          ]
+        },
+        {
+          "name": "Guiquan Liu",
+          "openalex_id": "A5015586553",
+          "orcid": "https://orcid.org/0000-0003-0653-3935",
+          "institutions": [
+            "University of Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Yang Yu",
+          "openalex_id": "A5100458530",
+          "orcid": "https://orcid.org/0000-0002-8209-2898",
+          "institutions": [
+            "University of Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Wang Zhong",
+          "openalex_id": "A5101426706",
+          "orcid": "https://orcid.org/0000-0002-4388-1755",
+          "institutions": [
+            "University of Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Enhong Chen",
+          "openalex_id": "A5048237545",
+          "orcid": "https://orcid.org/0000-0002-4835-4102",
+          "institutions": [
+            "University of Science and Technology of China"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-21",
+      "abstract": "Short-term road traffic speed prediction is a long-standing topic in the area of Intelligent Transportation System. Apparently, effective prediction of the traffic speed on the road can not only provide timely details for the navigation system concerned and help the drivers to make better path selection, but also greatly improve the road supervision efficiency of the traffic department. At present, some researches on speed prediction based on GPS data, by adding weather and other auxiliary information, using graph convolutional neural network to capture the temporal and spatial characteristics, have achieved excellent results. In this paper, the problem of short-term traffic speed prediction based on GPS positioning data is further studied. For the processing of time series, we innovatively introduce Dynamic Time Warping algorithm into the problem and propose a Long Short-Term Memory with Dynamic Time Warping (D-LSTM) model. D-LSTM model, which integrates Dynamic Time Warping algorithm, can fine-tune the time feature, thus adjusting the current data distribution to be close to the historical data. More importantly, the fine-tuned data can still get a distinct improvement without special treatment of holidays. Meanwhile, considering that the data under different feature distributions have different effects on the prediction results, attention mechanism is also introduced in the model. Our experiments show that our proposed model D-LSTM performs better than other basic models in many kinds of traffic speed prediction problems with different time intervals, and especially significant in the traffic speed prediction on weekends.",
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "IEEE Transactions on Intelligent Transportation Systems",
+        "type": "journal",
+        "issn": [
+          "1524-9050",
+          "1558-0016"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Traffic Prediction and Management Techniques",
+        "Time Series Analysis and Forecasting",
+        "Transportation Planning and Optimization"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W3094290081"
+    },
+    {
+      "openalex_id": "W3169337575",
+      "doi": "10.1016/j.bbr.2021.113408",
+      "title": "GPS-profiling of retrograde navigational impairments associated with hippocampal lesion in homing pigeons",
+      "authors": [
+        {
+          "name": "Anna Gagliardo",
+          "openalex_id": "A5016864849",
+          "orcid": "https://orcid.org/0000-0003-0214-3817",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Silvia Colombo",
+          "openalex_id": "A5074261187",
+          "orcid": "https://orcid.org/0000-0002-3671-0413",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Enrica Pollonara",
+          "openalex_id": "A5018563979",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "G. Casini",
+          "openalex_id": "A5056681590",
+          "orcid": "https://orcid.org/0000-0002-0270-4437",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Maria Grazia Rossino",
+          "openalex_id": "A5048311750",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Martin Wikelski",
+          "openalex_id": "A5012353622",
+          "orcid": "https://orcid.org/0000-0002-9790-7025",
+          "institutions": [
+            "University of Konstanz",
+            "Max Planck Institute of Animal Behavior"
+          ]
+        },
+        {
+          "name": "Verner P. Bingman",
+          "openalex_id": "A5043388274",
+          "orcid": "https://orcid.org/0000-0002-5295-7096",
+          "institutions": [
+            "Bowling Green State University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-08",
+      "abstract": null,
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Behavioural Brain Research",
+        "type": "journal",
+        "issn": [
+          "0166-4328",
+          "1872-7549"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Zebrafish Biomedical Research Applications",
+        "Primate Behavior and Ecology"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W3169337575"
+    },
+    {
+      "openalex_id": "W4213147678",
+      "doi": "10.1109/access.2019.2909530",
+      "title": "Unmanned Aerial Vehicles (UAVs): A Survey on Civil Applications and Key Research Challenges",
+      "authors": [
+        {
+          "name": "Hazim Shakhatreh",
+          "openalex_id": "A5036994172",
+          "orcid": "https://orcid.org/0000-0002-5350-3694",
+          "institutions": [
+            "Yarmouk University",
+            "ORCID"
+          ]
+        },
+        {
+          "name": "Ahmad Sawalmeh",
+          "openalex_id": "A5017180654",
+          "orcid": "https://orcid.org/0000-0002-7040-8963",
+          "institutions": [
+            "Universiti Tenaga Nasional",
+            "ORCID"
+          ]
+        },
+        {
+          "name": "Ala Al\u2010Fuqaha",
+          "openalex_id": "A5008695053",
+          "orcid": "https://orcid.org/0000-0002-0903-1204",
+          "institutions": [
+            "ORCID",
+            "Hamad bin Khalifa University",
+            "Western Michigan University"
+          ]
+        },
+        {
+          "name": "Zuochao Dou",
+          "openalex_id": "A5057574564",
+          "orcid": "https://orcid.org/0000-0002-3880-5125",
+          "institutions": [
+            "Vietnamese Voluntary Foundation"
+          ]
+        },
+        {
+          "name": "Eyad Almaita",
+          "openalex_id": "A5029902840",
+          "orcid": "https://orcid.org/0000-0002-9601-4014",
+          "institutions": [
+            "Tafila Technical University"
+          ]
+        },
+        {
+          "name": "Issa Khalil",
+          "openalex_id": "A5008374141",
+          "orcid": "https://orcid.org/0000-0002-7660-9512",
+          "institutions": [
+            "Qatar Cardiovascular Research Center"
+          ]
+        },
+        {
+          "name": "Noor Shamsiah Othman",
+          "openalex_id": "A5041778059",
+          "orcid": "https://orcid.org/0000-0002-1849-6687",
+          "institutions": [
+            "ORCID",
+            "Universiti Tenaga Nasional"
+          ]
+        },
+        {
+          "name": "Abdallah Khreishah",
+          "openalex_id": "A5062119199",
+          "orcid": "https://orcid.org/0000-0003-1583-713X",
+          "institutions": [
+            "University Heights Center",
+            "New Jersey Institute of Technology"
+          ]
+        },
+        {
+          "name": "Mohsen Guizani",
+          "openalex_id": "A5057916222",
+          "orcid": "https://orcid.org/0000-0002-8972-8094",
+          "institutions": [
+            "University of Idaho"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "&lt;p dir=\"ltr\"&gt;The use of unmanned aerial vehicles (UAVs) is growing rapidly across many civil application domains, including real-time monitoring, providing wireless coverage, remote sensing, search and rescue, delivery of goods, security and surveillance, precision agriculture, and civil infrastructure inspection. Smart UAVs are the next big revolution in the UAV technology promising to provide new opportunities in different applications, especially in civil infrastructure in terms of reduced risks and lower cost. Civil infrastructure is expected to dominate more than $45 Billion market value of UAV usage. In this paper, we present UAV civil applications and their challenges. We also discuss the current research trends and provide future insights for potential UAV uses. Furthermore, we present the key challenges for UAV civil applications, including charging challenges, collision avoidance and swarming challenges, and networking and security-related challenges. Based on our review of the recent literature, we discuss open research challenges and draw high-level insights on how these challenges might be approached.&lt;/p&gt;&lt;h2&gt;Other Information&lt;/h2&gt;&lt;p dir=\"ltr\"&gt;Published in: IEEE Access&lt;br&gt;License: &lt;a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\" target=\"_blank\"&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;br&gt;See article on publisher's website: &lt;a href=\"https://dx.doi.org/10.1109/access.2019.2909530\" target=\"_blank\"&gt;https://dx.doi.org/10.1109/access.2019.2909530&lt;/a&gt;&lt;/p&gt;",
+      "cited_by_count": 2086,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08682048.pdf"
+      },
+      "topics": [
+        "UAV Applications and Optimization",
+        "Distributed Control Multi-Agent Systems",
+        "Vehicular Ad Hoc Networks (VANETs)"
+      ],
+      "referenced_works_count": 329,
+      "url": "https://openalex.org/W4213147678"
+    },
+    {
+      "openalex_id": "W4386347609",
+      "doi": "10.3758/s13420-023-00601-4",
+      "title": "A different perspective on avian hippocampus function: Visual-spatial perception",
+      "authors": [
+        {
+          "name": "Verner P. Bingman",
+          "openalex_id": "A5043388274",
+          "orcid": "https://orcid.org/0000-0002-5295-7096",
+          "institutions": [
+            "Bowling Green State University"
+          ]
+        },
+        {
+          "name": "Anna Gagliardo",
+          "openalex_id": "A5016864849",
+          "orcid": "https://orcid.org/0000-0003-0214-3817",
+          "institutions": [
+            "University of Pisa"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-31",
+      "abstract": null,
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Learning & Behavior",
+        "type": "journal",
+        "issn": [
+          "1543-4494",
+          "1543-4508"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.3758/s13420-023-00601-4.pdf"
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Primate Behavior and Ecology",
+        "Circadian rhythm and melatonin"
+      ],
+      "referenced_works_count": 69,
+      "url": "https://openalex.org/W4386347609"
+    },
+    {
+      "openalex_id": "W3109668623",
+      "doi": "10.3389/fevo.2020.564567",
+      "title": "Pronounced Fidelity and Selection for Average Conditions of Calving Area Suggestive of Spatial Memory in a Highly Migratory Ungulate",
+      "authors": [
+        {
+          "name": "Matthew D. Cameron",
+          "openalex_id": "A5047772605",
+          "orcid": "https://orcid.org/0000-0001-7347-4491",
+          "institutions": [
+            "University of Alaska Fairbanks",
+            "National Park Service"
+          ]
+        },
+        {
+          "name": "Kyle Joly",
+          "openalex_id": "A5003158640",
+          "orcid": "https://orcid.org/0000-0001-8420-7452",
+          "institutions": [
+            "National Park Service"
+          ]
+        },
+        {
+          "name": "Greg A. Breed",
+          "openalex_id": "A5060045550",
+          "orcid": "https://orcid.org/0000-0002-7958-1877",
+          "institutions": [
+            "University of Alaska Fairbanks"
+          ]
+        },
+        {
+          "name": "Christa P. H. Mulder",
+          "openalex_id": "A5003792125",
+          "orcid": "https://orcid.org/0000-0003-1095-9031",
+          "institutions": [
+            "University of Alaska Fairbanks"
+          ]
+        },
+        {
+          "name": "Knut Kielland",
+          "openalex_id": "A5018394739",
+          "orcid": "https://orcid.org/0000-0001-6153-8232",
+          "institutions": [
+            "University of Alaska Fairbanks"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-11-23",
+      "abstract": "A distinguishing characteristic of many migratory animals is their annual return to distinct calving (birthing) areas in the spring, yet the navigational mechanisms employed during migration that result in this pattern are poorly understood. Effective conservation of these species requires reliable delineation of such areas, quantifying the factors that influence their selection, and understanding the underlying mechanisms resulting in use of calving areas. We used barren-ground caribou ( Rangifer tarandus granti ) as a study species and identified calving sites of the Western Arctic Herd in Alaska using GPS collar data from 2010\u20132017. We assessed variability in calving areas by comparing spatial delineations across all combinations of years. To understand calving area selection at a landscape scale, we performed a resource selection analysis comparing calving sites to available locations across the herd\u2019s range and incorporated time-varying, remotely sensed metrics of vegetation quality and quantity. We found that whereas calving areas varied from year to year, this annual variation was centered on an area of recurring attraction consistent with previous studies covering the last six decades. Calving sites were characterized by high-quality forage at the average time of calving, but not peak calving that year, and by a narrow range of distinct physiographic factors. Each year, calving sites were located on areas of above-average conditions based on our predictive model. Our findings indicate that the pattern of spring migration for pregnant females was to migrate to areas that consistently provide high-quality forage when averaged across years, and then upon arriving at this calving ground, refine selection using their perception of annually varying conditions that are driven by environmental stochasticity. We suggest that the well-documented and widespread pattern of fidelity to calving grounds by caribou is supportive of a navigational mechanism based on spatial memory at a broad scale to optimize foraging and energy acquisition at a critical life-history stage. The extent to which migrants depend on memory to reach their spring destinations has implications for the adaptability of populations to changing climate and human impacts.",
+      "cited_by_count": 27,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Ecology and Evolution",
+        "type": "journal",
+        "issn": [
+          "2296-701X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.3389/fevo.2020.564567"
+      },
+      "topics": [
+        "Wildlife Ecology and Conservation",
+        "Marine animal studies overview",
+        "Indigenous Studies and Ecology"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W3109668623"
+    },
+    {
+      "openalex_id": "W2955897898",
+      "doi": "10.1109/access.2019.2921522",
+      "title": "Wireless Communications and Applications Above 100 GHz: Opportunities and Challenges for 6G and Beyond",
+      "authors": [
+        {
+          "name": "Theodore S. Rappaport",
+          "openalex_id": "A5058193542",
+          "orcid": "https://orcid.org/0000-0001-7449-9957",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Yunchou Xing",
+          "openalex_id": "A5090349133",
+          "orcid": "https://orcid.org/0000-0003-0378-2696",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Ojas Kanhere",
+          "openalex_id": "A5064289610",
+          "orcid": "https://orcid.org/0000-0001-6864-7247",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Shihao Ju",
+          "openalex_id": "A5024066890",
+          "orcid": "https://orcid.org/0000-0002-0661-3241",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Arjuna Madanayake",
+          "openalex_id": "A5064035420",
+          "institutions": [
+            "Florida International University"
+          ]
+        },
+        {
+          "name": "Soumyajit Mandal",
+          "openalex_id": "A5036548792",
+          "orcid": "https://orcid.org/0000-0001-9070-2337",
+          "institutions": [
+            "Case Western Reserve University"
+          ]
+        },
+        {
+          "name": "Ahmed Alkhateeb",
+          "openalex_id": "A5003243464",
+          "orcid": "https://orcid.org/0000-0001-5648-1569",
+          "institutions": [
+            "Arizona State University"
+          ]
+        },
+        {
+          "name": "Georgios C. Trichopoulos",
+          "openalex_id": "A5007666035",
+          "orcid": "https://orcid.org/0000-0002-9030-9348",
+          "institutions": [
+            "Arizona State University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Frequencies from 100 GHz to 3 THz are promising bands for the next generation of wireless communication systems because of the wide swaths of unused and unexplored spectrum. These frequencies also offer the potential for revolutionary applications that will be made possible by new thinking, and advances in devices, circuits, software, signal processing, and systems. This paper describes many of the technical challenges and opportunities for wireless communication and sensing applications above 100 GHz, and presents a number of promising discoveries, novel approaches, and recent results that will aid in the development and implementation of the sixth generation (6G) of wireless networks, and beyond. This paper shows recent regulatory and standard body rulings that are anticipating wireless products and services above 100 GHz and illustrates the viability of wireless cognition, hyper-accurate position location, sensing, and imaging. This paper also presents approaches and results that show how long distance mobile communications will be supported to above 800 GHz since the antenna gains are able to overcome air-induced attenuation, and present methods that reduce the computational complexity and simplify the signal processing used in adaptive antenna arrays, by exploiting the Special Theory of Relativity to create a cone of silence in over-sampled antenna arrays that improve performance for digital phased array antennas. Also, new results that give insights into power efficient beam steering algorithms, and new propagation and partition loss models above 100 GHz are given, and promising imaging, array processing, and position location results are presented. The implementation of spatial consistency at THz frequencies, an important component of channel modeling that considers minute changes and correlations over space, is also discussed. This paper offers the first in-depth look at the vast applications of THz wireless products and applications and provides approaches for how to reduce power and increase performance across several problem domains, giving early evidence that THz techniques are compelling and available for future wireless communications.",
+      "cited_by_count": 2303,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08732419.pdf"
+      },
+      "topics": [
+        "Millimeter-Wave Propagation and Modeling",
+        "Antenna Design and Analysis",
+        "Antenna Design and Optimization"
+      ],
+      "referenced_works_count": 166,
+      "url": "https://openalex.org/W2955897898"
+    },
+    {
+      "openalex_id": "W4304182905",
+      "doi": "10.3390/su141912720",
+      "title": "Augmented Reality and GPS-Based Resource Efficient Navigation System for Outdoor Environments: Integrating Device Camera, Sensors, and Storage",
+      "authors": [
+        {
+          "name": "Saravjeet Singh",
+          "openalex_id": "A5071639513",
+          "orcid": "https://orcid.org/0000-0001-7280-0742",
+          "institutions": [
+            "Chitkara University"
+          ]
+        },
+        {
+          "name": "Jaiteg Singh",
+          "openalex_id": "A5033658073",
+          "orcid": "https://orcid.org/0000-0002-2370-9384",
+          "institutions": [
+            "Chitkara University"
+          ]
+        },
+        {
+          "name": "Babar Shah",
+          "openalex_id": "A5065504551",
+          "orcid": "https://orcid.org/0000-0002-5090-4695",
+          "institutions": [
+            "Zayed University"
+          ]
+        },
+        {
+          "name": "Sukhjit Singh Sehra",
+          "openalex_id": "A5071937794",
+          "orcid": "https://orcid.org/0000-0001-9058-7869",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        },
+        {
+          "name": "Farman Ali",
+          "openalex_id": "A5028787159",
+          "orcid": "https://orcid.org/0000-0002-9420-1588",
+          "institutions": [
+            "Sejong University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-06",
+      "abstract": "Contemporary navigation systems rely upon localisation accuracy and humongous spatial data for navigational assistance. Such spatial-data sources may have access restrictions or quality issues and require massive storage space. Affordable high-performance mobile consumer hardware and smart software have resulted in the popularity of AR and VR technologies. These technologies can help to develop sustainable devices for navigation. This paper introduces a robust, memory-efficient, augmented-reality-based navigation system for outdoor environments using crowdsourced spatial data, a device camera, and mapping algorithms. The proposed system unifies the basic map information, points of interest, and individual GPS trajectories of moving entities to generate and render the mapping information. This system can perform map localisation, pathfinding, and visualisation using a low-power mobile device. A case study was undertaken to evaluate the proposed system. It was observed that the proposed system resulted in a 29 percent decrease in CPU load and a 35 percent drop in memory requirements. As spatial information was stored as comma-separated values, it required almost negligible storage space compared to traditional spatial databases. The proposed navigation system attained a maximum accuracy of 99 percent with a root mean square error value of 0.113 and a minimum accuracy of 96 percent with a corresponding root mean square value of 0.17.",
+      "cited_by_count": 11,
+      "type": "article",
+      "source": {
+        "name": "Sustainability",
+        "type": "journal",
+        "issn": [
+          "2071-1050"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2071-1050/14/19/12720/pdf?version=1665469387"
+      },
+      "topics": [
+        "Robotics and Sensor-Based Localization",
+        "Augmented Reality Applications",
+        "Indoor and Outdoor Localization Technologies"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W4304182905"
+    },
+    {
+      "openalex_id": "W4229008901",
+      "doi": "10.1038/s41598-022-11124-9",
+      "title": "Multisensory GPS impact on spatial representation in an immersive virtual reality driving game",
+      "authors": [
+        {
+          "name": "Laura Seminati",
+          "openalex_id": "A5080754389",
+          "institutions": [
+            "University of Bath"
+          ]
+        },
+        {
+          "name": "Jacob Hadnett-Hunter",
+          "openalex_id": "A5003367971",
+          "orcid": "https://orcid.org/0009-0005-1942-9725",
+          "institutions": [
+            "University of Bath"
+          ]
+        },
+        {
+          "name": "Richard Joiner",
+          "openalex_id": "A5090800526",
+          "orcid": "https://orcid.org/0000-0002-9252-1940",
+          "institutions": [
+            "University of Bath"
+          ]
+        },
+        {
+          "name": "Karin Petrini",
+          "openalex_id": "A5019850878",
+          "orcid": "https://orcid.org/0000-0001-5354-5600",
+          "institutions": [
+            "University of Bath",
+            "Bath Royal Literary and Scientific Institution"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-05-05",
+      "abstract": null,
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Scientific Reports",
+        "type": "journal",
+        "issn": [
+          "2045-2322"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-022-11124-9.pdf"
+      },
+      "topics": [
+        "Spatial Cognition and Navigation",
+        "Visual and Cognitive Learning Processes",
+        "Tactile and Sensory Interactions"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W4229008901"
+    },
+    {
+      "openalex_id": "W2953303875",
+      "doi": "10.1109/access.2020.2983149",
+      "title": "A Survey of Autonomous Driving: <i>Common Practices and Emerging Technologies</i>",
+      "authors": [
+        {
+          "name": "Ekim Yurtsever",
+          "openalex_id": "A5031280652",
+          "orcid": "https://orcid.org/0000-0002-3103-6052",
+          "institutions": [
+            "Nagoya University"
+          ]
+        },
+        {
+          "name": "Jacob Lambert",
+          "openalex_id": "A5068186077",
+          "orcid": "https://orcid.org/0000-0003-0392-9635",
+          "institutions": [
+            "Nagoya University"
+          ]
+        },
+        {
+          "name": "Alexander Carballo",
+          "openalex_id": "A5037312161",
+          "orcid": "https://orcid.org/0000-0002-5941-2195",
+          "institutions": [
+            "Nagoya University"
+          ]
+        },
+        {
+          "name": "Kazuya Takeda",
+          "openalex_id": "A5042118446",
+          "orcid": "https://orcid.org/0000-0002-0330-1787",
+          "institutions": [
+            "Nagoya University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "Automated driving systems (ADSs) promise a safe, comfortable and efficient\\ndriving experience. However, fatalities involving vehicles equipped with ADSs\\nare on the rise. The full potential of ADSs cannot be realized unless the\\nrobustness of state-of-the-art improved further. This paper discusses unsolved\\nproblems and surveys the technical aspect of automated driving. Studies\\nregarding present challenges, high-level system architectures, emerging\\nmethodologies and core functions: localization, mapping, perception, planning,\\nand human machine interface, were thoroughly reviewed. Furthermore, the\\nstate-of-the-art was implemented on our own platform and various algorithms\\nwere compared in a real-world driving setting. The paper concludes with an\\noverview of available datasets and tools for ADS development.\\n",
+      "cited_by_count": 1610,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09046805.pdf"
+      },
+      "topics": [
+        "Autonomous Vehicle Technology and Safety",
+        "Advanced Neural Network Applications",
+        "Human-Automation Interaction and Safety"
+      ],
+      "referenced_works_count": 356,
+      "url": "https://openalex.org/W2953303875"
+    },
+    {
+      "openalex_id": "W4293329453",
+      "doi": "10.1016/j.bbr.2022.114073",
+      "title": "Deconstructing the flight paths of hippocampal-lesioned homing pigeons as they navigate near home offers insight into spatial perception and memory without a hippocampus",
+      "authors": [
+        {
+          "name": "Anna Gagliardo",
+          "openalex_id": "A5016864849",
+          "orcid": "https://orcid.org/0000-0003-0214-3817",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Sara Cioccarelli",
+          "openalex_id": "A5041874335",
+          "orcid": "https://orcid.org/0000-0002-5912-1937",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Dimitri Giunchi",
+          "openalex_id": "A5038044448",
+          "orcid": "https://orcid.org/0000-0003-2753-8997",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Enrica Pollonara",
+          "openalex_id": "A5018563979",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Silvia Colombo",
+          "openalex_id": "A5074261187",
+          "orcid": "https://orcid.org/0000-0002-3671-0413",
+          "institutions": [
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "G. Casini",
+          "openalex_id": "A5056681590",
+          "orcid": "https://orcid.org/0000-0002-0270-4437",
+          "institutions": [
+            "University of Pisa"
+          ]
+        },
+        {
+          "name": "Verner P. Bingman",
+          "openalex_id": "A5043388274",
+          "orcid": "https://orcid.org/0000-0002-5295-7096",
+          "institutions": [
+            "Bowling Green State University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-27",
+      "abstract": null,
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Behavioural Brain Research",
+        "type": "journal",
+        "issn": [
+          "0166-4328",
+          "1872-7549"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.sciencedirect.com/science/article/abs/pii/S0166432822003412"
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Primate Behavior and Ecology",
+        "Zebrafish Biomedical Research Applications"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W4293329453"
+    },
+    {
+      "openalex_id": "W4206484811",
+      "doi": "10.1109/access.2021.3140175",
+      "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+      "authors": [
+        {
+          "name": "Sangmin Park",
+          "openalex_id": "A5100671422",
+          "orcid": "https://orcid.org/0000-0002-3484-9833",
+          "institutions": [
+            "Korea University"
+          ]
+        },
+        {
+          "name": "Young\u2010Gab Kim",
+          "openalex_id": "A5061277148",
+          "orcid": "https://orcid.org/0000-0001-9585-8808",
+          "institutions": [
+            "Sejong University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the previous Metaverse. This paper divides the concepts and essential techniques necessary for realizing the Metaverse into three components (i.e., hardware, software, and contents) and three approaches (i.e., user interaction, implementation, and application) rather than marketing or hardware approach to conduct a comprehensive analysis. Furthermore, we describe essential methods based on three components and techniques to Metaverse&#x2019;s representative Ready Player One, Roblox, and Facebook research in the domain of films, games, and studies. Finally, we summarize the limitations and directions for implementing the immersive Metaverse as social influences, constraints, and open challenges.",
+      "cited_by_count": 1666,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09667507.pdf"
+      },
+      "topics": [
+        "Multimodal Machine Learning Applications",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "referenced_works_count": 424,
+      "url": "https://openalex.org/W4206484811"
+    },
+    {
+      "openalex_id": "W2562199918",
+      "doi": "10.3389/frobt.2016.00074",
+      "title": "Enhancing Our Lives with Immersive Virtual Reality",
+      "authors": [
+        {
+          "name": "Mel Slater",
+          "openalex_id": "A5073802250",
+          "orcid": "https://orcid.org/0000-0002-6223-0050",
+          "institutions": [
+            "University College London",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Mar\u00eda V. S\u00e1nchez-Vives",
+          "openalex_id": "A5019304045",
+          "orcid": "https://orcid.org/0000-0002-8437-9083",
+          "institutions": [
+            "Universitat de Barcelona",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "Consorci Institut D'Investigacions Biomediques August Pi I Sunyer"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-19",
+      "abstract": "OPINION article Front. Robot. AI, 19 December 2016Sec. Virtual Environments Volume 3 - 2016 | https://doi.org/10.3389/frobt.2016.00074",
+      "cited_by_count": 1636,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Robotics and AI",
+        "type": "journal",
+        "issn": [
+          "2296-9144"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/frobt.2016.00074/pdf"
+      },
+      "topics": [
+        "Virtual Reality Applications and Impacts",
+        "Augmented Reality Applications",
+        "Human-Automation Interaction and Safety"
+      ],
+      "referenced_works_count": 400,
+      "url": "https://openalex.org/W2562199918"
+    },
+    {
+      "openalex_id": "W4387422122",
+      "doi": "10.1016/j.jenvp.2023.102151",
+      "title": "Limiting the reliance on navigation assistance with navigation instructions containing emotionally salient narratives for confident wayfinding",
+      "authors": [
+        {
+          "name": "Sara Lanini-Maggi",
+          "openalex_id": "A5011293213",
+          "orcid": "https://orcid.org/0000-0002-7292-9252",
+          "institutions": [
+            "University of Zurich"
+          ]
+        },
+        {
+          "name": "Christopher Hilton",
+          "openalex_id": "A5056201228",
+          "orcid": "https://orcid.org/0000-0001-9386-6935",
+          "institutions": [
+            "University of Zurich"
+          ]
+        },
+        {
+          "name": "Sara Irina Fabrikant",
+          "openalex_id": "A5021549430",
+          "orcid": "https://orcid.org/0000-0003-1263-8792",
+          "institutions": [
+            "University of Zurich"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-07",
+      "abstract": null,
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Journal of Environmental Psychology",
+        "type": "journal",
+        "issn": [
+          "0272-4944",
+          "1522-9610"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.jenvp.2023.102151"
+      },
+      "topics": [
+        "Spatial Cognition and Navigation",
+        "Child and Animal Learning Development",
+        "Categorization, perception, and language"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W4387422122"
+    },
+    {
+      "openalex_id": "W2948001331",
+      "doi": "10.48550/arxiv.1905.12942",
+      "title": "A Realtime Autonomous Robot Navigation Framework for Human like High-level Interaction and Task Planning in Global Dynamic Environment",
+      "authors": [
+        {
+          "name": "Sung-Hyeon Joo",
+          "openalex_id": "A5043826335",
+          "orcid": "https://orcid.org/0000-0001-7068-2324",
+          "institutions": [
+            "Sungkyunkwan University"
+          ]
+        },
+        {
+          "name": "Sumaira Manzoor",
+          "openalex_id": "A5071180330",
+          "orcid": "https://orcid.org/0000-0001-5512-7824",
+          "institutions": [
+            "Sungkyunkwan University"
+          ]
+        },
+        {
+          "name": "Yuri Goncalves Rocha",
+          "openalex_id": "A5038496155",
+          "orcid": "https://orcid.org/0000-0002-3513-8398",
+          "institutions": [
+            "Sungkyunkwan University"
+          ]
+        },
+        {
+          "name": "Hyun Uk Lee",
+          "openalex_id": "A5010552888",
+          "orcid": "https://orcid.org/0000-0002-2581-1913",
+          "institutions": [
+            "Sungkyunkwan University"
+          ]
+        },
+        {
+          "name": "Tae\u2010Yong Kuc",
+          "openalex_id": "A5045649160",
+          "orcid": "https://orcid.org/0000-0002-5816-0088",
+          "institutions": [
+            "Sungkyunkwan University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-30",
+      "abstract": "In this paper, we present a framework for real-time autonomous robot navigation based on cloud and on-demand databases to address two major issues of human-like robot interaction and task planning in global dynamic environment, which is not known a priori. Our framework contributes to make human-like brain GPS mapping system for robot using spatial information and performs 3D visual semantic SLAM for independent robot navigation. We accomplish the feat by separating robot's memory system into Long-Term Memory (LTM) and Short-Term Memory (STM). We also form robot's behavior and knowledge system by linking these memories to Autonomous Navigation Module (ANM), Learning Module (LM), and Behavior Planner Module (BPM). The proposed framework is assessed through simulation using ROS-based Gazebo-simulated mobile robot, RGB-D camera (3D sensor) and a laser range finder (2D sensor) in 3D model of realistic indoor environment. Simulation corroborates the substantial practical merit of our proposed framework.",
+      "cited_by_count": 7,
+      "type": "preprint",
+      "source": {
+        "name": "arXiv (Cornell University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/1905.12942"
+      },
+      "topics": [
+        "Robotics and Sensor-Based Localization",
+        "Robotics and Automated Systems",
+        "Robotic Path Planning Algorithms"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2948001331"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

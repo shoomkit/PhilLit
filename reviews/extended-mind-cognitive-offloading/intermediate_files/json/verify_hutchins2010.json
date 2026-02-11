@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1111/j.1756-8765.2010.01089.x"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1111/j.1756-8765.2010.01089.x",
+      "title": "Cognitive Ecology",
+      "authors": [
+        {
+          "family": "Hutchins",
+          "given": "Edwin"
+        }
+      ],
+      "editors": [],
+      "year": 2010,
+      "container_title": "Topics in Cognitive Science",
+      "volume": "2",
+      "issue": "4",
+      "page": "705-715",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1111/j.1756-8765.2010.01089.x"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

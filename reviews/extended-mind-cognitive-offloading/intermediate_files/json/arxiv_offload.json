@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "source": "arxiv",
+  "query": "all:cognitive offloading extended mind AND cat:cs.HC",
+  "results": [
+    {
+      "arxiv_id": "2010.08009",
+      "title": "Study of Automatic Offloading Method in Mixed Offloading Destination Environment",
+      "authors": [
+        "Yoji Yamato"
+      ],
+      "abstract": "In recent years, utilization of heterogeneous hardware other than small core CPU such as GPU, FPGA or many core CPU is increasing. However, when using heterogeneous hardware, barriers of technical skills such as OpenMP, CUDA and OpenCL are high. Based on that, I have proposed environment-adaptive software that enables automatic conversion, configuration, and high performance operation of once written code, according to the hardware to be placed. However, including existing technologies, there has been no research to properly and automatically offload the mixed offloading destination environment such as GPU, FPGA and many core CPU. In this paper, as a new element of environment-adaptive software, I study a method for offloading applications properly and automatically in the environment where the offloading destination is mixed with GPU, FPGA and many core CPU. I evaluate the effectiveness of the proposed method in multiple applications.",
+      "published": "2020-10-15",
+      "updated": "2021-07-10",
+      "primary_category": "cs.DC",
+      "categories": [
+        "cs.DC"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2010.08009v2",
+      "url": "https://arxiv.org/abs/2010.08009"
+    },
+    {
+      "arxiv_id": "2004.04595",
+      "title": "Robust Beamforming Design for Intelligent Reflecting Surface Aided Cognitive Radio Systems with Imperfect Cascaded CSI",
+      "authors": [
+        "Lei Zhang",
+        "Cunhua Pan",
+        "Yu Wang",
+        "Hong Ren",
+        "Kezhi Wang"
+      ],
+      "abstract": "In this paper, intelligent reflecting surface (IRS) is introduced to enhance the network performance of cognitive radio (CR) systems. Specifically, we investigate robust beamforming design based on both bounded channel state information (CSI) error model and statistical CSI error model for primary user (PU)-related channels in IRS-aided CR systems. We jointly optimize the transmit precoding (TPC) at the secondary user (SU) transmitter (ST) and phase shifts at the IRS to minimize the ST' s total transmit power subject to the quality of service of SUs, the limited interference imposed on the PU and unit-modulus of the reflective beamforming. The successive convex approximation (SCA) method, Schur's complement, General sign-definiteness principle, inverse Chi-square distribution and penalty convex-concave procedure are invoked for dealing with these intricate constraints. The non-convex optimization problems are transformed into several convex subproblems and efficient algorithms are proposed. Simulation results verify the efficiency of the proposed algorithms and reveal the impacts of CSI uncertainties on ST's minimum transmit power and feasibility rate of the optimization problems. Simulation results also show that the number of transmit antennas at the ST and the number of phase shifts at the IRS should be carefully chosen to balance the channel realization feasibility rate and the total transmit power.",
+      "published": "2020-04-09",
+      "updated": "2024-01-05",
+      "primary_category": "eess.SP",
+      "categories": [
+        "eess.SP"
+      ],
+      "doi": null,
+      "journal_ref": "IEEE Transactions on Cognitive Communications and Networking, vol.8, no.1, pp.186-201, March. 2022",
+      "pdf_url": "https://arxiv.org/pdf/2004.04595v4",
+      "url": "https://arxiv.org/abs/2004.04595"
+    }
+  ],
+  "count": 2,
+  "errors": []
+}

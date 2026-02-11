@@ -1,0 +1,1519 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "enculturated cognition transformative",
+  "results": [
+    {
+      "openalex_id": "W1886497005",
+      "doi": "10.15502/9783958570818",
+      "title": "Mathematical Cognition",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "openalex_id": "A5055720061"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "Most thinking about cognition proceeds on the assumption that we are born with our primary cognitive faculties intact and they simply need to mature, or be fine-tuned by learning mechanisms. Alternatively, a growing number of thinkers are aligning themselves to the view that a process of enculturation transforms our basic biological faculties. What evidence is there for this process of enculturation? A long period of development, learning-driven plasticity, and a cultural environment suffused with practices, symbols, and complex social interactions all speak in its favour. In this paper I will sketch in outline the commitments of the enculturated approach and then look at the case of mathematical cognition as a central example of enculturation. I will then defend the account against several objections.4E",
+      "cited_by_count": 99,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.15502/9783958570818"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Cognitive Science and Education Research",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W1886497005"
+    },
+    {
+      "openalex_id": "W2590038445",
+      "doi": "10.1007/s11229-017-1334-y",
+      "title": "Betwixt and between: the enculturated predictive processing approach to cognition",
+      "authors": [
+        {
+          "name": "Regina E. Fabry",
+          "openalex_id": "A5009657680",
+          "orcid": "https://orcid.org/0000-0003-1078-1499",
+          "institutions": [
+            "University of Giessen"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-02-21",
+      "abstract": null,
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 199,
+      "url": "https://openalex.org/W2590038445"
+    },
+    {
+      "openalex_id": "W2791191484",
+      "doi": "10.1007/s11097-018-9567-x",
+      "title": "Enculturation and narrative practices",
+      "authors": [
+        {
+          "name": "Regina E. Fabry",
+          "openalex_id": "A5009657680",
+          "orcid": "https://orcid.org/0000-0003-1078-1499",
+          "institutions": [
+            "University of Giessen"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-03-20",
+      "abstract": null,
+      "cited_by_count": 41,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language and cultural evolution",
+        "Language, Metaphor, and Cognition",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 151,
+      "url": "https://openalex.org/W2791191484"
+    },
+    {
+      "openalex_id": "W2118887693",
+      "doi": "10.1080/13869795.2012.677851",
+      "title": "Cognitive practices and cognitive character",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "openalex_id": "A5055720061",
+          "institutions": [
+            "ARC Centre of Excellence in Cognition and its Disorders",
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-15",
+      "abstract": "Abstract The argument of this paper is that we should think of the extension of cognitive abilities and cognitive character in integrationist terms. Cognitive abilities are extended by acquired practices of creating and manipulating information that is stored in a publicly accessible environment. I call these cognitive practices (2007). In contrast to Pritchard (2010) I argue that such processes are integrated into our cognitive characters rather than artefacts; such as notebooks. There are two routes to cognitive extension that I contrast in the paper, the first I call artefact extension which is the now classic position of the causal coupling of an agent with an artefact. This approach needs to overcome the objection from cognitive outsourcing: that we simply get an artefact or tool to do the cognitive processing for us without extending our cognitive abilities. Enculturated cognition, by contrast, does not claim that artefacts themselves extend our cognitive abilities, but rather that the acquired practices for manipulating artefacts and the information stored in them extend our cognitive abilities (by augmenting and transforming them). In the rest of the paper I provide a series of arguments and cases which demonstrate that an enculturated approach works better for both epistemic and cognitive cases of the extension of ability and character. Keywords: cognitive practicescognitive characterextended cognitionepistemic virtue Acknowledgements This research was supported by the Australian Research Council Discovery grant: Embodied Virtues and Expertise. The author thanks audiences at the University of Hertfordshire and the epistemology and extended mind workshop at the University of Edinburgh. The author also thanks Duncan Pritchard and Krist Vaesen. Notes I follow Pritchard in talking of abilities rather than of capacities. I take interpreted information to be something like a written sentence, or a diagram, or a string of a code in a computer programme and so on. Natural information may well surround us in the ambient array of light or waiting to be discovered in natural relationships such as the number of tree rings and the age of a tree and so on, but I would not be considering natural information here. I just use information for short from here on. Hutchins (Citation2011) and Roepstorff, Niew\u00f6hner, and Beck (Citation2010) have called for an articulation of enculturated cognition. My account of enculturation is based on prior work on cognitive practices and the transformation of cognition by immersion in cultural practices in ontogeny (Menary Citation2006, Citation2007, Chapters 4\u20137; also see Menary 2008 for an account of cognitive transformation by narrative practices and Citation2010a, Citation2010b for more on practices and transformation). Many species construct their niches to some extent, beavers and their dams, termites and their mounds (Laland, Feldman, and Odling-Smee Citation2003). The niches confer a selective advantage on the species. Humans are niche constructors par excellence; in particular, they construct cognitive niches which include tools, representations and systems for cooperative actions (Sterelny Citation2003). Albeit a kind of reciprocal causal relationship. I cannot give a comprehensive set of reasons here, but see Menary (Citation2007) for a book length argument for why they are open and unbounded. I avoid the talk of modules here since their discussion would take us too far afield. I have no track of the talk of the mind getting extended from the brain into the world or Adams and Aizawa's (Citation2010) weird metaphysics of \"cognitive processes extending into tool\". I have no idea what this means or do I know who holds such a position (see Menary Citation2010c for a discussion of this point). See Menary (Citation2007, 48\u201350) for a discussion. See Rupert (Citation2009), Sterelny (Citation2010) and Menary (Citation2010a) for a discussion. But also see Hutchins (Citation2011) and Roepstorff, Niew\u00f6hner, and Beck (Citation2010), who have independently postulated a hypothesis of enculturated cognition. However, the analysis that I give is based on the account of cognitive practices as cultural practices and cognitive transformations from Menary (Citation2006, Citation2007, Chapters 4\u20137) and Menary (Citation2010a, Citation2010b). It can also mean that our abilities have been extended, in terms of what we can do now, by the resulting transformation of our abilities \u2013 \u00e0 la Dehaene. Even if it lies under the skin of the agent. In this case, Barney's reliable perceptual faculties cannot discriminate between barns and barn facades; therefore, his belief is unsafe. The original example is due to Lackey (Citation2007). See the earlier discussion in Section 2. Remember that AE leans on a principle of functional parity. If the informational source is very reliable and we know this, Otto would be an example. We can imagine that Zachary uses a system that employs some of the methods of the memory notebook system for memory-impaired patients. While Zachary is not memory impaired, his life requires him to perform a lot of different tasks and to store and retrieve a lot of information. This is a case of processing that is better done in the world as retrieving and organising the information by using the brain alone are just too inefficient. I am not trying to provide a critique of Vaesen's case against credit theories here, I merely aim to show that this case is not one of cognitive extension, but of cognitive outsourcing. To be fair to Vaesen, he does point out that this is a very weak form of extended cognition. See Pritchard's (Citation2010) tempo case where Temp now has a thermometer grafted into him physically.",
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Explorations",
+        "type": "journal",
+        "issn": [
+          "1386-9795",
+          "1741-5918"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W2118887693"
+    },
+    {
+      "openalex_id": "W4293222559",
+      "doi": "10.1515/css-2021-2049",
+      "title": "Simplexifying: harnessing the power of enlanguaged cognition",
+      "authors": [
+        {
+          "name": "Stephen J. Cowley",
+          "openalex_id": "A5103134735",
+          "orcid": "https://orcid.org/0000-0002-5374-9889",
+          "institutions": [
+            "University of Southern Denmark",
+            "Slagelse Hospital"
+          ]
+        },
+        {
+          "name": "Rasmus Gahrn-Andersen",
+          "openalex_id": "A5065023822",
+          "orcid": "https://orcid.org/0000-0001-6142-6919",
+          "institutions": [
+            "Slagelse Hospital",
+            "University of Southern Denmark"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-01",
+      "abstract": "Abstract Looking beyond the internalism\u2013externalism debate, we offer a distributed view of how experience can garner linguistic and mental content. To make the case, first, we challenge the idea that cognition is organism-centered and synchronistic. Instead, we use Berthoz\u2019s principle of \u201csimplexity\u201d to open up the multiscalarity of cognitive ecosystems. In exemplifying wide cognition, we track how the eyeball\u2019s neurophysiology is transformed by simplex tricks. As learning was integrated with seeing, looking evolved. Later, we argue, lineages gained social use of gaze. In primates, gaze was integrated with cultural techniques like nut-cracking and termite dipping. Individual perceptual experience thus came to build on enculturated behavior. We then turn to the case of modern humans who make use of things with \u201cmeaning attached.\u201d Their cognition, we argue, is not only enculturated but also enlanguaged. In this connection, we show how simplex mechanisms disclose aspects-in-things, thus allowing individuals to attribute practical significance to selected parts of their surroundings. In harnessing articulatory skills, human judgements draw on cultural and practical expectations: as a child perceives, she also learns to observe and say things. In this connection, we argue, people come to act ostensively and give rise to descriptions. In terms proposed here, humans learn to simplexify.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Chinese Semiotic Studies",
+        "type": "journal",
+        "issn": [
+          "2198-9605",
+          "2198-9613"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://portal.findresearcher.sdu.dk/da/publications/d6faf075-04ae-4952-8498-f2028cb15c18"
+      },
+      "topics": [
+        "Language and cultural evolution",
+        "Embodied and Extended Cognition",
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W4293222559"
+    },
+    {
+      "openalex_id": "W2605670937",
+      "doi": "10.15502/9783958573147",
+      "title": "Predictive Processing and Cognitive Development",
+      "authors": [
+        {
+          "name": "Regina E. Fabry",
+          "openalex_id": "A5009657680",
+          "orcid": "https://orcid.org/0000-0003-1078-1499",
+          "institutions": [
+            "University of Giessen"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "The ability to acquire new cognitive capacities is the hallmark of the human mind. Emerging predictive processing (PP) accounts promise to offer a unified, mechanistic perspective on the neuro-functional realization of this complex process. The acquisition of any given cognitive capacity can be depicted as a specific stage of the continuous prediction error minimization process. This stage is characterized by distinct functional profiles, unique patterns of neuronal activation in crucial brain areas, and the refinement and flexible adaptation of motor programs to new processing challenges. In this paper, I will suggest that PP is a good conceptual partner for accounts of enculturation. Enculturation is the idea that socio-culturally shaped cognitive processes emerge from an individual\u2019s scaffolded, embodied interaction with its cognitive niche. This structured engagement with specific, socio-culturally developed patterns in the niche transforms the overall cognitive capacities of an individual (Menary 2013; Menary 2015). The process of enculturation is associated with significant changes in the functional and structural properties of the brain. Furthermore, it alters and refines the functional profiles of bodily actions and motor programs. I will argue that PP offers important conceptual tools and theoretical considerations that complement these basic principles of enculturation in a new and original way. The resulting account of the enculturated predictive acquisition of cognitive capacities (EPACC) has the conceptual resources to consider specific cases of cognitive development at multiple levels of explanation. This new perspective on EPACC is a timely contribution to the debate about the philosophical implications of PP. On the one hand, Jakob Hohwy (Hohwy 2013) argues that PP implies an internalistic and neurocentric view of cognition. On his account, the embodiedness of cognitive systems and their flexible interaction with the local environment do not seem to play an important role in accounts of cognitive processes. On the other hand, Andy Clark (Clark 2016) defends the idea that PP is compatible with philosophical positions that emphasize the embodied, embedded, extended, or enacted (4E) dimensions of cognition. In this paper, I will discuss both interpretations of PP and assess their relationship to EPACC. I will challenge the internalistic account of PP on conceptual grounds. At the same time, I will argue that EPACC offers a concrete proposal for the complementarity of PP and enculturation. The overall argument is that the acquisition of new, socio-culturally shaped cognitive capacities is a matter of enculturation. The underlying neuronal and bodily transformation routines can be described in terms of PP. However, if we aim for a full-fledged account of the complexity and fragility of cognitive development, we also need an account of the fine-grained interactions of novices with their structured environment.",
+      "cited_by_count": 27,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.15502/9783958573147"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W2605670937"
+    },
+    {
+      "openalex_id": "W2128879035",
+      "doi": "10.1002/tea.20237",
+      "title": "Understanding the science experiences of successful women of color: Science identity as an analytic lens",
+      "authors": [
+        {
+          "name": "Heidi B. Carlone",
+          "openalex_id": "A5085688450",
+          "orcid": "https://orcid.org/0000-0002-6801-0876",
+          "institutions": [
+            "University of North Carolina at Greensboro"
+          ]
+        },
+        {
+          "name": "Angela Johnson",
+          "openalex_id": "A5067962653",
+          "orcid": "https://orcid.org/0000-0002-2323-6230",
+          "institutions": [
+            "St. Mary's College of Maryland"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-09-11",
+      "abstract": "Abstract In this study, we develop a model of science identity to make sense of the science experiences of 15 successful women of color over the course of their undergraduate and graduate studies in science and into science\u2010related careers. In our view, science identity accounts both for how women make meaning of science experiences and how society structures possible meanings. Primary data included ethnographic interviews during students' undergraduate careers, follow\u2010up interviews 6 years later, and ongoing member\u2010checking. Our results highlight the importance of recognition by others for women in the three science identity trajectories: research scientist; altruistic scientist; and disrupted scientist. The women with research scientist identities were passionate about science and recognized themselves and were recognized by science faculty as science people. The women with altruistic scientist identities regarded science as a vehicle for altruism and created innovative meanings of \u201cscience,\u201d \u201crecognition by others,\u201d and \u201cwoman of color in science.\u201d The women with disrupted scientist identities sought, but did not often receive, recognition by meaningful scientific others. Although they were ultimately successful, their trajectories were more difficult because, in part, their bids for recognition were disrupted by the interaction with gendered, ethnic, and racial factors. This study clarifies theoretical conceptions of science identity, promotes a rethinking of recruitment and retention efforts, and illuminates various ways women of color experience, make meaning of, and negotiate the culture of science. \u00a9 2007 Wiley Periodicals, Inc. J Res Sci Teach 44: 1187\u20131218, 2007",
+      "cited_by_count": 2202,
+      "type": "article",
+      "source": {
+        "name": "Journal of Research in Science Teaching",
+        "type": "journal",
+        "issn": [
+          "0022-4308",
+          "1098-2736"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://libres.uncg.edu/ir/uncg/f/H_Carlone_Understanding_2007.pdf"
+      },
+      "topics": [
+        "Career Development and Diversity",
+        "Science Education and Perceptions",
+        "Doctoral Education Challenges and Solutions"
+      ],
+      "referenced_works_count": 90,
+      "url": "https://openalex.org/W2128879035"
+    },
+    {
+      "openalex_id": "W2786041299",
+      "doi": null,
+      "title": "Explaining enculturated cognition",
+      "authors": [
+        {
+          "name": "Regina E. Fabry",
+          "openalex_id": "A5009657680",
+          "orcid": "https://orcid.org/0000-0003-1078-1499",
+          "institutions": [
+            "University of Giessen"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "abstract": "Many of our cognitive capacities are shaped by enculturation.\\nEnculturation is the temporally extended transformative\\nacquisition of cognitive practices such as reading, writing, and\\nmathematics. They are embodied and normatively constrained\\nways to interact with epistemic resources (e.g., writing systems,\\nnumber systems). Enculturation is associated with significant\\nchanges of the organization and connectivity of the brain and of\\nthe functional profiles of embodied actions and motor programs.\\nFurthermore, it has a socio-culturally structured dimension,\\nbecause it relies on cumulative cultural evolution and on the\\nsocially distributed acquisition of cognitive norms governing the\\nengagement with epistemic resources. This paper argues that we\\nneed distinct, yet complementary levels of explanation and\\ncorresponding temporal scales. This leads to explanatory\\npluralism about enculturated cognition, which is the view that we\\nneed multiple perspectives and explanatory strategies to account\\nfor the complexity of enculturation.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "eScholarship (California Digital Library)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 56,
+      "url": "https://openalex.org/W2786041299"
+    },
+    {
+      "openalex_id": "W1805663263",
+      "doi": "10.1007/s40692-015-0043-0",
+      "title": "Seamless flipped learning: a mobile technology-enhanced flipped classroom with effective learning strategies",
+      "authors": [
+        {
+          "name": "Gwo\u2010Jen Hwang",
+          "openalex_id": "A5049547394",
+          "orcid": "https://orcid.org/0000-0001-5155-276X",
+          "institutions": [
+            "National Taiwan University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Chiu\u2010Lin Lai",
+          "openalex_id": "A5005399085",
+          "orcid": "https://orcid.org/0000-0003-1410-3732",
+          "institutions": [
+            "National Taiwan University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Siang-Yi Wang",
+          "openalex_id": "A5112022316",
+          "institutions": [
+            "National Taiwan University of Science and Technology"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-08-14",
+      "abstract": null,
+      "cited_by_count": 602,
+      "type": "article",
+      "source": {
+        "name": "Journal of Computers in Education",
+        "type": "journal",
+        "issn": [
+          "2197-9987",
+          "2197-9995"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs40692-015-0043-0.pdf"
+      },
+      "topics": [
+        "Innovative Teaching Methods",
+        "Mobile Learning in Education",
+        "Experimental Learning in Engineering"
+      ],
+      "referenced_works_count": 81,
+      "url": "https://openalex.org/W1805663263"
+    },
+    {
+      "openalex_id": "W2484983710",
+      "doi": "10.3389/fpsyg.2016.01090",
+      "title": "Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention",
+      "authors": [
+        {
+          "name": "Maxwell J. D. Ramstead",
+          "openalex_id": "A5010108818",
+          "orcid": "https://orcid.org/0000-0002-1477-8177",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Samuel P. L. Veissi\u00e8re",
+          "openalex_id": "A5017587005",
+          "orcid": "https://orcid.org/0000-0002-1158-2347",
+          "institutions": [
+            "University of Johannesburg",
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Laurence J. Kirmayer",
+          "openalex_id": "A5054510055",
+          "orcid": "https://orcid.org/0000-0002-6228-1739",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-07-26",
+      "abstract": "In this paper we outline a framework for the study of the mechanisms involved in the engagement of human agents with cultural affordances. Our aim is to better understand how culture and context interact with human biology to shape human behavior, cognition, and experience. We attempt to integrate several related approaches in the study of the embodied, cognitive, and affective substrates of sociality and culture and the sociocultural scaffolding of experience. The integrative framework we propose bridges cognitive and social sciences to provide (i) an expanded concept of 'affordance' that extends to sociocultural forms of life, and (ii) a multilevel account of the socioculturally scaffolded forms of affordance learning and the transmission of affordances in patterned sociocultural practices and regimes of shared attention. This framework provides an account of how cultural content and normative practices are built on a foundation of contentless basic mental processes that acquire content through immersive participation of the agent in social practices that regulate joint attention and shared intentionality.",
+      "cited_by_count": 411,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01090/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 193,
+      "url": "https://openalex.org/W2484983710"
+    },
+    {
+      "openalex_id": "W2062065529",
+      "doi": "10.1007/s11098-010-9599-8",
+      "title": "Enculturating the Supersized Mind",
+      "authors": [
+        {
+          "name": "Edwin Hutchins",
+          "openalex_id": "A5106326009",
+          "institutions": [
+            "University of California, San Diego"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-26",
+      "abstract": "In the final pages of Supersizing the Mind, Clark describes Dawkins' ''mental flip.''Dawkins asked biologists to abandon their focus on individual organisms and instead to imagine ''bodies falling transparent so as to reveal the near-seamless play of replicating DNA.''By taking such a view, one might see that an organism is just a gene's way of replicating itself.Clark goes onto say that a similar mental flip is needed in the sciences of mind ''\u2026to cease to unreflectively privilege the inner, the biological, and the neural.'' In this view, ''[t]he human mind \u2026 emerges as the productive interface of brain, body, and social and material world.''Clark is to be congratulated for making this case and bolstering it with empirical evidence.From low-level processes of motor control to high-level processes of reasoning Clark shows us how cognitive processes are enacted in systems that transcend the boundaries of the individual organism.Supersizing the Mind delivers us to a point from which yet another ''mental flip'' is both possible and necessary.In this commentary I will try to describe this next flip and some of the things that become apparent when it is made. The assembly of cognitive systemsClark introduces the Principle of Ecological Assembly (PEA) as a central motif in his argument.According to the PEA, ''the canny cognizer tends to recruit, on the spot, whatever mix of problem-solving resources will yield an acceptable result with a minimum of effort'' (p.13). 1 Clark exploits an important ambiguity in the meaning of",
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11098-010-9599-8.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 12,
+      "url": "https://openalex.org/W2062065529"
+    },
+    {
+      "openalex_id": "W2144605182",
+      "doi": "10.1371/journal.pone.0041548",
+      "title": "Untrained Chimpanzees (Pan troglodytes schweinfurthii) Fail to Imitate Novel Actions",
+      "authors": [
+        {
+          "name": "Claudio Tennie",
+          "openalex_id": "A5050037591",
+          "orcid": "https://orcid.org/0000-0002-5302-4925",
+          "institutions": [
+            "Max Planck Society",
+            "Max Planck Institute for Evolutionary Anthropology"
+          ]
+        },
+        {
+          "name": "Josep Call",
+          "openalex_id": "A5044389898",
+          "orcid": "https://orcid.org/0000-0002-8597-8336",
+          "institutions": [
+            "Max Planck Society",
+            "Max Planck Institute for Evolutionary Anthropology"
+          ]
+        },
+        {
+          "name": "Michael Tomasello",
+          "openalex_id": "A5071512605",
+          "orcid": "https://orcid.org/0000-0002-1649-088X",
+          "institutions": [
+            "Max Planck Society",
+            "Max Planck Institute for Evolutionary Anthropology"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-08-08",
+      "abstract": "Chimpanzees do not seem to copy novel actions, and only some ever copy familiar ones. Due to our having tested only non-enculturated and untrained chimpanzees, the performance of our test subjects speak more than most other studies of the general (dis-)ability of chimpanzees to copy actions, and especially novel actions.",
+      "cited_by_count": 144,
+      "type": "article",
+      "source": {
+        "name": "PLoS ONE",
+        "type": "journal",
+        "issn": [
+          "1932-6203"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0041548&type=printable"
+      },
+      "topics": [
+        "Primate Behavior and Ecology",
+        "Child and Animal Learning Development",
+        "Animal Vocal Communication and Behavior"
+      ],
+      "referenced_works_count": 86,
+      "url": "https://openalex.org/W2144605182"
+    },
+    {
+      "openalex_id": "W2886021352",
+      "doi": "10.1007/s13347-018-0321-7",
+      "title": "Homo faber Revisited: Postphenomenology and Material Engagement Theory",
+      "authors": [
+        {
+          "name": "Don Ihde",
+          "openalex_id": "A5001329544",
+          "institutions": [
+            "Stony Brook University"
+          ]
+        },
+        {
+          "name": "Lambros Malafouris",
+          "openalex_id": "A5063140141",
+          "orcid": "https://orcid.org/0000-0003-2140-4998",
+          "institutions": [
+            "Oxford Archaeology",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-07-30",
+      "abstract": null,
+      "cited_by_count": 201,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs13347-018-0321-7.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Innovative Human-Technology Interaction",
+        "Space Science and Extraterrestrial Life"
+      ],
+      "referenced_works_count": 152,
+      "url": "https://openalex.org/W2886021352"
+    },
+    {
+      "openalex_id": "W2569336950",
+      "doi": "10.1146/annurev-psych-010416-044108",
+      "title": "Social Learning and Culture in Child and Chimpanzee",
+      "authors": [
+        {
+          "name": "Andrew Whiten",
+          "openalex_id": "A5056800293",
+          "orcid": "https://orcid.org/0000-0003-2426-5890",
+          "institutions": [
+            "University of St Andrews"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-03",
+      "abstract": "A few decades ago, we knew next to nothing about the behavior of our closest animal relative, the chimpanzee, but long-term field studies have since revealed an undreamed-of richness in the diversity of their cultural traditions across Africa. These discoveries have been complemented by a substantial suite of experimental studies, now bridging to the wild through field experiments. These field and experimental studies, particularly those in which direct chimpanzee\u2013child comparisons have been made, delineate a growing set of commonalities between the phenomena of social learning and culture in the lives of chimpanzees and humans. These commonalities in social learning inform our understanding of the evolutionary roots of the cultural propensities the species share. At the same time, such comparisons throw into clearer relief the unique features of the distinctive human capacity for cumulative cultural evolution, and new research has begun to probe the key psychological attributes that may explain it.",
+      "cited_by_count": 133,
+      "type": "article",
+      "source": {
+        "name": "Annual Review of Psychology",
+        "type": "journal",
+        "issn": [
+          "0066-4308",
+          "1545-2085"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010416-044108"
+      },
+      "topics": [
+        "Primate Behavior and Ecology",
+        "Child and Animal Learning Development",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2569336950"
+    },
+    {
+      "openalex_id": "W2106422082",
+      "doi": "10.1080/09500690500336973",
+      "title": "Current Realities and Future Possibilities: Language and science literacy\u2014empowering research and informing instruction",
+      "authors": [
+        {
+          "name": "Larry D. Yore",
+          "openalex_id": "A5088273956",
+          "institutions": [
+            "University of Victoria"
+          ]
+        },
+        {
+          "name": "David F. Treagust",
+          "openalex_id": "A5033282266",
+          "orcid": "https://orcid.org/0000-0001-5340-0970",
+          "institutions": [
+            "Curtin University"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-12-20",
+      "abstract": "In this final article, we briefly review and synthesize the science and language research and practice that arose from the current literature and presentations at an international conference, referred to as the first \"Island Conference\". We add to the synthesis of the articles the conference deliberations and on\u2010going discussions of the field and also offer our views as to how such contributions can take place. These central issues\u2014the definition of science literacy; the models of learning, discourse, reading, and writing and their underlying pedagogical assumptions; the roles of discourse in doing, teaching, and learning science; and the demands on teacher education and professional development in the current reforms in language and science education\u2014provide points of departure for discussion of four possible new considerations to research in this field of endeavour that could contribute to a broader and productive scholarship and deeper and enriched understanding of both teaching and learning. These considerations, each from well\u2010established fields of research literature, are the need to develop support for a contemporary view of science literacy, the role of metacognition in science learning generally, the role of multiple representations in knowledge building and science literacy, and the need for more focused teacher education and professional development programmes.",
+      "cited_by_count": 358,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Science Education",
+        "type": "journal",
+        "issn": [
+          "0950-0693",
+          "1464-5289"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://espace.curtin.edu.au/bitstream/20.500.11937/45342/2/164685_164685-164685.pdf"
+      },
+      "topics": [
+        "Science Education and Pedagogy",
+        "Educational Strategies and Epistemologies",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W2106422082"
+    },
+    {
+      "openalex_id": "W2048487711",
+      "doi": "10.1007/s13164-013-0131-x",
+      "title": "Distributed Cognition and Memory Research: History and Current Directions",
+      "authors": [
+        {
+          "name": "Kourken Michaelian",
+          "openalex_id": "A5005971328",
+          "orcid": "https://orcid.org/0000-0002-5205-3046",
+          "institutions": [
+            "Bilkent University"
+          ]
+        },
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-19",
+      "abstract": null,
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-013-0131-x.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Memory and Neural Mechanisms",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2048487711"
+    },
+    {
+      "openalex_id": "W2165368100",
+      "doi": "10.1186/s40561-014-0001-8",
+      "title": "Smart technology for self-organizing processes",
+      "authors": [
+        {
+          "name": "Marlene Scardamalia",
+          "openalex_id": "A5029252276",
+          "orcid": "https://orcid.org/0000-0002-0310-0803",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Carl Bereiter",
+          "openalex_id": "A5035438119",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-08-11",
+      "abstract": "Abstract\\n Learning technology periodically undergoes changes in response to changes in the prevailing models of human cognition and learning. A major shift throughout the behavioral sciences that began in the 1980s is beginning to have effects at the level of classroom learning and its supportive technologies. Inspired by complexity theory, it is a shift that treats all learning and knowledge building as essentially self-organizing processes. The design challenge is not to control the self-organizing process, as some instructional approaches attempt to do, but to facilitate the emergence of higher-level outcomes\u2014e.g., better explanations, more coherent understanding. To foster such higher-level emergents, smart technologies not only need to support people interacting productively with other people but also ideas interacting productively with ideas and feedback systems promoting engagement between people and ideas. This is in contrast to conceptions of smart technology that see it as providing increasingly precise centralized control over learning processes. Smart technology attuned to the emergent character of learning and thinking does not simply turn more control over to the learners but shifts the emphasis from control to productive interaction among learners, teachers, ideas, and technology.",
+      "cited_by_count": 187,
+      "type": "article",
+      "source": {
+        "name": "Smart Learning Environments",
+        "type": "journal",
+        "issn": [
+          "2196-7091"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://slejournal.springeropen.com/track/pdf/10.1186/s40561-014-0001-8"
+      },
+      "topics": [
+        "Cognitive Science and Education Research",
+        "Innovative Teaching and Learning Methods",
+        "Complex Systems and Decision Making"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W2165368100"
+    },
+    {
+      "openalex_id": "W2073914850",
+      "doi": "10.1371/journal.pone.0010544",
+      "title": "Evidence for Emulation in Chimpanzees in Social Settings Using the Floating Peanut Task",
+      "authors": [
+        {
+          "name": "Claudio Tennie",
+          "openalex_id": "A5050037591",
+          "orcid": "https://orcid.org/0000-0002-5302-4925",
+          "institutions": [
+            "Max Planck Institute for Evolutionary Anthropology",
+            "Max Planck Society"
+          ]
+        },
+        {
+          "name": "Josep Call",
+          "openalex_id": "A5044389898",
+          "orcid": "https://orcid.org/0000-0002-8597-8336",
+          "institutions": [
+            "Max Planck Institute for Evolutionary Anthropology",
+            "Max Planck Society"
+          ]
+        },
+        {
+          "name": "Michael Tomasello",
+          "openalex_id": "A5071512605",
+          "orcid": "https://orcid.org/0000-0002-1649-088X",
+          "institutions": [
+            "Max Planck Society",
+            "Max Planck Institute for Evolutionary Anthropology"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-12",
+      "abstract": "The full demonstration condition (which potentially offers additional information to observers, in the form of actions), induced no more successes than the emulation condition. Hence, emulation learning could explain the success in both conditions. This finding has broad implications for the interpretation of chimpanzee traditions, for which emulation learning may perhaps suffice.",
+      "cited_by_count": 123,
+      "type": "article",
+      "source": {
+        "name": "PLoS ONE",
+        "type": "journal",
+        "issn": [
+          "1932-6203"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0010544&type=printable"
+      },
+      "topics": [
+        "Primate Behavior and Ecology",
+        "Child and Animal Learning Development",
+        "Animal Vocal Communication and Behavior"
+      ],
+      "referenced_works_count": 63,
+      "url": "https://openalex.org/W2073914850"
+    },
+    {
+      "openalex_id": "W2406121183",
+      "doi": "10.3389/fnins.2016.00229",
+      "title": "Measuring Neural Entrainment to Beat and Meter in Infants: Effects of Music Background",
+      "authors": [
+        {
+          "name": "Laura K. Cirelli",
+          "openalex_id": "A5055264115",
+          "orcid": "https://orcid.org/0000-0002-1374-8558",
+          "institutions": [
+            "McMaster University"
+          ]
+        },
+        {
+          "name": "Christina Spinelli",
+          "openalex_id": "A5057913962",
+          "orcid": "https://orcid.org/0000-0003-1127-9476",
+          "institutions": [
+            "McMaster University"
+          ]
+        },
+        {
+          "name": "Sylvie Nozaradan",
+          "openalex_id": "A5076449743",
+          "orcid": "https://orcid.org/0000-0002-5662-3173",
+          "institutions": [
+            "UCLouvain",
+            "Universit\u00e9 de Montr\u00e9al",
+            "International Laboratory for Brain, Music and Sound Research",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Laurel J. Trainor",
+          "openalex_id": "A5004511208",
+          "orcid": "https://orcid.org/0000-0003-3397-2079",
+          "institutions": [
+            "Baycrest Hospital",
+            "McMaster University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-05-24",
+      "abstract": "Caregivers often engage in musical interactions with their infants. For example, parents across cultures sing lullabies and playsongs to their infants from birth. Behavioral studies indicate that infants not only extract beat information, but also group these beats into metrical hierarchies by as early as 6 months of age. However, it is not known how this is accomplished in the infant brain. An EEG frequency-tagging approach has been used successfully with adults to measure neural entrainment to auditory rhythms. The current study is the first to use this technique with infants in order to investigate how infants' brains encode rhythms. Furthermore, we examine how infant and parent music background is associated with individual differences in rhythm encoding. In Experiment 1, EEG was recorded while 7-month-old infants listened to an ambiguous rhythmic pattern that could be perceived to be in two different meters. In Experiment 2, EEG was recorded while 15-month-old infants listened to a rhythmic pattern with an unambiguous meter. In both age groups, information about music background (parent music training, infant music classes, hours of music listening) was collected. Both age groups showed clear EEG responses frequency-locked to the rhythms, at frequencies corresponding to both beat and meter. For the younger infants (Experiment 1), the amplitudes at duple meter frequencies were selectively enhanced for infants enrolled in music classes compared to those who had not engaged in such classes. For the older infants (Experiment 2), amplitudes at beat and meter frequencies were larger for infants with musically-trained compared to musically-untrained parents. These results suggest that the frequency-tagging method is sensitive to individual differences in beat and meter processing in infancy and could be used to track developmental changes.",
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-453X",
+          "1662-4548"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnins.2016.00229/pdf"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Hearing Loss and Rehabilitation",
+        "Infant Health and Development"
+      ],
+      "referenced_works_count": 55,
+      "url": "https://openalex.org/W2406121183"
+    },
+    {
+      "openalex_id": "W2738122717",
+      "doi": "10.1073/pnas.1620738114",
+      "title": "Evolutionary neuroscience of cumulative culture",
+      "authors": [
+        {
+          "name": "Dietrich Stout",
+          "openalex_id": "A5077811779",
+          "orcid": "https://orcid.org/0000-0003-3555-7637",
+          "institutions": [
+            "Emory University"
+          ]
+        },
+        {
+          "name": "Erin E. Hecht",
+          "openalex_id": "A5001795335",
+          "orcid": "https://orcid.org/0000-0003-1247-0432",
+          "institutions": [
+            "Georgia State University",
+            "Emory University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-07-24",
+      "abstract": "Culture suffuses all aspects of human life. It shapes our minds and bodies and has provided a cumulative inheritance of knowledge, skills, institutions, and artifacts that allows us to truly stand on the shoulders of giants. No other species approaches the extent, diversity, and complexity of human culture, but we remain unsure how this came to be. The very uniqueness of human culture is both a puzzle and a problem. It is puzzling as to why more species have not adopted this manifestly beneficial strategy and problematic because the comparative methods of evolutionary biology are ill suited to explain unique events. Here, we develop a more particularistic and mechanistic evolutionary neuroscience approach to cumulative culture, taking into account experimental, developmental, comparative, and archaeological evidence. This approach reconciles currently competing accounts of the origins of human culture and develops the concept of a uniquely human technological niche rooted in a shared primate heritage of visuomotor coordination and dexterous manipulation.",
+      "cited_by_count": 200,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the National Academy of Sciences",
+        "type": "journal",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.pnas.org/content/pnas/114/30/7861.full.pdf"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Primate Behavior and Ecology",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 109,
+      "url": "https://openalex.org/W2738122717"
+    },
+    {
+      "openalex_id": "W2585535166",
+      "doi": "10.3758/s13423-017-1236-5",
+      "title": "Empirical approaches to the study of language evolution",
+      "authors": [
+        {
+          "name": "W. Tecumseh Fitch",
+          "openalex_id": "A5030131830",
+          "orcid": "https://orcid.org/0000-0003-1830-0928",
+          "institutions": [
+            "University of Vienna"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-02-01",
+      "abstract": null,
+      "cited_by_count": 252,
+      "type": "review",
+      "source": {
+        "name": "Psychonomic Bulletin & Review",
+        "type": "journal",
+        "issn": [
+          "1069-9384",
+          "1531-5320"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.3758/s13423-017-1236-5.pdf"
+      },
+      "topics": [
+        "Language and cultural evolution",
+        "Syntax, Semantics, Linguistic Variation",
+        "Linguistic Variation and Morphology"
+      ],
+      "referenced_works_count": 433,
+      "url": "https://openalex.org/W2585535166"
+    },
+    {
+      "openalex_id": "W1511242669",
+      "doi": "10.1057/sub.2008.8",
+      "title": "Creating Subjectivities",
+      "authors": [
+        {
+          "name": "Lisa Blackman",
+          "openalex_id": "A5026851435",
+          "orcid": "https://orcid.org/0000-0002-7703-0588"
+        },
+        {
+          "name": "John Cromby",
+          "openalex_id": "A5071456913",
+          "orcid": "https://orcid.org/0000-0002-3713-3320"
+        },
+        {
+          "name": "Derek Hook",
+          "openalex_id": "A5045844945",
+          "orcid": "https://orcid.org/0000-0002-0446-4334"
+        },
+        {
+          "name": "Dimitris Papadopoulos",
+          "openalex_id": "A5010497177",
+          "orcid": "https://orcid.org/0000-0002-3759-3343"
+        },
+        {
+          "name": "Valerie Walkerdine",
+          "openalex_id": "A5058797212",
+          "orcid": "https://orcid.org/0000-0003-4752-6395"
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-05-01",
+      "abstract": null,
+      "cited_by_count": 279,
+      "type": "article",
+      "source": {
+        "name": "Subjectivity",
+        "type": "journal",
+        "issn": [
+          "1755-6341",
+          "1755-635X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1057/sub.2008.8.pdf"
+      },
+      "topics": [
+        "Posthumanist Ethics and Activism",
+        "Gender, Feminism, and Media",
+        "Foucault, Power, and Ethics"
+      ],
+      "referenced_works_count": 165,
+      "url": "https://openalex.org/W1511242669"
+    },
+    {
+      "openalex_id": "W2601383601",
+      "doi": "10.24059/olj.v21i1.963",
+      "title": "A Critical Review of the Use of Wenger's Community of Practice (CoP) Theoretical Framework in Online and Blended Learning Research, 2000-2014",
+      "authors": [
+        {
+          "name": "Sedef Uzuner Smith",
+          "openalex_id": "A5110774658",
+          "institutions": [
+            "University of Houston - Downtown"
+          ]
+        },
+        {
+          "name": "Suzanne Hayes",
+          "openalex_id": "A5015101333",
+          "institutions": [
+            "University at Albany, State University of New York",
+            "Albany State University"
+          ]
+        },
+        {
+          "name": "Peter Shea",
+          "openalex_id": "A5038103612",
+          "orcid": "https://orcid.org/0000-0002-8164-3352",
+          "institutions": [
+            "University at Albany, State University of New York",
+            "Albany State University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-21",
+      "abstract": "After presenting a brief overview of the key elements that underpin Etienne Wenger\u2019s communities of practice (CoP) theoretical framework, one of the most widely cited and influential conceptions of social learning, this paper reviews extant empirical work grounded in this framework to investigate online/blended learning in higher education and in professional development. The review is based on integrative research approaches, using quantitative and qualitative analysis, and includes CoP oriented research articles published between 2000 and 2014. Findings are presented under three questions: Which research studies within the online/blended learning literature made central use of the CoP framework? Among those studies identified, which ones established strong linkages between the CoP framework and their findings? Within this last group of identified studies, what do the patterns in their use of the CoP framework suggest as opportunities for future research in online teaching and learning?",
+      "cited_by_count": 198,
+      "type": "review",
+      "source": {
+        "name": "Online Learning",
+        "type": "journal",
+        "issn": [
+          "2472-5730",
+          "2472-5749"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://olj.onlinelearningconsortium.org/index.php/olj/article/download/963/255"
+      },
+      "topics": [
+        "Online and Blended Learning",
+        "Innovative Teaching and Learning Methods",
+        "Higher Education Practises and Engagement"
+      ],
+      "referenced_works_count": 53,
+      "url": "https://openalex.org/W2601383601"
+    },
+    {
+      "openalex_id": "W2054292499",
+      "doi": "10.3389/fpsyg.2014.01228",
+      "title": "Gestural and symbolic development among apes and humans: support for a multimodal theory of language evolution",
+      "authors": [
+        {
+          "name": "Kristen Gillespie\u2010Lynch",
+          "openalex_id": "A5008473287",
+          "orcid": "https://orcid.org/0000-0001-7292-3945",
+          "institutions": [
+            "University of California, Los Angeles",
+            "City University of New York",
+            "College of Staten Island"
+          ]
+        },
+        {
+          "name": "Patricia M. Greenfield",
+          "openalex_id": "A5025956286",
+          "orcid": "https://orcid.org/0000-0001-6861-5050",
+          "institutions": [
+            "University of California, Los Angeles"
+          ]
+        },
+        {
+          "name": "Heidi Lyn",
+          "openalex_id": "A5033320073",
+          "orcid": "https://orcid.org/0000-0002-9746-3030",
+          "institutions": [
+            "University of Southern Mississippi"
+          ]
+        },
+        {
+          "name": "Sue Savage\u2010Rumbaugh",
+          "openalex_id": "A5037488299"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-10-30",
+      "abstract": "What are the implications of similarities and differences in the gestural and symbolic development of apes and humans?This focused review uses as a starting point our recent study that provided evidence that gesture supported the symbolic development of a chimpanzee, a bonobo, and a human child reared in language-enriched environments at comparable stages of communicative development. These three species constitute a complete clade, species possessing a common immediate ancestor. Communicative behaviors observed among all species in a clade are likely to have been present in the common ancestor. Similarities in the form and function of many gestures produced by the chimpanzee, bonobo, and human child suggest that shared non-verbal skills may underlie shared symbolic capacities. Indeed, an ontogenetic sequence from gesture to symbol was present across the clade but more pronounced in child than ape. Multimodal expressions of communicative intent (e.g., vocalization plus persistence or eye-contact) were normative for the child, but less common for the apes. These findings suggest that increasing multimodal expression of communicative intent may have supported the emergence of language among the ancestors of humans. Therefore, this focused review includes new studies, since our 2013 article, that support a multimodal theory of language evolution.",
+      "cited_by_count": 71,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01228/pdf"
+      },
+      "topics": [
+        "Hearing Impairment and Communication",
+        "Child and Animal Learning Development",
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 146,
+      "url": "https://openalex.org/W2054292499"
+    },
+    {
+      "openalex_id": "W1551374508",
+      "doi": "10.14236/ewic/hci2008.2",
+      "title": "Wave Like an Egyptian \u2014 Accelerometer Based Gesture Recognition for Culture Specific Interactions",
+      "authors": [
+        {
+          "name": "Matthias Rehm",
+          "openalex_id": "A5031192315",
+          "orcid": "https://orcid.org/0000-0001-6264-1688",
+          "institutions": [
+            "University of Augsburg"
+          ]
+        },
+        {
+          "name": "Nikolaus Bee",
+          "openalex_id": "A5074161288",
+          "institutions": [
+            "University of Augsburg"
+          ]
+        },
+        {
+          "name": "Elisabeth Andr\u00e9",
+          "openalex_id": "A5056684559",
+          "orcid": "https://orcid.org/0000-0002-2367-162X",
+          "institutions": [
+            "University of Augsburg"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "abstract": "The user\u2019s behavior and his interpretation of interactions with others is influenced by his cultural background, which provides a number of heuristics or patterns of behavior and interpretation. This cultural influence on interaction has largely been neglected in HCI research due to two challenges: (i) grasping culture as a computational term and (ii) infering the user\u2019s cultural background by observable measures. In this paper, we describe how the Wiimote can be utilized to uncover the user\u2019s cultural background by analyzing his patterns of gestural expressivity in a model based on cultural dimensions. With this information at hand, the behavior of an interactive system can be adapted to culture-dependent patterns of interaction.",
+      "cited_by_count": 77,
+      "type": "article",
+      "source": {
+        "name": "Electronic workshops in computing",
+        "type": "journal",
+        "issn": [
+          "1477-9358"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.scienceopen.com/document_file/89481a61-582f-4051-a883-801bc6871b8e/ScienceOpen/013_Rehm.pdf"
+      },
+      "topics": [
+        "Hand Gesture Recognition Systems",
+        "Speech and dialogue systems",
+        "Human Pose and Action Recognition"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W1551374508"
+    },
+    {
+      "openalex_id": "W2911752276",
+      "doi": "10.1007/s11121-019-00998-3",
+      "title": "Changing Social Norms: the Importance of \u201cOrganized Diffusion\u201d for Scaling Up Community Health Promotion and Women Empowerment Interventions",
+      "authors": [
+        {
+          "name": "Beniamino Cislaghi",
+          "openalex_id": "A5047270699",
+          "orcid": "https://orcid.org/0000-0002-6296-4644",
+          "institutions": [
+            "London School of Hygiene & Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Elaine K. Denny",
+          "openalex_id": "A5011934369",
+          "orcid": "https://orcid.org/0000-0002-0644-7642",
+          "institutions": [
+            "University of California, Merced"
+          ]
+        },
+        {
+          "name": "Mady Ciss\u00e9",
+          "openalex_id": "A5109381264",
+          "orcid": "https://orcid.org/0000-0001-8417-4072",
+          "institutions": [
+            "Tostan"
+          ]
+        },
+        {
+          "name": "Penda Gueye",
+          "openalex_id": "A5025882929",
+          "institutions": [
+            "Tostan"
+          ]
+        },
+        {
+          "name": "Binita Shrestha",
+          "openalex_id": "A5101852888",
+          "orcid": "https://orcid.org/0000-0001-6889-300X",
+          "institutions": [
+            "ACCESS Health International",
+            "Access to Wholistic and Productive Living Institute"
+          ]
+        },
+        {
+          "name": "Prabin Nanicha Shrestha",
+          "openalex_id": "A5036065636",
+          "institutions": [
+            "ACCESS Health International",
+            "Access to Wholistic and Productive Living Institute"
+          ]
+        },
+        {
+          "name": "Gemma Ferguson",
+          "openalex_id": "A5086430429",
+          "institutions": [
+            "ACCESS Health International",
+            "Access to Wholistic and Productive Living Institute"
+          ]
+        },
+        {
+          "name": "Claire Hughes",
+          "openalex_id": "A5101656952",
+          "orcid": "https://orcid.org/0000-0003-2159-4752",
+          "institutions": [
+            "Itad (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Cari J. Clark",
+          "openalex_id": "A5040159822",
+          "orcid": "https://orcid.org/0000-0002-9959-5221",
+          "institutions": [
+            "Emory University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-12",
+      "abstract": "Some harmful practices are sustained by social norms-collective beliefs about what people expect from each other. Practitioners and researchers alike have been investigating the potential of social norms theory to inform the design of effective interventions addressing these practices in low- and middle-income countries. One approach commonly used to facilitate social norms change is community-based dialogs and trainings. This approach has often been criticized for not being cost-effective, as it usually includes a relatively small number of direct participants and does not allow for scaling-up strategies. In spite of some evidence (as for instance, the SASA! Program) that community dialogs can achieve social norms change, little exists in the literature about how exactly participants in community dialogs engage others in their networks to achieve change. In this paper, we look at the potential of \"organized diffusion\" as a cost-effective strategy to expand the positive effects of community-based interventions to participants' networks, achieving sustainable normative shifts. We provide quantitative evidence from three case studies-Community Empowerment Program in Mali, Change Starts at Home in Nepal, and Voices for Change in Nigeria-showing that participants in community-based interventions can be effectively empowered to share their new knowledge and understandings systematically with others in their networks, eventually facilitating social norms change. Future community-based interventions intending to achieve social norms change would benefit from integrating ways to help participants engage others in their network in transformative conversations. Doing so has the potential to generate additional impact with little additional investment.",
+      "cited_by_count": 114,
+      "type": "article",
+      "source": {
+        "name": "Prevention Science",
+        "type": "journal",
+        "issn": [
+          "1389-4986",
+          "1573-6695"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11121-019-00998-3.pdf"
+      },
+      "topics": [
+        "Nonprofit Sector and Volunteering",
+        "Tourism, Volunteerism, and Development",
+        "Youth Development and Social Support"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W2911752276"
+    },
+    {
+      "openalex_id": "W2108653431",
+      "doi": "10.3389/fnins.2014.00058",
+      "title": "Social learning in humans and other animals",
+      "authors": [
+        {
+          "name": "Jean-Fran\u00c3\u00a7ois Gari\u00c3\u00a9py",
+          "openalex_id": "A5097406887"
+        },
+        {
+          "name": "Karli Watson",
+          "openalex_id": "A5012656054",
+          "orcid": "https://orcid.org/0000-0002-5513-1492",
+          "institutions": [
+            "Duke University"
+          ]
+        },
+        {
+          "name": "Emily Du",
+          "openalex_id": "A5009575805",
+          "institutions": [
+            "Duke University"
+          ]
+        },
+        {
+          "name": "Diana L. Xie",
+          "openalex_id": "A5013739763",
+          "institutions": [
+            "Duke University"
+          ]
+        },
+        {
+          "name": "Joshua Erb",
+          "openalex_id": "A5031775648",
+          "institutions": [
+            "Duke University"
+          ]
+        },
+        {
+          "name": "Dianna Amasino",
+          "openalex_id": "A5070926535",
+          "orcid": "https://orcid.org/0000-0001-9092-3877",
+          "institutions": [
+            "Duke University"
+          ]
+        },
+        {
+          "name": "Michael L. Platt",
+          "openalex_id": "A5064602852",
+          "orcid": "https://orcid.org/0000-0003-3912-8821",
+          "institutions": [
+            "Duke University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-31",
+      "abstract": "Decisions made by individuals can be influenced by what others think and do. Social learning includes a wide array of behaviors such as imitation, observational learning of novel foraging techniques, peer or parental influences on individual preferences, as well as outright teaching. These processes are believed to underlie an important part of cultural variation among human populations and may also explain intraspecific variation in behavior between geographically distinct populations of animals. Recent neurobiological studies have begun to uncover the neural basis of social learning. Here we review experimental evidence from the past few decades showing that social learning is a widespread set of skills present in multiple animal species. In mammals, the temporoparietal junction, the dorsomedial, and dorsolateral prefrontal cortex, as well as the anterior cingulate gyrus, appear to play critical roles in social learning. Birds, fish, and insects also learn from others, but the underlying neural mechanisms remain poorly understood. We discuss the evolutionary implications of these findings and highlight the importance of emerging animal models that permit precise modification of neural circuit function for elucidating the neural basis of social learning.",
+      "cited_by_count": 112,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-453X",
+          "1662-4548"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnins.2014.00058/pdf"
+      },
+      "topics": [
+        "Neuroendocrine regulation and behavior",
+        "Primate Behavior and Ecology",
+        "Animal Behavior and Reproduction"
+      ],
+      "referenced_works_count": 205,
+      "url": "https://openalex.org/W2108653431"
+    },
+    {
+      "openalex_id": "W4240778737",
+      "doi": "10.1007/s11097-019-09654-1",
+      "title": "Enactive becoming",
+      "authors": [
+        {
+          "name": "Ezequiel A. Di Paolo",
+          "openalex_id": "A5008902090",
+          "orcid": "https://orcid.org/0000-0002-3296-5021",
+          "institutions": [
+            "Ikerbasque"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-11",
+      "abstract": "Abstract The enactive approach provides a perspective on human bodies in their organic, sensorimotor, social, and linguistic dimensions, but many fundamental issues still remain unaddressed. A crucial desideratum for a theory of human bodies is that it be able to account for concrete human becoming. In this article I show that enactive theory possesses resources to achieve this goal. Being an existential structure, human becoming is best approached by a series of progressive formal indications. I discuss three standpoints on human becoming as open, indeterminate, and therefore historical using the voices of Pico della Mirandola, Gordon W. Allport, and Paulo Freire. Drawing on Gilbert Simondon\u2019s philosophy of individuation we move from an existential to an ontological register in looking at modes of embodied becoming. His scheme of interpretation of the relation between modes of individuation allows us to understand human becoming in terms of a tendency to neotenization. I compare this ontology with an enactive theoretical account of the dimensions of embodiment, finding several compatibilities and complementarities. Various forms of bodily unfinishedness in enaction fit the Simondonian ontology and the existential analysis, where transindividuality corresponds to participatory sense-making and Freire\u2019s joint becoming of individuals and communities correlates with the open tensions in linguistic bodies between incorporation and incarnation of linguistic acts. I test some of this ideas by considering the plausibility of artificial bodies and personal becoming from an enactive perspective, using the case of replicants in the film Blade Runner . The conclusion is that any kind of personhood, replicants included, requires living through an actual history of concrete becoming.",
+      "cited_by_count": 81,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11097-019-09654-1.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophical and Theoretical Analysis",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 71,
+      "url": "https://openalex.org/W4240778737"
+    },
+    {
+      "openalex_id": "W2108139284",
+      "doi": "10.1093/scan/nsp057",
+      "title": "The brain\u2013artefact interface (BAI): a challenge for archaeology and cultural neuroscience",
+      "authors": [
+        {
+          "name": "Lambros Malafouris",
+          "openalex_id": "A5063140141",
+          "orcid": "https://orcid.org/0000-0003-2140-4998",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-19",
+      "abstract": "Cultural neuroscience provides a new approach for understanding the impact of culture on the human brain (and vice versa) opening thus new avenues for cross-disciplinary collaboration with archaeology and anthropology. Finding new meaningful and productive unit of analysis is essential for such collaboration. But what can archaeological preoccupation with material culture and long-term change contribute to this end? In this article, I introduce and discuss the notion of the brain-artefact interface (BAI) as a useful conceptual bridge between neuroplastisty and the extended mind. I argue that a key challenge for archaeology and cultural neuroscience lies in the cross-disciplinary understanding of the processes by which our plastic enculturated brains become constituted within the wider extended networks of non-biological artefacts and cultural practices that delineate the real spatial and temporal boundaries of the human cognitive map.",
+      "cited_by_count": 120,
+      "type": "review",
+      "source": {
+        "name": "Social Cognitive and Affective Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1749-5016",
+          "1749-5024"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://academic.oup.com/scan/article-pdf/5/2-3/264/27105726/nsp057.pdf"
+      },
+      "topics": [
+        "Multisensory perception and integration",
+        "Action Observation and Synchronization",
+        "Face Recognition and Perception"
+      ],
+      "referenced_works_count": 151,
+      "url": "https://openalex.org/W2108139284"
+    },
+    {
+      "openalex_id": "W2901248493",
+      "doi": "10.1007/s11229-018-02020-9",
+      "title": "Radical embodiment in two directions",
+      "authors": [
+        {
+          "name": "Edward Baggs",
+          "openalex_id": "A5073582762",
+          "orcid": "https://orcid.org/0000-0003-3203-1250",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Anthony Chemero",
+          "openalex_id": "A5031912460",
+          "orcid": "https://orcid.org/0000-0001-5987-4106",
+          "institutions": [
+            "University of Cincinnati"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-11-20",
+      "abstract": "Abstract Radical embodied cognitive science is split into two camps: the ecological approach and the enactive approach. We propose that these two approaches can be brought together into a productive synthesis. The key is to recognize that the two approaches are pursuing different but complementary types of explanation. Both approaches seek to explain behavior in terms of the animal\u2013environment relation, but they start at opposite ends. Ecological psychologists pursue an ontological strategy. They begin by describing the habitat of the species, and use this to explain how action possibilities are constrained for individual actors. Enactivists, meanwhile, pursue an epistemic strategy: start by characterizing the exploratory, self-regulating behavior of the individual organism, and use this to understand how that organism brings forth its animal-specific umwelt . Both types of explanation are necessary: the ontological strategy explains how structure in the environment constrains how the world can appear to an individual, while the epistemic strategy explains how the world can appear differently to different members of the same species, relative to their skills, abilities, and histories. Making the distinction between species habitat and animal-specific umwelt allows us to understand the environment in realist terms while acknowledging that individual living organisms are phenomenal beings.",
+      "cited_by_count": 132,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-018-02020-9.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W2901248493"
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

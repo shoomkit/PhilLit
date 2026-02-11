@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1016/j.concog.2015.05.014"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1016/j.concog.2015.05.014",
+      "title": "Storing information in-the-world: Metacognition and cognitive offloading in a short-term memory task",
+      "authors": [
+        {
+          "family": "Risko",
+          "given": "Evan F."
+        },
+        {
+          "family": "Dunn",
+          "given": "Timothy L."
+        }
+      ],
+      "editors": [],
+      "year": 2015,
+      "container_title": "Consciousness and Cognition",
+      "volume": "36",
+      "issue": "",
+      "page": "61-74",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1016/j.concog.2015.05.014"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

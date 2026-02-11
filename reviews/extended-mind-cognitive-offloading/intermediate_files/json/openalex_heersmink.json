@@ -1,0 +1,1570 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Heersmink cognitive integration",
+  "results": [
+    {
+      "openalex_id": "W3087804187",
+      "doi": "10.1080/02691728.2020.1815095",
+      "title": "Online Intellectual Virtues and the Extended Mind",
+      "authors": [
+        {
+          "name": "Lukas Schwengerer",
+          "openalex_id": "A5065748093",
+          "orcid": "https://orcid.org/0000-0002-2653-0988",
+          "institutions": [
+            "University of Duisburg-Essen"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-22",
+      "abstract": "The internet has become an ubiquitous epistemic source. However, it comes with several drawbacks. For instance, the world wide web seems to foster filter bubbles and echo chambers and includes search results that promote bias and spread misinformation. Richard Heersmink suggests online intellectual virtues to combat these epistemically detrimental effects . These are general epistemic virtues applied to the online environment based on our background knowledge of this online environment. I argue that these online intellectual virtues also demand a particular view of cognitive integration. Online intellectual virtues are incompatible with a popular conception of extended minds proposed by Andy Clark and David Chalmers . I suggest that if we want to hold on to both a conception of online intellectual virtues and some conception of the extended mind, we have to accept a more gradual theory of cognitive integration along the lines of second-wave theories of the extended mind .",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Social Epistemology",
+        "type": "journal",
+        "issn": [
+          "0269-1728",
+          "1464-5297"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Misinformation and Its Impacts",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W3087804187"
+    },
+    {
+      "openalex_id": "W2944285188",
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "name": "Joseph Firth",
+          "openalex_id": "A5023196820",
+          "orcid": "https://orcid.org/0000-0002-0618-2752",
+          "institutions": [
+            "Western Sydney University",
+            "University of Manchester",
+            "University of Melbourne",
+            "University of Oxford",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "John Torous",
+          "openalex_id": "A5026523515",
+          "orcid": "https://orcid.org/0000-0002-5362-7937",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Brendon Stubbs",
+          "openalex_id": "A5005008571",
+          "orcid": "https://orcid.org/0000-0001-7387-3791",
+          "institutions": [
+            "King's College London",
+            "South London and Maudsley NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Josh A. Firth",
+          "openalex_id": "A5003551603",
+          "orcid": "https://orcid.org/0000-0001-7183-4115",
+          "institutions": [
+            "University of Oxford",
+            "University of Melbourne",
+            "Western Sydney University",
+            "University of Manchester",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "Genevieve Z. Steiner",
+          "openalex_id": "A5037720902",
+          "orcid": "https://orcid.org/0000-0002-8708-6104",
+          "institutions": [
+            "Westmead Institute",
+            "Translational Research Institute",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Lee Smith",
+          "openalex_id": "A5059447980",
+          "orcid": "https://orcid.org/0000-0002-5340-9833",
+          "institutions": [
+            "Anglia Ruskin University"
+          ]
+        },
+        {
+          "name": "Mario \u00c1lvarez\u2010Jim\u00e9nez",
+          "openalex_id": "A5077079077",
+          "orcid": "https://orcid.org/0000-0002-3535-9086",
+          "institutions": [
+            "University of Melbourne",
+            "Orygen Youth Health"
+          ]
+        },
+        {
+          "name": "John Gleeson",
+          "openalex_id": "A5047926815",
+          "orcid": "https://orcid.org/0000-0001-7969-492X",
+          "institutions": [
+            "Australian Catholic University",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Davy Vancampfort",
+          "openalex_id": "A5030050325",
+          "orcid": "https://orcid.org/0000-0002-4592-8625",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Christopher J. Armitage",
+          "openalex_id": "A5020278901",
+          "orcid": "https://orcid.org/0000-0003-2365-1765",
+          "institutions": [
+            "Manchester Academic Health Science Centre",
+            "NIHR Manchester Biomedical Research Centre",
+            "NIHR Greater Manchester Patient Safety Translational Research Centre",
+            "University of Manchester",
+            "Manchester University NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jerome Sarris",
+          "openalex_id": "A5013936218",
+          "orcid": "https://orcid.org/0000-0001-9287-8854",
+          "institutions": [
+            "Westmead Institute",
+            "Western Sydney University",
+            "University of Melbourne",
+            "Melbourne Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-06",
+      "abstract": "The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real\u2010world social processes creates a new interplay between the Internet and our social lives, including our self\u2010concepts and self\u2010esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20617"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W2944285188"
+    },
+    {
+      "openalex_id": "W4206177934",
+      "doi": "10.1007/s00146-021-01326-6",
+      "title": "Varieties of transparency: exploring agency within AI systems",
+      "authors": [
+        {
+          "name": "Gloria Andrada",
+          "openalex_id": "A5043346135",
+          "orcid": "https://orcid.org/0000-0003-2320-9176",
+          "institutions": [
+            "Universidade Nova de Lisboa"
+          ]
+        },
+        {
+          "name": "Robert W. Clowes",
+          "openalex_id": "A5050310382",
+          "orcid": "https://orcid.org/0000-0003-2006-3917",
+          "institutions": [
+            "Universidade Nova de Lisboa"
+          ]
+        },
+        {
+          "name": "Paul R. Smart",
+          "openalex_id": "A5021620793",
+          "orcid": "https://orcid.org/0000-0001-9989-5307",
+          "institutions": [
+            "University of Southampton"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-10",
+      "abstract": null,
+      "cited_by_count": 74,
+      "type": "article",
+      "source": {
+        "name": "AI & Society",
+        "type": "journal",
+        "issn": [
+          "0951-5666",
+          "1435-5655"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s00146-021-01326-6.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Ethics and Social Impacts of AI",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W4206177934"
+    },
+    {
+      "openalex_id": "W2048487711",
+      "doi": "10.1007/s13164-013-0131-x",
+      "title": "Distributed Cognition and Memory Research: History and Current Directions",
+      "authors": [
+        {
+          "name": "Kourken Michaelian",
+          "openalex_id": "A5005971328",
+          "orcid": "https://orcid.org/0000-0002-5205-3046",
+          "institutions": [
+            "Bilkent University"
+          ]
+        },
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-19",
+      "abstract": null,
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-013-0131-x.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Memory and Neural Mechanisms",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2048487711"
+    },
+    {
+      "openalex_id": "W2056136220",
+      "doi": "10.3389/fnhum.2013.00914",
+      "title": "Neural substrates of cognitive control under the belief of getting neurofeedback training",
+      "authors": [
+        {
+          "name": "Manuel Ninaus",
+          "openalex_id": "A5088697332",
+          "orcid": "https://orcid.org/0000-0002-4664-8430",
+          "institutions": [
+            "University of Graz"
+          ]
+        },
+        {
+          "name": "Silvia Erika Kober",
+          "openalex_id": "A5003169744",
+          "orcid": "https://orcid.org/0000-0003-1836-2627",
+          "institutions": [
+            "University of Graz"
+          ]
+        },
+        {
+          "name": "Matthias Witte",
+          "openalex_id": "A5103091530",
+          "orcid": "https://orcid.org/0000-0002-9538-8380",
+          "institutions": [
+            "University of Graz"
+          ]
+        },
+        {
+          "name": "Karl Koschutnig",
+          "openalex_id": "A5080141265",
+          "orcid": "https://orcid.org/0000-0001-6234-0498",
+          "institutions": [
+            "University of Graz"
+          ]
+        },
+        {
+          "name": "Matthias Stangl",
+          "openalex_id": "A5091094167",
+          "orcid": "https://orcid.org/0000-0002-3331-0510",
+          "institutions": [
+            "German Center for Neurodegenerative Diseases"
+          ]
+        },
+        {
+          "name": "Christa Neuper",
+          "openalex_id": "A5073502247",
+          "orcid": "https://orcid.org/0000-0002-5037-302X",
+          "institutions": [
+            "Graz University of Technology",
+            "University of Graz"
+          ]
+        },
+        {
+          "name": "Guilherme Wood",
+          "openalex_id": "A5022122470",
+          "orcid": "https://orcid.org/0000-0001-5055-5336",
+          "institutions": [
+            "University of Graz"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "Learning to modulate one's own brain activity is the fundament of neurofeedback (NF) applications. Besides the neural networks directly involved in the generation and modulation of the neurophysiological parameter being specifically trained, more general determinants of NF efficacy such as self-referential processes and cognitive control have been frequently disregarded. Nonetheless, deeper insight into these cognitive mechanisms and their neuronal underpinnings sheds light on various open NF related questions concerning individual differences, brain-computer interface (BCI) illiteracy as well as a more general model of NF learning. In this context, we investigated the neuronal substrate of these more general regulatory mechanisms that are engaged when participants believe that they are receiving NF. Twenty healthy participants (40-63 years, 10 female) performed a sham NF paradigm during fMRI scanning. All participants were novices to NF-experiments and were instructed to voluntarily modulate their own brain activity based on a visual display of moving color bars. However, the bar depicted a recording and not the actual brain activity of participants. Reports collected at the end of the experiment indicate that participants were unaware of the sham feedback. In comparison to a passive watching condition, bilateral insula, anterior cingulate cortex and supplementary motor and dorsomedial and lateral prefrontal areas were activated when participants actively tried to control the bar. In contrast, when merely watching moving bars, increased activation in the left angular gyrus was observed. These results show that the intention to control a moving bar is sufficient to engage a broad frontoparietal and cingulo-opercular network involved in cognitive control. The results of the present study indicate that tasks such as those generally employed in NF training recruit the neuronal correlates of cognitive control even when only sham NF is presented.",
+      "cited_by_count": 116,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2013.00914/pdf"
+      },
+      "topics": [
+        "Neural and Behavioral Psychology Studies",
+        "EEG and Brain-Computer Interfaces",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2056136220"
+    },
+    {
+      "openalex_id": "W2801117110",
+      "doi": "10.3389/fpsyg.2018.00558",
+      "title": "The Internet Is Not a Tool: Reappraising the Model for Internet-Addiction Disorder Based on the Constraints and Opportunities of the Digital Environment",
+      "authors": [
+        {
+          "name": "Alessandro Musetti",
+          "openalex_id": "A5066307202",
+          "orcid": "https://orcid.org/0000-0003-4125-0068",
+          "institutions": [
+            "University of Parma"
+          ]
+        },
+        {
+          "name": "Paola Corsano",
+          "openalex_id": "A5045182034",
+          "orcid": "https://orcid.org/0000-0001-5131-3929",
+          "institutions": [
+            "University of Parma"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-18",
+      "abstract": "OPINION article Front. Psychol., 18 April 2018 | https://doi.org/10.3389/fpsyg.2018.00558",
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00558/pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Mental Health Research Topics",
+        "Digital Mental Health Interventions"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2801117110"
+    },
+    {
+      "openalex_id": "W2796601284",
+      "doi": "10.1007/s13347-018-0309-3",
+      "title": "Technological Environmentality: Conceptualizing Technology as a Mediating Milieu",
+      "authors": [
+        {
+          "name": "Ciano Aydin",
+          "openalex_id": "A5028695853",
+          "orcid": "https://orcid.org/0000-0002-4654-2628",
+          "institutions": [
+            "University of Twente",
+            "Delft University of Technology"
+          ]
+        },
+        {
+          "name": "Margoth Gonz\u00e1lez Woge",
+          "openalex_id": "A5028217959",
+          "institutions": [
+            "University of Twente"
+          ]
+        },
+        {
+          "name": "Peter\u2010Paul Verbeek",
+          "openalex_id": "A5070880474",
+          "orcid": "https://orcid.org/0000-0001-9861-4091",
+          "institutions": [
+            "Aalborg University",
+            "University of Twente"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-10",
+      "abstract": "&lt;p&gt;After several technological revolutions in which technologies became ever more present in our daily lives, the digital technologies that are currently being developed are actually fading away from sight. Information and Communication Technologies (ICTs) are not only embedded in devices that we explicitly \u201cuse\u201d but increasingly become an intrinsic part of the material environment in which we live. How to conceptualize the role of these new technological environments in human existence? And how to anticipate the ways in which these technologies will mediate our everyday lives? In order to answer these questions, we draw on two approaches that each offers a framework to conceptualize these new technological environments: Postphenomenology and Material Engagement Theory. As we will show, each on their own, these approaches fail to do justice to the new environmental role of technology and its implications for human existence. But by bringing together Postphenomenology\u2019s account of technological mediation and Material Engagement Theory\u2019s account of engaging with environments, it becomes possible to sufficiently account for the new environmental workings of technology. To do justice to these new workings of environmental technologies, we introduce and develop the concept of \u201cTechnological Environmentality.\u201d.&lt;/p&gt;",
+      "cited_by_count": 66,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13347-018-0309-3.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Innovative Human-Technology Interaction",
+        "Cybernetics and Technology in Society"
+      ],
+      "referenced_works_count": 66,
+      "url": "https://openalex.org/W2796601284"
+    },
+    {
+      "openalex_id": "W2754960012",
+      "doi": "10.1007/s11229-017-1549-y",
+      "title": "Intellectual autonomy, epistemic dependence and cognitive enhancement",
+      "authors": [
+        {
+          "name": "J. Adam Carter",
+          "openalex_id": "A5026726066",
+          "orcid": "https://orcid.org/0000-0002-1222-8331",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-15",
+      "abstract": "Intellectual autonomy has long been identified as an epistemic virtue, one that has been championed influentially by (among others) Kant, Hume and Emerson. Manifesting intellectual autonomy, at least, in a virtuous way, does not require that we form our beliefs in cognitive isolation. Rather, as Roberts and Wood (Intellectual virtues: an essay in regulative epistemology, OUP Oxford, Oxford, pp. 259\u2013260, 2007) note, intellectually virtuous autonomy involves reliance and outsourcing (e.g., on other individuals, technology, medicine, etc.) to an appropriate extent, while at the same time maintaining intellectual self-direction. In this essay, I want to investigate the ramifications for intellectual autonomy of a particular kind of epistemic dependence: cognitive enhancement. Cognitive enhancements (as opposed to therapeutic cognitive improvements) involve the use of technology and medicine to improve cognitive capacities in healthy individuals, through mechanisms ranging from smart drugs to brain-computer interfaces. With reference to case studies in bioethics, as well as the philosophy of mind and cognitive science, it is shown that epistemic dependence, in this extreme form, poses a prima facie threat to the retention of intellectual autonomy, specifically, by threatening to undermine our intellectual self-direction. My aim will be to show why certain kinds of cognitive enhancements are subject to this objection from self-direction, while others are not. Once this is established, we\u2019ll see that even some extreme kinds of cognitive enhancement might be not merely compatible with, but constitutive of, virtuous intellectual autonomy.",
+      "cited_by_count": 66,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11229-017-1549-y.pdf"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Epistemology, Ethics, and Metaphysics",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W2754960012"
+    },
+    {
+      "openalex_id": "W2767664771",
+      "doi": "10.1007/s11948-017-0001-5",
+      "title": "Embodiment and Estrangement: Results from a First-in-Human \u201cIntelligent BCI\u201d Trial",
+      "authors": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Gilbert",
+          "openalex_id": "A5006542276",
+          "orcid": "https://orcid.org/0000-0003-0524-8649",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Mark Cook",
+          "openalex_id": "A5052643152",
+          "orcid": "https://orcid.org/0000-0002-8875-4135",
+          "institutions": [
+            "St Vincent's Hospital",
+            "University of Melbourne",
+            "The Royal Melbourne Hospital"
+          ]
+        },
+        {
+          "name": "Terence J. O\u2019Brien",
+          "openalex_id": "A5015013868",
+          "orcid": "https://orcid.org/0000-0002-7198-8621",
+          "institutions": [
+            "The Royal Melbourne Hospital",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Judy Illes",
+          "openalex_id": "A5023145420",
+          "orcid": "https://orcid.org/0000-0002-4791-8084"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-11-11",
+      "abstract": "While new generations of implantable brain computer interface (BCI) devices are being developed, evidence in the literature about their impact on the patient experience is lagging. In this article, we address this knowledge gap by analysing data from the first-in-human clinical trial to study patients with implanted BCI advisory devices. We explored perceptions of self-change across six patients who volunteered to be implanted with artificially intelligent BCI devices. We used qualitative methodological tools grounded in phenomenology to conduct in-depth, semi-structured interviews. Results show that, on the one hand, BCIs can positively increase a sense of the self and control; on the other hand, they can induce radical distress, feelings of loss of control, and a rupture of patient identity. We conclude by offering suggestions for the proactive creation of preparedness protocols specific to intelligent-predictive and advisory-BCI technologies essential to prevent potential iatrogenic harms.",
+      "cited_by_count": 117,
+      "type": "article",
+      "source": {
+        "name": "Science and Engineering Ethics",
+        "type": "journal",
+        "issn": [
+          "1353-3452",
+          "1471-5546"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11948-017-0001-5.pdf"
+      },
+      "topics": [
+        "EEG and Brain-Computer Interfaces",
+        "Neuroscience and Neural Engineering",
+        "Neurological disorders and treatments"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W2767664771"
+    },
+    {
+      "openalex_id": "W2606154715",
+      "doi": "10.1177/1750698017703810",
+      "title": "The philosophy of memory technologies: Metaphysics, knowledge, and values",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "openalex_id": "A5067275194",
+          "orcid": "https://orcid.org/0000-0002-0102-0308",
+          "institutions": [
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "J. Adam Carter",
+          "openalex_id": "A5026726066",
+          "orcid": "https://orcid.org/0000-0002-1222-8331",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-13",
+      "abstract": "Memory technologies are cultural artifacts that scaffold, transform, and are interwoven with human biological memory systems. The goal of this article is to provide a systematic and integrative survey of their philosophical dimensions, including their metaphysical, epistemological, and ethical dimensions, drawing together debates across the humanities, cognitive sciences, and social sciences. Metaphysical dimensions of memory technologies include their function, the nature of their informational properties, ways of classifying them, and their ontological status. Epistemological dimensions include the truth-conduciveness of external memory, the conditions under which external memory counts as knowledge, and the metacognitive monitoring of external memory processes. Finally, ethical and normative dimensions include the desirability of the effects memory technologies have on biological memory, their effects on self and culture, and their moral status. While the focus in the article is largely philosophical and conceptual, empirical issues such as the way we interact with memory technologies in various contexts are also discussed. We thus take a naturalistic approach in which philosophical and empirical concepts and approaches are seen as continuous.",
+      "cited_by_count": 40,
+      "type": "article",
+      "source": {
+        "name": "Memory Studies",
+        "type": "journal",
+        "issn": [
+          "1750-6980",
+          "1750-6999"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": null
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W2606154715"
+    },
+    {
+      "openalex_id": "W4211089714",
+      "doi": "10.1007/s12152-022-09479-x",
+      "title": "Preserving Narrative Identity for Dementia Patients: Embodiment, Active Environments, and Distributed Memory",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "openalex_id": "A5067275194",
+          "orcid": "https://orcid.org/0000-0002-0102-0308",
+          "institutions": [
+            "Monash University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-09",
+      "abstract": "Abstract One goal of this paper is to argue that autobiographical memories are extended and distributed across embodied brains and environmental resources. This is important because such distributed memories play a constitutive role in our narrative identity. So, some of the building blocks of our narrative identity are not brain-bound but extended and distributed. Recognising the distributed nature of memory and narrative identity, invites us to find treatments and strategies focusing on the environment in which dementia patients are situated. A second goal of this paper is to suggest various of such strategies, including lifelogging technologies such as SenseCams, life story books, multimedia biographies, memory boxes, ambient intelligence systems, and virtual reality applications. Such technologies allow dementia patients to remember their personal past in a way that wouldn\u2019t be possible by merely relying on their biological memory, in that way aiding in preserving their narrative identity and positively contributing to their sense of well-being.",
+      "cited_by_count": 46,
+      "type": "article",
+      "source": {
+        "name": "Neuroethics",
+        "type": "journal",
+        "issn": [
+          "1874-5490",
+          "1874-5504"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12152-022-09479-x.pdf"
+      },
+      "topics": [
+        "Identity, Memory, and Therapy",
+        "Memory and Neural Mechanisms",
+        "Innovative Human-Technology Interaction"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W4211089714"
+    },
+    {
+      "openalex_id": "W3159024029",
+      "doi": "10.1007/s12152-021-09468-6",
+      "title": "Recommendations for Responsible Development and Application of Neurotechnologies",
+      "authors": [
+        {
+          "name": "Sara Goering",
+          "openalex_id": "A5044073089",
+          "orcid": "https://orcid.org/0000-0002-1882-3764",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Eran Klein",
+          "openalex_id": "A5068304483",
+          "orcid": "https://orcid.org/0000-0002-0132-5777",
+          "institutions": [
+            "Oregon Health & Science University",
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Laura Specker Sullivan",
+          "openalex_id": "A5001651204",
+          "orcid": "https://orcid.org/0000-0002-2596-9059",
+          "institutions": [
+            "Fordham University"
+          ]
+        },
+        {
+          "name": "Anna Wexler",
+          "openalex_id": "A5114375005",
+          "orcid": "https://orcid.org/0000-0002-6723-9038",
+          "institutions": [
+            "University of Pennsylvania"
+          ]
+        },
+        {
+          "name": "Blaise Ag\u00fcera y Arcas",
+          "openalex_id": "A5044698998",
+          "orcid": "https://orcid.org/0000-0003-2256-9823",
+          "institutions": [
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "Guo\u2010Qiang Bi",
+          "openalex_id": "A5037044309",
+          "orcid": "https://orcid.org/0000-0001-8735-3818",
+          "institutions": [
+            "Shenzhen Institutes of Advanced Technology",
+            "University of Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Jose M. Carmena",
+          "openalex_id": "A5024864142",
+          "orcid": "https://orcid.org/0000-0002-0214-2489",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Joseph J. Fins",
+          "openalex_id": "A5064445958",
+          "orcid": "https://orcid.org/0000-0002-7221-0053",
+          "institutions": [
+            "Cornell University",
+            "Weill Cornell Medicine"
+          ]
+        },
+        {
+          "name": "Phoebe Friesen",
+          "openalex_id": "A5041544842",
+          "orcid": "https://orcid.org/0000-0002-1529-916X",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Jack L. Gallant",
+          "openalex_id": "A5056348548",
+          "orcid": "https://orcid.org/0000-0001-7273-1054",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Jane E. Huggins",
+          "openalex_id": "A5003556834",
+          "orcid": "https://orcid.org/0000-0001-8709-4350",
+          "institutions": [
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        },
+        {
+          "name": "Philipp Kellmeyer",
+          "openalex_id": "A5017891550",
+          "orcid": "https://orcid.org/0000-0001-5538-373X",
+          "institutions": [
+            "University Medical Center Freiburg"
+          ]
+        },
+        {
+          "name": "Adam Marblestone",
+          "openalex_id": "A5033557144",
+          "orcid": "https://orcid.org/0000-0001-9833-9931",
+          "institutions": [
+            "Federation of American Scientists"
+          ]
+        },
+        {
+          "name": "Christine Mitchell",
+          "openalex_id": "A5002301300",
+          "orcid": "https://orcid.org/0000-0002-8211-281X",
+          "institutions": [
+            "Harvard University Press"
+          ]
+        },
+        {
+          "name": "Erik Parens",
+          "openalex_id": "A5053800342",
+          "orcid": "https://orcid.org/0000-0002-4154-8393",
+          "institutions": [
+            "Hastings Center"
+          ]
+        },
+        {
+          "name": "Michelle Pham",
+          "openalex_id": "A5013160037",
+          "orcid": "https://orcid.org/0000-0003-1772-9159",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Alan Rubel",
+          "openalex_id": "A5084953855",
+          "orcid": "https://orcid.org/0000-0002-7028-7305",
+          "institutions": [
+            "University of Wisconsin\u2013Madison"
+          ]
+        },
+        {
+          "name": "Norihiro Sadato",
+          "openalex_id": "A5057146413",
+          "orcid": "https://orcid.org/0000-0002-9786-3907",
+          "institutions": [
+            "National Institute for Physiological Sciences"
+          ]
+        },
+        {
+          "name": "Mina Teicher",
+          "openalex_id": "A5091766722",
+          "orcid": "https://orcid.org/0000-0003-1700-9709",
+          "institutions": [
+            "Bar-Ilan University"
+          ]
+        },
+        {
+          "name": "David Wasserman",
+          "openalex_id": "A5038244338",
+          "orcid": "https://orcid.org/0000-0002-0871-4599",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        },
+        {
+          "name": "Meredith Whittaker",
+          "openalex_id": "A5048081620",
+          "institutions": [
+            "New York University",
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "Jonathan R. Wolpaw",
+          "openalex_id": "A5049156533",
+          "orcid": "https://orcid.org/0000-0003-0805-1315",
+          "institutions": [
+            "Adaptive Biotechnologies (United States)",
+            "Neurotech (United States)"
+          ]
+        },
+        {
+          "name": "Rafael Yuste",
+          "openalex_id": "A5083888813",
+          "orcid": "https://orcid.org/0000-0003-4206-497X",
+          "institutions": [
+            "Columbia University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-29",
+      "abstract": null,
+      "cited_by_count": 196,
+      "type": "article",
+      "source": {
+        "name": "Neuroethics",
+        "type": "journal",
+        "issn": [
+          "1874-5490",
+          "1874-5504"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12152-021-09468-6.pdf"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Neurological disorders and treatments",
+        "Autism Spectrum Disorder Research"
+      ],
+      "referenced_works_count": 144,
+      "url": "https://openalex.org/W3159024029"
+    },
+    {
+      "openalex_id": "W3014103690",
+      "doi": "10.1007/s11948-020-00210-8",
+      "title": "The Internet as Cognitive Enhancement",
+      "authors": [
+        {
+          "name": "Cristina Voinea",
+          "openalex_id": "A5070090875",
+          "orcid": "https://orcid.org/0000-0003-4654-0697",
+          "institutions": [
+            "Bucharest University of Economic Studies"
+          ]
+        },
+        {
+          "name": "Constantin Vic\u0103",
+          "openalex_id": "A5004397797",
+          "orcid": "https://orcid.org/0000-0001-8975-8827",
+          "institutions": [
+            "University of Bucharest"
+          ]
+        },
+        {
+          "name": "Emilian Mihailov",
+          "openalex_id": "A5021140471",
+          "orcid": "https://orcid.org/0000-0002-0221-7209",
+          "institutions": [
+            "University of Bucharest"
+          ]
+        },
+        {
+          "name": "Julian Savulescu",
+          "openalex_id": "A5018300444",
+          "orcid": "https://orcid.org/0000-0003-1691-6403",
+          "institutions": [
+            "Wellcome Centre for Ethics and Humanities",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-06",
+      "abstract": null,
+      "cited_by_count": 58,
+      "type": "review",
+      "source": {
+        "name": "Science and Engineering Ethics",
+        "type": "journal",
+        "issn": [
+          "1353-3452",
+          "1471-5546"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11948-020-00210-8.pdf"
+      },
+      "topics": [
+        "Innovative Human-Technology Interaction",
+        "Misinformation and Its Impacts",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W3014103690"
+    },
+    {
+      "openalex_id": "W2962564927",
+      "doi": "10.1145/3306618.3314238",
+      "title": "AI Extenders",
+      "authors": [
+        {
+          "name": "Jos\u00e9 Hern\u00e1ndez\u2010Orallo",
+          "openalex_id": "A5029864546",
+          "orcid": "https://orcid.org/0000-0001-9746-7632",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+          ]
+        },
+        {
+          "name": "Karina Vold",
+          "openalex_id": "A5005878131",
+          "orcid": "https://orcid.org/0000-0002-0768-7517",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-27",
+      "abstract": "Humans and AI systems are usually portrayed as separate systems that we need to align in values and goals. However, there is a great deal of AI technology found in non-autonomous systems that are used as cognitive tools by humans. Under the extended mind thesis, the functional contributions of these tools become as essential to our cognition as our brains. But AI can take cognitive extension towards totally new capabilities, posing new philosophical, ethical and technical challenges. To analyse these challenges better, we define and place AI extenders in a continuum between fully-externalized systems, loosely coupled with humans, and fully internalized processes, with operations ultimately performed by the brain, making the tool redundant. We dissect the landscape of cognitive capabilities that can foreseeably be extended by AI and examine their ethical implications.We suggest that cognitive extenders using AI be treated as distinct from other cognitive enhancers by all relevant stakeholders, including developers, policy makers, and human users.",
+      "cited_by_count": 82,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3306618.3314238"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2962564927"
+    },
+    {
+      "openalex_id": "W3194202132",
+      "doi": "10.1007/s13164-021-00581-2",
+      "title": "Constructing the Past: the Relevance of the Narrative Self in Modulating Episodic Memory",
+      "authors": [
+        {
+          "name": "Roy Dings",
+          "openalex_id": "A5089069935",
+          "orcid": "https://orcid.org/0000-0001-8285-9940",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        },
+        {
+          "name": "Albert Newen",
+          "openalex_id": "A5017789510",
+          "orcid": "https://orcid.org/0000-0001-5906-6061",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-13",
+      "abstract": "Abstract Episodic memories can no longer be seen as the re-activation of stored experiences but are the product of an intense construction process based on a memory trace. Episodic recall is a result of a process of scenario construction. If one accepts this generative framework of episodic memory, there is still a be big gap in understanding the role of the narrative self in shaping scenario construction. Some philosophers are in principle sceptic by claiming that a narrative self cannot be more than a causally inefficacious attributed entity anyway. Thus, we first characterize a narrative self in detail and second we clarify its influential causal role in shaping our episodic memories by influencing the process of scenario construction. This happens at three stages, namely at the level of the input, the output and the process of scenario construction.",
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-021-00581-2.pdf"
+      },
+      "topics": [
+        "Identity, Memory, and Therapy",
+        "Epistemology, Ethics, and Metaphysics",
+        "Counseling, Therapy, and Family Dynamics"
+      ],
+      "referenced_works_count": 100,
+      "url": "https://openalex.org/W3194202132"
+    },
+    {
+      "openalex_id": "W4391278536",
+      "doi": "10.1007/s13347-024-00701-7",
+      "title": "ChatGPT and the Technology-Education Tension: Applying Contextual Virtue Epistemology to a Cognitive Artifact",
+      "authors": [
+        {
+          "name": "Guido Cassinadri",
+          "openalex_id": "A5016557937",
+          "orcid": "https://orcid.org/0000-0002-1084-4421",
+          "institutions": [
+            "Scuola Superiore Sant'Anna"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-27",
+      "abstract": "Abstract According to virtue epistemology, the main aim of education is the development of the cognitive character of students (Pritchard, 2014, 2016). Given the proliferation of technological tools such as ChatGPT and other LLMs for solving cognitive tasks, how should educational practices incorporate the use of such tools without undermining the cognitive character of students? Pritchard (2014, 2016) argues that it is possible to properly solve this \u2018technology-education tension\u2019 (TET) by combining the virtue epistemology framework with the theory of extended cognition (EXT) (Clark and Chalmers, 1998). He argues that EXT enables us to consider tools as constitutive parts of the students\u2019 cognitive system, thus preserving their cognitive character from technologically induced cognitive diminishment. The first aim of this paper is to show that this solution is not sufficient to solve the TET. Second, I aim to offer a complementary and more encompassing framework of tool-use to address the TET. Then, I apply it to the educational uses of ChatGPT as the most notable example of LLM, although my arguments can be extended to other generative AI systems. To do so, in Sect. 1.1, I present Pritchard\u2019s framework of cognitive character and virtue epistemology applied in education, to which I am committed in this treatment. In Sects. 2 and 3, I respectively illustrate Pritchard\u2019s (2014) solution to the TET, and I highlight the general limitations of his proposal. Thus, in Sect. 4.1 I characterize ChatGPT as a computational cognitive artifact using Fasoli\u2019s (Fasoli, 2017, 2018) taxonomy of cognitive artifacts. In Sect. 4.2, I introduce my proposal, which combines Pritchard\u2019s account of virtue epistemology with Fasoli\u2019s (2017, 2018) taxonomy of cognitive artifacts to address the TET. Finally, in Sect. 5.1, I present some epistemically virtuous uses of ChatGPT in educational contexts. To conclude, I argue in favor of a multidisciplinary approach for analyzing educational activities involving AI technologies such as ChatGPT.",
+      "cited_by_count": 28,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13347-024-00701-7.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Embodied and Extended Cognition",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 105,
+      "url": "https://openalex.org/W4391278536"
+    },
+    {
+      "openalex_id": "W2578486360",
+      "doi": "10.1007/s13347-016-0250-2",
+      "title": "Extended Cognition and the Internet",
+      "authors": [
+        {
+          "name": "Paul R. Smart",
+          "openalex_id": "A5021620793",
+          "orcid": "https://orcid.org/0000-0001-9989-5307",
+          "institutions": [
+            "University of Southampton"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-14",
+      "abstract": "The Internet is an important focus of attention for those concerned with issues of extended cognition. In particular, the application of active externalist theorizing to the Internet gives rise to the notion of Internet-extended cognition: the idea that the Internet can (on occasion) form part of an integrated nexus of material elements that serves as the realization base for human mental states and processes. The current review attempts to survey a range of issues and controversies that arise in respect of the notion of Internet-extended cognition. These include the issue of whether the Internet, as a technological system, is able to support real-world cases of cognitive extension. It also includes issues concerning the cognitive and epistemic impacts of the Internet. Finally, the review highlights a range of issues and concerns that have not been the focus of previous philosophical attention. These include issues of 'network-extended cognitive bloat', 'conjoined minds', and an entirely new form of cognitive extension that goes under the heading of 'human-extended machine cognition'. Together, these issues serve to highlight the value and importance of Internet-extended cognition to contemporary philosophical debates about the extended mind. In particular, the notion of Internet-extended cognition has the potential to highlight points of philosophical progress that are not easily revealed by the kind of technologically low-grade cases that tend to animate the majority of philosophical discussions in this area.",
+      "cited_by_count": 44,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs13347-016-0250-2.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Space Science and Extraterrestrial Life"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W2578486360"
+    },
+    {
+      "openalex_id": "W2885455701",
+      "doi": "10.3389/fpsyg.2018.01432",
+      "title": "Exploring Human-Tech Hybridity at the Intersection of Extended Cognition and Distributed Agency: A Focus on Self-Tracking Devices",
+      "authors": [
+        {
+          "name": "Rikke Duus",
+          "openalex_id": "A5051736851",
+          "orcid": "https://orcid.org/0000-0002-0086-6723",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Mike Cooray",
+          "openalex_id": "A5082858507",
+          "orcid": "https://orcid.org/0000-0001-6465-3287",
+          "institutions": [
+            "Hult International Business School"
+          ]
+        },
+        {
+          "name": "Nadine Page",
+          "openalex_id": "A5045925731",
+          "orcid": "https://orcid.org/0000-0002-5402-9381",
+          "institutions": [
+            "Hult International Business School"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-08-13",
+      "abstract": "In an increasingly technology-textured environment, smart, intelligent and responsive technology has moved onto the body of many individuals. Mobile phones, smart watches, and wearable activity trackers (WATs) are just some of the technologies that are guiding, nudging, monitoring, and reminding individuals in their day-to-day lives. These devices are designed to enhance and support their human users, however, there is a lack of attention to the unintended consequences, the technology non-neutrality and the darker sides of becoming human-tech hybrids. Using the extended mind theory (EMT) and agential intra-action, we aimed at exploring how human-tech hybrids gain collective skills and how these are put to use; how agency is expressed and how this affects the interactions; and what the darker sides are of being a human-tech hybrid. Using a qualitative method, we analyzed the experiences of using a WAT, with a specific focus on how the tracker and the individual solve tasks, share competences, develop new skills, and negotiate for agency and autonomy. We contributed with new insight on human-tech hybridity and presented a concept referred to as the agency pendulum, reflecting the dynamism of agency. Finally, we demonstrated how the EMT and agential intra-action as a combined theoretical lens can be used to explore human-tech hybridity.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01432/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Information Systems Theories and Implementation",
+        "Innovative Human-Technology Interaction"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W2885455701"
+    },
+    {
+      "openalex_id": "W3083004346",
+      "doi": "10.1016/j.eist.2020.08.002",
+      "title": "Can living labs offer a pathway to support local agri-food sustainability transitions?",
+      "authors": [
+        {
+          "name": "Guillaume Gamache",
+          "openalex_id": "A5051193543",
+          "institutions": [
+            "Territoires",
+            "ASTER"
+          ]
+        },
+        {
+          "name": "Juliette Anglade",
+          "openalex_id": "A5011492851",
+          "orcid": "https://orcid.org/0000-0001-6784-242X",
+          "institutions": [
+            "ASTER",
+            "Territoires"
+          ]
+        },
+        {
+          "name": "Romain F\u00e8che",
+          "openalex_id": "A5058429631",
+          "institutions": [
+            "Territoires",
+            "ASTER"
+          ]
+        },
+        {
+          "name": "Fabienne Barataud",
+          "openalex_id": "A5046607052",
+          "orcid": "https://orcid.org/0000-0001-6628-3320",
+          "institutions": [
+            "Territoires",
+            "ASTER"
+          ]
+        },
+        {
+          "name": "Catherine Mignolet",
+          "openalex_id": "A5058043430",
+          "orcid": "https://orcid.org/0000-0003-2187-5888",
+          "institutions": [
+            "ASTER",
+            "Territoires"
+          ]
+        },
+        {
+          "name": "Xavier Coquil",
+          "openalex_id": "A5042655918",
+          "orcid": "https://orcid.org/0000-0003-3939-7845",
+          "institutions": [
+            "Territoires",
+            "ASTER"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-03",
+      "abstract": null,
+      "cited_by_count": 73,
+      "type": "article",
+      "source": {
+        "name": "Environmental Innovation and Societal Transitions",
+        "type": "journal",
+        "issn": [
+          "2210-4224",
+          "2210-4232"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/am/pii/S2210422420301076"
+      },
+      "topics": [
+        "Innovative Approaches in Technology and Social Development",
+        "Smart Cities and Technologies",
+        "Technology Use by Older Adults"
+      ],
+      "referenced_works_count": 66,
+      "url": "https://openalex.org/W3083004346"
+    },
+    {
+      "openalex_id": "W4400386326",
+      "doi": "10.1007/s11023-024-09681-1",
+      "title": "Experts or Authorities? The Strange Case of the Presumed Epistemic Superiority of Artificial Intelligence Systems",
+      "authors": [
+        {
+          "name": "Andrea Ferrario",
+          "openalex_id": "A5057722785",
+          "orcid": "https://orcid.org/0000-0001-9968-9474",
+          "institutions": [
+            "ETH Zurich",
+            "University of Zurich"
+          ]
+        },
+        {
+          "name": "Alessandro Facchini",
+          "openalex_id": "A5034206752",
+          "orcid": "https://orcid.org/0000-0001-7507-116X",
+          "institutions": [
+            "Dalle Molle Institute for Artificial Intelligence Research",
+            "University of Applied Sciences and Arts of Southern Switzerland"
+          ]
+        },
+        {
+          "name": "Alberto Termine",
+          "openalex_id": "A5022657116",
+          "orcid": "https://orcid.org/0000-0001-5993-0948",
+          "institutions": [
+            "Dalle Molle Institute for Artificial Intelligence Research",
+            "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "University of Applied Sciences and Arts of Southern Switzerland"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-06",
+      "abstract": "Abstract The high predictive accuracy of contemporary machine learning-based AI systems has led some scholars to argue that, in certain cases, we should grant them epistemic expertise and authority over humans. This approach suggests that humans would have the epistemic obligation of relying on the predictions of a highly accurate AI system. Contrary to this view, in this work we claim that it is not possible to endow AI systems with a genuine account of epistemic expertise. In fact, relying on accounts of expertise and authority from virtue epistemology, we show that epistemic expertise requires a relation with understanding that AI systems do not satisfy and intellectual abilities that these systems do not manifest. Further, following the Distribution Cognition theory and adapting an account by Croce on the virtues of collective epistemic agents to the case of human-AI interactions we show that, if an AI system is successfully appropriated by a human agent, a hybrid epistemic agent emerges, which can become both an epistemic expert and an authority. Consequently, we claim that the aforementioned hybrid agent is the appropriate object of a discourse around trust in AI and the epistemic obligations that stem from its epistemic superiority.",
+      "cited_by_count": 29,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11023-024-09681-1.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Ethics and Social Impacts of AI",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W4400386326"
+    },
+    {
+      "openalex_id": "W4386096078",
+      "doi": "10.1007/s11098-023-02024-3",
+      "title": "The dark side of niche construction",
+      "authors": [
+        {
+          "name": "Sabrina Coninx",
+          "openalex_id": "A5001774406",
+          "orcid": "https://orcid.org/0000-0003-1209-4609",
+          "institutions": [
+            "Vrije Universiteit Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-23",
+      "abstract": null,
+      "cited_by_count": 41,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11098-023-02024-3.pdf"
+      },
+      "topics": [
+        "Mental Health and Psychiatry",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Empathy and Medical Education"
+      ],
+      "referenced_works_count": 101,
+      "url": "https://openalex.org/W4386096078"
+    },
+    {
+      "openalex_id": "W4384560579",
+      "doi": "10.1007/s11097-023-09923-0",
+      "title": "Being one of us: we-identities and self-categorization theory",
+      "authors": [
+        {
+          "name": "Felipe Le\u00f3n",
+          "openalex_id": "A5044338936",
+          "orcid": "https://orcid.org/0000-0002-6150-5489",
+          "institutions": [
+            "Link\u00f6ping University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-17",
+      "abstract": "Abstract One way to theorize about we-identities\u2014the identities that individual subjects have as \u2018one of us\u2019\u2014is in terms of the uniformity, interchangeability, and prototypicality of group members. The social-psychological theory of self-categorization epitomizes this approach, which has strongly influenced contemporary phenomenological research on the we. This paper argues that this approach has one important and largely overlooked limitation: the we-identities tied to close personal relationships\u2014exemplified by long-term friendships and romantic partnerships\u2014are based on patterns of interpersonal interaction and integration through which individuals tend to grasp their non-substitutability and complementarity. This limitation suggests that another approach is needed to tackle the we-identities characteristic of close personal relationships. I outline such an approach, by combining resources from classical phenomenology and ongoing research on the socially extended mind.",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11097-023-09923-0.pdf"
+      },
+      "topics": [
+        "Attachment and Relationship Dynamics",
+        "Social Representations and Identity",
+        "Psychology of Social Influence"
+      ],
+      "referenced_works_count": 90,
+      "url": "https://openalex.org/W4384560579"
+    },
+    {
+      "openalex_id": "W3047087390",
+      "doi": "10.3389/fpsyg.2020.01928",
+      "title": "When Affective Relation Weighs More Than the Mug Handle: Investigating Affective Affordances",
+      "authors": [
+        {
+          "name": "Marta Carav\u00e0",
+          "openalex_id": "A5082811729",
+          "orcid": "https://orcid.org/0000-0002-6688-1571",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Claudia Scorolli",
+          "openalex_id": "A5028233104",
+          "orcid": "https://orcid.org/0000-0003-1375-1500",
+          "institutions": [
+            "University of Bologna"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-21",
+      "abstract": "Enactive and embodied approaches to cognition are becoming increasingly interested in the affective dimension of human experience. Consistently, this issue has been addressed in empirical research, which is paying growing attention to the affective quality of social contexts by addressing motor simulations, joint actions, emotional disorders, and body psychotherapy. Still, while in the relationship between two or more agents the involvement of the affective variable, even when uninvestigated, is intrinsically evoked, in the case of the agent-object relationship the recognition of such engagement requires more specific care. In laboratory-based studies, when dealing with an object and an observer, the practical opportunities that she is able to perceive and use have been mainly operationalized referring to visual manipulable properties of the object, as shape and orientation, associated with its canonical use. Progressively empirical research introduced, and manipulated, also the physical context, and the required responses, distinguishing between functional and volumetric gestures. Are these \u2018affordances\u2019? Strictly speaking no, as these accounts clash with direct perception, but they are undoubtedly elegant approaches suitable for outlining answers (also) to most questions of ecological psychology. In light of the heated debate on affordances between philosophers and cognitive scientists, we propose to draw upon literature in both fields as our aim is twofold. (1) Exploring the great absentee of empirical investigations conducted so far: the affective dimension of perception-action coupling of our relationship with the physical context. To this end a clarification of the philosophical concept of \u2018affective affordance\u2019 would be essential. (2) Specifying some criteria of definition for this construct and suggesting an analysis of AAs in its application to the individual human agent\u2019s practice \u2013 for our proposal to be not only theoretical, but suitable for experimental investigation, promoting a constructive dialogue between philosophy and empirical psychology.",
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01928/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W3047087390"
+    },
+    {
+      "openalex_id": "W4394012278",
+      "doi": "10.1007/s11245-024-10018-x",
+      "title": "Therapeutic Chatbots as Cognitive-Affective Artifacts",
+      "authors": [
+        {
+          "name": "J. P. Grodniewicz",
+          "openalex_id": "A5020377447",
+          "orcid": "https://orcid.org/0000-0001-7788-4236",
+          "institutions": [
+            "Jagiellonian University"
+          ]
+        },
+        {
+          "name": "Mateusz Hohol",
+          "openalex_id": "A5022318910",
+          "orcid": "https://orcid.org/0000-0003-0422-5488",
+          "institutions": [
+            "Jagiellonian University"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-04-06",
+      "abstract": null,
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "Topoi",
+        "type": "journal",
+        "issn": [
+          "0167-7411",
+          "1572-8749"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11245-024-10018-x.pdf"
+      },
+      "topics": [
+        "Digital Mental Health Interventions",
+        "Mental Health Research Topics",
+        "Emotion and Mood Recognition"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W4394012278"
+    },
+    {
+      "openalex_id": "W3163458928",
+      "doi": "10.14201/teri.25432",
+      "title": "Pensar la (teor\u00eda de la) educaci\u00f3n, desde la tecnolog\u00eda de nuestro tiempo",
+      "authors": [
+        {
+          "name": "\u00c1ngel Garc\u00eda del Dujo",
+          "openalex_id": "A5022301534",
+          "orcid": "https://orcid.org/0000-0002-5202-7366",
+          "institutions": [
+            "Universidad de Salamanca"
+          ]
+        },
+        {
+          "name": "Joris Vlieghe",
+          "openalex_id": "A5017678037",
+          "orcid": "https://orcid.org/0000-0001-6307-3221",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "J. Apolinar Mu\u00f1oz Rodr\u00edguez",
+          "openalex_id": "A5082054366",
+          "orcid": "https://orcid.org/0000-0002-4688-6420",
+          "institutions": [
+            "Universidad de Salamanca"
+          ]
+        },
+        {
+          "name": "Judith Mart\u00edn Lucas",
+          "openalex_id": "A5065479392",
+          "orcid": "https://orcid.org/0000-0002-1655-0280",
+          "institutions": [
+            "Universidad de Salamanca"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-02",
+      "abstract": "En (teor\u00eda de la) educaci\u00f3n necesitamos abordar cuanto antes una pregunta: \u00bfC\u00f3mo hacer y pensar la educaci\u00f3n en consonancia con las caracter\u00edsticas, exigencias y oportunidades, de esta \u00e9poca digital? A este respecto, despu\u00e9s de referenciar los derroteros que en este campo viene siguiendo la investigaci\u00f3n pedag\u00f3gica y la pr\u00e1ctica educativa, se plantean en el cuerpo del art\u00edculo tres cuestiones \u2013 modos de ser, de experienciar el mundo y de construir conocimiento en un sujeto cuya relaci\u00f3n con el entorno es mediada por una tecnolog\u00eda cuyo rasgo definitorio viene dado por una pantalla digital \u2013 que est\u00e1n demandando otra forma de ver la educaci\u00f3n, dicho de otra manera, tres cuestiones directamente afectadas por el nuevo escenario creado por estas tecnolog\u00edas y que una (teor\u00eda de la) educaci\u00f3n de nuestro tiempo no puede ignorar, pues ser\u00eda tanto como no (querer) ver la transici\u00f3n que se est\u00e1 produciendo en las formas de pensar y hacer educaci\u00f3n; de alguna manera, sobre ellas descansa y pivota una (teor\u00eda de la) educaci\u00f3n acorde con este nuestro tiempo digital. El art\u00edculo termina con un elenco de preguntas de orden diverso, epistemol\u00f3gico, ontol\u00f3gico y metodol\u00f3gico, pero tambi\u00e9n \u00e9tico y politico, estrechamente entrelazadas, que dejan entrever la conveniencia y necesidad de reorientar la reflexi\u00f3n en este campo, al tiempo que conforman un programa de investigaci\u00f3n; preguntas con potencialidad suficiente para reorientar la investigaci\u00f3n en (teor\u00eda de la) educaci\u00f3n, inluido el propio concepto y sentido de educar y ser educado.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "Teor\u00eda de la Educaci\u00f3n Revista Interuniversitaria",
+        "type": "journal",
+        "issn": [
+          "1130-3743",
+          "2386-5660"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistas.usal.es/index.php/1130-3743/article/download/teri.25432/25650"
+      },
+      "topics": [
+        "Educational Innovations and Technology",
+        "Digital Media and Philosophy",
+        "Digital literacy in education"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W3163458928"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

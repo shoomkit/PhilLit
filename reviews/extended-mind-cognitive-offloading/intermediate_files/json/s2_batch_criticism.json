@@ -1,0 +1,134 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "5 paper IDs",
+  "results": [
+    {
+      "paperId": "2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "title": "The Mark of the Cognitive and the Coupling-Constitution Fallacy: A Defense of the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "authorId": "2053496114"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Clark and Chalmers (1998) introduced the extended mind hypothesis, according to which some mental states can be realized by non-biological external resources. A lively debate has flourished around this hypothesis, connected with the issues of embodiment, embeddedness, situatedness and enaction (cf. Clark, 2008; Menary, 2010; Shapiro, 2011). Two of the main criticisms addressed to the functionalist version of the extended mind thesis have been the so-called \u201ccoupling-constitution fallacy\u201d and the alleged lack of a mark of the cognitive (Adams and Aizawa, 2001, 2005, 2009, 2010a,b). According to Adams and Aizawa, extended cognition is a logical possibility, but is not instantiated in our world. Following this view, they defend a \u201ccontingent intracranialism,\u201d based on a specific mark of the cognitive that they propose. In this paper I intend to show that neither criticism is effective against the extended cognition thesis. In particular: the mark of the cognitive proposed by Adams and Aizawa does not secure contingent intracranialism; the coupling-constitution fallacy criticizes extended cognition on precisely the point the theory was intended to defend: namely, that the best way to individuate cognitive systems, given a minimal mark of the cognitive, is to rely on coupling relations between agents and environmental resources.",
+      "citationCount": 15,
+      "doi": "10.3389/fpsyg.2017.02061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ],
+      "_queryId": "2d5d1f597bb39748be7662280beb96e1a5a2f573"
+    },
+    {
+      "paperId": "040122b68b4dd807a615628ac3e1e8e351c496d8",
+      "title": "Intrinsic content, active memory and the extended mind",
+      "authors": [
+        {
+          "name": "A. Clark",
+          "authorId": "37700983"
+        }
+      ],
+      "year": 2005,
+      "abstract": null,
+      "citationCount": 164,
+      "doi": "10.1093/ANALYS/65.1.1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/040122b68b4dd807a615628ac3e1e8e351c496d8",
+      "venue": "",
+      "journal": {
+        "name": "Analysis",
+        "pages": "1-11",
+        "volume": "65"
+      },
+      "publicationTypes": null,
+      "_queryId": "040122b68b4dd807a615628ac3e1e8e351c496d8"
+    },
+    {
+      "paperId": "74c77b3181b2ef572aa371bdd0e50b90b59be877",
+      "title": "Defending the bounds of cognition",
+      "authors": [
+        {
+          "name": "F. Adams",
+          "authorId": "145928144"
+        },
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 220,
+      "doi": "10.7551/mitpress/9780262014038.003.0004",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/74c77b3181b2ef572aa371bdd0e50b90b59be877",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "74c77b3181b2ef572aa371bdd0e50b90b59be877"
+    },
+    {
+      "paperId": "c0ae130cf632ca2e144dbbf0ce01982e7dd056d9",
+      "title": "Extended Cognition and Functionalism",
+      "authors": [
+        {
+          "name": "Mark D. Sprevak",
+          "authorId": "3075367"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 156,
+      "doi": "10.5840/JPHIL2009106937",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c0ae130cf632ca2e144dbbf0ce01982e7dd056d9",
+      "venue": "",
+      "journal": {
+        "name": "The Journal of Philosophy",
+        "pages": "503-527",
+        "volume": "106"
+      },
+      "publicationTypes": null,
+      "_queryId": "c0ae130cf632ca2e144dbbf0ce01982e7dd056d9"
+    },
+    {
+      "paperId": "9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 131,
+      "doi": "10.7551/mitpress/9780262014038.003.0011",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "245-270",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c"
+    }
+  ],
+  "count": 5,
+  "errors": []
+}

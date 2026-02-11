@@ -1,0 +1,582 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "80d0ca8ff65bb4c42a95aa43842564cd5e571d5d",
+  "results": [
+    {
+      "paper": {
+        "paperId": "80d0ca8ff65bb4c42a95aa43842564cd5e571d5d",
+        "title": "Optimal use of reminders: Metacognition, effort, and cognitive offloading.",
+        "authors": [
+          {
+            "name": "S. Gilbert",
+            "authorId": "1901108"
+          },
+          {
+            "name": "Arabella Bird",
+            "authorId": "152568797"
+          },
+          {
+            "name": "Jason Carpenter",
+            "authorId": "145123824"
+          },
+          {
+            "name": "S. Fleming",
+            "authorId": "34490899"
+          },
+          {
+            "name": "Chhavi Sachdeva",
+            "authorId": "1395809643"
+          },
+          {
+            "name": "Pei\u2010Chun Tsai",
+            "authorId": "48201858"
+          }
+        ],
+        "year": 2018,
+        "abstract": "Individuals frequently choose between accomplishing goals using unaided cognitive abilities or offloading cognitive demands onto external tools and resources. For example, in order to remember an upcoming appointment one might rely on unaided memory or create a reminder by setting a smartphone alert. Setting a reminder incurs both a cost (the time/effort to set it up) and a benefit (increased likelihood of remembering). Here we investigate whether individuals weigh such costs/benefits optimally or show systematic biases. In 3 experiments, participants performed a memory task where they could choose between (a) earning a maximum reward for each remembered item, using unaided memory; or (b) earning a lesser amount per item, using external reminders to increase the number remembered. Participants were significantly biased toward using external reminders, even when they had a financial incentive to choose optimally. Individual differences in this bias were stable over time, and predicted by participants' erroneous metacognitive underconfidence in their memory abilities. Bias was eliminated, however, when participants received metacognitive advice about which strategy was likely to maximize performance. Furthermore, we found that metacognitive interventions (manipulation of feedback valence and practice-trial difficulty) yielded shifts in participants' reminder bias that were mediated by shifts in confidence. However, the bias could not be fully attributed to metacognitive error. We conclude that individuals have stable biases toward using external versus internal cognitive resources, which result at least in part from inaccurate metacognitive evaluations. Finding interventions to mitigate these biases can improve individuals' adaptive use of cognitive tools. (PsycINFO Database Record (c) 2019 APA, all rights reserved).",
+        "citationCount": 94,
+        "doi": "10.31234/osf.io/7fxrg",
+        "arxivId": null,
+        "url": "https://www.semanticscholar.org/paper/80d0ca8ff65bb4c42a95aa43842564cd5e571d5d",
+        "venue": "Journal of experimental psychology. General"
+      },
+      "references": [],
+      "citations": [
+        {
+          "paperId": "423282265d01f4c482248cfac76234154774e3a7",
+          "title": "Value-Driven Selectivity and Redundancy in Children\u2019s Cognitive Offloading Decisions",
+          "authors": [
+            {
+              "name": "Kristy L. Armitage",
+              "authorId": "1438614841"
+            },
+            {
+              "name": "Jonathan Redshaw",
+              "authorId": "2299340426"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1080/15248372.2025.2606268",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/423282265d01f4c482248cfac76234154774e3a7",
+          "venue": "Journal of Cognition and Development",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "ec652f8e338f350c4e9e9c30e27ca46648e4373c",
+          "title": "Integrating cognitive neuroscience and clinical perspectives on metacognitive mechanisms in psychopathology",
+          "authors": [
+            {
+              "name": "T. Seow",
+              "authorId": "2135870487"
+            },
+            {
+              "name": "Lena Jelinek",
+              "authorId": "2207280461"
+            },
+            {
+              "name": "Steffen Moritz",
+              "authorId": "2333092974"
+            },
+            {
+              "name": "TU Hauser",
+              "authorId": "2330815057"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1038/s44159-025-00503-4",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/ec652f8e338f350c4e9e9c30e27ca46648e4373c",
+          "venue": "Nature Reviews Psychology",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "1fe401bfb48a1c454e90a8f7fac33e072718d6c9",
+          "title": "Perceptual metacognition and self-esteem: the role of feedback valence in local and global monitoring bias",
+          "authors": [
+            {
+              "name": "Guanzhuo Zhang",
+              "authorId": "2385175200"
+            },
+            {
+              "name": "Jiafeng Zhang",
+              "authorId": "2384704092"
+            },
+            {
+              "name": "Hui Li",
+              "authorId": "2155497209"
+            },
+            {
+              "name": "Wei Liu",
+              "authorId": "2330372012"
+            },
+            {
+              "name": "Xuemin Zhang",
+              "authorId": "2330366663"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1186/s40359-025-03089-x",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/1fe401bfb48a1c454e90a8f7fac33e072718d6c9",
+          "venue": "BMC Psychology",
+          "isInfluential": true,
+          "contexts": [
+            "Prior research suggests that feedback valence may influence metacognitive monitoring by altering individu - als\u2019 self-beliefs [20, 23], and individuals tend to intergrate positive feedback [28, 30, 51].",
+            "In terms of feedback valence, a study on memory found that positive feedback reduces individuals\u2019underestimation bias of their memory abilities, while negative feedback exacerbates it [20].",
+            "These findings are consistent with studies in the memory domain, which report a similar under-confidence of memory abilities [20, 49].",
+            "In the memory domain, healthy individuals tend to underestimate their performance not only at the global level [20, 24] but also at the local level [24]."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "4ba80ecd513207a55251e272c458cfc1fd84249f",
+          "title": "Recent Reminders with Word-Image Information Can Improve Children\u2019s Prospective Memory Performance",
+          "authors": [
+            {
+              "name": "Yan Yang",
+              "authorId": "2381697673"
+            },
+            {
+              "name": "Yunfei Guo",
+              "authorId": "2381405436"
+            },
+            {
+              "name": "Mingyuan Wang",
+              "authorId": "2203951774"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.3390/bs15091258",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/4ba80ecd513207a55251e272c458cfc1fd84249f",
+          "venue": "Behavioral Science",
+          "isInfluential": false,
+          "contexts": [
+            "When reminders are present, individuals tend to rely more on the external information provided by the reminders, which causes them to reduce the internal attention\u2019s monitoring of the cues (Gilbert et al., 2020).",
+            "Consequently, they are not required to engage in extensive cue monitoring, and they can rely primarily on the external information to determine the appropriate situation for executing prospective memory tasks (Scarampi & Gilbert, 2020).",
+            "When such reminders are available, individuals tend to rely on the provided external information to confirm cues, rather than allocating substantial attention resources to cue monitoring (Gilbert et al., 2020)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "30533c17879a3c2bb03fb580b508ff30c8570d9f",
+          "title": "Neural correlates of metacognition in education: a machine learning approach",
+          "authors": [
+            {
+              "name": "D. Fleur",
+              "authorId": "52314495"
+            },
+            {
+              "name": "Esra Cemre Su de Groot",
+              "authorId": "2305855623"
+            },
+            {
+              "name": "Bert Bredeweg",
+              "authorId": "2377574269"
+            },
+            {
+              "name": "Wouter van den Bos",
+              "authorId": "2238557795"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.1016/j.neuropsychologia.2025.109265",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/30533c17879a3c2bb03fb580b508ff30c8570d9f",
+          "venue": "Neuropsychologia",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "2181e5a9b292c87f274a52a9921219607f5001aa",
+          "title": "Reduced relational and item-specific processing in cognitive offloading",
+          "authors": [
+            {
+              "name": "H. Magen",
+              "authorId": "22440729"
+            },
+            {
+              "name": "Michal Tomer-Offen",
+              "authorId": "2372851106"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.1186/s41235-025-00647-0",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/2181e5a9b292c87f274a52a9921219607f5001aa",
+          "venue": "Cognitive Research",
+          "isInfluential": false,
+          "contexts": [
+            "The benefits of cognitive offloading are unequivocal, as a copy of the to-be-remembered information is created and is available to guide behavior (Eskritt & Ma, 2014; Gilbert et al., 2020; Grinschgl et al., 2021; Lu et al., 2020)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "faad9ce2520ec06ee772dcb60efc90211519b519",
+          "title": "The effect of learning strategies on offloading decisions in response recall",
+          "authors": [
+            {
+              "name": "Jenna R Donet",
+              "authorId": "2370907507"
+            },
+            {
+              "name": "Philip H. Marshall",
+              "authorId": "2295390534"
+            },
+            {
+              "name": "Michael J. Serra",
+              "authorId": "2351786398"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.3758/s13421-025-01750-9",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/faad9ce2520ec06ee772dcb60efc90211519b519",
+          "venue": "Memory & Cognition",
+          "isInfluential": false,
+          "contexts": [
+            "\u2026that individuals typically opt to encode information to external storage when given the opportunity \u2013 even when it is nonoptimal, inconvenient, and when ceiling performance is possible without offloading (Ferguson et al., 2015; Gilbert et al., 2020; Risko & Dunn., 2015; Storm et al., 2017).",
+            "For the most part, offloading studies have shown internal storage of information to be more effortful, suggesting that participants will opt for less effortful encoding unless motivated (by external rewards or intrinsic belief factors) otherwise (Gilbert et al., 2020; Sachdeva et al., 2020).",
+            "The relevance of performance in task-related decision making has been demonstrated in other research (Gilbert et al., 2020; Weis & Kunde, 2024), even some particular to offloading."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "032479d1bca5bfd6417ca20c30658880bd7ee3b6",
+          "title": "The role of short-term memory, type of practice and metacognitive judgments in predicting cognitive offloading",
+          "authors": [
+            {
+              "name": "Dan Chiappe",
+              "authorId": "2260764684"
+            },
+            {
+              "name": "Kim-Phuong L. Vu",
+              "authorId": "2287673474"
+            },
+            {
+              "name": "Michelle Tornquist",
+              "authorId": "46370667"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.3389/fcogn.2025.1595956",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/032479d1bca5bfd6417ca20c30658880bd7ee3b6",
+          "venue": "Frontiers in Cognition",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "c098144484a0f04fb7e502f747714a6ba642e730",
+          "title": "Attention in our digital ecosystem: The five interactive components that drive media multitasking",
+          "authors": [
+            {
+              "name": "Allison C. Drody",
+              "authorId": "2156819128"
+            },
+            {
+              "name": "Effie J. Pereira",
+              "authorId": "2220916713"
+            },
+            {
+              "name": "Daniel Smilek",
+              "authorId": "2249638538"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.3758/s13423-025-02722-5",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/c098144484a0f04fb7e502f747714a6ba642e730",
+          "venue": "Psychonomic Bulletin & Review",
+          "isInfluential": false,
+          "contexts": [
+            "\u2026behaviour (Bandura, 1977; Rouault & Fleming, 2020); however, there is a strong transient component to aspects of self-monitoring wherein the presence of new information can quickly alter a person\u2019s perception of their beliefs (Gilbert et al., 2019; Grinschgl et al., 2021; O\u2019Leary & Fletcher, 2024)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "324e3be916282b68dc4db774694c299e0e61a6f8",
+          "title": "Meta-analytic investigations of the effect of cognitive offloading on memory-based task performance and interindividual variability",
+          "authors": [
+            {
+              "name": "Lois K. Burnett",
+              "authorId": "2122848248"
+            },
+            {
+              "name": "Lauren L. Richmond",
+              "authorId": "2253791110"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.3758/s13421-025-01743-8",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/324e3be916282b68dc4db774694c299e0e61a6f8",
+          "venue": "Memory & Cognition",
+          "isInfluential": true,
+          "contexts": [
+            "When considering offloading choice behaviors as an outcome, researchers may present the internal memory and forced-offloading conditions before the choice-offloading condition (see Engeler & Gilbert, 2020; Gilbert et al., 2020; Kirk et al., 2021; Richmond et al., 2025).",
+            "Prior research has shown that metacognitive confidence is a strong predictor of offloading frequency (e.g., Gilbert et al., 2020; Gilbert, 2015b) and that more frequent offloading leads to greater performance benefits (e.g., Morrison & Richmond, 2020).",
+            "\u2026(see, e.g., Burnett & Richmond, 2023; Morrison & Richmond, 2020; Risko & Dunn, 2015) or alternate offloading and internal memory trials (see Ball et al., 2022; Gilbert et al., 2020; Sachdeva & Gilbert, 2020) to ensure that any observed effects cannot simply be explained by condition order.",
+            "\u2026participants offload more frequently when they are underconfident in their own memory ability (e.g., Engeler & Gilbert, 2020; Fr\u00f6scher et al., 2022; Gilbert et al., 2020), when memory load is high (e.g., Burnett & Richmond, 2023; Gilbert, 2015a; Morrison & Richmond, 2020; Troxel et al., 2024), or\u2026",
+            "\u2026condition provides a measure of the relative benefit of using external memory aids compared to relying on internal memory alone (see Gilbert et al., 2020 for a study using this type of design), while the choice-offloading condition provides a measure of the relative benefit of\u2026",
+            "\u2026a wide variety of factors that are known to influence offloading behaviors, including metacognitive interventions (e.g., Engeler & Gilbert, 2020; Gilbert et al., 2020), memory load (e.g., Gilbert, 2015b; Risko & Dunn, 2015), and costs and rewards (e.g., Fr\u00f6scher et al., 2022; Murphy, 2023b).",
+            "\u2026suggest that cognitive offloading may have also served to reduce variance in performance such that participants performed more similarly to one another when offloading was permitted (e.g., Brown, 2021; Engeler & Gilbert, 2020; Gilbert et al., 2020; Gilbert, 2015a; Sachdeva & Gilbert, 2020).",
+            "This is somewhat surprising, however, considering previous research showing that people are typically biased towards using external memory aids rather than internal memory when offloading is permitted (e.g., Engeler & Gilbert, 2020; Fr\u00f6scher et al., 2022; Gilbert et al., 2020)."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "08b73a07336a9b44e5d8b20134ec4765f5372a69",
+          "title": "Beyond the Hype: Mapping Uncertainty and Gratification in AI Assistant Use",
+          "authors": [
+            {
+              "name": "Karen Joy",
+              "authorId": "2334358045"
+            },
+            {
+              "name": "Tawfiq Ammari",
+              "authorId": "2322049243"
+            },
+            {
+              "name": "Alyssa Sheehan",
+              "authorId": "2366426704"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 0,
+          "doi": "10.48550/arXiv.2506.09220",
+          "arxivId": "2506.09220",
+          "url": "https://www.semanticscholar.org/paper/08b73a07336a9b44e5d8b20134ec4765f5372a69",
+          "venue": "arXiv.org",
+          "isInfluential": false,
+          "contexts": [
+            "These tools enabled targeted task offloading, which participants found more manageable and trustworthy [26, 106, 110, 123]."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "6438c192c782b75a3b2644eb298b75d21f494d7a",
+          "title": "Transdiagnostic compulsivity is associated with reduced reminder setting, only partially attributable to overconfidence",
+          "authors": [
+            {
+              "name": "Annika Boldt",
+              "authorId": "3387192"
+            },
+            {
+              "name": "C. Fox",
+              "authorId": "2050185895"
+            },
+            {
+              "name": "C. Gillan",
+              "authorId": "1958207"
+            },
+            {
+              "name": "Sam J. Gilbert",
+              "authorId": "2250733428"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 5,
+          "doi": "10.7554/eLife.98114",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/6438c192c782b75a3b2644eb298b75d21f494d7a",
+          "venue": "eLife",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "84f97d0bfe5ec5f59055bbb569cf56be72b0b400",
+          "title": "Microstructural organization of superior longitudinal fasciculus and cingulum bundle support metacognition driven cognitive offloading",
+          "authors": [
+            {
+              "name": "Yunxuan Zheng",
+              "authorId": "1600485048"
+            },
+            {
+              "name": "Bin Bo",
+              "authorId": "2330365860"
+            },
+            {
+              "name": "Danni Wang",
+              "authorId": "2155680830"
+            },
+            {
+              "name": "Yiyang Liu",
+              "authorId": "2317118188"
+            },
+            {
+              "name": "Sam J Gilbert",
+              "authorId": "2295518663"
+            },
+            {
+              "name": "Yao Li",
+              "authorId": "2239165076"
+            },
+            {
+              "name": "S. C. Kwok",
+              "authorId": "2603479"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.1038/s41598-025-18631-5",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/84f97d0bfe5ec5f59055bbb569cf56be72b0b400",
+          "venue": "bioRxiv",
+          "isInfluential": true,
+          "contexts": [
+            "The first three are of particular interest in our present investigation in relation to the microstructural integrity of white matter tracts, whereas the next four were for replication of previous behavioral findings 11,17,48,55 and to derive some of our key behavioral metrics.",
+            "\u2026reminders over internal memory (i.e., the reminder bias) was driven by the miscalibration between self-judged and actual task performance in using internal memory such that people would have stronger reminder bias when their confidence ratings are lower than their actual accuracy 11,16,17,48,49 .",
+            "Previous studies have consistently shown that people tend to set external reminders to assist their task performance more often than is optimal, such that the OIP is greater than the AIP 11,16,17,48,49 .",
+            "Participants engaged in a cognitive offloading task adapted from Gilbert et al. 17 .",
+            "In line with the exclusion criteria used by Gilbert et al. 17 , we further excluded one participant who had a negative correlation between target value and likelihood of choosing to use reminders, implying a random or counter-rational strategy choice behavior."
+          ],
+          "intents": []
+        },
+        {
+          "paperId": "2a7ae8e5967a3037ad8b5135be6763e66257d6c3",
+          "title": "A timeline of cognitive costs in decision-making",
+          "authors": [
+            {
+              "name": "Christin Schulze",
+              "authorId": "2299334237"
+            },
+            {
+              "name": "Ada Aka",
+              "authorId": "2362253576"
+            },
+            {
+              "name": "Daniel M. Bartels",
+              "authorId": "2298884066"
+            },
+            {
+              "name": "Stefan F. Bucher",
+              "authorId": "2362253745"
+            },
+            {
+              "name": "Jake R Embrey",
+              "authorId": "2047735758"
+            },
+            {
+              "name": "Todd M. Gureckis",
+              "authorId": "2238296569"
+            },
+            {
+              "name": "Gerald H\u00e4ubl",
+              "authorId": "2362253579"
+            },
+            {
+              "name": "Mark K. Ho",
+              "authorId": "2362257079"
+            },
+            {
+              "name": "Ian Krajbich",
+              "authorId": "2362255385"
+            },
+            {
+              "name": "Alexander K. Moore",
+              "authorId": "2362318243"
+            },
+            {
+              "name": "Gabriele Oettingen",
+              "authorId": "2362255389"
+            },
+            {
+              "name": "J. Ongchoco",
+              "authorId": "1380090512"
+            },
+            {
+              "name": "Ryan Oprea",
+              "authorId": "2300099723"
+            },
+            {
+              "name": "Nicholas Reinholtz",
+              "authorId": "3380183"
+            },
+            {
+              "name": "Ben R. Newell",
+              "authorId": "2298884613"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 7,
+          "doi": "10.1016/j.tics.2025.04.004",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/2a7ae8e5967a3037ad8b5135be6763e66257d6c3",
+          "venue": "Trends in Cognitive Sciences",
+          "isInfluential": false,
+          "contexts": [],
+          "intents": []
+        },
+        {
+          "paperId": "351a8f7042da10aa922aad422f0e1fa1fdf286db",
+          "title": "Strategic reminder setting for time-based intentions: Influence of metacognition, delay length, and cue visibility",
+          "authors": [
+            {
+              "name": "Pei-Chun Tsai",
+              "authorId": "2355822349"
+            },
+            {
+              "name": "Sam J Gilbert",
+              "authorId": "2295518663"
+            }
+          ],
+          "year": 2025,
+          "abstract": null,
+          "citationCount": 1,
+          "doi": "10.3758/s13421-025-01708-x",
+          "arxivId": null,
+          "url": "https://www.semanticscholar.org/paper/351a8f7042da10aa922aad422f0e1fa1fdf286db",
+          "venue": "Memory & Cognition",
+          "isInfluential": true,
+          "contexts": [
+            "\u2026laboratory (e.g., Gilbert et al., 2020) settings, and that metacognitive error may affect intention offloading strategies (Boldt & Gilbert, 2019; Gilbert et al., 2020; Gilbert, 2015b), there is potential for metacognitive interventions to optimise such strategies and hence support the\u2026",
+            "Given that reminders are highly effective in both real-world (e.g., Jones et al., 2021) and laboratory (e.g., Gilbert et al., 2020) settings, and that metacognitive error may affect intention offloading strategies (Boldt & Gilbert, 2019; Gilbert et al., 2020; Gilbert, 2015b), there is potential for\u2026",
+            "Previous research has emphasized the crucial role of metacognition in determining cognitive offloading strategies (Gilbert et al., 2020; Gilbert, 2015a, 2015b; Hu et al., 2019; Risko & Dunn, 2015), finding that people\u2019s decision to set a reminder is influenced by their beliefs about whether they\u2026",
+            "Therefore, results suggested that participants adjusted their intention offloading based on a metacognitive assessment of unaided memory ability, in line with previous research with event-based tasks (e.g., Boldt & Gilbert, 2019; Gilbert et al., 2020).",
+            "\u2026real-world intention offloading may be particularly common-place for time-based tasks (e.g., set a smartphone alert for 30 min), experimental studies of intention offloading have so far focused on event-based tasks instead (Boldt & Gilbert, 2019; Gilbert et al., 2020; Gilbert, 2015a, 2015b).",
+            "Intention offloading can therefore be seen as requiring cost\u2013benefit calculation (Chiu & Gilbert, 2023; Gilbert et al., 2020) or value-based decision making (Gilbert, 2024)."
+          ],
+          "intents": []
+        }
+      ],
+      "references_count": 0,
+      "citations_count": 15
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

@@ -1,0 +1,14 @@
+{
+  "status": "error",
+  "source": "semantic_scholar",
+  "query": "f913307a38ec302998f9aa034c9d6a2d55dba89f",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "rate_limit",
+      "message": "Rate limit exceeded",
+      "recoverable": true
+    }
+  ]
+}

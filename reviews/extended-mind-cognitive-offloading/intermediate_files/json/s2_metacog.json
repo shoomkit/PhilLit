@@ -1,0 +1,858 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "metacognition offloading",
+  "results": [
+    {
+      "paperId": "5cc59cd8a20745bdcdb0221b6e35fffeec8ed8c7",
+      "title": "Generative AI tool use enhances academic achievement in sustainable education through shared metacognition and cognitive offloading among preservice teachers",
+      "authors": [
+        {
+          "name": "Javed Iqbal",
+          "authorId": "2149519874"
+        },
+        {
+          "name": "Zarqa Farooq Hashmi",
+          "authorId": "2173436025"
+        },
+        {
+          "name": "Muhammad Zaheer Asghar",
+          "authorId": "2355505015"
+        },
+        {
+          "name": "Muhammad Naseem Abid",
+          "authorId": "2326471158"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The integration of generative artificial intelligence tools in education has emerged as a transformative approach to enhancing learning outcomes, particularly in the context of sustainable development goals (SDG4). Therefore, the present study investigates the connection between generative artificial intelligence tool usage (GenAITU) and academic achievement (AA) in the context of SDG4. We assessed the mediating role of shared metacognition (SMC) and cognitive offloading (COL) in this relationship among preservice teachers (PSTs). The indicators, including performance expectancy (PE), effort expectancy (EE), facilitating conditions (FC), and use behavior (UB), are derived from adapting the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) for GenAITU. The authors surveyed 465 students from five universities in Wuhan, China, using a 7-point Likert scale through a time-lag design. Statistical analysis was performed through partial least squares structural equation modeling (PLS-SEM), to determine the relationship between variables. Findings indicated that two components of GenAITU, namely PE and UB, showed significant positive associations with AA, while the other two, EE and FC, did not show significant and positive relationships with AA. Results also showed that three dimensions of GenAITU, namely EE, FC, and UB have a positive and significant association with SMC while PE has a positive and significant connection with SMC. All four components of GenAITU like PE, EE, FC, and UB have positive and significant links with COL. SMC and COL have a positive and significant relationship with AA. Results also indicated that SMC mediated the connections between GenAITU (EE, FC, and UB) and AA. Outcomes also indicated that COL mediated the connections between GenAITU (PE, EE, FC, and UB) and AA. The current study shows that SMC and COL were strong mediators of the association between GenAITU and AA. The results of our study provide guidance to teachers, curriculum planners, and university management to successfully integrate GenAITU into the education for PSTs.",
+      "citationCount": 13,
+      "doi": "10.1038/s41598-025-01676-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5cc59cd8a20745bdcdb0221b6e35fffeec8ed8c7",
+      "venue": "Scientific Reports",
+      "journal": {
+        "name": "Scientific Reports",
+        "volume": "15"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "84f97d0bfe5ec5f59055bbb569cf56be72b0b400",
+      "title": "Microstructural organization of superior longitudinal fasciculus and cingulum bundle support metacognition driven cognitive offloading",
+      "authors": [
+        {
+          "name": "Yunxuan Zheng",
+          "authorId": "1600485048"
+        },
+        {
+          "name": "Bin Bo",
+          "authorId": "2330365860"
+        },
+        {
+          "name": "Danni Wang",
+          "authorId": "2155680830"
+        },
+        {
+          "name": "Yiyang Liu",
+          "authorId": "2317118188"
+        },
+        {
+          "name": "Sam J Gilbert",
+          "authorId": "2295518663"
+        },
+        {
+          "name": "Yao Li",
+          "authorId": "2239165076"
+        },
+        {
+          "name": "S. C. Kwok",
+          "authorId": "2603479"
+        }
+      ],
+      "year": 2025,
+      "abstract": "People often use external tools to offload cognitive demands associated with remembering future intentions. While previous research has established a causal role of metacognition in cognitive offloading, the neural mechanisms supporting this metacognitive control process remain unclear. To address this, we conducted a study with 34 participants using diffusion tensor imaging (DTI) to examine how white matter connectivity supports metacognition-driven cognitive offloading. Behaviorally, we replicated prior findings showing that under-confidence in internal memory predicts a bias toward using external reminders. At the neural level, we used diffusion tensor imaging to quantify fractional anisotropy (FA), a measure of microstructural integrity in white matter. We found the microstructural integrity of the superior longitudinal fasciculus (SLF) and cingulum bundle (CB) negatively predicted deviations from the optimal use of reminders. The microstructural integrity of the fornix negatively predicted participants\u2019 confidence in performing the task when restricted to internal memory. Our findings reveal the microstructural organization of these fronto-temporal-parietal white-matter tracts are related to metacognition driven cognitive offloading. We discuss several aspects of metacognition driven cognitive offloading from a white matter microstructural perspective.",
+      "citationCount": 1,
+      "doi": "10.1038/s41598-025-18631-5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/84f97d0bfe5ec5f59055bbb569cf56be72b0b400",
+      "venue": "bioRxiv",
+      "journal": {
+        "name": "Scientific Reports",
+        "volume": "15"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "3e829bd8aa8f70b192bc0e06d8c3f622eb34a0c0",
+      "title": "Children\u2019s metacognition and cognitive offloading in an immediate memory task",
+      "authors": [
+        {
+          "name": "Catriona Iley",
+          "authorId": "2303642583"
+        },
+        {
+          "name": "Srdan Medimorec",
+          "authorId": "2932420"
+        }
+      ],
+      "year": 2024,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.1007/s00426-024-01978-1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3e829bd8aa8f70b192bc0e06d8c3f622eb34a0c0",
+      "venue": "Psychological Research",
+      "journal": {
+        "name": "Psychological Research",
+        "pages": "1448 - 1455",
+        "volume": "88"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "6026415f9eb67585ff5010d24eaeef7be5e7a2d7",
+      "title": "Metacognition guides intention offloading and fulfillment of real-world plans.",
+      "authors": [
+        {
+          "name": "A. E. Scott",
+          "authorId": "2275128792"
+        },
+        {
+          "name": "Sam J. Gilbert",
+          "authorId": "2250733428"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Reminders such as calendar entries and digital alerts are highly effective at helping people remember what they need to do. Recent work has explored the triggers of reminder setting, also known as intention offloading, finding that low confidence is associated with more offloading in laboratory tasks. This supports a metacognitive model of cognitive offloading. Here, we investigated whether this model generalizes to real-world intentions. We asked 112 participants about their upcoming plans and subsequent fulfillment of those plans in two online surveys conducted in 2022. Participants were more likely to set reminders for plans that (a) they were less confident they would remember and (b) they judged to be more important. Participants with lower confidence that they would remember to return for the second survey were more likely to set a reminder for this plan. This, in turn, predicted greater fulfillment. Therefore, ironically, lower confidence predicted greater success. These findings show that intention offloading predicts fulfillment of real-world intentions. They also point toward metacognition as a target for interventions to facilitate this. (PsycInfo Database Record (c) 2024 APA, all rights reserved).",
+      "citationCount": 8,
+      "doi": "10.1037/xap0000515",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6026415f9eb67585ff5010d24eaeef7be5e7a2d7",
+      "venue": "Journal of experimental psychology. Applied",
+      "journal": {
+        "name": "Journal of experimental psychology. Applied"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "2de999256b13a29bdc50b9bdf24162374003f7b9",
+      "title": "Excessive use of reminders: Metacognition and effort-minimisation in cognitive offloading",
+      "authors": [
+        {
+          "name": "Chhavi Sachdeva",
+          "authorId": "1395809643"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 42,
+      "doi": "10.1016/j.concog.2020.103024",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2de999256b13a29bdc50b9bdf24162374003f7b9",
+      "venue": "Consciousness and Cognition",
+      "journal": {
+        "name": "Consciousness and Cognition",
+        "volume": "85"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "80d0ca8ff65bb4c42a95aa43842564cd5e571d5d",
+      "title": "Optimal use of reminders: Metacognition, effort, and cognitive offloading.",
+      "authors": [
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        },
+        {
+          "name": "Arabella Bird",
+          "authorId": "152568797"
+        },
+        {
+          "name": "Jason Carpenter",
+          "authorId": "145123824"
+        },
+        {
+          "name": "S. Fleming",
+          "authorId": "34490899"
+        },
+        {
+          "name": "Chhavi Sachdeva",
+          "authorId": "1395809643"
+        },
+        {
+          "name": "Pei\u2010Chun Tsai",
+          "authorId": "48201858"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Individuals frequently choose between accomplishing goals using unaided cognitive abilities or offloading cognitive demands onto external tools and resources. For example, in order to remember an upcoming appointment one might rely on unaided memory or create a reminder by setting a smartphone alert. Setting a reminder incurs both a cost (the time/effort to set it up) and a benefit (increased likelihood of remembering). Here we investigate whether individuals weigh such costs/benefits optimally or show systematic biases. In 3 experiments, participants performed a memory task where they could choose between (a) earning a maximum reward for each remembered item, using unaided memory; or (b) earning a lesser amount per item, using external reminders to increase the number remembered. Participants were significantly biased toward using external reminders, even when they had a financial incentive to choose optimally. Individual differences in this bias were stable over time, and predicted by participants' erroneous metacognitive underconfidence in their memory abilities. Bias was eliminated, however, when participants received metacognitive advice about which strategy was likely to maximize performance. Furthermore, we found that metacognitive interventions (manipulation of feedback valence and practice-trial difficulty) yielded shifts in participants' reminder bias that were mediated by shifts in confidence. However, the bias could not be fully attributed to metacognitive error. We conclude that individuals have stable biases toward using external versus internal cognitive resources, which result at least in part from inaccurate metacognitive evaluations. Finding interventions to mitigate these biases can improve individuals' adaptive use of cognitive tools. (PsycINFO Database Record (c) 2019 APA, all rights reserved).",
+      "citationCount": 94,
+      "doi": "10.31234/osf.io/7fxrg",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/80d0ca8ff65bb4c42a95aa43842564cd5e571d5d",
+      "venue": "Journal of experimental psychology. General",
+      "journal": {
+        "name": "Journal of experimental psychology. General"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "408421fcd8f4d0b00c1c637c4d2ac1b7dd18698f",
+      "title": "Age differences in intention offloading and the compensatory role of metacognition",
+      "authors": [
+        {
+          "name": "C. Scarampi",
+          "authorId": "1694860088"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.17605/OSF.IO/4UTRS",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/408421fcd8f4d0b00c1c637c4d2ac1b7dd18698f",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c648cf8ecc70f3d6a442704d2828903c85365221",
+      "title": "AI as a Cognitive Partner: A Systematic Review of the Influence of AI on Metacognition and Self-Reflection in Critical Thinking",
+      "authors": [
+        {
+          "name": "Anubha Goyal",
+          "authorId": "2352725445"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Educational settings today include Artificial Intelligence (AI) systems that transform student interaction with\ncritical thinking and metacognitive processes. The research assesses AI\u2019s positive and negative effects on developing\ncognitive abilities through systematic analysis and review. Contemporary learning tools backed by artificial intelligence\nprovide individualised feedback, automated tutoring, and adaptive testing that enhances students\u2019 problem-solving skills\nand cognitive awareness. Concerns regarding cognitive offloading, metacognitive sloth, and algorithmic bias challenge the\npossible impact of AI on independent thinking and learning autonomy. This study synthesises existing research to investigate\nhow AI works as a cognitive partner that supports critical thinking ability and a potential barrier to long-term cognitive\nengagement in learning environments. Evidence shows that AI supports learning assistance and self-regulation development,\nbut overdependence on it results in lower problem-solving skills and decreased metacognitive thinking. Data privacy issues,\naccess fairness concerns, and AI decision-making biases make it necessary for educational institutions to control their\nincorporation of AI technologies carefully.\nThe review highlights necessary teaching practices for the ethical use of AI and advocates for equitable AI-human\ncollaboration to produce compelling learning experiences. The report recommends that educators and policymakers\n\nimplement measures to ensure that AI applications augment critical thinking capabilities rather than replace them. Long-\nterm studies must assess the impact of AI on students\u2019 cognitive resilience and how they learn adaptive learning strategies.\n\nThis review aims to construct AI-fortified educational designs by leveraging AI\u2019s potential and risks to enhance students\u2019\ninquiry skills, self-reflection, and critical thinking capabilities.",
+      "citationCount": 8,
+      "doi": "10.38124/ijisrt/25mar1427",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c648cf8ecc70f3d6a442704d2828903c85365221",
+      "venue": "International Journal of Innovative Science and Research Technology",
+      "journal": {
+        "name": "International Journal of Innovative Science and Research Technology"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "f913307a38ec302998f9aa034c9d6a2d55dba89f",
+      "title": "Storing information in-the-world: Metacognition and cognitive offloading in a short-term memory task",
+      "authors": [
+        {
+          "name": "Evan F. Risko",
+          "authorId": "1831734"
+        },
+        {
+          "name": "T. Dunn",
+          "authorId": "35244659"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 163,
+      "doi": "10.1016/j.concog.2015.05.014",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f913307a38ec302998f9aa034c9d6a2d55dba89f",
+      "venue": "Consciousness and Cognition",
+      "journal": {
+        "name": "Consciousness and Cognition",
+        "pages": "61-74",
+        "volume": "36"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "351a8f7042da10aa922aad422f0e1fa1fdf286db",
+      "title": "Strategic reminder setting for time-based intentions: Influence of metacognition, delay length, and cue visibility",
+      "authors": [
+        {
+          "name": "Pei-Chun Tsai",
+          "authorId": "2355822349"
+        },
+        {
+          "name": "Sam J Gilbert",
+          "authorId": "2295518663"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Time-based intentions, such as remembering to make a telephone call at a particular time or removing food from the oven after a delay, can be highly cognitively demanding. In everyday life, people often offload these demands to the external environment by setting alerts and reminders; however, this process of time-based intention offloading has rarely been examined experimentally. Here, we investigated this process in a paradigm where participants had to remember to press a key after a 10, 20, or 30 s delay, while simultaneously engaged in an ongoing two-back working memory task. Use of reminders improved accuracy, and participants were more likely to offload intentions at longer delays. This process was driven at least partially by metacognitive beliefs about the need for reminders, rather than the actual need. There was also an influence of time-monitoring demands: offloading was reduced when a clock was always visible, compared with a condition where participants had to press a button to reveal it. These results show that principles of cognitive offloading established in other domains also apply to time-based prospective memory: it improves performance, is influenced by cognitive demand, and guided by metacognitive beliefs.",
+      "citationCount": 1,
+      "doi": "10.3758/s13421-025-01708-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/351a8f7042da10aa922aad422f0e1fa1fdf286db",
+      "venue": "Memory & Cognition",
+      "journal": {
+        "name": "Memory & Cognition",
+        "pages": "2237 - 2254",
+        "volume": "53"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "b6d454e57705833edf282258ecd2f4b861a05f5d",
+      "title": "Cognitive offloading bias in primary and secondary school students and its relationship with metacognitive monitoring.",
+      "authors": [
+        {
+          "name": "Jiayue Sun",
+          "authorId": "2335617660"
+        },
+        {
+          "name": "Yanan Wang",
+          "authorId": "2292295314"
+        },
+        {
+          "name": "Zunyun Hu",
+          "authorId": "2335616149"
+        },
+        {
+          "name": "Yan Liu",
+          "authorId": "2292309654"
+        },
+        {
+          "name": "Yan Sun",
+          "authorId": "2336094969"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Individuals often use external aids to assist with information storage, a process known as cognitive offloading. Prior research has indicated that adults sometimes fail to utilize internal and external cognitive resources judiciously, resulting in cognitive offloading bias, which is often linked to metacognition. However, it remains experimentally unverified whether primary and secondary school students exhibit cognitive offloading bias and how this relates to metacognition. This study aimed to address these gaps. In Experiment 1, we examined cognitive offloading bias in primary and secondary school students (aged 7-15\u2009years) using a word-pair memory task. The results revealed that primary school students tended to rely excessively on internal memory in comparison to the optimal strategy, while secondary school students leaned towards an overreliance on external reminders. In Experiment 2, we incorporated metacognitive judgements to explore the relationship between metacognition and cognitive offloading bias. Results indicated that the cognitive offloading bias observed in primary school students was linked to the accuracy of their metacognitive monitoring.",
+      "citationCount": 3,
+      "doi": "10.1111/bjdp.12540",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b6d454e57705833edf282258ecd2f4b861a05f5d",
+      "venue": "British Journal of Developmental Psychology",
+      "journal": {
+        "name": "The British journal of developmental psychology"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "0c55738e8e4a89818c7e8b2466c95535e20a4119",
+      "title": "Effects of learning item difficulty and value on cognitive offloading during middle childhood",
+      "authors": [
+        {
+          "name": "Xiaoxi Dong",
+          "authorId": "2118187387"
+        },
+        {
+          "name": "Yan Liu",
+          "authorId": "47909531"
+        },
+        {
+          "name": "H. Lu",
+          "authorId": "2115781584"
+        }
+      ],
+      "year": 2022,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.1007/s11409-022-09309-8",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0c55738e8e4a89818c7e8b2466c95535e20a4119",
+      "venue": "Metacognition and Learning",
+      "journal": {
+        "name": "Metacognition and Learning",
+        "pages": "1097-1115",
+        "volume": "17"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6438c192c782b75a3b2644eb298b75d21f494d7a",
+      "title": "Transdiagnostic compulsivity is associated with reduced reminder setting, only partially attributable to overconfidence",
+      "authors": [
+        {
+          "name": "Annika Boldt",
+          "authorId": "3387192"
+        },
+        {
+          "name": "C. Fox",
+          "authorId": "2050185895"
+        },
+        {
+          "name": "C. Gillan",
+          "authorId": "1958207"
+        },
+        {
+          "name": "Sam J. Gilbert",
+          "authorId": "2250733428"
+        }
+      ],
+      "year": 2025,
+      "abstract": "In the current study, we explored the behavioural and cognitive correlates of the transdiagnostic trait \u2018compulsive behaviour and intrusive thought\u2019 (CIT) in humans. CIT is associated with impaired metacognition, which in turn has been associated with cognitive offloading behaviours such as external reminder setting that play a key role in fulfilling cognitive goals. In an online study (N=600), we investigated individual differences in compulsivity, metacognition, and external reminder usage. Compulsive individuals had reduced preference for external reminders. This was partially, but not fully, attributable to their relative overconfidence. In contrast to previous studies, we found no evidence for an impaired confidence-action link: compulsive individuals used their metacognition to guide offloading just as much as their non-compulsive counterparts. Given the compensatory nature of cognitive offloading, our findings imply that compulsive individuals are at increased risk of inadequate external memory support. Along with transdiagnostic variation in the general population, this finding could also have implications for clinical conditions, such as obsessive-compulsive disorder (OCD).",
+      "citationCount": 5,
+      "doi": "10.7554/eLife.98114",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6438c192c782b75a3b2644eb298b75d21f494d7a",
+      "venue": "eLife",
+      "journal": {
+        "name": "eLife",
+        "volume": "13"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "a0c53cae9137fbcf86f2d972f589090154d53520",
+      "title": "Generative AI and childhood education: lessons from the smartphone generation",
+      "authors": [
+        {
+          "name": "O. Machidon",
+          "authorId": "3231334"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This article examines the potential parallels between children's widespread adoption of smartphones and the emerging reliance on generative AI tools in childhood education. Drawing on Jonathan Haidt\u2019s insights into how phone-based childhoods can disrupt the development of critical executive functions, and Shannon Vallor\u2019s concept of \u201cmoral deskilling,\u201d the discussion raises concerns about \u201cintellectual deskilling\u201d in younger generations. As generative AI tools like ChatGPT gain popularity, children risk becoming overly reliant on automated solutions, potentially undermining metacognition and critical thinking. This paper highlights risks such as cognitive offloading, instant gratification, and diminished perseverance and proposes measures to ensure generative AI supports rather than replaces essential developmental experiences.",
+      "citationCount": 5,
+      "doi": "10.1007/s00146-025-02196-y",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a0c53cae9137fbcf86f2d972f589090154d53520",
+      "venue": "Ai & Society",
+      "journal": {
+        "name": "AI & SOCIETY",
+        "pages": "4295 - 4297",
+        "volume": "40"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "2a72e5660a0b9c790946a2e5a73230cd36734b94",
+      "title": "Partially Overlapping Neural Correlates of Metacognitive Monitoring and Metacognitive Control",
+      "authors": [
+        {
+          "name": "Annika Boldt",
+          "authorId": "3387192"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Metacognition describes the process of monitoring one's own mental states, often for the purpose of cognitive control. Previous research has investigated how metacognitive signals are generated (metacognitive monitoring), for example, when people (both female/male) judge their confidence in their decisions and memories. Research has also investigated how metacognitive signals are used to influence behavior (metacognitive control), for example, setting a reminder (i.e., cognitive offloading) for something you are not confident you will remember. However, the mapping between metacognitive monitoring and metacognitive control needs further study on a neural level. We used fMRI to investigate a delayed-intentions task with a reminder element, allowing human participants to use their metacognitive insight to engage metacognitive control. Using multivariate pattern analysis, we found that we could separately decode both monitoring and control, and, to a lesser extent, cross-classify between them. Therefore, brain patterns associated with monitoring and control are partially, but not fully, overlapping. SIGNIFICANCE STATEMENT Models of metacognition commonly distinguish between monitoring (how metacognition is formed) and control (how metacognition is used for behavioral regulation). Research into these facets of metacognition has often happened in isolation. Here, we provide a study which directly investigates the mapping between metacognitive monitoring and metacognitive control at a neural level. We applied multivariate pattern analysis to fMRI data from a novel task in which participants separately rated their confidence (metacognitive monitoring) and how much they would like to use a reminder (metacognitive control). We find support for the notion that the two aspects of metacognition overlap partially but not fully. We argue that future research should focus on how different metacognitive signals are selected for control.",
+      "citationCount": 24,
+      "doi": "10.1523/JNEUROSCI.1326-21.2022",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2a72e5660a0b9c790946a2e5a73230cd36734b94",
+      "venue": "Journal of Neuroscience",
+      "journal": {
+        "name": "The Journal of Neuroscience",
+        "pages": "3622 - 3635",
+        "volume": "42"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "7823533e8f932981af6195fa97f8b020bbd5c1e5",
+      "title": "Young children spontaneously devise an optimal external solution to a cognitive problem.",
+      "authors": [
+        {
+          "name": "Kristy L. Armitage",
+          "authorId": "1438614841"
+        },
+        {
+          "name": "Alex H. Taylor",
+          "authorId": "2110305080"
+        },
+        {
+          "name": "T. Suddendorf",
+          "authorId": "4087456"
+        },
+        {
+          "name": "Jonathan Redshaw",
+          "authorId": "143822824"
+        }
+      ],
+      "year": 2021,
+      "abstract": "Metacognition plays an essential role in adults' cognitive offloading decisions. Despite possessing basic metacognitive capacities, however, preschool-aged children often fail to offload effectively. Here, we introduced 3- to 5-year-olds to a novel search task in which they were unlikely to perform optimally across trials without setting external reminders about the location of a target. Children watched as an experimenter first hid a target in one of three identical opaque containers. The containers were then shuffled out of view before children had to guess where the target was hidden. In the test phase, children could perform perfectly by simply placing a marker in a transparent jar attached to the target container prior to shuffling, and then later selecting the marked container. Children of all ages used this strategy above chance levels if they had seen it demonstrated to them, but only the 4- and 5-year-olds independently devised this external strategy to improve their future performance. These results suggest that, when necessary for optimal performance, even 4- and 5-year-olds can use metacognitive knowledge about their own future uncertainty to deploy effective external solutions. This article is protected by copyright. All rights reserved.",
+      "citationCount": 4,
+      "doi": "10.1111/desc.13204",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7823533e8f932981af6195fa97f8b020bbd5c1e5",
+      "venue": "Developmental Science",
+      "journal": {
+        "name": "Developmental science"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "25e37f4993fd763e5610e5d378f53930ade539d0",
+      "title": "No conclusive evidence that difficult general knowledge questions cause a \u201cGoogle Stroop effect\u201d. A replication study",
+      "authors": [
+        {
+          "name": "G. Hesselmann",
+          "authorId": "144190158"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Access to the digital \u201call-knowing cloud\u201d has become an integral part of our daily lives. It has been suggested that the increasing offloading of information and information processing services to the cloud will alter human cognition and metacognition in the short and long term. A much-cited study published in Science in 2011 provided first behavioral evidence for such changes in human cognition. Participants had to answer difficult trivia questions, and subsequently showed longer response times in a variant of the Stroop task with internet-related words (\u201cGoogle Stroop effect\u201d). The authors of this study concluded that the concept of the Internet is automatically activated in situations where information is missing (e.g., because we might feel the urge to \u201cgoogle\u201d the information). However, the \u201cGoogle Stroop effect\u201d could not be replicated in two recent replication attempts as part of a large replicability project. After the failed replication was published in 2018, the first author of the original study pointed out some problems with the design of the failed replication. In our study, we therefore aimed to replicate the \u201cGoogle Stroop effect\u201d with a research design closer to the original experiment. Our results revealed no conclusive evidence in favor of the notion that the concept of the Internet or internet access (via computers or smartphones) is automatically activated when participants are faced with hard trivia questions. We provide recommendations for follow-up research.",
+      "citationCount": 5,
+      "doi": "10.7717/peerj.10325",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/25e37f4993fd763e5610e5d378f53930ade539d0",
+      "venue": "PeerJ",
+      "journal": {
+        "name": "PeerJ",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "7d66a41ea1ca8beb1246ca26e8e85059fb694ab4",
+      "title": "Distinct and overlapping neural correlates of metacognitive monitoring and metacognitive control",
+      "authors": [
+        {
+          "name": "Annika Boldt",
+          "authorId": "3387192"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Metacognition describes the process of monitoring one\u2019s own mental states, often for the purpose of cognitive control. Previous research has investigated how metacognitive signals are generated (metacognitive monitoring), for example when people judge their confidence in their decisions and memories. Research has also investigated how these metacognitive signals are used to influence behavior (metacognitive control), for example setting a reminder (i.e. cognitive offloading) for something you are not confident you will remember. However, the mapping between metacognitive monitoring and metacognitive control has not been directly studied on a neural level. We used fMRI to investigate a delayed-intentions task with a reminder element, allowing participants to use their metacognitive insight to engage metacognitive control. Using multivariate pattern analysis, we found that we could separately decode both monitoring and control, and, to a lesser extent, cross-classify between them. Therefore, brain patterns associated with monitoring and control are partially, but not fully, overlapping.",
+      "citationCount": 2,
+      "doi": "10.31234/osf.io/3dz9b",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7d66a41ea1ca8beb1246ca26e8e85059fb694ab4",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "cce6e863d5408244284d97f5a13e8c9ab103ad01",
+      "title": "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking",
+      "authors": [
+        {
+          "name": "Michael Gerlich",
+          "authorId": "2238511627"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The proliferation of artificial intelligence (AI) tools has transformed numerous aspects of daily life, yet its impact on critical thinking remains underexplored. This study investigates the relationship between AI tool usage and critical thinking skills, focusing on cognitive offloading as a mediating factor. Utilising a mixed-method approach, we conducted surveys and in-depth interviews with 666 participants across diverse age groups and educational backgrounds. Quantitative data were analysed using ANOVA and correlation analysis, while qualitative insights were obtained through thematic analysis of interview transcripts. The findings revealed a significant negative correlation between frequent AI tool usage and critical thinking abilities, mediated by increased cognitive offloading. Younger participants exhibited higher dependence on AI tools and lower critical thinking scores compared to older participants. Furthermore, higher educational attainment was associated with better critical thinking skills, regardless of AI usage. These results highlight the potential cognitive costs of AI tool reliance, emphasising the need for educational strategies that promote critical engagement with AI technologies. This study contributes to the growing discourse on AI\u2019s cognitive implications, offering practical recommendations for mitigating its adverse effects on critical thinking. The findings underscore the importance of fostering critical thinking in an AI-driven world, making this research essential reading for educators, policymakers, and technologists.",
+      "citationCount": 368,
+      "doi": "10.3390/soc15010006",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cce6e863d5408244284d97f5a13e8c9ab103ad01",
+      "venue": "Societies",
+      "journal": {
+        "name": "Societies"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "392db8c24c2e7ab02063231ec32558f6d1d09302",
+      "title": "Dynamic Offloading in Mobile Edge Computing With Traffic-Aware Network Slicing and Adaptive TD3 Strategy",
+      "authors": [
+        {
+          "name": "Amin Mohajer",
+          "authorId": "2322599564"
+        },
+        {
+          "name": "Javad Hajipour",
+          "authorId": "3332781"
+        },
+        {
+          "name": "V. Leung",
+          "authorId": "2292841223"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Network slicing and computation offloading play a pivotal role in enabling edge service providers to handle dynamic service demands effectively. However, traffic fluctuations and resource diversity pose significant challenges, often constrained by static configurations lacking flexibility. To overcome these limitations, this letter presents FlexSlice, a dynamic offloading framework designed to optimize resource allocation in mobile edge networks. Our approach leverages a sparse multi-head graph attention mechanism for precise traffic prediction, capturing complex spatio-temporal dependencies to enhance network slicing decisions. Additionally, we present an adaptive offloading strategy based on the twin delayed deep deterministic policy gradient algorithm, which incorporates twin critics and prioritized experience replay to improve decision-making under dynamic conditions. Simulation results confirm FlexSlice\u2019s outstanding performance and adaptability in diverse operational scenarios, achieving higher profits and reliable quality of service.",
+      "citationCount": 71,
+      "doi": "10.1109/LCOMM.2024.3501956",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/392db8c24c2e7ab02063231ec32558f6d1d09302",
+      "venue": "IEEE Communications Letters",
+      "journal": {
+        "name": "IEEE Communications Letters",
+        "pages": "95-99",
+        "volume": "29"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "bd04f581fcba24749aa8ba35c5ccaf29b3ac43d0",
+      "title": "UAV-Assisted Task Offloading in Vehicular Edge Computing Networks",
+      "authors": [
+        {
+          "name": "Xingxia Dai",
+          "authorId": "1573676614"
+        },
+        {
+          "name": "Zhu Xiao",
+          "authorId": "2116551184"
+        },
+        {
+          "name": "Hongbo Jiang",
+          "authorId": "40062947"
+        },
+        {
+          "name": "John C.S. Lui",
+          "authorId": "145462046"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Vehicular edge computing (VEC) provides an effective task offloading paradigm by pushing cloud resources to the vehicular network edges, e.g., road side units (RSUs). However, overloaded RSUs are likely to occur especially in urban aggregation areas, possibly leading to greatly compromised offloading performance. Inspired by this, this article explores this situation by introducing an unmanned aerial vehicle (UAV) to address the VEC overload problem. Specifically, we formulate a novel online UAV-assisted vehicular task offloading problem to minimize vehicular task delay under the long-term UAV energy constraint. To solve the formulated problem, we first decouple the long-term energy constraint based on the Lyapunov optimization technique. In this way, the problem can be solved in a real-time manner without requiring future information. Then, we construct a Markov chain based on Markov approximation optimization to find out the close-to-optimal UAV-assisted offloading strategies. Furthermore, we derive a mathematical analysis to rigorously demonstrate the offloading performance of the proposed algorithm. Additionally, the simulation results show that the proposed method outperforms the baselines by significantly reducing the vehicular task delay constrained by the long-term UAV energy budget under various system parameters, such as the energy budget and computation workloads.",
+      "citationCount": 192,
+      "doi": "10.1109/TMC.2023.3259394",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/bd04f581fcba24749aa8ba35c5ccaf29b3ac43d0",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "journal": {
+        "name": "IEEE Transactions on Mobile Computing",
+        "pages": "2520-2534",
+        "volume": "23"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "b768560e61eaaeb0e244890c409c9663325e826b",
+      "title": "Multi-UAV Cooperative Task Offloading and Resource Allocation in 5G Advanced and Beyond",
+      "authors": [
+        {
+          "name": "Hongzhi Guo",
+          "authorId": "2175959"
+        },
+        {
+          "name": "Yutao Wang",
+          "authorId": "2108071212"
+        },
+        {
+          "name": "Jiajia Liu",
+          "authorId": "48211895"
+        },
+        {
+          "name": "Chang Liu",
+          "authorId": "2155645039"
+        }
+      ],
+      "year": 2024,
+      "abstract": "In 5G advanced and beyond, latency-critical and computation-intensive applications require more communication and computing resources. However, remote areas without available terrestrial edge/cloud infrastructure fail to satisfy these applications\u2019 demands. This motivates the emergence of the UAV-enabled aerial computing paradigm. Single UAV-enabled aerial computing (SUEAC) is limited by small coverage area and insufficient resources, which cannot meet the application requirements. Multiple UAV-enabled aerial computing (MUEAC) has broken through the limitation of SUEAC and has attracted wide attention. Cooperation among multiple UAVs in MUEAC can fully utilize UAV resources and achieve load balancing. Furthermore, for divisible tasks with data-dependent characteristics, using partial offloading makes task scheduling more flexible compared to binary offloading, thus reducing task processing delay. Therefore, we propose a software defined networking enhanced cooperative MUEAC system. To minimize the processing delay of divisible tasks, we study the problem of joint task scheduling and computing resource allocation under task data dependency and UAV energy consumption constraints. To solve the non-convex problem, a multi-UAV cooperative communication and computing optimization (MCCCO) scheme is proposed. Experimental results corroborate that MCCCO can achieve better performance in task processing delay reduction and load balancing on UAV energy consumption than the traditional schemes.",
+      "citationCount": 136,
+      "doi": "10.1109/TWC.2023.3277801",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b768560e61eaaeb0e244890c409c9663325e826b",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "journal": {
+        "name": "IEEE Transactions on Wireless Communications",
+        "pages": "347-359",
+        "volume": "23"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "5826e6f73b28a004d4d5be15b18789e5d4e8d15e",
+      "title": "MADDPG-Based Joint Service Placement and Task Offloading in MEC Empowered Air\u2013Ground Integrated Networks",
+      "authors": [
+        {
+          "name": "Ieee Jianbo Du Member",
+          "authorId": "2290303405"
+        },
+        {
+          "name": "Ziwen Kong",
+          "authorId": "2261505987"
+        },
+        {
+          "name": "Aijing Sun",
+          "authorId": "2125237957"
+        },
+        {
+          "name": "Ieee Jiawen Kang Senior Member",
+          "authorId": "2290303159"
+        },
+        {
+          "name": "Ieee Dusit Niyato Fellow",
+          "authorId": "2290303407"
+        },
+        {
+          "name": "Ieee F. Richard Yu Fellow",
+          "authorId": "2285781983"
+        },
+        {
+          "name": "XiaoliChuiswith",
+          "authorId": "2290303331"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Multiaccess edge computing (MEC) empowered air\u2013ground integrated networks (AGINs) hold great promise in delivering accessible computing services for users and Internet of Things (IoT) applications, such as forest fire monitoring, emergency rescue operations, etc. In this article, we present a comprehensive air\u2013ground integrated MEC framework, where edge servers carried by unmanned aerial vehicles (UAVs) will provide efficient computation services to IoT devices and user equipment (UE) (which are collectively referred to as UEs). We aim to minimize the long-term average weighted sum of task completion delay and economic expenditure for all the UEs. This objective is achieved through various strategies, including preinstalling new service instances into UAVs, removing idle service instances from UAVs, task offloading decision making, access control, selecting appropriate service instances for each offloaded service request, and resource allocation optimization. Considering the complexity of the problem and the dynamics of the system, we reformulate the problem as a Markov decision process (MDP) and present a multiagent deep deterministic policy gradient (MADDPG)-based algorithm to enable low-complexity and real-time adaptive decision-making. Since our problem contains integer, binary and continuous variables, it is not straightforward to apply the MADDPG algorithm. Specifically, we first normalize the continuous variables, and then convert the continuous output generated by MADDPG into discrete variables, while ensuring the coupling constraints between different variables are preserved. The simulation results demonstrate the fast convergence of our proposed algorithm and its superior performance in minimizing costs compared with the baseline algorithms.",
+      "citationCount": 119,
+      "doi": "10.1109/JIOT.2023.3326820",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5826e6f73b28a004d4d5be15b18789e5d4e8d15e",
+      "venue": "IEEE Internet of Things Journal",
+      "journal": {
+        "name": "IEEE Internet of Things Journal",
+        "pages": "10600-10615",
+        "volume": "11"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "799d56e08f2db61570105fa7b768f41cdeda7326",
+      "title": "MESON: A Mobility-Aware Dependent Task Offloading Scheme for Urban Vehicular Edge Computing",
+      "authors": [
+        {
+          "name": "Liang Zhao",
+          "authorId": "144010790"
+        },
+        {
+          "name": "Enchao Zhang",
+          "authorId": "2202431896"
+        },
+        {
+          "name": "Shaohua Wan",
+          "authorId": "2112899620"
+        },
+        {
+          "name": "Ammar Hawbani",
+          "authorId": "2119430859"
+        },
+        {
+          "name": "A. Al-Dubai",
+          "authorId": "102161257"
+        },
+        {
+          "name": "Geyong Min",
+          "authorId": "2165744386"
+        },
+        {
+          "name": "Albert Y. Zomaya",
+          "authorId": "9392149"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Vehicular Edge Computing (VEC) is the transportation version of Mobile Edge Computing (MEC) in road scenarios. One key technology of VEC is task offloading, which allows vehicles to send their computation tasks to the surrounding Roadside Units (RSUs) or other vehicles for execution, thereby reducing computation delay and energy consumption. However, the existing task offloading schemes still have various gaps and face challenges that should be addressed because vehicles with time-varying trajectories need to process massive data with high complexity and diversity. In this paper, a VEC-based computation offloading model is developed with consideration of data dependency of tasks. The minimization of the average response time and average energy consumption of the system is defined as a combinatorial optimization problem. To solve this problem, we propose a Mobility-aware dependent task offloading (MESON) Scheme for urban VEC and develop a DRL-based algorithm to train the offloading strategy. To improve the training efficiency, a vehicle mobility detection algorithm is further designed to detect the communication time between vehicles and RSUs. In this way, MESON can avoid unreasonable decisions by lowering the size of the action space. Moreover, to improve the system stability and the offloading successful rate, we design a task priority determination scheme to prioritize the tasks in the waiting queue. The experimental results show that MESON is superior compared to other task offloading schemes in terms of the average response time, average system energy consumption, and offloading successful rate.",
+      "citationCount": 112,
+      "doi": "10.1109/TMC.2023.3289611",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/799d56e08f2db61570105fa7b768f41cdeda7326",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "journal": {
+        "name": "IEEE Transactions on Mobile Computing",
+        "pages": "4259-4272",
+        "volume": "23"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "6973ca6e6f2bf5563c63b1c9adb8f19367f83efe",
+      "title": "Federated Learning for Computational Offloading and Resource Management of Vehicular Edge Computing in 6G-V2X Network",
+      "authors": [
+        {
+          "name": "M. Hasan",
+          "authorId": "2243291313"
+        },
+        {
+          "name": "Nusrat Jahan",
+          "authorId": "2281489536"
+        },
+        {
+          "name": "Mohd Zakree Ahmad Nazri",
+          "authorId": "2248368206"
+        },
+        {
+          "name": "S. Islam",
+          "authorId": "143818808"
+        },
+        {
+          "name": "Muhammad Attique Khan",
+          "authorId": "2299189190"
+        },
+        {
+          "name": "A. Alzahrani",
+          "authorId": "1820423"
+        },
+        {
+          "name": "Nasser Alalwan",
+          "authorId": "2149570"
+        },
+        {
+          "name": "Yunyoung Nam",
+          "authorId": "145866582"
+        }
+      ],
+      "year": 2024,
+      "abstract": "The Sixth Generation network (6G) can support autonomous driving along with various vehicular applications like Vehicular Edge Computing (VEC), a distributed computing architecture for connected autonomous vehicles. Computational offloading and resource management of Vehicular Edge Computing can help sort out some issues, such as high communication costs, privacy protection, an excessively long training process, etc., by proposing an efficient training model of the Federated Learning for computational offloading and resource management in a vehicular environment. Two research issues are highlighted in this paper. One problem is related to the current offloading system: the smart structure and operating system. Consistent access to cloud computing services, regardless of the installed operating system or used hardware, is still challenging. Another issue is related to security and privacy. Security and privacy are two important features that should be maintained in cloud data centers and data transmission during offloading and resource management. In this survey paper, a system is going to be proposed which will give a partial solution for these issues. The proposed solution, which is found while conducting this review, offers a system that can train a model and help update the edge devices\u2019 information. The entire edge cloud system can provide updated information for edge devices and can solve the difficulties of getting some key information necessary for model-related optimization. This also can enhance the effectiveness of the frameworks of the 6G-V2X network for communication.",
+      "citationCount": 115,
+      "doi": "10.1109/TCE.2024.3357530",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6973ca6e6f2bf5563c63b1c9adb8f19367f83efe",
+      "venue": "IEEE transactions on consumer electronics",
+      "journal": {
+        "name": "IEEE Transactions on Consumer Electronics",
+        "pages": "3827-3847",
+        "volume": "70"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

@@ -1,0 +1,1664 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "cyborg hypothesis digital technology",
+  "results": [
+    {
+      "openalex_id": "W2562199918",
+      "doi": "10.3389/frobt.2016.00074",
+      "title": "Enhancing Our Lives with Immersive Virtual Reality",
+      "authors": [
+        {
+          "name": "Mel Slater",
+          "openalex_id": "A5073802250",
+          "orcid": "https://orcid.org/0000-0002-6223-0050",
+          "institutions": [
+            "University College London",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Mar\u00eda V. S\u00e1nchez-Vives",
+          "openalex_id": "A5019304045",
+          "orcid": "https://orcid.org/0000-0002-8437-9083",
+          "institutions": [
+            "Universitat de Barcelona",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "Consorci Institut D'Investigacions Biomediques August Pi I Sunyer"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-19",
+      "abstract": "OPINION article Front. Robot. AI, 19 December 2016Sec. Virtual Environments Volume 3 - 2016 | https://doi.org/10.3389/frobt.2016.00074",
+      "cited_by_count": 1636,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Robotics and AI",
+        "type": "journal",
+        "issn": [
+          "2296-9144"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/frobt.2016.00074/pdf"
+      },
+      "topics": [
+        "Virtual Reality Applications and Impacts",
+        "Augmented Reality Applications",
+        "Human-Automation Interaction and Safety"
+      ],
+      "referenced_works_count": 400,
+      "url": "https://openalex.org/W2562199918"
+    },
+    {
+      "openalex_id": "W2563852449",
+      "doi": "10.3389/fdata.2019.00013",
+      "title": "Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+      "authors": [
+        {
+          "name": "Alexandra Olteanu",
+          "openalex_id": "A5103216912",
+          "orcid": "https://orcid.org/0000-0001-5710-4511",
+          "institutions": [
+            "Microsoft (United States)",
+            "Microsoft Research Montr\u00e9al (Canada)",
+            "Microsoft Research New York City (United States)",
+            "Microsoft (Canada)"
+          ]
+        },
+        {
+          "name": "Carlos Castillo",
+          "openalex_id": "A5084282503",
+          "orcid": "https://orcid.org/0000-0003-4544-0416",
+          "institutions": [
+            "Pompeu Fabra University"
+          ]
+        },
+        {
+          "name": "Fernando D\u00edaz",
+          "openalex_id": "A5101492251",
+          "orcid": "https://orcid.org/0000-0003-2345-1288",
+          "institutions": [
+            "Microsoft Research Montr\u00e9al (Canada)",
+            "Microsoft (Canada)"
+          ]
+        },
+        {
+          "name": "Emre K\u0131c\u0131man",
+          "openalex_id": "A5079458476",
+          "orcid": "https://orcid.org/0000-0001-5429-468X",
+          "institutions": [
+            "Microsoft (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-11",
+      "abstract": "Social data in digital form-including user-generated content, expressed or implicit relations between people, and behavioral traces-are at the core of popular applications and platforms, driving the research agenda of many researchers. The promises of social data are many, including understanding \"what the world thinks\" about a social issue, brand, celebrity, or other entity, as well as enabling better decision-making in a variety of fields including public policy, healthcare, and economics. Many academics and practitioners have warned against the na\u00efve usage of social data. There are biases and inaccuracies occurring at the source of the data, but also introduced during processing. There are methodological limitations and pitfalls, as well as ethical boundaries and unexpected consequences that are often overlooked. This paper recognizes the rigor with which these issues are addressed by different researchers varies across a wide range. We identify a variety of menaces in the practices around social data use, and organize them in a framework that helps to identify them. \"<i>For your own sanity, you have to remember that not all problems can be solved. Not all problems can be solved, but all problems can be illuminated.\" -Ursula Franklin</i>.",
+      "cited_by_count": 688,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Big Data",
+        "type": "journal",
+        "issn": [
+          "2624-909X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/pdf"
+      },
+      "topics": [
+        "Privacy, Security, and Data Protection",
+        "Human Mobility and Location-Based Analysis",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 337,
+      "url": "https://openalex.org/W2563852449"
+    },
+    {
+      "openalex_id": "W4294577541",
+      "doi": "10.1108/978-1-80382-419-220221005",
+      "title": "Robots and Artificial Intelligence (AI) in Digital Capitalism",
+      "authors": [
+        {
+          "name": "Christian Fuchs",
+          "openalex_id": "A5060268505",
+          "orcid": "https://orcid.org/0000-0003-0589-4579",
+          "institutions": [
+            "Paderborn University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-09-05",
+      "abstract": "Abstract This essay asks: How can we understand and theorise the impacts of robots and Artificial Intelligence (AI) on everyday life based on Radical Humanism? How can Lefebvre's ideas be used to reveal the ideological character of contemporary accounts of the impacts of robots and AI on society? It engages with rather unknown works of the Radical Humanist Henri Lefebvre on the sociology and philosophy of technology such as Vers le cybernanthrope (Towards the Cybernanthrope). Foundations of a Lefebvrian, dialectical, Radical Humanist approach to the sociology and philosophy of technology are presented. This essay introduces Lefebvre's notion of the cybernanthrope and sets it in relation to robots and AI in contemporary society. Based on Lefebvre's critique of the cybernanthrope, this chapter develops foundations of the ideology critique of robots and AI in digital capitalism. It discusses examples of technological deterministic and social constructivist thought in the context of robotics, AI, and cyborgs and argues for an alternative, Lefebvrian, dialectical approach. This essay situates Humanism in the context of computing, AI and robotics. The chapter advances a Lefebvrian Radical Humanism by engaging in analyses of AI and robots in Post-humanism, Transhumanism, techno-deterministic approaches, social construction of technology approaches, techno-optimism, techno-pessimism, acceleratonism, the mass unemployment hypothesis and Spike Jonze's movie Her. This chapter shows that the major lesson we can learn from the Radical Humanist sociology of technology and Henri Lefebvre's works on technology is that Radical Humanism helps creating and sustaining technologies for the many, not the few. This insight remains of high relevance in the age of digital capitalism, smart robots and AI.",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Digital Economy and Work Transformation",
+        "Economic Development and Digital Transformation",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4294577541"
+    },
+    {
+      "openalex_id": "W1777949350",
+      "doi": null,
+      "title": "Envisioning Cyborg Hybridity Through Performance Art: A Case Study of Stelarc and His Exploration of Humanity in the Digital Age",
+      "authors": [
+        {
+          "name": "Cara Hunt",
+          "openalex_id": "A5008338714",
+          "orcid": "https://orcid.org/0000-0002-6443-5877"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "In this paper I argue that artistic representation has historically been and continues to be a valuable medium for envisioning new bodily forms and for raising important questions regarding changes in what it means to be human in an era of rapid technological advancement. I make this claim using Stelarc, an eccentric Australian performance artist, as a case study. Stelarc\u2019s artistic exploration of the modern-day cyborg enacts and represents philosophical and ontological concepts such as identity, hybridity, and embodiment that are subject to change in the digital age. In order to arrive at this claim, Chapter 1 will trace the cyborg back to its use in 20th century Dada art. I do this to demonstrate how artists have historically depicted shifts in human subjectivities along with their changing technological landscapes. In Chapter 2, I define more precisely what the \u201ccyborg\u201d means for the 21st century and outline a selection of cyborg narratives pertaining to futurist lines of thought. Here I introduce Donna Haraway\u2019s conception of the cyborg but return to it more extensively in Chapter 3. Chapter 3 examines the scientific and philosophical context of Stelarc, beginning with a discussion of the Extended Mind Hypothesis as a neurological background or frame of reference for his art. It continues with a close look at Haraway\u2019s Cyborg Manifesto as a philosophical foundation that Stelarc engages with in his performance pieces. Chapter 4 gives a thorough background on Stelarc and the central themes he explores throughout his work. Chapter 5 closely analyzes two of his pieces, Prosthetic Head and Ear on Arm, in order to explore how his art both enacts and moves beyond Haraway\u2019s cyborg as he questions and blurs notions of embodiment, awareness, prosthesis, and \u2018natural.\u2019 Chapter 6 summarizes my argument and concludes with remarks about the importance of Stelarc, our relationship to technology, and the new technological implications of what it means to be human.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Vassar Scholarship (Vassar College)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalwindow.vassar.edu/senior_capstone/400"
+      },
+      "topics": [
+        "Art, Technology, and Culture"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1777949350"
+    },
+    {
+      "openalex_id": "W2753241397",
+      "doi": "10.1177/0894439317734157",
+      "title": "The Brexit Botnet and User-Generated Hyperpartisan News",
+      "authors": [
+        {
+          "name": "Marco Bastos",
+          "openalex_id": "A5091329809",
+          "orcid": "https://orcid.org/0000-0003-0480-1078",
+          "institutions": [
+            "City, University of London"
+          ]
+        },
+        {
+          "name": "Dan Mercea",
+          "openalex_id": "A5046048465",
+          "orcid": "https://orcid.org/0000-0003-3762-2404",
+          "institutions": [
+            "City, University of London"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-10-10",
+      "abstract": "In this article, we uncover a network of Twitterbots comprising 13,493 accounts that tweeted the United Kingdom European Union membership referendum, only to disappear from Twitter shortly after the ballot. We compare active users to this set of political bots with respect to temporal tweeting behavior, the size and speed of retweet cascades, and the composition of their retweet cascades (user-to-bot vs. bot-to-bot) to evidence strategies for bot deployment. Our results move forward the analysis of political bots by showing that Twitterbots can be effective at rapidly generating small- to medium-sized cascades; that the retweeted content comprises user-generated hyperpartisan news, which is not strictly fake news, but whose shelf life is remarkably short; and, finally, that a botnet may be organized in specialized tiers or clusters dedicated to replicating either active users or content generated by other bots.",
+      "cited_by_count": 408,
+      "type": "article",
+      "source": {
+        "name": "Social Science Computer Review",
+        "type": "journal",
+        "issn": [
+          "0894-4393",
+          "1552-8286"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/0894439317734157"
+      },
+      "topics": [
+        "Spam and Phishing Detection",
+        "Misinformation and Its Impacts",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W2753241397"
+    },
+    {
+      "openalex_id": "W2886021352",
+      "doi": "10.1007/s13347-018-0321-7",
+      "title": "Homo faber Revisited: Postphenomenology and Material Engagement Theory",
+      "authors": [
+        {
+          "name": "Don Ihde",
+          "openalex_id": "A5001329544",
+          "institutions": [
+            "Stony Brook University"
+          ]
+        },
+        {
+          "name": "Lambros Malafouris",
+          "openalex_id": "A5063140141",
+          "orcid": "https://orcid.org/0000-0003-2140-4998",
+          "institutions": [
+            "Oxford Archaeology",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-07-30",
+      "abstract": null,
+      "cited_by_count": 201,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs13347-018-0321-7.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Innovative Human-Technology Interaction",
+        "Space Science and Extraterrestrial Life"
+      ],
+      "referenced_works_count": 152,
+      "url": "https://openalex.org/W2886021352"
+    },
+    {
+      "openalex_id": "W3174659208",
+      "doi": "10.1002/mar.21532",
+      "title": "Examining the effects of robots' physical appearance, warmth, and competence in frontline services: The Humanness\u2010Value\u2010Loyalty model",
+      "authors": [
+        {
+          "name": "Daniel Belanche",
+          "openalex_id": "A5074579561",
+          "orcid": "https://orcid.org/0000-0002-2291-1409",
+          "institutions": [
+            "Universidad de Zaragoza"
+          ]
+        },
+        {
+          "name": "Luis V. Casal\u00f3",
+          "openalex_id": "A5112656539",
+          "institutions": [
+            "Universidad de Zaragoza"
+          ]
+        },
+        {
+          "name": "Jeroen Schepers",
+          "openalex_id": "A5015476482",
+          "orcid": "https://orcid.org/0000-0003-0270-1348",
+          "institutions": [
+            "Eindhoven University of Technology"
+          ]
+        },
+        {
+          "name": "Carlos Flavi\u00e1n",
+          "openalex_id": "A5044113079",
+          "orcid": "https://orcid.org/0000-0001-7118-9013",
+          "institutions": [
+            "Universidad de Zaragoza"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-06-28",
+      "abstract": "Abstract Because of continuous improvements in their underlying technologies, customers perceive frontline robots as social actors with a high level of humanness, both in appearance and behavior. Advancing from mere theoretical contributions to this study field, this article proposes and empirically validates the humanness\u2010value\u2010loyalty model (HVL model). This study analyzes to what extent robots' perceived physical human\u2010likeness, perceived competence, and perceived warmth affect customers' service value expectations and, subsequently, their loyalty intentions. Following two pretests to select the most suitable robots and ensure scenario realism, data were collected by means of a vignette experimental study and analyzed using the partial least squares method. The results reveal that human\u2010likeness positively affects four dimensions of service value expectations. Perceived competence of the robot influences mainly utilitarian expectations (i.e., functional and monetary value), while perceived warmth influences relational expectations (i.e., emotional value). Interestingly, and contrary to theoretical predictions, the influence of the robot's warmth on service value expectations is more pronounced for customers with a lower need for social interaction. In sum, this study contributes to a better understanding of customers' reactions to artificial intelligence\u2010enabled technologies with humanized cognitive capabilities and also suggests interesting research avenues to advance on this emerging field.",
+      "cited_by_count": 311,
+      "type": "article",
+      "source": {
+        "name": "Psychology and Marketing",
+        "type": "journal",
+        "issn": [
+          "0742-6046",
+          "1520-6793"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mar.21532"
+      },
+      "topics": [
+        "Digital Marketing and Social Media",
+        "AI in Service Interactions",
+        "Customer Service Quality and Loyalty"
+      ],
+      "referenced_works_count": 134,
+      "url": "https://openalex.org/W3174659208"
+    },
+    {
+      "openalex_id": "W2468329802",
+      "doi": "10.1177/2053951716654173",
+      "title": "Understanding the promises and premises of online health platforms",
+      "authors": [
+        {
+          "name": "Jos\u00e9 van Dijck",
+          "openalex_id": "A5031080224",
+          "orcid": "https://orcid.org/0000-0003-0499-9045",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Thomas Poell",
+          "openalex_id": "A5086699307",
+          "orcid": "https://orcid.org/0000-0002-3664-2588",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-01",
+      "abstract": "This article investigates the claims and complexities involved in the platform-based economics of health and fitness apps. We examine a double-edged logic inscribed in these platforms, promising to offer personal solutions to medical problems while also contributing to the public good. On the one hand, online platforms serve as personalized data-driven services to their customers. On the other hand, they allegedly serve public interests, such as medical research or health education. In doing so, many apps employ a diffuse discourse, hinging on terms like \u201csharing,\u201d \u201copen,\u201d and \u201creuse\u201d when they talk about data extraction and distribution. The analytical approach we adopt in this article is situated at the nexus of science and technology studies, political economy, and the sociology of health and illness. The analysis concentrates on two aspects: datafication (the use and reuse of data) and commodification (a platform\u2019s deployment of governance and business models). We apply these analytical categories to three specific platforms: 23andMe, PatientsLikeMe, and Parkinson mPower. The last section will connect these individual examples to the wider implications of health apps\u2019 data flows, governance policies, and business models. Regulatory bodies commonly focus on the (medical) safety and security of apps, but pay scarce attention to health apps\u2019 techno-economic governance. Who owns user-generated health data and who gets to benefit? We argue that it is important to reflect on the societal implications of health data markets. Governments have the duty to provide conceptual clarity in the grand narrative of transforming health care and health research.",
+      "cited_by_count": 232,
+      "type": "article",
+      "source": {
+        "name": "Big Data & Society",
+        "type": "journal",
+        "issn": [
+          "2053-9517"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/2053951716654173"
+      },
+      "topics": [
+        "Mobile Health and mHealth Applications",
+        "Sexuality, Behavior, and Technology",
+        "Privacy, Security, and Data Protection"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2468329802"
+    },
+    {
+      "openalex_id": "W3047117292",
+      "doi": "10.1007/s13347-020-00415-6",
+      "title": "The Whiteness of AI",
+      "authors": [
+        {
+          "name": "Stephen Cave",
+          "openalex_id": "A5073091913",
+          "orcid": "https://orcid.org/0000-0002-0764-0874",
+          "institutions": [
+            "Leverhulme Trust",
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Kanta Dihal",
+          "openalex_id": "A5065865972",
+          "orcid": "https://orcid.org/0000-0003-2292-7221",
+          "institutions": [
+            "Leverhulme Trust",
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-06",
+      "abstract": "Abstract This paper focuses on the fact that AI is predominantly portrayed as white\u2014in colour, ethnicity, or both. We first illustrate the prevalent Whiteness of real and imagined intelligent machines in four categories: humanoid robots, chatbots and virtual assistants, stock images of AI, and portrayals of AI in film and television. We then offer three interpretations of the Whiteness of AI, drawing on critical race theory, particularly the idea of the White racial frame. First, we examine the extent to which this Whiteness might simply reflect the predominantly White milieus from which these artefacts arise. Second, we argue that to imagine machines that are intelligent, professional, or powerful is to imagine White machines because the White racial frame ascribes these attributes predominantly to White people. Third, we argue that AI racialised as White allows for a full erasure of people of colour from the White utopian imaginary. Finally, we examine potential consequences of the racialisation of AI, arguing it could exacerbate bias and misdirect concern.",
+      "cited_by_count": 229,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13347-020-00415-6.pdf"
+      },
+      "topics": [
+        "Gender, Feminism, and Media",
+        "Youth Education and Societal Dynamics",
+        "Social and Intergroup Psychology"
+      ],
+      "referenced_works_count": 81,
+      "url": "https://openalex.org/W3047117292"
+    },
+    {
+      "openalex_id": "W3113822795",
+      "doi": "10.1038/s41467-021-25329-5",
+      "title": "Self-assembling human heart organoids for the modeling of cardiac development and congenital heart disease",
+      "authors": [
+        {
+          "name": "Yonatan R. Lewis\u2010Israeli",
+          "openalex_id": "A5059507554",
+          "orcid": "https://orcid.org/0000-0001-9993-0707",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Aaron H. Wasserman",
+          "openalex_id": "A5038807890",
+          "orcid": "https://orcid.org/0000-0002-0428-9089",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Mitchell A. Gabalski",
+          "openalex_id": "A5071696283",
+          "orcid": "https://orcid.org/0000-0002-4561-4263",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Brett Volmert",
+          "openalex_id": "A5029958365",
+          "orcid": "https://orcid.org/0000-0002-5209-4833",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Yixuan Ming",
+          "openalex_id": "A5091486117",
+          "orcid": "https://orcid.org/0000-0002-7715-5807",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Kristen Ball",
+          "openalex_id": "A5007912174",
+          "orcid": "https://orcid.org/0000-0002-1883-4391",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Weiyang Yang",
+          "openalex_id": "A5038024579",
+          "orcid": "https://orcid.org/0000-0003-2502-3359",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Jinyun Zou",
+          "openalex_id": "A5079722900",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Guangming Ni",
+          "openalex_id": "A5035314833",
+          "orcid": "https://orcid.org/0000-0002-4516-256X",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Natalia Pajares",
+          "openalex_id": "A5009128459",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Xanthippi Chatzistavrou",
+          "openalex_id": "A5072046928",
+          "orcid": "https://orcid.org/0000-0001-5340-0153",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Wen Li",
+          "openalex_id": "A5100320306",
+          "orcid": "https://orcid.org/0000-0002-6862-8561",
+          "institutions": [
+            "Michigan State University"
+          ]
+        },
+        {
+          "name": "Chao Zhou",
+          "openalex_id": "A5009122132",
+          "orcid": "https://orcid.org/0000-0002-8679-3413",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Aitor Aguirre",
+          "openalex_id": "A5046371104",
+          "orcid": "https://orcid.org/0000-0002-1383-2792",
+          "institutions": [
+            "Michigan State University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-26",
+      "abstract": "Abstract Congenital heart defects constitute the most common human birth defect, however understanding of how these disorders originate is limited by our ability to model the human heart accurately in vitro. Here we report a method to generate developmentally relevant human heart organoids by self-assembly using human pluripotent stem cells. Our procedure is fully defined, efficient, reproducible, and compatible with high-content approaches. Organoids are generated through a three-step Wnt signaling modulation strategy using chemical inhibitors and growth factors. Heart organoids are comparable to age-matched human fetal cardiac tissues at the transcriptomic, structural, and cellular level. They develop sophisticated internal chambers with well-organized multi-lineage cardiac cell types, recapitulate heart field formation and atrioventricular specification, develop a complex vasculature, and exhibit robust functional activity. We also show that our organoid platform can recreate complex metabolic disorders associated with congenital heart defects, as demonstrated by an in vitro model of pregestational diabetes-induced congenital heart defects.",
+      "cited_by_count": 432,
+      "type": "article",
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "issn": [
+          "2041-1723"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41467-021-25329-5.pdf"
+      },
+      "topics": [
+        "Congenital heart defects research",
+        "Tissue Engineering and Regenerative Medicine",
+        "Pluripotent Stem Cells Research"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W3113822795"
+    },
+    {
+      "openalex_id": "W3014246070",
+      "doi": "10.1136/medethics-2019-105860",
+      "title": "Primer on an ethics of AI-based decision support systems in the clinic",
+      "authors": [
+        {
+          "name": "Matthias Braun",
+          "openalex_id": "A5011693562",
+          "orcid": "https://orcid.org/0000-0002-6687-6027",
+          "institutions": [
+            "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg"
+          ]
+        },
+        {
+          "name": "Patrik Hummel",
+          "openalex_id": "A5034828275",
+          "orcid": "https://orcid.org/0000-0001-9668-0810",
+          "institutions": [
+            "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg"
+          ]
+        },
+        {
+          "name": "Susanne Beck",
+          "openalex_id": "A5070032669",
+          "orcid": "https://orcid.org/0000-0002-7856-8072",
+          "institutions": [
+            "Leibniz University Hannover"
+          ]
+        },
+        {
+          "name": "Peter Dabrock",
+          "openalex_id": "A5062404160",
+          "orcid": "https://orcid.org/0000-0001-6928-9912",
+          "institutions": [
+            "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-03",
+      "abstract": "Making good decisions in extremely complex and difficult processes and situations has always been both a key task as well as a challenge in the clinic and has led to a large amount of clinical, legal and ethical routines, protocols and reflections in order to guarantee fair, participatory and up-to-date pathways for clinical decision-making. Nevertheless, the complexity of processes and physical phenomena, time as well as economic constraints and not least further endeavours as well as achievements in medicine and healthcare continuously raise the need to evaluate and to improve clinical decision-making. This article scrutinises if and how clinical decision-making processes are challenged by the rise of so-called artificial intelligence-driven decision support systems (AI-DSS). In a first step, this article analyses how the rise of AI-DSS will affect and transform the modes of interaction between different agents in the clinic. In a second step, we point out how these changing modes of interaction also imply shifts in the conditions of trustworthiness, epistemic challenges regarding transparency, the underlying normative concepts of agency and its embedding into concrete contexts of deployment and, finally, the consequences for (possible) ascriptions of responsibility. Third, we draw first conclusions for further steps regarding a \u2018meaningful human control\u2019 of clinical AI-DSS.",
+      "cited_by_count": 213,
+      "type": "article",
+      "source": {
+        "name": "Journal of Medical Ethics",
+        "type": "journal",
+        "issn": [
+          "0306-6800",
+          "1473-4257"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://jme.bmj.com/content/medethics/47/12/e3.full.pdf"
+      },
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Ethics in Clinical Research",
+        "Ethics in medical practice"
+      ],
+      "referenced_works_count": 60,
+      "url": "https://openalex.org/W3014246070"
+    },
+    {
+      "openalex_id": "W2981661484",
+      "doi": "10.3389/fpsyg.2019.02523",
+      "title": "Memory: An Extended Definition",
+      "authors": [
+        {
+          "name": "Gregorio Zlotnik",
+          "openalex_id": "A5036525901"
+        },
+        {
+          "name": "Aaron Vansintjan",
+          "openalex_id": "A5037592444",
+          "institutions": [
+            "Birkbeck, University of London"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-11-07",
+      "abstract": "Recent developments in science and technology point to the need to unify, and extend, the definition of memory. On the one hand, molecular neurobiology has shown that memory is largely a neuro-chemical process, which includes conditioning and any form of stored experience. On the other hand, information technology has led many to claim that cognition is also extended, that is, memory may be stored outside of the brain. In this paper, we review these advances and describe an extended definition of memory. This definition is largely accepted in neuroscience but not explicitly stated. In the extended definition, memory is the capacity to store and retrieve information. Does this new definition of memory mean that <i>everything</i> is now a form of memory? We stress that memory still requires incorporation, that is, <i>in corpore</i>. It is a relationship - where one biological or chemical process is incorporated into another, and changes both in a permanent way. Looking at natural and biological processes of incorporation can help us think of how incorporation of internal and external memory occurs in cognition. We further argue that, if we accept that there is such a thing as the storage of information outside the brain - and that this organic, dynamic process can also be called \"memory\" - then we open the door to a very different world. The mind is not static. The brain, and the memory it uses, is a work in progress; we are not now who we were then.",
+      "cited_by_count": 95,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02523/pdf"
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2981661484"
+    },
+    {
+      "openalex_id": "W3097208458",
+      "doi": "10.22521/edupij.2020.93.4",
+      "title": "Online Teaching Practices During the COVID-19 Pandemic",
+      "authors": [
+        {
+          "name": "Shaista Noor",
+          "openalex_id": "A5075945740",
+          "orcid": "https://orcid.org/0000-0001-6313-4151",
+          "institutions": [
+            "Taylor's University",
+            "Iqra University"
+          ]
+        },
+        {
+          "name": "Filzah Md Isa",
+          "openalex_id": "A5044572405",
+          "orcid": "https://orcid.org/0000-0002-1819-0661",
+          "institutions": [
+            "Taylor's University",
+            "Iqra University"
+          ]
+        },
+        {
+          "name": "Faizan Mazhar",
+          "openalex_id": "A5067115095",
+          "orcid": "https://orcid.org/0000-0002-2818-1179",
+          "institutions": [
+            "Iqra University",
+            "Taylor's University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-15",
+      "abstract": "The COVID-19 pandemic has had a remarkable economic impact worldwide, including in Pakistan, and was soon declared an international public health issue. The education sector in Pakistan, specifically school (K-12) education, has seen a staggering impact due to obstacles in delivering alternative forms of education during the pandemic. Educational institutions in Pakistan closed on March 13, 2020, and then, on April 13, 2020, the Ministry of Education, in collaboration with the Information and Broadcasting Ministry, announced the launch of a \u201ctele-schooling\u201d initiative. Teaching staff, who are arguably the most vital resource in any schooling system, faced considerable physical, mental, and financial challenges due to an overnight shift to an online mode of teaching, with issues concerning inadequate digital pedagogical knowledge and infrastructure limitations relating mostly to power connectivity. The current study investigated the perception of Pakistani school teachers regarding their online teaching practices during the COVID-19 pandemic. In the study, a qualitative research strategy was adopted, with semi-structured interviews conducted via Skype with 10 school teachers from Pakistan\u2019s renowned Army Public School and College System (APSACS) schools located in the Rawalpindi and Islamabad regions of the country. Saldana\u2019s (2016) structured inductive data analysis method was used in analyzing the collected data. The study\u2019s results highlighted the issues and challenges confronted by school teachers in delivering online lessons via Google Classroom, Zoom, and Microsoft Teams such as high-cost Internet packages, uncooperative learners, low attendance of learners, teachers\u2019 technology confidence, limited availability of educational resources, lack of ICT knowledge, and poor network infrastructure. However, the creativity, dedication, and community spirit which the school teachers demonstrated in working with very limited facilities were exemplary. Hence, based on the study\u2019s findings, changes were proposed as a way forward. It is hoped that the study\u2019s findings will help policymakers and the Ministry of Education in Pakistan to focus more on human capital development, interpersonal development, communication and technology management training, and support programs, especially for school teachers as the foundation of the next and future generations.",
+      "cited_by_count": 134,
+      "type": "article",
+      "source": {
+        "name": "Educational Process International Journal",
+        "type": "journal",
+        "issn": [
+          "2147-0901",
+          "2564-8020"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.22521/edupij.2020.93.4"
+      },
+      "topics": [
+        "COVID-19 and Mental Health",
+        "Technology-Enhanced Education Studies"
+      ],
+      "referenced_works_count": 24,
+      "url": "https://openalex.org/W3097208458"
+    },
+    {
+      "openalex_id": "W3199674596",
+      "doi": "10.1108/josm-12-2020-0435",
+      "title": "Service robots, agency and embarrassing service encounters",
+      "authors": [
+        {
+          "name": "Valentina Pitardi",
+          "openalex_id": "A5090763788",
+          "orcid": "https://orcid.org/0000-0001-7902-2330",
+          "institutions": [
+            "University of Portsmouth"
+          ]
+        },
+        {
+          "name": "Jochen Wirtz",
+          "openalex_id": "A5064998398",
+          "orcid": "https://orcid.org/0000-0002-6297-4498",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Stefanie Paluch",
+          "openalex_id": "A5015670881",
+          "orcid": "https://orcid.org/0000-0002-7478-4149",
+          "institutions": [
+            "RWTH Aachen University"
+          ]
+        },
+        {
+          "name": "Werner H. Kunz",
+          "openalex_id": "A5053767623",
+          "orcid": "https://orcid.org/0000-0001-6264-183X",
+          "institutions": [
+            "University of Massachusetts Boston"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-10-05",
+      "abstract": "Purpose Extant research mainly focused on potentially negative customer responses to service robots. In contrast, this study is one of the first to explore a service context where service robots are likely to be the preferred service delivery mechanism over human frontline employees. Specifically, the authors examine how customers respond to service robots in the context of embarrassing service encounters. Design/methodology/approach This study employs a mixed-method approach, whereby an in-depth qualitative study (study 1) is followed by two lab experiments (studies 2 and 3). Findings Results show that interactions with service robots attenuated customers' anticipated embarrassment. Study 1 identifies a number of factors that can reduce embarrassment. These include the perception that service robots have reduced agency (e.g. are not able to make moral or social judgements) and emotions (e.g. are not able to have feelings). Study 2 tests the base model and shows that people feel less embarrassed during a potentially embarrassing encounter when interacting with service robots compared to frontline employees. Finally, Study 3 confirms that perceived agency, but not emotion, fully mediates frontline counterparty (employee vs robot) effects on anticipated embarrassment. Practical implications Service robots can add value by reducing potential customer embarrassment because they are perceived to have less agency than service employees. This makes service robots the preferred service delivery mechanism for at least some customers in potentially embarrassing service encounters (e.g. in certain medical contexts). Originality/value This study is one of the first to examine a context where service robots are the preferred service delivery mechanism over human employees.",
+      "cited_by_count": 182,
+      "type": "article",
+      "source": {
+        "name": "Journal of service management",
+        "type": "journal",
+        "issn": [
+          "1757-5818",
+          "1757-5826"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.emerald.com/insight/content/doi/10.1108/JOSM-12-2020-0435/full/pdf?title=service-robots-agency-and-embarrassing-service-encounters"
+      },
+      "topics": [
+        "AI in Service Interactions",
+        "Social Robot Interaction and HRI",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W3199674596"
+    },
+    {
+      "openalex_id": "W2808102992",
+      "doi": "10.1007/s11948-018-00081-0",
+      "title": "Artificial Intelligence Crime: An Interdisciplinary Analysis of Foreseeable Threats and Solutions",
+      "authors": [
+        {
+          "name": "Thomas C. King",
+          "openalex_id": "A5072186507",
+          "orcid": "https://orcid.org/0000-0001-6610-8098",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Nikita Aggarwal",
+          "openalex_id": "A5036412233",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Mariarosaria Taddeo",
+          "openalex_id": "A5003032735",
+          "orcid": "https://orcid.org/0000-0002-1181-649X",
+          "institutions": [
+            "Turing Institute",
+            "University of Oxford",
+            "The Alan Turing Institute"
+          ]
+        },
+        {
+          "name": "Luciano Floridi",
+          "openalex_id": "A5046574356",
+          "orcid": "https://orcid.org/0000-0002-5444-2280",
+          "institutions": [
+            "The Alan Turing Institute",
+            "Turing Institute"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-14",
+      "abstract": null,
+      "cited_by_count": 252,
+      "type": "review",
+      "source": {
+        "name": "Science and Engineering Ethics",
+        "type": "journal",
+        "issn": [
+          "1353-3452",
+          "1471-5546"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11948-018-00081-0.pdf"
+      },
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Law, AI, and Intellectual Property",
+        "Adversarial Robustness in Machine Learning"
+      ],
+      "referenced_works_count": 131,
+      "url": "https://openalex.org/W2808102992"
+    },
+    {
+      "openalex_id": "W4306950089",
+      "doi": "10.1088/1748-3190/ac9c3b",
+      "title": "Biohybrid robots: recent progress, challenges, and perspectives",
+      "authors": [
+        {
+          "name": "Victoria A. Webster\u2010Wood",
+          "openalex_id": "A5007509117",
+          "orcid": "https://orcid.org/0000-0001-6638-2687",
+          "institutions": [
+            "McGowan Institute for Regenerative Medicine",
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Maria Guix",
+          "openalex_id": "A5028062078",
+          "orcid": "https://orcid.org/0000-0002-5219-6434",
+          "institutions": [
+            "Institute for Bioengineering of Catalonia",
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Nicole Xu",
+          "openalex_id": "A5077537508",
+          "orcid": "https://orcid.org/0000-0002-1649-8718",
+          "institutions": [
+            "United States Naval Research Laboratory",
+            "Computational Physics (United States)"
+          ]
+        },
+        {
+          "name": "Bahareh Behkam",
+          "openalex_id": "A5073887959",
+          "orcid": "https://orcid.org/0000-0002-2174-2914"
+        },
+        {
+          "name": "Hirotaka Sato",
+          "openalex_id": "A5025085857",
+          "orcid": "https://orcid.org/0000-0003-4634-1639",
+          "institutions": [
+            "Nanyang Technological University"
+          ]
+        },
+        {
+          "name": "Deblina Sarkar",
+          "openalex_id": "A5047237761",
+          "orcid": "https://orcid.org/0000-0002-9662-1666",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Samuel S\u00e1nchez",
+          "openalex_id": "A5053731459",
+          "orcid": "https://orcid.org/0000-0001-9713-9997",
+          "institutions": [
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "Institute for Bioengineering of Catalonia"
+          ]
+        },
+        {
+          "name": "Masahiro Shimizu",
+          "openalex_id": "A5031494263",
+          "orcid": "https://orcid.org/0000-0003-1160-1234",
+          "institutions": [
+            "Osaka University"
+          ]
+        },
+        {
+          "name": "Kevin Kit Parker",
+          "openalex_id": "A5028204678",
+          "orcid": "https://orcid.org/0000-0002-5968-7535",
+          "institutions": [
+            "Harvard University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-20",
+      "abstract": "Abstract The past ten years have seen the rapid expansion of the field of biohybrid robotics. By combining engineered, synthetic components with living biological materials, new robotics solutions have been developed that harness the adaptability of living muscles, the sensitivity of living sensory cells, and even the computational abilities of living neurons. Biohybrid robotics has taken the popular and scientific media by storm with advances in the field, moving biohybrid robotics out of science fiction and into real science and engineering. So how did we get here, and where should the field of biohybrid robotics go next? In this perspective, we first provide the historical context of crucial subareas of biohybrid robotics by reviewing the past 10+ years of advances in microorganism-bots and sperm-bots, cyborgs, and tissue-based robots. We then present critical challenges facing the field and provide our perspectives on the vital future steps toward creating autonomous living machines.",
+      "cited_by_count": 109,
+      "type": "article",
+      "source": {
+        "name": "Bioinspiration & Biomimetics",
+        "type": "journal",
+        "issn": [
+          "1748-3182",
+          "1748-3190"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://iopscience.iop.org/article/10.1088/1748-3190/ac9c3b/pdf"
+      },
+      "topics": [
+        "Micro and Nano Robotics",
+        "Modular Robots and Swarm Intelligence",
+        "3D Printing in Biomedical Research"
+      ],
+      "referenced_works_count": 203,
+      "url": "https://openalex.org/W4306950089"
+    },
+    {
+      "openalex_id": "W4220969689",
+      "doi": "10.1007/s11747-022-00856-9",
+      "title": "Trojan horse or useful helper? A relationship perspective on artificial intelligence assistants with humanlike features",
+      "authors": [
+        {
+          "name": "Ertu\u011frul Uysal",
+          "openalex_id": "A5004556778",
+          "orcid": "https://orcid.org/0000-0002-0025-8613",
+          "institutions": [
+            "University of Neuch\u00e2tel"
+          ]
+        },
+        {
+          "name": "Sascha Alavi",
+          "openalex_id": "A5011795214",
+          "orcid": "https://orcid.org/0000-0002-8262-0806",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        },
+        {
+          "name": "Val\u00e9ry Bezen\u00e7on",
+          "openalex_id": "A5076763490",
+          "orcid": "https://orcid.org/0000-0002-1670-3179",
+          "institutions": [
+            "University of Neuch\u00e2tel"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-03-22",
+      "abstract": "Abstract Artificial intelligence assistants (AIAs) such as Alexa are prevalent in consumers\u2019 homes. Owing to their powerful artificial intelligence, consumers may perceive that AIAs have a mind of their own, that is, they anthropomorphize them. Past marketing research points to beneficial effects of AIA anthropomorphism for consumers and companies, while potential harmful effects have not been empirically explored. In examining both beneficial and harmful effects, this paper adopts a relationship perspective. Indeed, consumers spend large amounts of time with their AIAs, potentially developing a relationship over time that builds on an exchange of benefits and (psychological) costs. A preliminary survey and user interviews, a field study and a field experiment with AIA users show that AIA anthropomorphism may threaten users\u2019 identity, which disempowers them, creates data privacy concerns and ultimately undermines their well-being. These harmful effects particularly emerge in close, long relationships. The field experiment uncovers three empowering interventions which attenuate harmful effects of AIA anthropomorphism in relationships with consumers. With AI-powered technologies taking larger roles in our daily lives, our research highlights key future directions to investigate the permanent ongoing nature of the consumer\u2013AI relationships.",
+      "cited_by_count": 143,
+      "type": "article",
+      "source": {
+        "name": "Journal of the Academy of Marketing Science",
+        "type": "journal",
+        "issn": [
+          "0092-0703",
+          "1552-7824"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11747-022-00856-9.pdf"
+      },
+      "topics": [
+        "AI in Service Interactions",
+        "Digital Marketing and Social Media",
+        "Technology Adoption and User Behaviour"
+      ],
+      "referenced_works_count": 102,
+      "url": "https://openalex.org/W4220969689"
+    },
+    {
+      "openalex_id": "W3208914105",
+      "doi": "10.7551/mitpress/14050.001.0001",
+      "title": "Discriminating Data",
+      "authors": [
+        {
+          "name": "Wendy Hui Kyong Chun",
+          "openalex_id": "A5087258215",
+          "orcid": "https://orcid.org/0000-0002-7155-919X"
+        },
+        {
+          "name": "Alex Barnett",
+          "openalex_id": "A5097845913"
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-11-02",
+      "abstract": "How big data and machine learning encode discrimination and create agitated clusters of comforting rage. In Discriminating Data, Wendy Hui Kyong Chun reveals how polarization is a goal\u2014not an error\u2014within big data and machine learning. These methods, she argues, encode segregation, eugenics, and identity politics through their default assumptions and conditions. Correlation, which grounds big data's predictive potential, stems from twentieth-century eugenic attempts to \u201cbreed\u201d a better future. Recommender systems foster angry clusters of sameness through homophily. Users are \u201ctrained\u201d to become authentically predictable via a politics and technology of recognition. Machine learning and data analytics thus seek to disrupt the future by making disruption impossible. Chun, who has a background in systems design engineering as well as media studies and cultural theory, explains that although machine learning algorithms may not officially include race as a category, they embed whiteness as a default. Facial recognition technology, for example, relies on the faces of Hollywood celebrities and university undergraduates\u2014groups not famous for their diversity. Homophily emerged as a concept to describe white U.S. resident attitudes to living in biracial yet segregated public housing. Predictive policing technology deploys models trained on studies of predominantly underserved neighborhoods. Trained on selected and often discriminatory or dirty data, these algorithms are only validated if they mirror this data. How can we release ourselves from the vice-like grip of discriminatory data? Chun calls for alternative algorithms, defaults, and interdisciplinary coalitions in order to desegregate networks and foster a more democratic big data.",
+      "cited_by_count": 345,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://direct.mit.edu/books/monograph/5237/bookpreview-pdf/2236528"
+      },
+      "topics": [
+        "Electoral Systems and Political Participation",
+        "Computational and Text Analysis Methods",
+        "Social and Cultural Dynamics"
+      ],
+      "referenced_works_count": 201,
+      "url": "https://openalex.org/W3208914105"
+    },
+    {
+      "openalex_id": "W2801272290",
+      "doi": "10.3389/fsoc.2018.00006",
+      "title": "Doing Age in a Digitized World\u2014A Material Praxeology of Aging With Technology",
+      "authors": [
+        {
+          "name": "Anna Wanka",
+          "openalex_id": "A5006825098",
+          "orcid": "https://orcid.org/0000-0002-8450-3160",
+          "institutions": [
+            "Goethe University Frankfurt"
+          ]
+        },
+        {
+          "name": "Vera Gallistl",
+          "openalex_id": "A5085718998",
+          "orcid": "https://orcid.org/0000-0002-0116-0677",
+          "institutions": [
+            "University of Vienna"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-25",
+      "abstract": "Digital technologies have gained vast relevance in postmodern societies and digital infrastructures are substantially integrated into the everyday lives of older people. This digitization is reframing the norms and practices of later life as well as the social construct of age itself. Despite the increasing amount of studies in the field of aging and technologies, it still lacks theorizing. This paper addresses this deficit, suggesting that the study of aging and technologies could profit from a comprehensive integration of theories from the sociology of aging, critical gerontology, and science-and-technology studies. We aim to make a theoretical contribution to this issue, asking: how is age being done in a digitized world? Applying a praxeological approach to aging and technologies, we firstly examine how theoretical and empirical work has constructed aging with technologies so far and identify its shortcomings. Some of this work so far lacks a proper consideration of social inequalities within these processes, whereas other studies lack a thorough consideration of materialities. Secondly, in an attempt to equally \u201cpraxeologize\u201d and \u201cmaterialize\u201d the study of aging and technologies we develop a theoretical model that aims to overcome these shortcomings. In what we frame as a material praxeology of aging with technology, we are concerned with how age is being done through discursive formations, set into practice through social and material practices and involved in the (re)production of social inequalities. Enriching a Bordieuan terminology of social fields with notions of non-human agency, this praxeology is founded on three assumptions: (1) Social fields constitute the contexts in which age as a social phenomenon is being done with and through technologies (2) Human and non-human agents are equally involved in this process (3) The actions of the involved agents emerge from an agency distributed among them, and are structured through the power relations between them. Thirdly, we exemplify the application of this model by reference to a research project in the field of Active and Assistive Living.",
+      "cited_by_count": 101,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Sociology",
+        "type": "journal",
+        "issn": [
+          "2297-7775"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fsoc.2018.00006/pdf"
+      },
+      "topics": [
+        "Technology Use by Older Adults",
+        "Innovative Human-Technology Interaction",
+        "Smart Cities and Technologies"
+      ],
+      "referenced_works_count": 73,
+      "url": "https://openalex.org/W2801272290"
+    },
+    {
+      "openalex_id": "W3198705930",
+      "doi": "10.3390/s21175787",
+      "title": "The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review",
+      "authors": [
+        {
+          "name": "Asma Channa",
+          "openalex_id": "A5000161373",
+          "orcid": "https://orcid.org/0000-0002-6728-2458",
+          "institutions": [
+            "University of Reggio Calabria",
+            "Universitatea Na\u021bional\u0103 de \u0218tiin\u021b\u0103 \u0219i Tehnologie Politehnica Bucure\u0219ti"
+          ]
+        },
+        {
+          "name": "Nirvana Popescu",
+          "openalex_id": "A5082298204",
+          "orcid": "https://orcid.org/0000-0002-7843-7187",
+          "institutions": [
+            "Universitatea Na\u021bional\u0103 de \u0218tiin\u021b\u0103 \u0219i Tehnologie Politehnica Bucure\u0219ti"
+          ]
+        },
+        {
+          "name": "Justyna Skibi\u0144ska",
+          "openalex_id": "A5006119278",
+          "orcid": "https://orcid.org/0000-0002-8531-3393",
+          "institutions": [
+            "Brno University of Technology",
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "Radim B\u00fcrget",
+          "openalex_id": "A5036042625",
+          "orcid": "https://orcid.org/0000-0003-1849-5390",
+          "institutions": [
+            "Brno University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-28",
+      "abstract": "The COVID-19 pandemic has wreaked havoc globally and still persists even after a year of its initial outbreak. Several reasons can be considered: people are in close contact with each other, i.e., at a short range (1 m), and the healthcare system is not sufficiently developed or does not have enough facilities to manage and fight the pandemic, even in developed countries such as the USA and the U.K. and countries in Europe. There is a great need in healthcare for remote monitoring of COVID-19 symptoms. In the past year, a number of IoT-based devices and wearables have been introduced by researchers, providing good results in terms of high accuracy in diagnosing patients in the prodromal phase and in monitoring the symptoms of patients, i.e., respiratory rate, heart rate, temperature, etc. In this systematic review, we analyzed these wearables and their need in the healthcare system. The research was conducted using three databases: IEEE Xplore\u00ae, Web of Science\u00ae, and PubMed Central\u00ae, between December 2019 and June 2021. This article was based on the PRISMA guidelines. Initially, 1100 articles were identified while searching the scientific literature regarding this topic. After screening, ultimately, 70 articles were fully evaluated and included in this review. These articles were divided into two categories. The first one belongs to the on-body sensors (wearables), their types and positions, and the use of AI technology with ehealth wearables in different scenarios from screening to contact tracing. In the second category, we discuss the problems and solutions with respect to utilizing these wearables globally. This systematic review provides an extensive overview of wearable systems for the remote management and automated assessment of COVID-19, taking into account the reliability and acceptability of the implemented technologies.",
+      "cited_by_count": 192,
+      "type": "review",
+      "source": {
+        "name": "Sensors",
+        "type": "journal",
+        "issn": [
+          "1424-8220"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1424-8220/21/17/5787/pdf?version=1631175662"
+      },
+      "topics": [
+        "COVID-19 diagnosis using AI",
+        "Non-Invasive Vital Sign Monitoring",
+        "COVID-19 Digital Contact Tracing"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W3198705930"
+    },
+    {
+      "openalex_id": "W2767493263",
+      "doi": "10.1007/s00146-018-0824-x",
+      "title": "The reappearing tool: transparency, smart technology, and the extended mind",
+      "authors": [
+        {
+          "name": "Michael Wheeler",
+          "openalex_id": "A5101818008",
+          "orcid": "https://orcid.org/0000-0003-3638-1215",
+          "institutions": [
+            "University of Stirling"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-02-07",
+      "abstract": "Some thinkers have claimed that expert performance with technology is characterized by a kind of disappearance of that technology from conscious experience, that is, by the transparency of the tools and equipment through which we sense and manipulate the world. This is a claim that may be traced to phenomenological philosophers such as Heidegger and Merleau-Ponty, but it has been influential in user interface design where the transparency of technology has often been adopted as a mark of good design. Moreover, in the philosophy of cognitive science, such transparency has been advanced as necessary for extended cognition (the situation in which the technology with which we couple genuinely counts as a constitutive part of our cognitive machinery, along with our brains). By reflecting on concrete examples of our contemporary engagement with technology, I shall argue that the epistemic challenges posed by smart artefacts (those that come equipped with artificial-intelligencebased applications) should prompt a reassessment of the drive for transparency in the design of some cases of technology-involving cognition. This has consequences for the place of extended minds in the contemporary technological context.",
+      "cited_by_count": 64,
+      "type": "article",
+      "source": {
+        "name": "AI & Society",
+        "type": "journal",
+        "issn": [
+          "0951-5666",
+          "1435-5655"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs00146-018-0824-x.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 28,
+      "url": "https://openalex.org/W2767493263"
+    },
+    {
+      "openalex_id": "W2907643097",
+      "doi": "10.1057/s41286-018-00064-3",
+      "title": "The alien subject of AI",
+      "authors": [
+        {
+          "name": "Luciana Parisi",
+          "openalex_id": "A5101667729",
+          "orcid": "https://orcid.org/0000-0003-1547-1481",
+          "institutions": [
+            "Goldsmiths University of London"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-03",
+      "abstract": "Immersed in the networks of artificial intelligences that are constantly learning from each other, the subject today is being configured by the automated architecture of a computational sovereignty (Bratton 2015). All levels of decision-making are harnessed in given sets of probabilities where the individuality of the subject is broken into endlessly divisable digits. These are specifically re-assembled at check points (Deleuze in Negotiations: 1972\u20131990, Columbia University Press, New York, 1995), in ever growing actions of predictive data (Cheney-Lippold in We are data and the making of our digital selves, NYU Press, New York, 2017), where consciousness is replaced by mindless computations (Daston in \"The rule of rules\", lecture Wissenschaftskolleg Berlin, November 21st, 2010). As a result of the automation of cognition, the subject has thus become ultimately deprived of the transcendental tool of reason. This article discusses the consequences of this crisis of conscious cognition by the hands of machines by asking whether the servo-mechanic model of technology can be overturned to expose the alien subject of artificial intelligence as a mode of thinking originating at, but also beyond, the transcendental schema of the self-determining subject. As much as the socio-affective qualities of the user have become the primary sources of capital abstraction, value, quantification and governmental control, so has technology, as the means of abstraction, itself changed nature. This article will suggest that the cybernetic network of communication has not only absorbed physical and cognitive labour into its circuits of reproduction, but is, more importantly, learning from human culture, through the data analysis of behaviours, the contextual use of content and the sourcing of knowledge. The theorisation of machine learning as involving a process of thinking will be taken here as a fundamental inspiration to argue that the expansion of an alien space of reasoning, envisioning the possibility of machine thinking against the servo-mechanic model of cybernetics.",
+      "cited_by_count": 50,
+      "type": "article",
+      "source": {
+        "name": "Subjectivity",
+        "type": "journal",
+        "issn": [
+          "1755-6341",
+          "1755-635X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1057/s41286-018-00064-3.pdf"
+      },
+      "topics": [
+        "Computability, Logic, AI Algorithms",
+        "Embodied and Extended Cognition",
+        "Logic, Reasoning, and Knowledge"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2907643097"
+    },
+    {
+      "openalex_id": "W2531915366",
+      "doi": "10.1016/j.techfore.2016.09.017",
+      "title": "Forthcoming Kondratieff wave, Cybernetic Revolution, and global ageing",
+      "authors": [
+        {
+          "name": "\u041b\u0435\u043e\u043d\u0438\u0434 \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5030688553",
+          "orcid": "https://orcid.org/0000-0003-0278-2619",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        },
+        {
+          "name": "\u0410\u043d\u0442\u043e\u043d \u0413\u0440\u0438\u043d\u0438\u043d",
+          "openalex_id": "A5058810903",
+          "orcid": "https://orcid.org/0000-0003-0912-0423",
+          "institutions": [
+            "Humanitarian Institute"
+          ]
+        },
+        {
+          "name": "Andrey Korotayev",
+          "openalex_id": "A5027399098",
+          "orcid": "https://orcid.org/0000-0003-3014-2037",
+          "institutions": [
+            "National Research University Higher School of Economics"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-11",
+      "abstract": null,
+      "cited_by_count": 120,
+      "type": "article",
+      "source": {
+        "name": "Technological Forecasting and Social Change",
+        "type": "journal",
+        "issn": [
+          "0040-1625",
+          "1873-5509"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0040162516303213"
+      },
+      "topics": [
+        "Economic Development and Digital Transformation",
+        "Economic and Technological Developments in Russia",
+        "Innovation Diffusion and Forecasting"
+      ],
+      "referenced_works_count": 209,
+      "url": "https://openalex.org/W2531915366"
+    },
+    {
+      "openalex_id": "W4360846436",
+      "doi": "10.1002/mar.21813",
+      "title": "I, chatbot! the impact of anthropomorphism and gaze direction on willingness to disclose personal information and behavioral intentions",
+      "authors": [
+        {
+          "name": "Gabriele Pizzi",
+          "openalex_id": "A5086914631",
+          "orcid": "https://orcid.org/0000-0002-7531-9003",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Virginia Vannucci",
+          "openalex_id": "A5074647353",
+          "orcid": "https://orcid.org/0000-0002-3859-7100",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Valentina Mazzoli",
+          "openalex_id": "A5073108089",
+          "orcid": "https://orcid.org/0000-0002-8344-0356",
+          "institutions": [
+            "University of Verona"
+          ]
+        },
+        {
+          "name": "Raffaele Donvito",
+          "openalex_id": "A5005379381",
+          "orcid": "https://orcid.org/0000-0002-5135-2538",
+          "institutions": [
+            "University of Florence"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-03-24",
+      "abstract": "Abstract The present research focuses on the interplay between two common features of the customer service chatbot experience: gaze direction and anthropomorphism. Although the dominant approach in marketing theory and practice is to make chatbots as human\u2010like as possible, the current study, built on the humanness\u2010value\u2010loyalty model, addresses the chain of effects through which chatbots' nonverbal behaviors affect customers' willingness to disclose personal information and purchase intentions. By means of two experiments that adopt a real chatbot in a simulated shopping environment (i.e., car rental and travel insurance), the present work allows us to understand how to reduce individuals' tendency to see conversational agents as less knowledgeable and empathetic compared with humans. The results show that warmth perceptions are affected by gaze direction, whereas competence perceptions are affected by anthropomorphism. Warmth and competence perceptions are found to be key drivers of consumers\u2019 skepticism toward the chatbot, which, in turn, affects consumers\u2019 trust toward the service provider hosting the chatbot, ultimately leading consumers to be more willing to disclose their personal information and to repatronize the e\u2010tailer in the future. Building on the Theory of Mind, our results show that perceiving competence from a chatbot makes individuals less skeptical as long as they feel they are good at detecting others\u2019 ultimate intentions.",
+      "cited_by_count": 129,
+      "type": "article",
+      "source": {
+        "name": "Psychology and Marketing",
+        "type": "journal",
+        "issn": [
+          "0742-6046",
+          "1520-6793"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1002/mar.21813"
+      },
+      "topics": [
+        "AI in Service Interactions",
+        "Death Anxiety and Social Exclusion",
+        "Social Robot Interaction and HRI"
+      ],
+      "referenced_works_count": 121,
+      "url": "https://openalex.org/W4360846436"
+    },
+    {
+      "openalex_id": "W2900474741",
+      "doi": "10.3389/fpsyg.2018.02251",
+      "title": "Disabled or Cyborg? How Bionics Affect Stereotypes Toward People With Physical Disabilities",
+      "authors": [
+        {
+          "name": "Bertolt Meyer",
+          "openalex_id": "A5070638560",
+          "orcid": "https://orcid.org/0000-0003-4695-9252",
+          "institutions": [
+            "Chemnitz University of Technology"
+          ]
+        },
+        {
+          "name": "Frank Asbrock",
+          "openalex_id": "A5026144774",
+          "orcid": "https://orcid.org/0000-0002-6348-2946",
+          "institutions": [
+            "Chemnitz University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-11-20",
+      "abstract": "According to the Stereotype Content Model that construes attributions of warmth and competence as the core dimensions of stereotypes, people with physical disabilities are generally perceived as warm-but-incompetent, i.e., are faced with paternalistic stereotypes. We argue that the increasing proliferation of bionic technologies (e.g., bionic arm and leg prostheses, exo-skeletons, retina implants, etc.) has the potential to change stereotypes toward people with physical disabilities: The portrayal of people who use such devices in the media and popular culture is typically characterized by portraying them as competent - sometimes even more competent than able-bodied individuals. We thus propose that people with physical disabilities who use bionic prostheses are perceived as more competent than people with physical disabilities in general. We also propose that they can be seen as more competent than able-bodied individuals. We further propose that this increase in perceived competence may be associated with a decrease in warmth such that people who use bionic prostheses are perceived as less warm than people with physical disabilities in general and as able-bodied people. Based on labeling theory, we also propose that using the label \"cyborg\" for people who use bionic prostheses exacerbates these effects and that they are driven by the technicality of the bionic devices. The first of two online studies (<i>n</i> = 314) revealed mixed support for the hypotheses: People with physical disabilities who use bionic prostheses are seen as more competent than people with physical disabilities in general, but not as more competent than able-bodied individuals. They are perceived as even warmer than able-bodied individuals. On the contrary, cyborgs were perceived as competent-but cold, i.e., as threatening. With the second study (<i>n</i> = 87), we tested whether the perceived technicality of bionic technology drives some of the observed effects. Technicality only had marginal effects on competence perceptions and no effects on perceptions of warmth. We discuss potential implications and highlight that despite being somewhat mixed, these findings show that technology can affect stereotypes and interpersonal perceptions.",
+      "cited_by_count": 49,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02251/pdf"
+      },
+      "topics": [
+        "Social and Intergroup Psychology",
+        "Evolutionary Psychology and Human Behavior",
+        "Innovative Human-Technology Interaction"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2900474741"
+    },
+    {
+      "openalex_id": "W3014823347",
+      "doi": "10.1177/1357034x19898259",
+      "title": "\u2018Catching Ovulation\u2019: Exploring Women\u2019s Use of Fertility Tracking Apps as a Reproductive Technology",
+      "authors": [
+        {
+          "name": "Josie Hamper",
+          "openalex_id": "A5048921830",
+          "orcid": "https://orcid.org/0000-0002-3786-0229",
+          "institutions": [
+            "Queen Mary University of London"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-31",
+      "abstract": "Smartphones are increasingly entangled with the most intimate areas of everyday life, providing possibilities for the continued expansion of digital self-tracking technologies. Within this context, the development of smartphone applications targeted at female reproductive health are offering novel forms and practices of knowledge production about reproductive bodies and processes. This article presents empirical research from the United Kingdom on women\u2019s use of fertility tracking applications, known more generally as fertility apps, while trying to conceive. Drawing on material from interviews with women who had experience of using fertility apps, I demonstrate the significance of this particular form of fertility tracking for the embodied shift from pregnancy prevention to actively facilitating pregnancy, participants\u2019 sense of self and identity and how they perceived the reproductive potentiality of their bodies. I argue that fertility apps are significantly involved in making fertility cycles known and thus configuring the pre-pregnant reproductive body.",
+      "cited_by_count": 62,
+      "type": "article",
+      "source": {
+        "name": "Body & Society",
+        "type": "journal",
+        "issn": [
+          "1357-034X",
+          "1460-3632"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/123456789/64408/2/Hamper%20%e2%80%98Catching%20Ovulation%e2%80%99%3a%20Exploring%20Women%e2%80%99s%20Use%20of%20Fertility%20Tracking%20Apps%20as%20a%20Reproductive%20Technology%202020%20Accepted.pdf"
+      },
+      "topics": [
+        "Reproductive Health and Technologies",
+        "Gender, Feminism, and Media",
+        "Sexuality, Behavior, and Technology"
+      ],
+      "referenced_works_count": 48,
+      "url": "https://openalex.org/W3014823347"
+    },
+    {
+      "openalex_id": "W2770177099",
+      "doi": "10.3390/info8040156",
+      "title": "The Emperor of Strong AI Has No Clothes: Limits to Artificial Intelligence",
+      "authors": [
+        {
+          "name": "Adriana Braga",
+          "openalex_id": "A5034569014",
+          "orcid": "https://orcid.org/0000-0002-0307-3470",
+          "institutions": [
+            "Pontifical Catholic University of Rio de Janeiro"
+          ]
+        },
+        {
+          "name": "Robert K. Logan",
+          "openalex_id": "A5035637185",
+          "orcid": "https://orcid.org/0000-0002-3307-2356",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-11-27",
+      "abstract": "Making use of the techniques of media ecology we argue that the premise of the technological Singularity based on the notion computers will one day be smarter that their human creators is false. We also analyze the comments of other critics of the Singularity, as well supporters of this notion. The notion of intelligence that advocates of the technological singularity promote does not take into account the full dimension of human intelligence. They treat artificial intelligence as a figure without a ground. Human intelligence as we will show is not based solely on logical operations and computation, but also includes a long list of other characteristics that are unique to humans, which is the ground that supporters of the Singularity ignore. The list includes curiosity, imagination, intuition, emotions, passion, desires, pleasure, aesthetics, joy, purpose, objectives, goals, telos, values, morality, experience, wisdom, judgment, and even humor.",
+      "cited_by_count": 93,
+      "type": "article",
+      "source": {
+        "name": "Information",
+        "type": "journal",
+        "issn": [
+          "2078-2489"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2078-2489/8/4/156/pdf?version=1511769935"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Cognitive Science and Education Research",
+        "Space Science and Extraterrestrial Life"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2770177099"
+    },
+    {
+      "openalex_id": "W4385321152",
+      "doi": "10.3390/healthcare11152131",
+      "title": "Perspectives on Aging and Quality of Life",
+      "authors": [
+        {
+          "name": "Shinichi Noto",
+          "openalex_id": "A5042163989",
+          "orcid": "https://orcid.org/0000-0002-6952-7770",
+          "institutions": [
+            "Niigata University of Health and Welfare"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-26",
+      "abstract": "The aging of the world\u2019s population and the health problems accompanying it are becoming increasingly severe. Healthcare policies in developed countries focus on how to prevent and treat diseases associated with aging and how to maintain quality of life. Typical age-related diseases include deafness, cataracts, osteoarthritis, chronic obstructive pulmonary disease, diabetes mellitus, and dementia. Although the mechanisms by which these diseases develop differ, they are all caused by the accumulation of molecular and cellular damage over time. In addition, age-related diseases can cause a decline in physical and mental functions and the ability to perform activities of daily living, as well as the loss of roles in society and a sense of fulfillment in life. Therefore, there is a need for treatment and measures to accurately grasp and maintain quality of life. This review aims to introduce areas and representative papers expected to be contributed to the special issue of \u201cAging and Quality of Life\u201d.",
+      "cited_by_count": 101,
+      "type": "review",
+      "source": {
+        "name": "Healthcare",
+        "type": "journal",
+        "issn": [
+          "2227-9032"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-9032/11/15/2131/pdf?version=1690347863"
+      },
+      "topics": [
+        "Frailty in Older Adults",
+        "Health disparities and outcomes",
+        "Nutrition and Health in Aging"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W4385321152"
+    },
+    {
+      "openalex_id": "W4285388569",
+      "doi": "10.1093/biolinnean/blac073",
+      "title": "Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms",
+      "authors": [
+        {
+          "name": "Wesley Clawson",
+          "openalex_id": "A5028532408",
+          "orcid": "https://orcid.org/0000-0001-9717-4303",
+          "institutions": [
+            "Tufts University"
+          ]
+        },
+        {
+          "name": "Michael Levin",
+          "openalex_id": "A5085228887",
+          "orcid": "https://orcid.org/0000-0001-7292-8084",
+          "institutions": [
+            "Harvard University",
+            "Tufts University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-07-14",
+      "abstract": "Abstract The rich variety of biological forms and behaviours results from one evolutionary history on Earth, via frozen accidents and selection in specific environments. This ubiquitous baggage in natural, familiar model species obscures the plasticity and swarm intelligence of cellular collectives. Significant gaps exist in our understanding of the origin of anatomical novelty, of the relationship between genome and form, and of strategies for control of large-scale structure and function in regenerative medicine and bioengineering. Analysis of living forms that have never existed before is necessary to reveal deep design principles of life as it can be. We briefly review existing examples of chimaeras, cyborgs, hybrots and other beings along the spectrum containing evolved and designed systems. To drive experimental progress in multicellular synthetic morphology, we propose teleonomic (goal-seeking, problem-solving) behaviour in diverse problem spaces as a powerful invariant across possible beings regardless of composition or origin. Cybernetic perspectives on chimaeric morphogenesis erase artificial distinctions established by past limitations of technology and imagination. We suggest that a multi-scale competency architecture facilitates evolution of robust problem-solving, living machines. Creation and analysis of novel living forms will be an essential testbed for the emerging field of diverse intelligence, with numerous implications across regenerative medicine, robotics and ethics.",
+      "cited_by_count": 74,
+      "type": "article",
+      "source": {
+        "name": "Biological Journal of the Linnean Society",
+        "type": "journal",
+        "issn": [
+          "0024-4066",
+          "1095-8312"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://academic.oup.com/biolinnean/advance-article-pdf/doi/10.1093/biolinnean/blac073/46332771/blac073.pdf"
+      },
+      "topics": [
+        "Planarian Biology and Electrostimulation",
+        "Space Science and Extraterrestrial Life",
+        "Genetics, Aging, and Longevity in Model Organisms"
+      ],
+      "referenced_works_count": 196,
+      "url": "https://openalex.org/W4285388569"
+    },
+    {
+      "openalex_id": "W4379011314",
+      "doi": "10.1007/s11747-023-00948-0",
+      "title": "The future of artificial intelligence and robotics in the retail and service sector: Sketching the field of consumer-robot-experiences",
+      "authors": [
+        {
+          "name": "Stephanie Noble",
+          "openalex_id": "A5042339320",
+          "orcid": "https://orcid.org/0000-0002-4804-5553",
+          "institutions": [
+            "University of Tennessee at Knoxville"
+          ]
+        },
+        {
+          "name": "Martin Mende",
+          "openalex_id": "A5001546460",
+          "orcid": "https://orcid.org/0000-0003-2801-4722",
+          "institutions": [
+            "Florida State University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-01",
+      "abstract": null,
+      "cited_by_count": 70,
+      "type": "editorial",
+      "source": {
+        "name": "Journal of the Academy of Marketing Science",
+        "type": "journal",
+        "issn": [
+          "0092-0703",
+          "1552-7824"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11747-023-00948-0.pdf"
+      },
+      "topics": [
+        "AI in Service Interactions",
+        "Consumer Retail Behavior Studies",
+        "Sharing Economy and Platforms"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W4379011314"
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

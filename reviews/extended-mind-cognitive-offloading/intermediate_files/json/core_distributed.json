@@ -1,0 +1,1734 @@
+{
+  "status": "success",
+  "source": "core",
+  "query": "distributed cognition embodied",
+  "results": [
+    {
+      "core_id": "8864278",
+      "doi": null,
+      "title": "Resolving Two Tensions in 4E Cognition Using Wide Computationalism",
+      "authors": [
+        {
+          "name": "Deane, George"
+        },
+        {
+          "name": "Dewhurst, Joe"
+        },
+        {
+          "name": "Kersten, Luke"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Recently, some authors have begun to raise questions about the potential unity of 4E (enactive, embedded, embodied, extended) cognition as a distinct research programme within cognitive science. Two tensions, in particular, have been raised:(i) that the body-centric claims embodied cognition militate against the distributed tendencies of extended cognition and (ii) that the body/environment distinction emphasized by enactivism stands in tension with the world-spanning claims of extended cognition. The goal of this paper is to resolve tensions (i) and (ii). The proposal is that a form of \u2018wide computationalism\u2019can be used to reconcile the two tensions and, in so doing, articulate a common theoretical core for 4E cognition",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/223236434.pdf",
+      "source_url": "https://philpapers.org/archive/KERRTT.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8862813",
+      "doi": null,
+      "title": "Tacit Representations and Artificial Intelligence: Hidden Lessons from an Embodied Perspective on Cognition",
+      "authors": [
+        {
+          "name": "Spitzer, Elena"
+        }
+      ],
+      "year": 2016,
+      "abstract": "In this paper, I explore how an embodied perspective on cognition might\n          inform research on artificial intelligence. Many embodied cognition theorists object\n          to the central role that representations play on the traditional view of cognition.\n          Based on these objections, it may seem that the lesson from embodied cognition\n          is that AI should abandon representation as a central component of intelligence.\n          However, I argue that the lesson from embodied cognition is actually that AI\n          research should shift its focus from how to utilize explicit representations to how\n          to create and use tacit representations. To develop this suggestion, I provide an\n          overview of the commitments of the classical view and distinguish three critiques\n          of the role that representations play in that view. I provide further exploration and\n          defense of Daniel Dennett\u2019s distinction between explicit and tacit representations.\n          I argue that we should understand the embodied cognition approach using a\n          framework that includes tacit representations. Given this perspective, I will explore\n          some AI research areas that may be recommended by an embodied perspective on\n          cognition",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/186332516.pdf",
+      "source_url": "https://philpapers.org/archive/SPITRA-4.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8055708",
+      "doi": "10.1080/04353684.2017.1306971",
+      "title": "Embodied cognitive ecosophy: the relationship of mind, body, meaning and ecology",
+      "authors": [
+        {
+          "name": "Aizawa Ken."
+        },
+        {
+          "name": "Bateson Gregory."
+        },
+        {
+          "name": "Charmaz K."
+        },
+        {
+          "name": "Chawda Bejal"
+        },
+        {
+          "name": "Damasio Antonio."
+        },
+        {
+          "name": "Dawson Michael."
+        },
+        {
+          "name": "Deleuze G."
+        },
+        {
+          "name": "Dennett Daniel C."
+        },
+        {
+          "name": "Derek Jones"
+        },
+        {
+          "name": "Descartes Rene."
+        },
+        {
+          "name": "Dunning David."
+        },
+        {
+          "name": "Foucault Michel."
+        },
+        {
+          "name": "Gallagher Shaun."
+        },
+        {
+          "name": "Gibson James J."
+        },
+        {
+          "name": "Guattari Felix."
+        },
+        {
+          "name": "Heidegger Martin."
+        },
+        {
+          "name": "Keller David R."
+        },
+        {
+          "name": "Khun Thomas S."
+        },
+        {
+          "name": "Koskinen Ilpo"
+        },
+        {
+          "name": "Lakoff George"
+        },
+        {
+          "name": "Lakoff George"
+        },
+        {
+          "name": "Latour Bruno."
+        },
+        {
+          "name": "Longhurst Robyn"
+        },
+        {
+          "name": "Malafouris Lambros."
+        },
+        {
+          "name": "Mallgrave Harry Francis."
+        },
+        {
+          "name": "Merleau-Ponty Maurice."
+        },
+        {
+          "name": "Michaels Claire F."
+        },
+        {
+          "name": "Norman Donald A."
+        },
+        {
+          "name": "Pirsig Robert."
+        },
+        {
+          "name": "Russell Bertrand."
+        },
+        {
+          "name": "Shapiro Lawrence A."
+        },
+        {
+          "name": "Wilson Frank R."
+        }
+      ],
+      "year": 2017,
+      "abstract": "The concept of embodied cognition has had a major impact in a number of disciplines. The extent of its consequences on general knowledge and epistemology are still being explored. Embodied cognition in human geography has its own traditions and discourses but these have become somewhat isolated in the discipline itself. This paper argues that findings in other disciplines are of value in reconceptualising embodied cognition in human geography and this is explored by reconsidering the concept of ecosophy. Criticisms of ecosophy as a theory are considered and recent work in embodied cognition is applied to consider how such criticisms might be addressed. An updated conceptualisation is proposed, the embodied cognitive ecosophy, and three characteristics arising from this criticism and synthesis are presented with a view to inform future discussions of ecosophy and emotional geography",
+      "publisher": "'Informa UK Limited'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/84152881.pdf",
+      "source_url": "http://oro.open.ac.uk/50020/1/Embodied_cognitive_ecologies_D_11_FINAL_aam.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8859014",
+      "doi": "10.1007/978-3-319-96448-5_2",
+      "title": "Cognition as Embodied Morphological Computation",
+      "authors": [
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A-L Barabasi"
+        },
+        {
+          "name": "BJ MacLennan"
+        },
+        {
+          "name": "G Dodig-Crnkovic"
+        },
+        {
+          "name": "G Piccinini"
+        },
+        {
+          "name": "G Tononi"
+        },
+        {
+          "name": "HR Maturana"
+        },
+        {
+          "name": "J Stewart"
+        },
+        {
+          "name": "JM Epstein"
+        },
+        {
+          "name": "R Pfeifer"
+        },
+        {
+          "name": "R Pfeifer"
+        },
+        {
+          "name": "S Abramsky"
+        },
+        {
+          "name": "VC M\u00fcller"
+        },
+        {
+          "name": "WJ Freeman"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Cognitive science is considered to be the study of mind (consciousness and thought) and intelligence in humans. Under such definition variety of unsolved/unsolvable problems appear. This article argues for a broad understanding of cognition based on empirical results from i.a. natural sciences, self-organization, artificial intelligence and artificial life, network science and neuroscience, that apart from the high level mental activities in humans, includes sub-symbolic and sub-conscious processes, such as emotions, recognizes cognition in other living beings as well as extended and distributed/social cognition. The new idea of cognition as complex multiscale phenomenon evolved in living organisms based on bodily structures that process information, linking cognitivists and EEEE (embodied, embedded, enactive, extended) cognition approaches with the idea of morphological computation (info-computational self-organisation) in cognizing agents, emerging in evolution through interactions of a (living/cognizing) agent with the environment",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/228134996.pdf",
+      "source_url": "https://research.chalmers.se/publication/508345/file/508345_Fulltext.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8856403",
+      "doi": "10.1007/s11098-017-0935-0",
+      "title": "The narrative self, distributed memory, and evocative objects",
+      "authors": [
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Kind"
+        },
+        {
+          "name": "A K\u00f8ster"
+        },
+        {
+          "name": "A Stephan"
+        },
+        {
+          "name": "B Huebner"
+        },
+        {
+          "name": "BS Osborne"
+        },
+        {
+          "name": "C Mackenzie"
+        },
+        {
+          "name": "CS Peirce"
+        },
+        {
+          "name": "D Dennett"
+        },
+        {
+          "name": "D Ihde"
+        },
+        {
+          "name": "D Lupton"
+        },
+        {
+          "name": "D Petrelli"
+        },
+        {
+          "name": "DM Wegner"
+        },
+        {
+          "name": "E Hoven van den"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "ET Olson"
+        },
+        {
+          "name": "F Adams"
+        },
+        {
+          "name": "F Jongepier"
+        },
+        {
+          "name": "G Colombetti"
+        },
+        {
+          "name": "G Theiner"
+        },
+        {
+          "name": "GM Bell"
+        },
+        {
+          "name": "J Brockmeier"
+        },
+        {
+          "name": "J Dijck van"
+        },
+        {
+          "name": "J Gonzalez"
+        },
+        {
+          "name": "J Krueger"
+        },
+        {
+          "name": "J Locke"
+        },
+        {
+          "name": "J McClelland"
+        },
+        {
+          "name": "J Slaby"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "JA Carter"
+        },
+        {
+          "name": "JA Skorburg"
+        },
+        {
+          "name": "K Beach"
+        },
+        {
+          "name": "K Michaelian"
+        },
+        {
+          "name": "K Sterelny"
+        },
+        {
+          "name": "L Floridi"
+        },
+        {
+          "name": "L Lindemann"
+        },
+        {
+          "name": "L Malafouris"
+        },
+        {
+          "name": "LR Baker"
+        },
+        {
+          "name": "M Crete-Nishihata"
+        },
+        {
+          "name": "M Merleau-Ponty"
+        },
+        {
+          "name": "M Rowlands"
+        },
+        {
+          "name": "M Rowlands"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Wheeler"
+        },
+        {
+          "name": "P Goldie"
+        },
+        {
+          "name": "P Griffiths"
+        },
+        {
+          "name": "P Smart"
+        },
+        {
+          "name": "R Clowes"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Menary"
+        },
+        {
+          "name": "R Menary"
+        },
+        {
+          "name": "R Rupert"
+        },
+        {
+          "name": "R Wilson"
+        },
+        {
+          "name": "R Wilson"
+        },
+        {
+          "name": "Richard Heersmink"
+        },
+        {
+          "name": "S Shoemaker"
+        },
+        {
+          "name": "W James"
+        }
+      ],
+      "year": 2018,
+      "abstract": "In this article, I outline various ways in which artifacts are interwoven with autobiographical memory systems and conceptualize what this implies for the self. I first sketch the narrative approach to the self, arguing that who we are as persons is essentially our (unfolding) life story, which, in turn, determines our present beliefs and desires, but also directs our future goals and actions. I then argue that our autobiographical memory is partly anchored in our embodied interactions with an ecology of artifacts in our environment. Lifelogs, photos, videos, journals, diaries, souvenirs, jewelry, books, works of art, and many other meaningful objects trigger and sometimes constitute emotionally-laden autobiographical memories. Autobiographical memory is thus distributed across embodied agents and various environmental structures. To defend this claim, I draw on and integrate distributed cognition theory and empirical research in human-technology interaction. Based on this, I conclude that the self is neither defined by psychological states realized by the brain nor by biological states realized by the organism, but should be seen as a distributed and relational construct",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/131213175.pdf",
+      "source_url": "https://philpapers.org/archive/HEETNS.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "44610862",
+      "doi": "10.3389/frobt.2018.00012",
+      "title": "Embodied Evolution in Collective Robotics: A Review",
+      "authors": [
+        {
+          "name": "Alba"
+        },
+        {
+          "name": "Alba"
+        },
+        {
+          "name": "Amato"
+        },
+        {
+          "name": "Anderson"
+        },
+        {
+          "name": "Aplin"
+        },
+        {
+          "name": "Arthur"
+        },
+        {
+          "name": "Axelrod"
+        },
+        {
+          "name": "Bangel"
+        },
+        {
+          "name": "Barrett"
+        },
+        {
+          "name": "Bayindir"
+        },
+        {
+          "name": "Bedau"
+        },
+        {
+          "name": "Bellingham"
+        },
+        {
+          "name": "Beni"
+        },
+        {
+          "name": "Bentham"
+        },
+        {
+          "name": "Bernard"
+        },
+        {
+          "name": "Bernstein"
+        },
+        {
+          "name": "Bianco"
+        },
+        {
+          "name": "Blount"
+        },
+        {
+          "name": "Bongard"
+        },
+        {
+          "name": "Bongard"
+        },
+        {
+          "name": "Boumaza"
+        },
+        {
+          "name": "Brambilla"
+        },
+        {
+          "name": "Bredeche"
+        },
+        {
+          "name": "Bredeche"
+        },
+        {
+          "name": "Bredeche"
+        },
+        {
+          "name": "Bredeche"
+        },
+        {
+          "name": "Bredeche"
+        },
+        {
+          "name": "Brodbeck"
+        },
+        {
+          "name": "Camazine"
+        },
+        {
+          "name": "Charlesworth"
+        },
+        {
+          "name": "Christensen"
+        },
+        {
+          "name": "Cully"
+        },
+        {
+          "name": "Deutsch"
+        },
+        {
+          "name": "Dibangoye"
+        },
+        {
+          "name": "Doncieux"
+        },
+        {
+          "name": "Eiben"
+        },
+        {
+          "name": "Eiben"
+        },
+        {
+          "name": "Eiben"
+        },
+        {
+          "name": "Eiben"
+        },
+        {
+          "name": "Fernandez P\u00e9rez"
+        },
+        {
+          "name": "Fernandez P\u00e9rez"
+        },
+        {
+          "name": "Fernandez P\u00e9rez"
+        },
+        {
+          "name": "Ferrante"
+        },
+        {
+          "name": "Ficici"
+        },
+        {
+          "name": "Floreano"
+        },
+        {
+          "name": "Garc\u00eda-S\u00e1nchez"
+        },
+        {
+          "name": "Gauci"
+        },
+        {
+          "name": "Geritz"
+        },
+        {
+          "name": "Good"
+        },
+        {
+          "name": "Haasdijk"
+        },
+        {
+          "name": "Haasdijk"
+        },
+        {
+          "name": "Haasdijk"
+        },
+        {
+          "name": "Haasdijk"
+        },
+        {
+          "name": "Haasdijk"
+        },
+        {
+          "name": "Haasdijk"
+        },
+        {
+          "name": "Haasdijk"
+        },
+        {
+          "name": "Hardin"
+        },
+        {
+          "name": "Hart"
+        },
+        {
+          "name": "Hauert"
+        },
+        {
+          "name": "Heinerman"
+        },
+        {
+          "name": "Heinerman"
+        },
+        {
+          "name": "Hettiarachchi"
+        },
+        {
+          "name": "Hettiarachchi"
+        },
+        {
+          "name": "Huijsman"
+        },
+        {
+          "name": "Jakobi"
+        },
+        {
+          "name": "Karafotias"
+        },
+        {
+          "name": "Kemeling"
+        },
+        {
+          "name": "K\u00f6nig"
+        },
+        {
+          "name": "K\u00f6nig"
+        },
+        {
+          "name": "Lehman"
+        },
+        {
+          "name": "Long"
+        },
+        {
+          "name": "Maynard Smith"
+        },
+        {
+          "name": "Mitri"
+        },
+        {
+          "name": "Montanier"
+        },
+        {
+          "name": "Montanier"
+        },
+        {
+          "name": "Montanier"
+        },
+        {
+          "name": "Moor"
+        },
+        {
+          "name": "Mouret"
+        },
+        {
+          "name": "Mouret"
+        },
+        {
+          "name": "Nelson"
+        },
+        {
+          "name": "Nolfi"
+        },
+        {
+          "name": "Nordin"
+        },
+        {
+          "name": "Noskov"
+        },
+        {
+          "name": "Nouyan"
+        },
+        {
+          "name": "O\u2019Dowd"
+        },
+        {
+          "name": "Parker"
+        },
+        {
+          "name": "Perez"
+        },
+        {
+          "name": "Pfeifer"
+        },
+        {
+          "name": "Prieto"
+        },
+        {
+          "name": "Prieto"
+        },
+        {
+          "name": "Prieto"
+        },
+        {
+          "name": "Prieto"
+        },
+        {
+          "name": "Pugh"
+        },
+        {
+          "name": "Ray"
+        },
+        {
+          "name": "Rubenstein"
+        },
+        {
+          "name": "Schut"
+        },
+        {
+          "name": "Schwarzer"
+        },
+        {
+          "name": "Schwarzer"
+        },
+        {
+          "name": "Shapley"
+        },
+        {
+          "name": "Silva"
+        },
+        {
+          "name": "Silva"
+        },
+        {
+          "name": "Silva"
+        },
+        {
+          "name": "Silva"
+        },
+        {
+          "name": "Silva"
+        },
+        {
+          "name": "Sim\u00f5es"
+        },
+        {
+          "name": "Soros"
+        },
+        {
+          "name": "Stanley"
+        },
+        {
+          "name": "Steyven"
+        },
+        {
+          "name": "Stone"
+        },
+        {
+          "name": "Stone"
+        },
+        {
+          "name": "Stone"
+        },
+        {
+          "name": "Taylor"
+        },
+        {
+          "name": "Thrun"
+        },
+        {
+          "name": "Tonelli"
+        },
+        {
+          "name": "Trianni"
+        },
+        {
+          "name": "Trueba"
+        },
+        {
+          "name": "Trueba"
+        },
+        {
+          "name": "Trueba"
+        },
+        {
+          "name": "Trueba"
+        },
+        {
+          "name": "Urzelai"
+        },
+        {
+          "name": "Usui"
+        },
+        {
+          "name": "Vanderelst"
+        },
+        {
+          "name": "Waibel"
+        },
+        {
+          "name": "Wakeley"
+        },
+        {
+          "name": "Walker"
+        },
+        {
+          "name": "Watson"
+        },
+        {
+          "name": "Weel"
+        },
+        {
+          "name": "Weel"
+        },
+        {
+          "name": "Werfel"
+        },
+        {
+          "name": "West"
+        },
+        {
+          "name": "Wischmann"
+        },
+        {
+          "name": "Wiser"
+        },
+        {
+          "name": "Wolpert"
+        }
+      ],
+      "year": 2018,
+      "abstract": "This paper provides an overview of evolutionary robotics techniques applied\nto on-line distributed evolution for robot collectives -- namely, embodied\nevolution. It provides a definition of embodied evolution as well as a thorough\ndescription of the underlying concepts and mechanisms. The paper also presents\na comprehensive summary of research published in the field since its inception\n(1999-2017), providing various perspectives to identify the major trends. In\nparticular, we identify a shift from considering embodied evolution as a\nparallel search method within small robot collectives (fewer than 10 robots) to\nembodied evolution as an on-line distributed learning method for designing\ncollective behaviours in swarm-like collectives. The paper concludes with a\ndiscussion of applications and open questions, providing a milestone for past\nand an inspiration for future research.Comment: 23 pages, 1 figure, 1 tabl",
+      "publisher": "'Frontiers Media SA'",
+      "journal": "Frontiers in Robotics and AI",
+      "download_url": "https://core.ac.uk/download/614587988.pdf",
+      "source_url": "http://www.loc.gov/mods/v3",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8853023",
+      "doi": "10.1561/1800000026",
+      "title": "Minds Online: The Interface between Web Science, Cognitive Science, and the Philosophy of Mind",
+      "authors": [
+        {
+          "name": "Clowes, Robert William"
+        },
+        {
+          "name": "Heersmink, Richard"
+        },
+        {
+          "name": "Smart, Paul"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Alongside existing research into the social, political and economic impacts of the Web, there is a need to study the Web from a cognitive and epistemic perspective. This is particularly so as new and emerging technologies alter the nature of our interactive engagements with the Web, transforming the extent to which our thoughts and actions are shaped by the online environment. Situated and ecological approaches to cognition are relevant to understanding the cognitive significance of the Web because of the emphasis they place on forces and factors that reside at the level of agent\u2013world interactions. In particular, by adopting a situated or ecological approach to cognition, we are able to assess the significance of the Web from the perspective of research into embodied, extended, embedded, social and collective cognition. The results of this analysis help to reshape the interdisciplinary configuration of Web Science, expanding its theoretical and empirical remit to include the disciplines of both cognitive science and the philosophy of mind",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/131214931.pdf",
+      "source_url": "https://philpapers.org/archive/SMAMOT.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "42964692",
+      "doi": "10.5281/zenodo.267998",
+      "title": "Scalable Co-Optimization of Morphology and Control in Embodied Machines",
+      "authors": [
+        {
+          "name": "Bongard, Josh"
+        },
+        {
+          "name": "Cheney, Nick"
+        },
+        {
+          "name": "Lipson, Hod"
+        },
+        {
+          "name": "SunSpiral, Vytas"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Evolution sculpts both the body plans and nervous systems of agents together\nover time. In contrast, in AI and robotics, a robot's body plan is usually\ndesigned by hand, and control policies are then optimized for that fixed\ndesign. The task of simultaneously co-optimizing the morphology and controller\nof an embodied robot has remained a challenge. In psychology, the theory of\nembodied cognition posits that behavior arises from a close coupling between\nbody plan and sensorimotor control, which suggests why co-optimizing these two\nsubsystems is so difficult: most evolutionary changes to morphology tend to\nadversely impact sensorimotor control, leading to an overall decrease in\nbehavioral performance. Here, we further examine this hypothesis and\ndemonstrate a technique for \"morphological innovation protection\", which\ntemporarily reduces selection pressure on recently morphologically-changed\nindividuals, thus enabling evolution some time to \"readapt\" to the new\nmorphology with subsequent control policy mutations. We show the potential for\nthis method to avoid local optima and converge to similar highly fit\nmorphologies across widely varying initial conditions, while sustaining fitness\nimprovements further into optimization. While this technique is admittedly only\nthe first of many steps that must be taken to achieve scalable optimization of\nembodied machines, we hope that theoretical insight into the cause of\nevolutionary stagnation in current methods will help to enable the automation\nof robot design and behavioral training -- while simultaneously providing a\ntestbed to investigate the theory of embodied cognition",
+      "publisher": "",
+      "journal": null,
+      "download_url": "http://arxiv.org/abs/1706.06133",
+      "source_url": "https://figshare.com/articles/Scalable_Co-Optimization_of_Morphology_and_control_in_Embodied_Machines/6255268",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8855795",
+      "doi": "10.1007/978-3-319-49115-8_13",
+      "title": "The Cognitive Ecology of the Internet",
+      "authors": [
+        {
+          "name": "A Baddeley"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Koriat"
+        },
+        {
+          "name": "A Powell"
+        },
+        {
+          "name": "AS Won"
+        },
+        {
+          "name": "B Sparrow"
+        },
+        {
+          "name": "B Webb"
+        },
+        {
+          "name": "C Baber"
+        },
+        {
+          "name": "C Drain"
+        },
+        {
+          "name": "C Heintz"
+        },
+        {
+          "name": "CJ Lintott"
+        },
+        {
+          "name": "CJ Lintott"
+        },
+        {
+          "name": "D Fallis"
+        },
+        {
+          "name": "D Gant"
+        },
+        {
+          "name": "D Kirsh"
+        },
+        {
+          "name": "D Ludwig"
+        },
+        {
+          "name": "D Lupton"
+        },
+        {
+          "name": "D Lupton"
+        },
+        {
+          "name": "DA Grier"
+        },
+        {
+          "name": "DJ Staley"
+        },
+        {
+          "name": "DM Wegner"
+        },
+        {
+          "name": "E Bonabeau"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "E Law"
+        },
+        {
+          "name": "E Tasali"
+        },
+        {
+          "name": "E Tribble"
+        },
+        {
+          "name": "EA Maguire"
+        },
+        {
+          "name": "EC Landsness"
+        },
+        {
+          "name": "EH Chi"
+        },
+        {
+          "name": "F Biocca"
+        },
+        {
+          "name": "F Heylighen"
+        },
+        {
+          "name": "G Bateson"
+        },
+        {
+          "name": "G Theiner"
+        },
+        {
+          "name": "G Theiner"
+        },
+        {
+          "name": "G Vallar"
+        },
+        {
+          "name": "J Ben-Naim"
+        },
+        {
+          "name": "J Dijk van"
+        },
+        {
+          "name": "J Gemmell"
+        },
+        {
+          "name": "J Gemmell"
+        },
+        {
+          "name": "J Hendler"
+        },
+        {
+          "name": "J Miller"
+        },
+        {
+          "name": "J Shrager"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "J Vincent"
+        },
+        {
+          "name": "JH Janssen"
+        },
+        {
+          "name": "JR Stewart"
+        },
+        {
+          "name": "K Kunze"
+        },
+        {
+          "name": "K Michaelian"
+        },
+        {
+          "name": "K Sterelny"
+        },
+        {
+          "name": "K Sterelny"
+        },
+        {
+          "name": "K Suzuki"
+        },
+        {
+          "name": "K Williamson"
+        },
+        {
+          "name": "L Floridi"
+        },
+        {
+          "name": "L Floridi"
+        },
+        {
+          "name": "L Malafouris"
+        },
+        {
+          "name": "L Malafouris"
+        },
+        {
+          "name": "L Shapiro"
+        },
+        {
+          "name": "LA Shapiro"
+        },
+        {
+          "name": "M Anderson"
+        },
+        {
+          "name": "M Donald"
+        },
+        {
+          "name": "M Helmstaedter"
+        },
+        {
+          "name": "M Kearns"
+        },
+        {
+          "name": "M Kleek Van"
+        },
+        {
+          "name": "M McBeath"
+        },
+        {
+          "name": "M Miller"
+        },
+        {
+          "name": "M Neumann"
+        },
+        {
+          "name": "M Parameswaran"
+        },
+        {
+          "name": "M Swan"
+        },
+        {
+          "name": "M Weiser"
+        },
+        {
+          "name": "MP Lynch"
+        },
+        {
+          "name": "NJ Nersessian"
+        },
+        {
+          "name": "P Dourish"
+        },
+        {
+          "name": "P Kanawattanachai"
+        },
+        {
+          "name": "P Michelucci"
+        },
+        {
+          "name": "PR Smart"
+        },
+        {
+          "name": "PR Smart"
+        },
+        {
+          "name": "PR Smart"
+        },
+        {
+          "name": "R Clowes"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Kraut"
+        },
+        {
+          "name": "R Menary"
+        },
+        {
+          "name": "R Pfeifer"
+        },
+        {
+          "name": "R Rupert"
+        },
+        {
+          "name": "RL Gregory"
+        },
+        {
+          "name": "RN Giere"
+        },
+        {
+          "name": "RN Giere"
+        },
+        {
+          "name": "RW Clowes"
+        },
+        {
+          "name": "S Aglioti"
+        },
+        {
+          "name": "S Arango-Mu\u00f1oz"
+        },
+        {
+          "name": "S Gallagher"
+        },
+        {
+          "name": "S Goldin-Meadow"
+        },
+        {
+          "name": "S Greengard"
+        },
+        {
+          "name": "S Salerno"
+        },
+        {
+          "name": "S Valins"
+        },
+        {
+          "name": "SP Woods"
+        },
+        {
+          "name": "T Matsumoto"
+        },
+        {
+          "name": "TW Malone"
+        },
+        {
+          "name": "TW Simpson"
+        },
+        {
+          "name": "V Marx"
+        },
+        {
+          "name": "V Mayer-Sch\u00f6nberger"
+        },
+        {
+          "name": "V Oksman"
+        },
+        {
+          "name": "V Oksman"
+        },
+        {
+          "name": "VK Sharma"
+        },
+        {
+          "name": "W Mason"
+        },
+        {
+          "name": "W Mason"
+        },
+        {
+          "name": "W Weber"
+        },
+        {
+          "name": "WA Mason"
+        }
+      ],
+      "year": 2017,
+      "abstract": "In this chapter, we analyze the relationships between the Internet\n          and its users in terms of situated cognition theory. We first argue that the Internet is a new kind of cognitive ecology, providing almost constant access to a vast amount of digital information that is increasingly more integrated into our cognitive routines. We then briefly introduce situated cognition theory\n          and its species of embedded, embodied, extended, distributed and collective\n          cognition. Having thus set the stage, we begin by taking an embedded\n          cognition view and analyze how the Internet aids certain cognitive tasks. After\n          that, we conceptualize how the Internet enables new kinds of embodied\n          interaction, extends certain aspects of our embodiment, and examine how\n          wearable technologies that monitor physiological, behavioral and contextual\n          states transform the embodied self. On the basis of the degree of cognitive\n          integration between a user and Internet resource, we then look at how and\n          when the Internet extends our cognitive processes. We end this chapter with\n          a discussion of distributed and collective cognition as facilitated by the Internet",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/131207088.pdf",
+      "source_url": "https://philpapers.org/archive/SMATCE-2.pdf",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "8870581",
+      "doi": null,
+      "title": "Representational unification in cognitive science: Is embodied cognition a unifying perspective?",
+      "authors": [
+        {
+          "name": "Mi\u0142kowski, Marcin"
+        },
+        {
+          "name": "Nowakowski, Przemys\u0142aw"
+        }
+      ],
+      "year": 2019,
+      "abstract": "In this paper, we defend a novel, multidimensional account of representational unification, which we distinguish from integration. The dimensions of unity are simplicity, generality and scope, non-monstrosity, and systematization. In our account, unification is a graded property. The account is used to investigate the issue of how research traditions contribute to representational unification, focusing on embodied cognition in cognitive science. Embodied cognition contributes to unification even if it fails to offer a grand unification of cognitive science. The study of this failure shows that unification, contrary to what defenders of mechanistic explanation claim, is an important mechanistic virtue of research traditions",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/237182443.pdf",
+      "source_url": "https://philpapers.org/archive/MIKRUI.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "40612762",
+      "doi": "10.18413/2313-8912-2017-3-1-3-12.",
+      "title": "Human mental abstraction specificity emergence under distributed communicative pressure",
+      "authors": [
+        {
+          "name": "Abieva, N. A."
+        }
+      ],
+      "year": 2017,
+      "abstract": "It is argued in the paper that human species\u2019 socially distributed cognition is an extension to their biologically distributed cognition both being inseparable from distributed communicative interaction",
+      "publisher": "'Belgorod National Research University'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/151232848.pdf",
+      "source_url": "http://dspace.bsu.edu.ru/bitstream/123456789/24041/1/Abieva_Vozniknovenie_17.pdf",
+      "language": null,
+      "document_type": "research"
+    },
+    {
+      "core_id": "42854712",
+      "doi": "10.1109/devlrn.2017.8329825",
+      "title": "Embodied Artificial Intelligence through Distributed Adaptive Control:\n  An Integrated Framework",
+      "authors": [
+        {
+          "name": "Arsiwalla, Xerxes D."
+        },
+        {
+          "name": "Moulin-Frier, Cl\u00e9ment"
+        },
+        {
+          "name": "Puigb\u00f2, Jordi-Ysard"
+        },
+        {
+          "name": "Sanchez-Fibla, Mart\u00ec"
+        },
+        {
+          "name": "Verschure, Paul F. M. J."
+        }
+      ],
+      "year": 2017,
+      "abstract": "In this paper, we argue that the future of Artificial Intelligence research\nresides in two keywords: integration and embodiment. We support this claim by\nanalyzing the recent advances of the field. Regarding integration, we note that\nthe most impactful recent contributions have been made possible through the\nintegration of recent Machine Learning methods (based in particular on Deep\nLearning and Recurrent Neural Networks) with more traditional ones (e.g.\nMonte-Carlo tree search, goal babbling exploration or addressable memory\nsystems). Regarding embodiment, we note that the traditional benchmark tasks\n(e.g. visual classification or board games) are becoming obsolete as\nstate-of-the-art learning algorithms approach or even surpass human performance\nin most of them, having recently encouraged the development of first-person 3D\ngame platforms embedding realistic physics. Building upon this analysis, we\nfirst propose an embodied cognitive architecture integrating heterogenous\nsub-fields of Artificial Intelligence into a unified framework. We demonstrate\nthe utility of our approach by showing how major contributions of the field can\nbe expressed within the proposed framework. We then claim that benchmarking\nenvironments need to reproduce ecologically-valid conditions for bootstrapping\nthe acquisition of increasingly complex cognitive skills through the concept of\na cognitive arms race between embodied agents.Comment: Updated version of the paper accepted to the ICDL-Epirob 2017\n  conference (Lisbon, Portugal",
+      "publisher": "",
+      "journal": null,
+      "download_url": "http://arxiv.org/abs/1704.01407",
+      "source_url": "http://arxiv.org/abs/1704.01407",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8870367",
+      "doi": "10.5964/jnc.v4i2.161",
+      "title": "Constructing a concept of number",
+      "authors": [
+        {
+          "name": "Overmann, Karenleigh"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Numbers are concepts whose content, structure, and organization are influenced by the material forms used to represent and manipulate them. Indeed, as argued here, it is the inclusion of multiple forms (distributed objects, fingers, single- and two-dimensional forms like pebbles and abaci, and written notations) that is the mechanism of numerical elaboration. Further, variety in employed forms explains at least part of the synchronic and diachronic variability that exists between and within cultural number systems. Material forms also impart characteristics like linearity that may persist in the form of knowledge and behaviors, ultimately yielding numerical concepts that are irreducible to and functionally independent of any particular form. Material devices used to represent and manipulate numbers also interact with language in ways that reinforce or contrast different aspects of numerical cognition. Not only does this interaction potentially explain some of the unique aspects of numerical language, it suggests that the two are complementary but ultimately distinct means of accessing numerical intuitions and insights. The potential inclusion of materiality in contemporary research in numerical cognition is advocated, both for its explanatory power, as well as its influence on psychological, behavioral, and linguistic aspects of numerical cognition",
+      "publisher": "",
+      "journal": "Journal of Numerical Cognition",
+      "download_url": "https://core.ac.uk/download/237182461.pdf",
+      "source_url": "https://philpapers.org/archive/OVECAC.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8868842",
+      "doi": null,
+      "title": "Building machines that learn and think about morality",
+      "authors": [
+        {
+          "name": "Burr, Christopher"
+        },
+        {
+          "name": "Keeling, Geoff"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Lake et al. propose three criteria which, they argue, will bring artificial intelligence (AI) systems closer to human cognitive abilities. In this paper, we explore the application of these criteria to a particular domain of human cognition: our capacity for moral reasoning. In doing so, we explore a set of considerations relevant to the development of AI moral decision-making. Our main focus is on the relation between dual-process accounts of moral reasoning and model-free/model-based forms of machine learning. We also discuss how work in embodied and situated cognition could provide a valu- able perspective on future research",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/322492631.pdf",
+      "source_url": "https://research-information.bris.ac.uk/ws/files/178194343/Building_machines_that_learn_and_think_a.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "24707237",
+      "doi": "10.1007/s00221-016-4706-5",
+      "title": "Auditory perception modulated by word reading",
+      "authors": [
+        {
+          "name": "Biermann-Ruben, Katja"
+        },
+        {
+          "name": "Cao, Liyu"
+        },
+        {
+          "name": "Gross, Joachim"
+        },
+        {
+          "name": "Klepp, Anne"
+        },
+        {
+          "name": "Schnitzler, Alfons"
+        }
+      ],
+      "year": 2016,
+      "abstract": "Theories of embodied cognition positing that sensorimotor areas are indispensable during language comprehension are supported by neuroimaging and behavioural studies. Among others, the auditory system has been suggested to be important for understanding sound-related words (visually presented) and the motor system for action-related words. In this behavioural study, using a sound detection task embedded in a lexical decision task, we show that in participants with high lexical decision performance sound verbs improve auditory perception. The amount of modulation was correlated with lexical decision performance. Our study provides convergent behavioural evidence of auditory cortex involvement in word processing, supporting the view of embodied language comprehension concerning the auditory domain",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/42372348.pdf",
+      "source_url": "http://dx.doi.org/10.1007/s00221-016-4706-5",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8787189",
+      "doi": "10.1109/taffc.2019.2908162",
+      "title": "Embodied Robot Models for Interdisciplinary Emotion Research",
+      "authors": [
+        {
+          "name": "Canamero, Lola"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Due to their complex nature, emotions cannot be properly understood from the perspective of a single discipline. In this paper, I discuss how the use of robots as models is beneficial for interdisciplinary emotion research. Addressing this issue through the lens of my own research, I focus on a critical analysis of embodied robots models of different aspects of emotion, relate them to theories in psychology and neuroscience, and provide representative examples. I discuss concrete ways in which embodied robot models can be used to carry out interdisciplinary emotion research, assessing their contributions: as hypothetical models, and as operational models of specific emotional phenomena, of general emotion principles, and of specific emotion ``dimensions''. I conclude by discussing the advantages of using embodied robot models over other models.Peer reviewe",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/287581878.pdf",
+      "source_url": "https://uhra.herts.ac.uk/id/eprint/7725/1/IEEE_TAC_Emotion_Modeling_issue_2019_LC_accepted.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8862801",
+      "doi": "10.1007/s11229-019-02133-9",
+      "title": "Enactivism, other minds, and mental disorders",
+      "authors": [
+        {
+          "name": "Krueger, Joel"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Although enactive approaches to cognition vary in terms of their character and scope, all endorse several core claims. The first is that cognition is tied to action. The second is that cognition is composed of more than just in-the-head processes; cognitive activities are externalized via features of our embodiment and in our ecological dealings with the people and things around us. I appeal to these two enactive claims to consider a view called \u201cdirect social perception\u201d : the idea that we can sometimes perceive features of other minds directly in the character of their embodiment and environmental interactions. I argue that if DSP is true, we can probably also perceive certain features of mental disorders as well. I draw upon the developmental psychologist Daniel Stern\u2019s notion of \u201cforms of vitality\u201d\u2014largely overlooked in these debates\u2014to develop this idea, and I use autism as a case study. I argue further that an enactive approach to DSP can clarify some ways we play a regulative role in shaping the temporal and phenomenal character of the disorder in question, and it may therefore have practical significance for both the clinical and therapeutic encounter",
+      "publisher": "",
+      "journal": "Synthese",
+      "download_url": "https://core.ac.uk/download/186332651.pdf",
+      "source_url": "https://ore.exeter.ac.uk/repository/bitstream/10871/35779/1/Krueger%20-%20Enactivism%2c%20other%20minds%2c%20and%20mental%20disorders.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8870582",
+      "doi": null,
+      "title": "Materiality and human cognition",
+      "authors": [
+        {
+          "name": "Overmann, Karenleigh"
+        },
+        {
+          "name": "Wynn, Thomas"
+        }
+      ],
+      "year": 2019,
+      "abstract": "In this paper, we examine the role of materiality in human cognition. We address issues such as the ways in which brain functions may change in response to interactions with material forms, the attributes of material forms that may cause change in brain functions, and the spans of time required for brain functions to reorganize when interacting with material forms. We then contrast thinking through materiality with thinking about it. We discuss these in terms of their evolutionary significance and history as attested by stone tools and writing, material forms whose interaction endowed our lineage with conceptual thought and meta-awareness of conceptual domains",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/237182462.pdf",
+      "source_url": "https://philpapers.org/archive/OVEMAH.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "24707042",
+      "doi": "10.3758/s13423-016-1028-3",
+      "title": "On staying grounded and avoiding Quixotic dead ends",
+      "authors": [
+        {
+          "name": "A Caramazza"
+        },
+        {
+          "name": "A Martin"
+        },
+        {
+          "name": "A Martin"
+        },
+        {
+          "name": "A Paivio"
+        },
+        {
+          "name": "AK Engel"
+        },
+        {
+          "name": "AR Damasio"
+        },
+        {
+          "name": "BZ Mahon"
+        },
+        {
+          "name": "BZ Mahon"
+        },
+        {
+          "name": "C Wong"
+        },
+        {
+          "name": "CD Wilson-Mendenhall"
+        },
+        {
+          "name": "D Caligiore"
+        },
+        {
+          "name": "D Casasanto"
+        },
+        {
+          "name": "D Kemmerer"
+        },
+        {
+          "name": "D Kemmerer"
+        },
+        {
+          "name": "D Legrand"
+        },
+        {
+          "name": "DL Drane"
+        },
+        {
+          "name": "DL Drane"
+        },
+        {
+          "name": "E Akpinar"
+        },
+        {
+          "name": "E Machery"
+        },
+        {
+          "name": "E Rosch"
+        },
+        {
+          "name": "EE Smith"
+        },
+        {
+          "name": "EK Papies"
+        },
+        {
+          "name": "F Huettig"
+        },
+        {
+          "name": "F Pulverm\u00fcller"
+        },
+        {
+          "name": "F Pulverm\u00fcller"
+        },
+        {
+          "name": "F Pulverm\u00fcller"
+        },
+        {
+          "name": "F Pulverm\u00fcller"
+        },
+        {
+          "name": "F Schrodt"
+        },
+        {
+          "name": "GL Murphy"
+        },
+        {
+          "name": "J Henrich"
+        },
+        {
+          "name": "J Santiago"
+        },
+        {
+          "name": "JA Fodor"
+        },
+        {
+          "name": "JA Hampton"
+        },
+        {
+          "name": "JK O\u2019Regan"
+        },
+        {
+          "name": "JL McClelland"
+        },
+        {
+          "name": "JR Binder"
+        },
+        {
+          "name": "JR Searle"
+        },
+        {
+          "name": "K Grill-Spector"
+        },
+        {
+          "name": "K McRae"
+        },
+        {
+          "name": "K McRae"
+        },
+        {
+          "name": "K Meyer"
+        },
+        {
+          "name": "K Patterson"
+        },
+        {
+          "name": "L Connell"
+        },
+        {
+          "name": "L Connell"
+        },
+        {
+          "name": "L Doren Van"
+        },
+        {
+          "name": "L Talmy"
+        },
+        {
+          "name": "LAM Lebois"
+        },
+        {
+          "name": "Lawrence W. Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "LW Barsalou"
+        },
+        {
+          "name": "M Andrews"
+        },
+        {
+          "name": "M Kiefer"
+        },
+        {
+          "name": "M Kiefer"
+        },
+        {
+          "name": "MA Lambon Ralph"
+        },
+        {
+          "name": "MJ Farah"
+        },
+        {
+          "name": "MJ Yates"
+        },
+        {
+          "name": "MK Tanenhaus"
+        },
+        {
+          "name": "ML Anderson"
+        },
+        {
+          "name": "MM Louwerse"
+        },
+        {
+          "name": "MM Louwerse"
+        },
+        {
+          "name": "N Chomsky"
+        },
+        {
+          "name": "PJ Schwanenflugel"
+        },
+        {
+          "name": "RA Zwaan"
+        },
+        {
+          "name": "RA Zwaan"
+        },
+        {
+          "name": "RL Buckner"
+        },
+        {
+          "name": "RM Braga"
+        },
+        {
+          "name": "RW Langacker"
+        },
+        {
+          "name": "S Harnad"
+        },
+        {
+          "name": "SW Allen"
+        },
+        {
+          "name": "TK Landauer"
+        },
+        {
+          "name": "TT Rogers"
+        },
+        {
+          "name": "V Walsh"
+        },
+        {
+          "name": "WK Simmons"
+        },
+        {
+          "name": "WK Simmons"
+        },
+        {
+          "name": "WR Glaser"
+        },
+        {
+          "name": "X Wang"
+        },
+        {
+          "name": "ZW Pylyshyn"
+        }
+      ],
+      "year": 2016,
+      "abstract": "The 15 articles in this special issue on The Representation of Concepts illustrate the rich variety of theoretical positions and supporting research that characterize the area. Although much agreement exists among contributors, much disagreement exists as well, especially about the roles of grounding and abstraction in conceptual processing. I first review theoretical approaches raised in these articles that I believe are Quixotic dead ends, namely, approaches that are principled and inspired but likely to fail. In the process, I review various theories of amodal symbols, their distortions of grounded theories, and fallacies in the evidence used to support them. Incorporating further contributions across articles, I then sketch a theoretical approach that I believe is likely to be successful, which includes grounding, abstraction, flexibility, explaining classic conceptual phenomena, and making contact with real-world situations. This account further proposes that (1) a key element of grounding is neural reuse, (2) abstraction takes the forms of multimodal compression, distilled abstraction, and distributed linguistic representation (but not amodal symbols), and (3) flexible context-dependent representations are a hallmark of conceptual processing",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/42370096.pdf",
+      "source_url": "http://eprints.gla.ac.uk/117350/7/117350.pdf",
+      "language": "en",
+      "document_type": "research"
+    }
+  ],
+  "count": 19,
+  "errors": []
+}

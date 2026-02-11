@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s13164-013-0131-x"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s13164-013-0131-x",
+      "title": "Distributed Cognition and Memory Research: History and Current Directions",
+      "authors": [
+        {
+          "family": "Michaelian",
+          "given": "Kourken"
+        },
+        {
+          "family": "Sutton",
+          "given": "John"
+        }
+      ],
+      "editors": [],
+      "year": 2013,
+      "container_title": "Review of Philosophy and Psychology",
+      "volume": "4",
+      "issue": "1",
+      "page": "1-24",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s13164-013-0131-x"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

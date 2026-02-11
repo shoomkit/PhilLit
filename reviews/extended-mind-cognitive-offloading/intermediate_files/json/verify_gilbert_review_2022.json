@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.3758/s13423-022-02139-4"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.3758/s13423-022-02139-4",
+      "title": "Outsourcing Memory to External Tools: A Review of \u2018Intention Offloading\u2019",
+      "authors": [
+        {
+          "family": "Gilbert",
+          "given": "Sam J."
+        },
+        {
+          "family": "Boldt",
+          "given": "Annika"
+        },
+        {
+          "family": "Sachdeva",
+          "given": "Chhavi"
+        },
+        {
+          "family": "Scarampi",
+          "given": "Chiara"
+        },
+        {
+          "family": "Tsai",
+          "given": "Pei-Chun"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "Psychonomic Bulletin &amp; Review",
+      "volume": "30",
+      "issue": "1",
+      "page": "60-76",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.3758/s13423-022-02139-4"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

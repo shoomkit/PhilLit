@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s11229-025-04931-w"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11229-025-04931-w",
+      "title": "Beyond the extended mind: new arguments for extensive enactivism",
+      "authors": [
+        {
+          "family": "Sganzerla",
+          "given": "Lorena"
+        },
+        {
+          "family": "Hutto",
+          "given": "Daniel D."
+        },
+        {
+          "family": "Kirchhoff",
+          "given": "Michael D."
+        }
+      ],
+      "editors": [],
+      "year": 2025,
+      "container_title": "Synthese",
+      "volume": "205",
+      "issue": "3",
+      "page": "",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s11229-025-04931-w"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

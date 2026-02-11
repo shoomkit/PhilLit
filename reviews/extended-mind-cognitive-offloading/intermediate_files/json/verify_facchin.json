@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s11229-024-04579-y"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s11229-024-04579-y",
+      "title": "Extended animal cognition",
+      "authors": [
+        {
+          "family": "Facchin",
+          "given": "Marco"
+        },
+        {
+          "family": "Leonetti",
+          "given": "Giulia"
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "Synthese",
+      "volume": "203",
+      "issue": "5",
+      "page": "",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s11229-024-04579-y"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

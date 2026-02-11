@@ -1,0 +1,1020 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "cognitive integration extended mind",
+  "results": [
+    {
+      "paperId": "9bf720568c8474b20698eef7a1bed98b67866241",
+      "title": "Cognitive integration, enculturated cognition and the socially extended mind",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 41,
+      "doi": "10.1016/j.cogsys.2013.05.002",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9bf720568c8474b20698eef7a1bed98b67866241",
+      "venue": "Cognitive Systems Research",
+      "journal": {
+        "name": "Cognitive Systems Research",
+        "pages": "26-34",
+        "volume": "25"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "50ca2430627bc41018dc521ce69d2b0601885171",
+      "title": "Dissolving the Self: the cognitive turn of the extended mind theory",
+      "authors": [
+        {
+          "name": "L\u00e9o Peruzzo J\u00fanior",
+          "authorId": "2128844936"
+        },
+        {
+          "name": "Amanda Luiza Stroparo",
+          "authorId": "2149285352"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Abstract: In this article, we intend to show how the theory of the extended mind, particularly Andy Clark\u2019s arguments, can explain mental processes not as restrictive phenomena to the brain and endorse their connection to the body and the environment. Therefore, initially, we reconstruct the main materialist perspectives that have enclosed the self to the cranium; then, we indicate how the extended character of the mind escapes its natural limits and blends \u201cshamelessly\u201d into the world. We argue that external artifacts play an important role in guiding our actions, so that changes in the environment can cause changes in the behavior of the cognitive agent, what constitutes a constitutive dependence. In this way, the extended mind thesis challenges both traditional functionalism and externalism as it considers cognitive processes, on the one hand, to be relevant interactions of the individual with the environment and, on the other, intention-driven behaviors. Through the integration of biological bodies with artifacts or tools, we support a reading that dissolves the classic \u201cexplanatory gap\u201d of cognitive sciences.",
+      "citationCount": 2,
+      "doi": "10.1590/0101-3173.2023.v46n2.p193",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/50ca2430627bc41018dc521ce69d2b0601885171",
+      "venue": "Trans/Form/A\u00e7\u00e3o",
+      "journal": {
+        "name": "Trans/Form/A\u00e7\u00e3o"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "3d025be06f5718e9af782a6d6ab1a349d2705ab7",
+      "title": "Rethinking Human-AI interactions through the maintainability: a new criterion for Trust and Glue in the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Deivide Garcia da Silva Oliveira",
+          "authorId": "2340582872"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Abstract: This paper explores the implications of the Extended Mind Hypothesis (ExM), as introduced by Andy Clark and David Chalmers in 1998. Focusing on cognitive integration and the Trust and Glue criteria, we have two objectives. First, we examine how ExM reshapes perspectives on human-AI interaction, particularly by challenging the Standard model of AI. We argue that AI, as an active non-organic agent, significantly influences cognitive processes beyond initial expectations. Secondly, we propose the maintainability as a fourth criterion in the Trust and Glue criteria of ExM, in addition to trustworthiness, reliability and accessibility. This addition aims to evaluate parity in coupled systems comprehensively addressing concerns about control in human-AI interactions. We highlight the risks posed by AI\u2019s understanding of human psychology, which may lead to unintended shifts in our objectives and choices. Our analysis concludes that maintainability serves as a critical safeguard against the evolving challenges of human-AI integration.",
+      "citationCount": 1,
+      "doi": "10.1590/0101-3173.2025.v48.n6.e025061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3d025be06f5718e9af782a6d6ab1a349d2705ab7",
+      "venue": "Trans/Form/A\u00e7\u00e3o",
+      "journal": {
+        "name": "Trans/Form/A\u00e7\u00e3o"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "80c5093e7cafcf2a6ac38e0127a7d9cdab80b265",
+      "title": "The \u2018NeuroGate\u2019: neuromorphic intelligence, extended mind, and neurorights",
+      "authors": [
+        {
+          "name": "Mirko Farina",
+          "authorId": "2248158836"
+        },
+        {
+          "name": "A. Lavazza",
+          "authorId": "35029088"
+        }
+      ],
+      "year": 2024,
+      "abstract": null,
+      "citationCount": 4,
+      "doi": "10.1007/s11229-024-04795-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/80c5093e7cafcf2a6ac38e0127a7d9cdab80b265",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "204"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "b1e7699a851c87cd95fe0ca1d9252ef014741a4b",
+      "title": "Cognitive Systems And The Extended Mind",
+      "authors": [
+        {
+          "name": "Doreen Meier",
+          "authorId": "39512543"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 155,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b1e7699a851c87cd95fe0ca1d9252ef014741a4b",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "228a82bcad250b40b08c8e6b5c43dbf517cbd377",
+      "title": "Online Intellectual Virtues and the Extended Mind",
+      "authors": [
+        {
+          "name": "Lukas Schwengerer",
+          "authorId": "114936934"
+        }
+      ],
+      "year": 2020,
+      "abstract": "ABSTRACT The internet has become an ubiquitous epistemic source. However, it comes with several drawbacks. For instance, the world wide web seems to foster filter bubbles and echo chambers and includes search results that promote bias and spread misinformation. Richard Heersmink suggests online intellectual virtues to combat these epistemically detrimental effects . These are general epistemic virtues applied to the online environment based on our background knowledge of this online environment. I argue that these online intellectual virtues also demand a particular view of cognitive integration. Online intellectual virtues are incompatible with a popular conception of extended minds proposed by Andy Clark and David Chalmers . I suggest that if we want to hold on to both a conception of online intellectual virtues and some conception of the extended mind, we have to accept a more gradual theory of cognitive integration along the lines of second-wave theories of the extended mind .",
+      "citationCount": 13,
+      "doi": "10.1080/02691728.2020.1815095",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/228a82bcad250b40b08c8e6b5c43dbf517cbd377",
+      "venue": "Social Epistemology",
+      "journal": {
+        "name": "Social Epistemology",
+        "pages": "312 - 322",
+        "volume": "35"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "12f365d2cb8c61c5230b97f364f584dc40334b97",
+      "title": "What is the extension of the extended mind?",
+      "authors": [
+        {
+          "name": "Hajo Greif",
+          "authorId": "22851126"
+        }
+      ],
+      "year": 2015,
+      "abstract": "Two aspects of cognitive coupling, as brought forward in the Extended Mind Hypothesis, are discussed in this paper: (1) how shall the functional coupling between the organism and some entity in his environment be spelled out in detail? (2) What are the paradigmatic external entities to enter into that coupling? These two related questions are best answered in the light of an aetiological variety of functionalist argument that adds historical depth to the \u201cactive externalism\u201d promoted by Clark and Chalmers and helps to counter some of the core criticisms levelled against this view. Under additional reference to conceptual parallels between the Extended Mind Hypothesis and a set of heterodox theories in biology\u2014environmental constructivism, niche construction, developmental systems theory\u2014an argument for the grounding of environmentally extended cognitive traits in evolved biological functions is developed. In a spirit that seeks to integrate extended functionalism with views from cognitive integration and complementarity, it is argued (ad 1) that instances of environmental coupling should be understood as being constitutive to cognitive functions in either of two distinct ways. It is further argued (ad 2) that the historically and systematically prior environmental counterparts in that coupling are features of the natural environment. Language and linguistically imbued artefacts are likely to have descended from more basic relations that have an extension over the environment.",
+      "citationCount": 14,
+      "doi": "10.1007/s11229-015-0799-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/12f365d2cb8c61c5230b97f364f584dc40334b97",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "4311 - 4336",
+        "volume": "194"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "a6b6661121c98f78b0f1a22a5ea0f53867e795c8",
+      "title": "What is the extension of the extended mind?",
+      "authors": [
+        {
+          "name": "Hajo Greif",
+          "authorId": "22851126"
+        }
+      ],
+      "year": 2015,
+      "abstract": "Two aspects of cognitive coupling, as brought forward in the Extended Mind Hypothesis, are discussed in this paper: (1) how shall the functional coupling between the organism and some entity in his environment be spelled out in detail? (2) What are the paradigmatic external entities to enter into that coupling? These two related questions are best answered in the light of an aetiological variety of functionalist argument that adds historical depth to the \u201cactive externalism\u201d promoted by Clark and Chalmers and helps to counter some of the core criticisms levelled against this view. Under additional reference to conceptual parallels between the Extended Mind Hypothesis and a set of heterodox theories in biology\u2014environmental constructivism, niche construction, developmental systems theory\u2014an argument for the grounding of environmentally extended cognitive traits in evolved biological functions is developed. In a spirit that seeks to integrate extended functionalism with views from cognitive integration and complementarity, it is argued (ad 1) that instances of environmental coupling should be understood as being constitutive to cognitive functions in either of two distinct ways. It is further argued (ad 2) that the historically and systematically prior environmental counterparts in that coupling are features of the natural environment. Language and linguistically imbued artefacts are likely to have descended from more basic relations that have an extension over the environment.",
+      "citationCount": 0,
+      "doi": "10.1007/s11229-015-0799-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a6b6661121c98f78b0f1a22a5ea0f53867e795c8",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "4311 - 4336",
+        "volume": "194"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ed8a1428e6404bd46fda144ce13b70a39ae6afc2",
+      "title": "Knowledge and cognitive integration",
+      "authors": [
+        {
+          "name": "S. Palermos",
+          "authorId": "1834731"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 80,
+      "doi": "10.1007/s11229-013-0383-0",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ed8a1428e6404bd46fda144ce13b70a39ae6afc2",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "1931 - 1951",
+        "volume": "191"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d96eed961d6870984441b2898cea143647e5709e",
+      "title": "System 0: Transforming Artificial Intelligence into a Cognitive Extension",
+      "authors": [
+        {
+          "name": "Massimo Chiriatti",
+          "authorId": "2327190201"
+        },
+        {
+          "name": "Marianna Bergamaschi Ganapini",
+          "authorId": "2388428878"
+        },
+        {
+          "name": "Enrico Panai",
+          "authorId": "2359737034"
+        },
+        {
+          "name": "B. Wiederhold",
+          "authorId": "1686405"
+        },
+        {
+          "name": "Giuseppe Riva",
+          "authorId": "2282027941"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This paper introduces \u201cSystem 0,\u201d a conceptual framework for understanding how artificial intelligence functions as a cognitive extension preceding both intuitive (System 1) and deliberative (System 2) thinking processes. As AI systems increasingly shape the informational substrate upon which human cognition operates, they transform from passive tools into active cognitive partners. Building on the Extended Mind hypothesis and Heersmink\u2019s criteria for cognitive extension, we argue that AI systems satisfy key conditions for cognitive integration. These include reliability, trust, transparency, individualization, and the ability to enhance and transform human mental functions. However, AI integration creates a paradox: while expanding cognitive capabilities, it may simultaneously constrain thinking through sycophancy and bias amplification. To address these challenges, we propose seven evidence-based frameworks for effective human-AI cognitive integration: Enhanced Cognitive Scaffolding, which promotes progressive autonomy; Symbiotic Division of Cognitive Labor, strategically allocating tasks based on comparative strengths; Dialectical Cognitive Enhancement, countering AI sycophancy through productive epistemic tension; Agentic Transparency and Control, ensuring users understand and direct AI influence; Expertise Democratization, breaking down knowledge silos; Social-Emotional Augmentation, addressing affective dimensions of cognitive work; and Duration-Optimized Integration, managing the evolving human-AI relationship over time. Together, these frameworks provide a comprehensive approach for harnessing AI as a genuine cognitive extension while preserving human agency, critical thinking, and intellectual growth, transforming AI from a replacement for human cognition into a catalyst for enhanced thinking.",
+      "citationCount": 7,
+      "doi": "10.1089/cyber.2025.0201",
+      "arxivId": "2506.14376",
+      "url": "https://www.semanticscholar.org/paper/d96eed961d6870984441b2898cea143647e5709e",
+      "venue": "Cyberpsychology, Behavior, and Social Networking",
+      "journal": {
+        "name": "Cyberpsychology, Behavior, and Social Networking",
+        "pages": "534 - 542",
+        "volume": "28"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Editorial"
+      ]
+    },
+    {
+      "paperId": "465907dec42a5ed7cef39ce958d17372062399ab",
+      "title": "Contingent transcranialism and deep functional cognitive integration: The case of human emotional ontogenesis",
+      "authors": [
+        {
+          "name": "J. Greenwood",
+          "authorId": "20617726"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 11,
+      "doi": "10.1080/09515089.2011.633752",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/465907dec42a5ed7cef39ce958d17372062399ab",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "420 - 436",
+        "volume": "26"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2eb49550e6288e0a70d3dc9a643713dead3e12bc",
+      "title": "Intentionality, Cognitive Integration and the Continuity Thesis",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 38,
+      "doi": "10.1007/S11245-008-9044-1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2eb49550e6288e0a70d3dc9a643713dead3e12bc",
+      "venue": "",
+      "journal": {
+        "name": "Topoi",
+        "pages": "31-43",
+        "volume": "28"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "f9a834c9d0bf2c0697267136b803be49ab93f00d",
+      "title": "The cure for the cure: Networking the extended mind",
+      "authors": [
+        {
+          "name": "Michele Merritt",
+          "authorId": "3138536"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.1080/09515089.2011.580050",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f9a834c9d0bf2c0697267136b803be49ab93f00d",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "463 - 485",
+        "volume": "24"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "81bd611bbaa66ff554d60d9150d4c7cb6e03a0aa",
+      "title": "Defending Cognitive Integration",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1057/9780230592889_4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/81bd611bbaa66ff554d60d9150d4c7cb6e03a0aa",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "61-76",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9aa19efb63449036b6ec7ba473c4ff7a6cc3741a",
+      "title": "Where Syllogistic Reasoning Happens: An Argument for the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "authorId": "1828654"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9aa19efb63449036b6ec7ba473c4ff7a6cc3741a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": "29"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7e2e8704eb18c361cd3da9c43a772af76ff50ba1",
+      "title": "Externalism, Dynamics and the Extended Mind",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1057/9780230592889_3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7e2e8704eb18c361cd3da9c43a772af76ff50ba1",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "38-60",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b046aa3166c288873091d5d1004f888e198b4856",
+      "title": "Extended Cognitive System and Epistemic Subject",
+      "authors": [
+        {
+          "name": "B. Trybulec",
+          "authorId": "2080599994"
+        }
+      ],
+      "year": 2015,
+      "abstract": "Abstract The concept of an extended cognitive system is central to contemporary studies of cognition. In the paper I analyze the place of the epistemic subject within the extended cognitive system. Is it extended as well? In answering this question I focus on the differences between the first and the second wave of arguments for the extended mind thesis. I argue that the position of Cognitive Integration represented by Richard Menary is much more intuitive and fruitful in analyses of cognition and knowledge than the early argument formulated by Andy Clark and David Chalmers. Cognitive Integration is compatible with virtue epistemology of John Greco\u2019s agent reliabilism. The epistemic subject is constituted by its cognitive character composed of an integrated set of cognitive abilities and processes. Some of these processes are extended, they are a manipulation of external informational structures and, as such, they constitute epistemic practices. Epistemic practices are normative; to conduct them correctly the epistemic subject needs to obey epistemic norms embedded in the cultural context. The epistemic subject is not extended because of the casual coupling with external informational artifacts which extend his mind from inside the head and into the world. Rather, cognitive practices constitute the subject\u2019s mind, they transform his cognitive abilities, and this is what makes the mind and epistemic subject \u201cextended\u201d.",
+      "citationCount": 3,
+      "doi": "10.1515/slgr-2015-0006",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b046aa3166c288873091d5d1004f888e198b4856",
+      "venue": "",
+      "journal": {
+        "name": "Studies in Logic, Grammar and Rhetoric",
+        "pages": "111 - 128",
+        "volume": "40"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "4fc05583ebb7dbd0f2295ff39cf310bb63868d85",
+      "title": "HoloFoldit and Hologrammatically Extended Cognition",
+      "authors": [
+        {
+          "name": "C. Turner",
+          "authorId": "144797441"
+        }
+      ],
+      "year": 2022,
+      "abstract": "How does the integration of mixed reality devices into our cognitive practices impact the mind from a metaphysical and epistemological perspective? In his innovative and interdisciplinary article, \u201cMinds in the Metaverse: Extended Cognition Meets Mixed Reality\u201d (2022), Paul Smart addresses this underexplored question, arguing that the use of a hypothetical application of the Microsoft HoloLens called \u201cthe HoloFoldit\u201d represents a technologically high-grade form of extended cognizing from the perspective of neo-mechanical philosophy. This short commentary aims to (1) carve up the conceptual landscape of possible objections to Smart\u2019s argument and (2) elaborate on the possibility of hologrammatically extended cognition, which is supposed to be one of the features of the HoloFoldit case that distinguishes it from more primitive forms of cognitive extension. In tackling (1), I do not mean to suggest that Smart does not consider or have sufficient answers to these objections. In addressing (2), the goal is not to argue for or against the possibility of hologrammatically extended cognition but to reveal some issues in the metaphysics of virtual reality upon which this possibility hinges. I construct an argument in favor of hologrammatically extended cognition based on the veracity of virtual realism (Chalmers, 2017) and an argument against it based on the veracity of virtual fictionalism (McDonnell and Wildman, 2019).",
+      "citationCount": 2,
+      "doi": "10.1007/s13347-022-00596-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4fc05583ebb7dbd0f2295ff39cf310bb63868d85",
+      "venue": "Philosophy & Technology",
+      "journal": {
+        "name": "Philosophy & Technology",
+        "volume": "35"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "efb902e6d7142000a86429b471c570b23f920877",
+      "title": "An extended view of mind and cognition",
+      "authors": [
+        {
+          "name": "\u00c1ngel Garc\u00eda Rodr\u00edguez",
+          "authorId": "2110595317"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/efb902e6d7142000a86429b471c570b23f920877",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "5-18",
+        "volume": "30"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d8d65440192a0d9f87746fa22d416007730014dc",
+      "title": "Cognition and the Web: Extended, Transactive, or Scaffolded?",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "authorId": "1861130"
+        },
+        {
+          "name": "J. Sutton",
+          "authorId": "144074447"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 35,
+      "doi": "10.1007/s10670-018-0022-8",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d8d65440192a0d9f87746fa22d416007730014dc",
+      "venue": "Erkenntnis: An International Journal of Scientific Philosophy",
+      "journal": {
+        "name": "Erkenntnis",
+        "pages": "139 - 164",
+        "volume": "85"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ffc9da889d557a926c39e910a45ca0162e80b94e",
+      "title": "Algorithmic Assistance and the Crisis of Authorship: Creative Thinking in the Age of AI-Mediated Writing",
+      "authors": [
+        {
+          "name": "Sandhya Nandan",
+          "authorId": "2386753162"
+        },
+        {
+          "name": "Shabina Khan",
+          "authorId": "2387083736"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The rapid integration of generative artificial intelligence into writing practices has elicited renewed concern about\nauthorship, creativity, and intellectual responsibility. Prevailing debates often revolve around the question of whether\nmachines can produce creative texts; yet, such framings overlook a more basic transformation: namely, a shift in the\ncognitive processes of writers as they compose in concert with algorithmic systems. This paper positions AI-assisted writing\nas both a cognitive and an ethical issue. It argues that the main impact of algorithms is not about the production of text, per\nse, but about the changing of creative thought processes. Combining theories of authorship, cognitive storytelling, extended\nmind concepts, and posthumanist perspectives, this analysis examines how AI shapes intention, judgment, and the ineffable\nstruggle of writing. Synthesizing recent literature, including Indian studies published after 2015, it shows that AI helps\nthinking when used thoughtfully, by facilitating idea generation and experimenting with different stylistic options. The\nevidence also underlines hazards: erosion of explicit intent, dimming the author\u2019s voice, and how thinking is reduced when\nsuggestions are adopted without critical assessment. While the paper does argue that the challenge of authorship lies less in\na lack of creativity than in transformations to the ways in which writers create, driven by shifting distributions of\nresponsibility and control between humans and machines. The distinction drawn between thinking with and thinking\nthrough machines establishes a theoretical framework for responsibly integrating AI into the practice of writing in such a\nway as to preserve the accountability of an author. It concludes with a prescriptive stance for a moral approach to authorship\nthat foregrounds reflexivity, cultural literacy, and prudent judgment in an era of AI-assisted writing.",
+      "citationCount": 0,
+      "doi": "10.38124/ijisrt/25dec1324",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ffc9da889d557a926c39e910a45ca0162e80b94e",
+      "venue": "International Journal of Innovative Science and Research Technology",
+      "journal": {
+        "name": "International Journal of Innovative Science and Research Technology"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "5bd816e4a4bb83c88ba0cd98f4176bb7911df76c",
+      "title": "Visuospatial integration and human evolution: the fossil evidence.",
+      "authors": [
+        {
+          "name": "E. Bruner",
+          "authorId": "144905368"
+        },
+        {
+          "name": "M. Lozano",
+          "authorId": "120502405"
+        },
+        {
+          "name": "C. Lorenzo",
+          "authorId": "144333191"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 18,
+      "doi": "10.4436/JASS.94025",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5bd816e4a4bb83c88ba0cd98f4176bb7911df76c",
+      "venue": "Journal of anthropological sciences = Rivista di antropologia : JASS",
+      "journal": {
+        "name": "Journal of anthropological sciences = Rivista di antropologia : JASS",
+        "pages": "\n          81-97\n        ",
+        "volume": "94"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "0ee1ecc0e21a53aab18b81d3b721064d311d5fb0",
+      "title": "Roboroach, or, The Extended Phenotype Meets Cognitive Science",
+      "authors": [
+        {
+          "name": "K. Sterelny",
+          "authorId": "5814206"
+        }
+      ],
+      "year": 2000,
+      "abstract": null,
+      "citationCount": 4,
+      "doi": "10.2307/2653412",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0ee1ecc0e21a53aab18b81d3b721064d311d5fb0",
+      "venue": "",
+      "journal": {
+        "name": "Philosophy and Phenomenological Research",
+        "pages": "207",
+        "volume": "61"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d2751b2c6ccc8d205f195a1198c71cf847a733ed",
+      "title": "Hybrid Corporeality and the Multiplicity of Human Death: A Post-Anthrocentric Perspective",
+      "authors": [
+        {
+          "name": "S. Sokolovskiy",
+          "authorId": "108491090"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Rapid development of cognitive and neurosciences undermined the Cartesian view on the human body as a bounded and autonomous entity. A plethora of publications on enhanced memory, external cognition, extended mind, embodied self, or distributed corporeality confirms the view that the human body and mind are not self-contained entities, producing the world as a prosthetic set of \u201cextensions\u201d or parts of hybrid wholes, which we interpret as cyborganic assemblages. However, in this abundance of documented entanglements of bodies and minds with their surrounding settings, of fusions of corporeality with inert matter, there is scarce, if any, reflection on the posthumous fate of these hybrids and on the multiple forms of their deterioration, that establish what the author provisionally describes as multiplicity of human death. The paper presents the analysis of various forms of human body and inanimate matter integration and their posthumous persistence or deterioration. The view on the human body as multiple provides corollary of its death as a multimodal, manifold set of events, distinguishing biological, lived, and social bodies and their heterochronous deaths. The heterochronicity of human death is illustrated with the description of private commemorative practices that form a geography, distinct from the usual public commemoration places.",
+      "citationCount": 0,
+      "doi": "10.18357/anthropologica63220211035",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d2751b2c6ccc8d205f195a1198c71cf847a733ed",
+      "venue": "Anthropologica",
+      "journal": {
+        "name": "Anthropologica"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "74bd6bba3c4c3a27c8b9ed269c3d3d49e4328062",
+      "title": "The Evolution of the Hybrid Mind",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1057/9780230592889_6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/74bd6bba3c4c3a27c8b9ed269c3d3d49e4328062",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "102-134",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "70e3fcb75f803e8f49ffd96edfda95b609368ab6",
+      "title": "The Now and the Passage of Time",
+      "authors": [
+        {
+          "name": "Mauro Dorato",
+          "authorId": "3342636"
+        },
+        {
+          "name": "M. Wittmann",
+          "authorId": "114773627"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 17,
+      "doi": "10.1163/15685241-12341335",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/70e3fcb75f803e8f49ffd96edfda95b609368ab6",
+      "venue": "",
+      "journal": {
+        "name": "KronoScope",
+        "pages": "191-213",
+        "volume": "15"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "72e3a35c8eb2a2cde082979cc3f6e646ce03fce0",
+      "title": "Reviewing the Extended Mind Theory: Theoretical Insights and the Role of Experimental Philosophy in Understanding Cognitive Boundaries",
+      "authors": [
+        {
+          "name": "Necm\u0131ye Yuksel",
+          "authorId": "2372318407"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This study proposes a theoretical account of the evolution of the extended mind hypothesis by using experimental philosophy (x-phi) in the study of the concept of intrinsic content. Building on Clark's (1998) argument on behalf of extended cognition and Adams and Aizawa's (2001) neural-centric process argument, it considers how cognitive boundary judgments relying on intuition can illuminate the use of external devices, such as notebooks or mobile phones, in mental processes. The study concludes that x-phi's methods, which explore folk intuitions, offer a practical means of figuring out whether intrinsic content is contained in the brain or distributed across external systems. By considering factors like socioeconomic status that may affect intuitions, it highlights x-phi's ability to provide empirical insights to discussions in philosophy of mind (Knobe & Nichols, 2008). Drawing on inter-disciplinary methods across several disciplines (Y\u00fcksel, 2021), this research links philosophy and cognitive science and offers an addition to debates around 4E cognition (embodied, embedded, extended, enactive). The proposed method is aimed at making the theoretical and intuitive components of extended mind theory more transparent and providing a gateway towards future empirical investigations.",
+      "citationCount": 0,
+      "doi": "10.51404/metazihin.1692629",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/72e3a35c8eb2a2cde082979cc3f6e646ce03fce0",
+      "venue": "Metazihin: yapay zeka ve zihin felsefesi dergisi",
+      "journal": {
+        "name": "MetaZihin: Yapay Zeka ve Zihin Felsefesi Dergisi"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "53dcf773e79ade5516e1b7845851c6ccd61b64ed",
+      "title": "Extended Mind and Patriarchy: Cognitive Interpretation of the Reproduction of Patriarchal System",
+      "authors": [
+        {
+          "name": "Filip Pierzchalski",
+          "authorId": "2083781174"
+        }
+      ],
+      "year": 2024,
+      "abstract": "The aim of the article is to analyze the patriarchal system in the light of the cognitive concept of the extended mind. The extended mind hypothesis fits in the externalist definition of the mind, where environmental and social factors (exostructures) are valued in explaining complex mental and cognitive processes \u2013 subjective experience in general. In this scientific interpretation, the reproduction of patriarchy can be reduced to the individual reproduction of a specific type of mentality, more precisely, the androcentrically shaped intentionality of participants in collective life. In other words, male and female mentality \u2013 including perceptual and introspective awareness \u2013 are gradually dependent on a complex and multi-level mechanism of cultural transmission. A process that in this case should be perceived as a key factor in promoting patriarchal models of femininity/masculinity, which is directly related to the dissemination of phallogocentric thinking, attitudes, behaviors, etc. in society.",
+      "citationCount": 0,
+      "doi": "10.4467/25440845tp.24.013.20709",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/53dcf773e79ade5516e1b7845851c6ccd61b64ed",
+      "venue": "Teoria Polityki",
+      "journal": {
+        "name": "Teoria Polityki"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "3fc4af13c8c21b41b6c3cb5fb6d789cb4f44df4e",
+      "title": "Comprehensive Review: Advancing Cognitive Computingthrough Theory of Mind Integration and Deep Learning in Artificial Intelligence",
+      "authors": [
+        {
+          "name": "Shuyan Liu",
+          "authorId": "2341456720"
+        },
+        {
+          "name": "Kangsheng Wang",
+          "authorId": "2321412875"
+        }
+      ],
+      "year": 2024,
+      "abstract": "In this article, we will review our advances in intelligence modeling the mind and explore various efforts to mimic the processes that would allow humans to perform cognition files and line widgets of processing. It presents ideas and stresses how understanding cognitive functions is vital for AI progress. Three principal modeling strategies are examined: cognitive mind modeling, assignation mind modeling, and intelligent body mind modeling. In the article, he explores a few theories, such as symbol systems and the ACT-R framework. It further argues that learning seems limited in encoding models of the mind, citing its successes in language-oriented tasks and its limitations in translating basic mechanisms like reward to model-level language and data from neuroscience. Additionally, it investigates ways of assessing and enhancing learning theory of mind abilities based on tasks that utilize end-to-end function. The review reiterates the need for an improved understanding of human-level thought processing to develop intelligent systems that can better discern intentions and feelings. It provides some ideas on evaluating this based on deep learning approaches. The review argues that viewing learning through the lens of systems yields new insights into human thought and social behavior that could enable the development of novel and more adaptive AI technologies.",
+      "citationCount": 3,
+      "doi": "10.1145/3704814.3704822",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3fc4af13c8c21b41b6c3cb5fb6d789cb4f44df4e",
+      "venue": "International Conference on Computer Science and Application Engineering",
+      "journal": {
+        "name": "Proceedings of the 8th International Conference on Computer Science and Application Engineering"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Book",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "27ea9157bc77fbccf0b7d480d91bd9b6e011ad6d",
+      "title": "Beyond the extended mind: new arguments for extensive enactivism",
+      "authors": [
+        {
+          "name": "Lorena Sganzerla",
+          "authorId": "2348844553"
+        },
+        {
+          "name": "Daniel D. Hutto",
+          "authorId": "1938148"
+        },
+        {
+          "name": "Michael D. Kirchhoff",
+          "authorId": "40222333"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Clark and Chalmers (Analysis 58:7\u201319, 1998) landmark paper, The Extended Mind, launched a thousand ships and changed the contours of the larger sea of theorizing about cognition. Over the past twenty-six years, it has led to intense philosophical debates about of the constitutive bounds of mind and cognition and generated multiple waves of work taking the form of various attempts to clarify and defend its core thesis. The extended mind thesis states that under certain (specialized and particular) conditions cognitive processes may be constituted by resources distributed across the brain, the body, and the environment. The extended mind thesis is part of a larger family of theoretical frameworks such as embodied cognition, distributed cognition, and various versions of enactivism (Gallagher in South J Philos 56: 421\u2013447, 2018; Hutchins in Cognition in the wild, The MIT Press, 1995; Varela et al. in The embodied mind: cognitive science and human experience, The MIT Press, 1991; Di Paolo in Topoi 28:9\u201321, 2009; Hutto and Myin in Radicalizing enactivism: basic minds without content, The MIT Press, 2013; Hutto and Myin in Evolving enactivism: basic minds meet content, The MIT Press, 2017). In this paper we revive and clarify the commitments of Radical Enactivism\u2019s Extensive Enactivism, compare it to alternatives, and provide new arguments and analyses for preferring it over what is on offer from other members of the extended-distributed-enactive family of positions.",
+      "citationCount": 4,
+      "doi": "10.1007/s11229-025-04931-w",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/27ea9157bc77fbccf0b7d480d91bd9b6e011ad6d",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "205"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "b327ffda74c5fcea46e3b64a6bd3c7c6495cf83a",
+      "title": "Enhancement and assessment in the AI age: An extended mind perspective",
+      "authors": [
+        {
+          "name": "J. Hern\u00e1ndez-Orallo",
+          "authorId": "2262074319"
+        }
+      ],
+      "year": 2025,
+      "abstract": "On the verge of the AI Age\u2014the Mechanocene\u2014we tend to reproduce past narratives where humans are replaced by machines. This leads us to identifying skills and activities that will not be automated by AI soon, and prepare both current and future generations for those \u2018safe\u2019 occupations. However, there is the risk that the set of non-automatable tasks becomes empty sooner than expected, preparing new generations for skills that will not be needed in the end. Instead of this incremental route, in this paper we imagine a final destination where AI has all the skills humans have. We argue that in an age where humans can be intensively assisted, augmented and coupled with AI, we need to rethink enhancement and assessment under the extended mind thesis\u2014a philosophical theory suggesting that technological tools can become integral parts of our cognitive processes. Under this perspective, we can still identify skills that are useful in this AI age, especially if humans want to understand and influence their world. Then, if these skills are set as the goals for education, we need to reliably assess they are achieved. However, a world of ubiquitous AI extenders generates enormous challenges for the assessment of individuals, when humans will be mostly operating as part of AI-human hybrids and collectives. In this context, the skills of the individual, human or machine, must be evaluated in terms of their contribution to the human-machine teams they are expected to be embedded in. This further takes education and assessment from the traditional aspiration of achieving fully autonomous skills to the reality of more integrated and interdependent human-machine scenarios of the AI age.",
+      "citationCount": 3,
+      "doi": "10.1177/18344909241309376",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b327ffda74c5fcea46e3b64a6bd3c7c6495cf83a",
+      "venue": "Journal of Pacific Rim Psychology",
+      "journal": {
+        "name": "Journal of Pacific Rim Psychology",
+        "volume": "19"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "18544b73a78594a8092fd1257c699a55eed63800",
+      "title": "Mental Integrity, Neurotechnology, and the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Tom Buller",
+          "authorId": "2344125797"
+        }
+      ],
+      "year": 2025,
+      "abstract": "We ordinarily think of the mind as private, \u201cinside,\u201d and accessible only to the person whose mind it is, and that the integrity of the mind is threatened by \u201coutside\u201d intervention. The prospect that neurotechnologies could be developed that are able to \u201cread\u201d our brains and directly manipulate our thoughts and feelings is, therefore, alarming to many. Implicit behind this sense of alarm is the view that, unlike other types of manipulation and persuasion that depend for their success on rational autonomy, direct interventions into the brain uniquely undermine this autonomy. According to the Extended Mind Thesis (EMT), there is no necessary reason why mental states and processes must be realized by internal neural states. External artifacts can constitute part of a coupled cognitive system if these artifacts play the same functional role as internal states and processes. Interventions into these artifacts could, therefore, be considered direct interventions into the mind. If we alarmed by the threat to mental integrity posed by neurotechnology, then it is likely that we will be aghast at the idea that the mind can extend beyond the brain. For intuitively, extending the mind beyond the brain makes the mind more vulnerable to invasion. This paper argues that this fear may be misplaced. Specifically, the paper argues: (i) the most relevant processes to mental integrity are conscious, personal-level processes, (ii) the types of processes that can be extended according to the most influential account of EMT are unconscious, non-occurrent, and subpersonal processes, therefore (iii) the threat posed to mental integrity by neurotechnology if EMT is adopted may be quite modest.",
+      "citationCount": 1,
+      "doi": "10.1007/s12152-025-09586-5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/18544b73a78594a8092fd1257c699a55eed63800",
+      "venue": "Neuroethics",
+      "journal": {
+        "name": "Neuroethics",
+        "volume": "18"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "9512853dbf11eba95dada5dd06824ca699b32156",
+      "title": "Aesthetic value, artistic value, and the socially extended mind",
+      "authors": [
+        {
+          "name": "Harry Drummond",
+          "authorId": "2313441287"
+        }
+      ],
+      "year": 2025,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11229-025-05411-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9512853dbf11eba95dada5dd06824ca699b32156",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "207"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "01533304b5919cc34e609e5c0bc5dfb3634c6f3b",
+      "title": "The Internet-Extended Mind: The Psychological Ramifications and Philosophical Implications of Cognitive Offloading",
+      "authors": [
+        {
+          "name": "Gloria Choi",
+          "authorId": "2057604485"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/01533304b5919cc34e609e5c0bc5dfb3634c6f3b",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "1c01dafd934678dbfaafff02c1e65e5e5f4c845e",
+      "title": "Hayek's extended mind: on the (im)possibility of Austrian behavioural economics",
+      "authors": [
+        {
+          "name": "Erwin Dekker",
+          "authorId": "2244312644"
+        },
+        {
+          "name": "Bla\u017e Remic",
+          "authorId": "112861911"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract Recent work has argued for a Hayekian behavioural economics, which combines Austrian economics with behavioural economics as developed by Kahneman, Thaler, Sunstein, and others. We suggest that this hybrid is misguided because it relies on individual cognitivism. This view of cognition is incompatible with the Hayekian view of cognition which treats rationality as an emergent phenomenon of social interaction in an institutional environment. This Hayekian view, which we call epistemic institutionalism, is compatible with an alternative prominent perspective in psychology, that of the extended mind, sometimes known as 4E cognition. We demonstrate how the Hayekian perspective on individualism, the price system, and the evolution of rules can be connected to the extended mind programme, through concepts such as the coupling of the individual and their environment, cognitive off-loading, and affordances. We suggest that this alternative combination of Austrian economics and psychology provides a more fruitful way forward, especially because it foregrounds the processes of learning, error-correction, and institutional orders, rather than choice, bias, and individual rationality. To explain why Austrian economists have been receptive to behavioural economics, we distinguish epistemic institutionalism from the (radical) subjectivist approach, which shares key assumptions of individual cognitivism.",
+      "citationCount": 8,
+      "doi": "10.1017/S1744137424000055",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1c01dafd934678dbfaafff02c1e65e5e5f4c845e",
+      "venue": "Journal of Institutional Economics",
+      "journal": {
+        "name": "Journal of Institutional Economics",
+        "volume": "20"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "86b786c0c7715441ae7a115ea90ca33d09a2eede",
+      "title": "THE EXTENDED MIND HYPOTHESIS AND THE BIRTH OF A HYBRID SELF: IS THERE A COGNITIVE AGENT?",
+      "authors": [
+        {
+          "name": "Amanda Luiza Stroparo",
+          "authorId": "2149285352"
+        },
+        {
+          "name": "Leo Peruzzo Ju\u0374nior",
+          "authorId": "2149285213"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.47929/2305-7327_2021.01_17-22",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/86b786c0c7715441ae7a115ea90ca33d09a2eede",
+      "venue": "Social Phenomena",
+      "journal": {
+        "name": "Social Phenomena"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "5f12df338ec113dff4f1aa9a4a50fef6caa8673f",
+      "title": "Nondual Panpsychism: From the Extended Mind to Universal Consciousness and \u015aiva",
+      "authors": [
+        {
+          "name": "J. M. Fritzman",
+          "authorId": "153440109"
+        },
+        {
+          "name": "Clark College",
+          "authorId": "102645805"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Descriptive metaphysics only describes the structure of thought about the world, according to P. F. Strawson, but revisionary metaphysics aims to produce a better structure. This article introduces a cross-cultural revisionary metaphysics, Nondual Panpsychism. It is cross-cultural in engaging with Indian philosophy. It is nondual in claiming that reality, although neither plural nor dual, is never One. Nondual Panpsychism is distinct from monism, dualism, and pluralism. It is a panpsychism, not maintaining that everything is conscious, but rather claiming that everything is a cognitive system. Cognition is an entity\u2019s choice of action among perceived alternatives. All entities have agency, as they choose actions. Cognition is intentional, as it is about options, and it is ubiquitous. This article has eight sections. Following an introduction, the second section recognizes that metaphysical grounding is multidirectional, reflexive, and always partial. It further explains that the One of mysticism and monism is never fully One and that reality is never wholly real. The third section argues that there is no phenomenal consciousness, no Nagelian qualia, only access consciousness and access consciousness accessed. The fourth section argues that even if phenomenal consciousness did exist, the hard problem of consciousness could be dissolved and dismissed. Panpsychism is retained by refiguring consciousness as cognitive. The fifth section hyperextends the extended mind. A social group is a cognitive system. So is the universe. Groups and their members mutually ground each other. A group is a member of larger groups, moreover, and a member, an individual, is a group. This points the way to overcoming micropsychism\u2019s combination problem and cosmopsychism\u2019s decombination problem. The sixth section argues that Nondual Panpsychism sublates \u2014 that is, simultaneously negates, preserves, and transcends \u2014 several recent versions of cosmopyschism. Engaging in cross-cultural dialogue, the seventh section shows that Nondual Panpsychism and an Indian philosophy, Ka\u015bmir \u015aaivism\u2019s panentheistic pratyabhij\u00f1\u0101 (recognition) system, are compatible. It also discusses the limitations of recent versions of cosmopsychism which are compatible with Advaita Ved\u0101nta, another Indian philosophy. The final section has an altar call.",
+      "citationCount": 0,
+      "doi": "10.53763/fag.2024.21.2.243",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5f12df338ec113dff4f1aa9a4a50fef6caa8673f",
+      "venue": "Filozoficzne Aspekty Genezy",
+      "journal": {
+        "name": "Filozoficzne Aspekty Genezy"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "962dbfac7c89864cfdc155d7668ed5d12d69a3ea",
+      "title": "Extended mind and cognitive enhancement: moral aspects of cognitive artifacts",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "authorId": "1861130"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 74,
+      "doi": "10.1007/S11097-015-9448-5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/962dbfac7c89864cfdc155d7668ed5d12d69a3ea",
+      "venue": "",
+      "journal": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "pages": "17-32",
+        "volume": "16"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c04077c8da2144ca616688874050495162ff0710",
+      "title": "The extended hollowed mind: why foundational knowledge is indispensable in the age of AI",
+      "authors": [
+        {
+          "name": "Christian R. Klein",
+          "authorId": "2241747643"
+        },
+        {
+          "name": "Reinhard Klein",
+          "authorId": "2398225259"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Generative artificial intelligence (AI) presents a fundamental duality for education: it simultaneously offers powerful cognitive extension while posing a significant risk of cognitive atrophy. This paper introduces the \u2018hollowed mind\u2019 as a conceptual framework to understand this risk\u2014a state of dependency where the frictionless availability of AI-generated answers enables users to systematically bypass the effortful cognitive processes essential for deep learning. We argue this dynamic is driven by the \u2018Sovereignty Trap\u2019: a psychological mechanism where the AI\u2019s authoritative competence tempts users to cede their own intellectual judgment, mistaking access to information for genuine ability. To substantiate this claim, we synthesize a multi-disciplinary body of evidence from cognitive science (e.g., dual-process theory, cognitive load), neurobiology (e.g., conflict-monitoring networks), and developmental psychology. We use this foundation to explain the widely documented \u2018Expertise Duality\u2019\u2014why AI acts as a \u2018leveler\u2019 for novices but an \u2018amplifier\u2019 for experts. Moving beyond critique, this paper posits that the central challenge is one of environmental design, not user competence. We propose the \u2018Fortified Mind\u2019 as the pedagogical goal: a resilient internal architecture of indispensable knowledge and metacognitive skills required to achieve genuine \u2018Cognitive Sovereignty\u2019. Finally, we outline a forward-looking research agenda focused on redesigning AI tools from \u2018answer engines\u2019 into cognitive training environments that promote effortful engagement. Our work provides a robust conceptual guide for educators, researchers, and system designers, arguing that in the age of AI, the cultivation of fundamental knowledge is not just relevant, but more crucial than ever.",
+      "citationCount": 1,
+      "doi": "10.3389/frai.2025.1719019",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c04077c8da2144ca616688874050495162ff0710",
+      "venue": "Frontiers Artif. Intell.",
+      "journal": {
+        "name": "Frontiers in Artificial Intelligence",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "title": "The Mark of the Cognitive and the Coupling-Constitution Fallacy: A Defense of the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "authorId": "2053496114"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Clark and Chalmers (1998) introduced the extended mind hypothesis, according to which some mental states can be realized by non-biological external resources. A lively debate has flourished around this hypothesis, connected with the issues of embodiment, embeddedness, situatedness and enaction (cf. Clark, 2008; Menary, 2010; Shapiro, 2011). Two of the main criticisms addressed to the functionalist version of the extended mind thesis have been the so-called \u201ccoupling-constitution fallacy\u201d and the alleged lack of a mark of the cognitive (Adams and Aizawa, 2001, 2005, 2009, 2010a,b). According to Adams and Aizawa, extended cognition is a logical possibility, but is not instantiated in our world. Following this view, they defend a \u201ccontingent intracranialism,\u201d based on a specific mark of the cognitive that they propose. In this paper I intend to show that neither criticism is effective against the extended cognition thesis. In particular: the mark of the cognitive proposed by Adams and Aizawa does not secure contingent intracranialism; the coupling-constitution fallacy criticizes extended cognition on precisely the point the theory was intended to defend: namely, that the best way to individuate cognitive systems, given a minimal mark of the cognitive, is to rely on coupling relations between agents and environmental resources.",
+      "citationCount": 15,
+      "doi": "10.3389/fpsyg.2017.02061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

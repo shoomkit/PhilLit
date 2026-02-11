@@ -1,0 +1,2325 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "parity principle extended mind",
+  "results": [
+    {
+      "openalex_id": "W2114814877",
+      "doi": "10.1016/j.cogsys.2013.03.008",
+      "title": "The socially extended mind",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Hertfordshire"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-03-26",
+      "abstract": null,
+      "cited_by_count": 354,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1389041713000272"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W2114814877"
+    },
+    {
+      "openalex_id": "W2904702159",
+      "doi": "10.1111/sjp.12308",
+      "title": "The Extended Mind: State of the Question",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-12-01",
+      "abstract": "Abstract It has been twenty years since Clark and Chalmers published \u201cThe Extended Mind.\u201d In the present article I review the development of the extended mind hypothesis across what some proponents have defined as three theoretical \u201cwaves.\u201d From first\u2010wave extended mind theory, based on the parity principle, to second\u2010wave complementarity, to the third wave, characterized as an uneasy integration of predictive processing and enactivist dynamics, extended mind theorists have faced and solved a number of problems along the way. The fact that the hypothesis continues to spark debate and to generate both new insights and new objections suggests that it continues to play a productive role in contemporary philosophy of mind.",
+      "cited_by_count": 79,
+      "type": "article",
+      "source": {
+        "name": "The Southern Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0038-4283",
+          "2041-6962"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W2904702159"
+    },
+    {
+      "openalex_id": "W1968827358",
+      "doi": "10.1007/s11098-010-9601-5",
+      "title": "In search of clarity about parity",
+      "authors": [
+        {
+          "name": "Michael Wheeler",
+          "openalex_id": "A5101818008",
+          "orcid": "https://orcid.org/0000-0003-3638-1215",
+          "institutions": [
+            "University of Stirling"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-28",
+      "abstract": null,
+      "cited_by_count": 42,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 22,
+      "url": "https://openalex.org/W1968827358"
+    },
+    {
+      "openalex_id": "W639262043",
+      "doi": null,
+      "title": "\u00abRes cogitans extensa\u00bb: A Philosophical Defense of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "openalex_id": "A5088373052",
+          "orcid": "https://orcid.org/0000-0001-7632-0412"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-01",
+      "abstract": "Contents: Extending the Mind: Mortification or Empowerment? - A Primer on the Principle of Parity - Embodiment, Dynamicism, and Extended Cognition - Language and Writing as Technologies of the Mind - Extended Reasoning - Three Objections to the Extended Mind Rebutted - Hybrid Creatures.",
+      "cited_by_count": 18,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophical Thought and Analysis",
+        "Literary and Cultural Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W639262043"
+    },
+    {
+      "openalex_id": "W4303199583",
+      "doi": "10.1007/s11097-022-09862-2",
+      "title": "What I cannot do without you. Towards a truly embedded and embodied account of the socially extended mind",
+      "authors": [
+        {
+          "name": "Laura Candiotto",
+          "openalex_id": "A5085271163",
+          "orcid": "https://orcid.org/0000-0001-5293-2836",
+          "institutions": [
+            "University of Pardubice",
+            "Freie Universit\u00e4t Berlin"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-07",
+      "abstract": null,
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11097-022-09862-2.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W4303199583"
+    },
+    {
+      "openalex_id": "W2940302831",
+      "doi": "10.4324/9781315712550-35",
+      "title": "Virtue Epistemology and Extended Cognition",
+      "authors": [
+        {
+          "name": "J. Adam Carter",
+          "openalex_id": "A5031148142"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-09-04",
+      "abstract": "This chapter explores two research areas: virtue epistemology, an area of epistemology that gives epistemic virtues a central theoretical role, and extended cognition, a research program in the philosophy of mind and cognitive science that contests received boundaries between mind and world. Virtue epistemology, in short, is marked by an epistemological shift in focus from properties of beliefs to properties of agents. Virtue epistemology, paired with extended cognition, generates some interesting new philosophical problems, which lie dormant when cognition is thought of along traditionalist lines. The virtue reliabilist has a convenient story for why True Temp's ambient temperature beliefs aren't knowledge, by virtue reliabilist lights. The basic idea underlying the parity principle is commonsense functionalism about the material realizers of cognition, though it is important for proponents of extended cognition to put forward this functionalist thinking in a way that is not too inclusive.",
+      "cited_by_count": 30,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2940302831"
+    },
+    {
+      "openalex_id": "W2015657524",
+      "doi": "10.1007/s12152-014-9211-6",
+      "title": "Neuroethics and the Ethical Parity Principle",
+      "authors": [
+        {
+          "name": "Joseph P. DeMarco",
+          "openalex_id": "A5109056612",
+          "institutions": [
+            "Cleveland State University"
+          ]
+        },
+        {
+          "name": "Paul J. Ford",
+          "openalex_id": "A5000436885",
+          "orcid": "https://orcid.org/0000-0002-5423-8845",
+          "institutions": [
+            "Cleveland Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-21",
+      "abstract": null,
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Neuroethics",
+        "type": "journal",
+        "issn": [
+          "1874-5490",
+          "1874-5504"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W2015657524"
+    },
+    {
+      "openalex_id": "W2110999179",
+      "doi": "10.1007/jhep07(2014)079",
+      "title": "The automated computation of tree-level and next-to-leading order differential cross sections, and their matching to parton shower simulations",
+      "authors": [
+        {
+          "name": "Johan Alwall",
+          "openalex_id": "A5050787710",
+          "orcid": "https://orcid.org/0000-0002-4769-7058",
+          "institutions": [
+            "National Taiwan University"
+          ]
+        },
+        {
+          "name": "Rikkert Frederix",
+          "openalex_id": "A5030985598",
+          "institutions": [
+            "European Organization for Nuclear Research"
+          ]
+        },
+        {
+          "name": "Stefano Frixione",
+          "openalex_id": "A5090163527",
+          "orcid": "https://orcid.org/0000-0003-1869-4381",
+          "institutions": [
+            "European Organization for Nuclear Research"
+          ]
+        },
+        {
+          "name": "Valentin Hirschi",
+          "openalex_id": "A5026896508",
+          "orcid": "https://orcid.org/0000-0002-8908-6300",
+          "institutions": [
+            "SLAC National Accelerator Laboratory"
+          ]
+        },
+        {
+          "name": "Fabio Maltoni",
+          "openalex_id": "A5054634050",
+          "orcid": "https://orcid.org/0000-0003-4890-0676",
+          "institutions": [
+            "UCLouvain"
+          ]
+        },
+        {
+          "name": "Olivier Mattelaer",
+          "openalex_id": "A5109479411",
+          "institutions": [
+            "UCLouvain"
+          ]
+        },
+        {
+          "name": "Hua-Sheng Shao",
+          "openalex_id": "A5001430931",
+          "orcid": "https://orcid.org/0000-0002-4158-0668",
+          "institutions": [
+            "Peking University",
+            "State Key Laboratory of Nuclear Physics and Technology"
+          ]
+        },
+        {
+          "name": "T. Stelzer",
+          "openalex_id": "A5068351570",
+          "orcid": "https://orcid.org/0000-0001-6863-2045",
+          "institutions": [
+            "University of Illinois Urbana-Champaign"
+          ]
+        },
+        {
+          "name": "Paolo Torrielli",
+          "openalex_id": "A5034259197",
+          "orcid": "https://orcid.org/0000-0003-0691-0788",
+          "institutions": [
+            "University of Zurich"
+          ]
+        },
+        {
+          "name": "Marco Zaro",
+          "openalex_id": "A5000839716",
+          "orcid": "https://orcid.org/0000-0002-3279-7355",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Sorbonne Universit\u00e9",
+            "Laboratoire de Physique Th\u00e9orique et Hautes Energies",
+            "Universit\u00e9 Paris Cit\u00e9"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-07-01",
+      "abstract": null,
+      "cited_by_count": 7170,
+      "type": "article",
+      "source": {
+        "name": "Journal of High Energy Physics",
+        "type": "journal",
+        "issn": [
+          "1029-8479",
+          "1126-6708",
+          "1127-2236"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/JHEP07(2014)079.pdf"
+      },
+      "topics": [
+        "Particle physics theoretical and experimental studies",
+        "High-Energy Particle Collisions Research",
+        "Quantum Chromodynamics and Particle Interactions"
+      ],
+      "referenced_works_count": 507,
+      "url": "https://openalex.org/W2110999179"
+    },
+    {
+      "openalex_id": "W2118887693",
+      "doi": "10.1080/13869795.2012.677851",
+      "title": "Cognitive practices and cognitive character",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "openalex_id": "A5055720061",
+          "institutions": [
+            "ARC Centre of Excellence in Cognition and its Disorders",
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-15",
+      "abstract": "Abstract The argument of this paper is that we should think of the extension of cognitive abilities and cognitive character in integrationist terms. Cognitive abilities are extended by acquired practices of creating and manipulating information that is stored in a publicly accessible environment. I call these cognitive practices (2007). In contrast to Pritchard (2010) I argue that such processes are integrated into our cognitive characters rather than artefacts; such as notebooks. There are two routes to cognitive extension that I contrast in the paper, the first I call artefact extension which is the now classic position of the causal coupling of an agent with an artefact. This approach needs to overcome the objection from cognitive outsourcing: that we simply get an artefact or tool to do the cognitive processing for us without extending our cognitive abilities. Enculturated cognition, by contrast, does not claim that artefacts themselves extend our cognitive abilities, but rather that the acquired practices for manipulating artefacts and the information stored in them extend our cognitive abilities (by augmenting and transforming them). In the rest of the paper I provide a series of arguments and cases which demonstrate that an enculturated approach works better for both epistemic and cognitive cases of the extension of ability and character. Keywords: cognitive practicescognitive characterextended cognitionepistemic virtue Acknowledgements This research was supported by the Australian Research Council Discovery grant: Embodied Virtues and Expertise. The author thanks audiences at the University of Hertfordshire and the epistemology and extended mind workshop at the University of Edinburgh. The author also thanks Duncan Pritchard and Krist Vaesen. Notes I follow Pritchard in talking of abilities rather than of capacities. I take interpreted information to be something like a written sentence, or a diagram, or a string of a code in a computer programme and so on. Natural information may well surround us in the ambient array of light or waiting to be discovered in natural relationships such as the number of tree rings and the age of a tree and so on, but I would not be considering natural information here. I just use information for short from here on. Hutchins (Citation2011) and Roepstorff, Niew\u00f6hner, and Beck (Citation2010) have called for an articulation of enculturated cognition. My account of enculturation is based on prior work on cognitive practices and the transformation of cognition by immersion in cultural practices in ontogeny (Menary Citation2006, Citation2007, Chapters 4\u20137; also see Menary 2008 for an account of cognitive transformation by narrative practices and Citation2010a, Citation2010b for more on practices and transformation). Many species construct their niches to some extent, beavers and their dams, termites and their mounds (Laland, Feldman, and Odling-Smee Citation2003). The niches confer a selective advantage on the species. Humans are niche constructors par excellence; in particular, they construct cognitive niches which include tools, representations and systems for cooperative actions (Sterelny Citation2003). Albeit a kind of reciprocal causal relationship. I cannot give a comprehensive set of reasons here, but see Menary (Citation2007) for a book length argument for why they are open and unbounded. I avoid the talk of modules here since their discussion would take us too far afield. I have no track of the talk of the mind getting extended from the brain into the world or Adams and Aizawa's (Citation2010) weird metaphysics of \"cognitive processes extending into tool\". I have no idea what this means or do I know who holds such a position (see Menary Citation2010c for a discussion of this point). See Menary (Citation2007, 48\u201350) for a discussion. See Rupert (Citation2009), Sterelny (Citation2010) and Menary (Citation2010a) for a discussion. But also see Hutchins (Citation2011) and Roepstorff, Niew\u00f6hner, and Beck (Citation2010), who have independently postulated a hypothesis of enculturated cognition. However, the analysis that I give is based on the account of cognitive practices as cultural practices and cognitive transformations from Menary (Citation2006, Citation2007, Chapters 4\u20137) and Menary (Citation2010a, Citation2010b). It can also mean that our abilities have been extended, in terms of what we can do now, by the resulting transformation of our abilities \u2013 \u00e0 la Dehaene. Even if it lies under the skin of the agent. In this case, Barney's reliable perceptual faculties cannot discriminate between barns and barn facades; therefore, his belief is unsafe. The original example is due to Lackey (Citation2007). See the earlier discussion in Section 2. Remember that AE leans on a principle of functional parity. If the informational source is very reliable and we know this, Otto would be an example. We can imagine that Zachary uses a system that employs some of the methods of the memory notebook system for memory-impaired patients. While Zachary is not memory impaired, his life requires him to perform a lot of different tasks and to store and retrieve a lot of information. This is a case of processing that is better done in the world as retrieving and organising the information by using the brain alone are just too inefficient. I am not trying to provide a critique of Vaesen's case against credit theories here, I merely aim to show that this case is not one of cognitive extension, but of cognitive outsourcing. To be fair to Vaesen, he does point out that this is a very weak form of extended cognition. See Pritchard's (Citation2010) tempo case where Temp now has a thermometer grafted into him physically.",
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Explorations",
+        "type": "journal",
+        "issn": [
+          "1386-9795",
+          "1741-5918"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W2118887693"
+    },
+    {
+      "openalex_id": "W2957933134",
+      "doi": "10.3390/philosophies4030039",
+      "title": "Embodied AI beyond Embodied Cognition and Enactivism",
+      "authors": [
+        {
+          "name": "Riccardo Manzotti",
+          "openalex_id": "A5069942717",
+          "orcid": "https://orcid.org/0000-0001-8634-5250",
+          "institutions": [
+            "IULM University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-16",
+      "abstract": "Over the last three decades, the rise of embodied cognition (EC) articulated in various schools (or versions) of embodied, embedded, extended and enacted cognition (Gallagher\u2019s 4E) has offered AI a way out of traditional computationalism\u2014an approach (or an understanding) loosely referred to as embodied AI. This view has split into various branches ranging from a weak form on the brink of functionalism (loosely represented by Clarks\u2019 parity principle) to a strong form (often corresponding to autopoietic-friendly enactivism) suggesting that body\u2013world interactions constitute cognition. From an ontological perspective, however, constitution is a problematic notion with no obvious empirical or technical advantages. This paper discusses the ontological issues of these two approaches in regard to embodied AI and its ontological commitments: circularity, epiphenomenalism, mentalism, and disguised dualism. The paper also outlines an even more radical approach that may offer some ontological advantages. The new approach, called the mind-object identity, is then briefly compared with sensorimotor direct realism and with the embodied identity theory.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "Philosophies",
+        "type": "journal",
+        "issn": [
+          "2409-9287"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2409-9287/4/3/39/pdf?version=1563270767"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Psychiatry, Mental Health, Neuroscience"
+      ],
+      "referenced_works_count": 74,
+      "url": "https://openalex.org/W2957933134"
+    },
+    {
+      "openalex_id": "W2125102738",
+      "doi": "10.1016/j.cpc.2015.01.024",
+      "title": "An introduction to PYTHIA 8.2",
+      "authors": [
+        {
+          "name": "Torbj\u00f6rn Sj\u00f6strand",
+          "openalex_id": "A5005539530",
+          "orcid": "https://orcid.org/0000-0002-7630-8605",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "Stefan Ask",
+          "openalex_id": "A5104476782",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "J. Christiansen",
+          "openalex_id": "A5048278381",
+          "orcid": "https://orcid.org/0000-0003-4800-3473",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "Richard Corke",
+          "openalex_id": "A5009369350",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "Nishita Desai",
+          "openalex_id": "A5068404575",
+          "orcid": "https://orcid.org/0000-0001-7942-1649",
+          "institutions": [
+            "Heidelberg University"
+          ]
+        },
+        {
+          "name": "P. Ilten",
+          "openalex_id": "A5005305996",
+          "orcid": "https://orcid.org/0000-0001-5534-1732",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "S. Mrenna",
+          "openalex_id": "A5114377262",
+          "orcid": "https://orcid.org/0000-0001-8731-160X",
+          "institutions": [
+            "Fermi National Accelerator Laboratory"
+          ]
+        },
+        {
+          "name": "Stefan Prestel",
+          "openalex_id": "A5074321343",
+          "orcid": "https://orcid.org/0000-0002-1579-3221",
+          "institutions": [
+            "SLAC National Accelerator Laboratory"
+          ]
+        },
+        {
+          "name": "Christine O. Rasmussen",
+          "openalex_id": "A5027868445",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "Peter Skands",
+          "openalex_id": "A5063067715",
+          "orcid": "https://orcid.org/0000-0003-0024-3822",
+          "institutions": [
+            "European Organization for Nuclear Research",
+            "Monash University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-02-11",
+      "abstract": null,
+      "cited_by_count": 4985,
+      "type": "article",
+      "source": {
+        "name": "Computer Physics Communications",
+        "type": "journal",
+        "issn": [
+          "0010-4655",
+          "1879-2944"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0010465515000442"
+      },
+      "topics": [
+        "Particle physics theoretical and experimental studies",
+        "High-Energy Particle Collisions Research",
+        "Quantum Chromodynamics and Particle Interactions"
+      ],
+      "referenced_works_count": 120,
+      "url": "https://openalex.org/W2125102738"
+    },
+    {
+      "openalex_id": "W2285361951",
+      "doi": null,
+      "title": "The \"External mind\": semiotics, pragmatism, extended mind and distributed cognition",
+      "authors": [
+        {
+          "name": "Claudio Paolucci",
+          "openalex_id": "A5007950029",
+          "orcid": "https://orcid.org/0000-0003-3038-5266"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "In this paper, I will present a theoretical comparison between Peirce's cognitive Semiotics &amp;#8210; which is constitutively grounded on his theory of social cognition and Pragmatism &amp;#8210; and contemporary developments of Cognitive Sciences which go by the names of \u201cextended mind\u201d, \u201cdistributed cognition\u201d and \u201csituated cognition\u201d. I would thus like to show: i) how Pragmatism is first of all a semantic theory which has to do with cognition while giving special attention to the meaning of beliefs; ii) how in the Pragmatism of Peirce, meaning is subject to the community and to the extension of thought in the environment; iii) how this pragmatic conception of thought leads to a theory of \u201cextended mind\u201d which is explicitly formulated by Peirce (CP 7.364); iv) how this theory of the extension of the mind based on the identification of thoughts with signs freed cognition from any kind of personal, psychological or computational/inferential mechanism that would take place under the individual's skin; v) how Peirce is able to build a concrete logical-mathematical model of the extension of the mind with his system of existential graphs; vi) how Peirce's Synechism, defined by Peirce as the \u201cThe Law of Mind\u201d, the first part of which is constituted by the cognitive semiotics found in the anti-Cartesian essays, defines a formulation which is equivalent to the \u201cparity principle\u201d defined by Clark and Chalmers (1998); vii) how the union of Peirce's cognitive Semiotics, Pragmatism and Synechism defines a frame which, in our view, represents a theoretical horizon which we think is particularly relevant to the discussion and solving of some current problems of cognitive sciences.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": {
+        "name": "Archivio istituzionale della ricerca (Alma Mater Studiorum Universit\u00e0 di Bologna)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language and cultural evolution",
+        "Semantic Web and Ontologies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2285361951"
+    },
+    {
+      "openalex_id": "W2962650349",
+      "doi": null,
+      "title": "The Extended Mind and the Principle of Parity",
+      "authors": [
+        {
+          "name": "Sangkyu Shin",
+          "openalex_id": "A5022089924"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Analysis",
+        "type": "journal",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Phenomenology and Existential Philosophy",
+        "Classical Philosophy and Thought",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2962650349"
+    },
+    {
+      "openalex_id": "W2153135464",
+      "doi": "10.12942/lrr-2014-2",
+      "title": "Gravitational Radiation from Post-Newtonian Sources and Inspiralling Compact Binaries",
+      "authors": [
+        {
+          "name": "Luc Blanchet",
+          "openalex_id": "A5066825048",
+          "orcid": "https://orcid.org/0000-0003-1142-9534",
+          "institutions": [
+            "Institut d'Astrophysique de Paris"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-02-13",
+      "abstract": null,
+      "cited_by_count": 2139,
+      "type": "review",
+      "source": {
+        "name": "Living Reviews in Relativity",
+        "type": "journal",
+        "issn": [
+          "1433-8351"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://link.springer.com/content/pdf/10.12942/lrr-2014-2.pdf"
+      },
+      "topics": [
+        "Pulsars and Gravitational Waves Research",
+        "Gamma-ray bursts and supernovae",
+        "Cosmology and Gravitation Theories"
+      ],
+      "referenced_works_count": 475,
+      "url": "https://openalex.org/W2153135464"
+    },
+    {
+      "openalex_id": "W3014346354",
+      "doi": null,
+      "title": "The Extended Mind, the Parity Principle and Functionalism",
+      "authors": [
+        {
+          "name": "Bosuk Yoon",
+          "openalex_id": "A5080336097"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": null,
+      "cited_by_count": 0,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Analysis",
+        "type": "journal",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3014346354"
+    },
+    {
+      "openalex_id": "W2946545573",
+      "doi": "10.1093/oso/9780190662813.003.0010",
+      "title": "Building Inner Tools",
+      "authors": [
+        {
+          "name": "Robert L. Goldstone",
+          "openalex_id": "A5029222386",
+          "orcid": "https://orcid.org/0000-0001-8357-8358"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-23",
+      "abstract": "Abstract Andy Clark has convincingly argued that the tools that we as humans recruit become integrated parts of an extended cognitive system that includes us as just one component. In this chapter, a Reversed Parity Principle is outlined, which can be used to show how humans can \u201chack\u201d their own minds in order to build inner mental tools, thus changing our existing cognitive abilities in yet another way. The Reversed Parity Principle (RRP) invites a perspectival shift that is potentially as illuminating as the extended mind shift. Whereas extended mind arguments invite us to think of ourselves as broader, wider, and larger than we might otherwise, the RPP invites us to consider the strangeness and otherness that lies within what would normally be considered to be \u201cus.\u201d",
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Academic and Historical Perspectives in Psychology",
+        "Complex Systems and Decision Making",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2946545573"
+    },
+    {
+      "openalex_id": "W2012147130",
+      "doi": "10.1007/s11023-013-9309-3",
+      "title": "Causal Parity and Externalisms: Extensions in Life and Mind",
+      "authors": [
+        {
+          "name": "Philippe Huneman",
+          "openalex_id": "A5041369196",
+          "orcid": "https://orcid.org/0000-0002-7789-6197",
+          "institutions": [
+            "Institut d'Histoire et de Philosophie des Sciences et des Techniques",
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris 1 Panth\u00e9on-Sorbonne"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-03-05",
+      "abstract": null,
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Evolutionary Game Theory and Cooperation",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W2012147130"
+    },
+    {
+      "openalex_id": "W4211161891",
+      "doi": "10.1103/revmodphys.91.015006",
+      "title": "Topological photonics",
+      "authors": [
+        {
+          "name": "Tomoki Ozawa",
+          "openalex_id": "A5069266216",
+          "orcid": "https://orcid.org/0000-0002-0319-5910",
+          "institutions": [
+            "University of Trento",
+            "Universit\u00e9 Libre de Bruxelles"
+          ]
+        },
+        {
+          "name": "Hannah M. Price",
+          "openalex_id": "A5083345273",
+          "orcid": "https://orcid.org/0000-0002-1377-596X",
+          "institutions": [
+            "Universit\u00e9 Libre de Bruxelles",
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "A. Amo",
+          "openalex_id": "A5085719975",
+          "orcid": "https://orcid.org/0000-0002-2508-8315",
+          "institutions": [
+            "Universit\u00e9 Libre de Bruxelles",
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "Nathan Goldman",
+          "openalex_id": "A5083932690",
+          "orcid": "https://orcid.org/0000-0002-0757-7289",
+          "institutions": [
+            "University of Trento",
+            "Universit\u00e9 Libre de Bruxelles"
+          ]
+        },
+        {
+          "name": "Mohammad Hafezi",
+          "openalex_id": "A5008265631",
+          "orcid": "https://orcid.org/0000-0003-1679-4880",
+          "institutions": [
+            "University of Trento",
+            "Universit\u00e9 Libre de Bruxelles"
+          ]
+        },
+        {
+          "name": "Ling L\u00fc",
+          "openalex_id": "A5086308378",
+          "orcid": "https://orcid.org/0000-0002-8781-5979",
+          "institutions": [
+            "Universit\u00e9 Libre de Bruxelles",
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "Mikael C. Rechtsman",
+          "openalex_id": "A5054772092",
+          "orcid": "https://orcid.org/0000-0002-6909-8355",
+          "institutions": [
+            "Universit\u00e9 Libre de Bruxelles",
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "David Schuster",
+          "openalex_id": "A5087556046",
+          "orcid": "https://orcid.org/0000-0002-0012-3874",
+          "institutions": [
+            "Universit\u00e9 Libre de Bruxelles",
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "Jonathan Simon",
+          "openalex_id": "A5062935341",
+          "orcid": "https://orcid.org/0000-0001-7854-4647",
+          "institutions": [
+            "Universit\u00e9 Libre de Bruxelles",
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "Oded Zilberberg",
+          "openalex_id": "A5020663425",
+          "orcid": "https://orcid.org/0000-0002-1759-4920",
+          "institutions": [
+            "University of Trento",
+            "Universit\u00e9 Libre de Bruxelles"
+          ]
+        },
+        {
+          "name": "Iacopo Carusotto",
+          "openalex_id": "A5039776049",
+          "orcid": "https://orcid.org/0000-0002-9838-0149",
+          "institutions": [
+            "University of Trento",
+            "Universit\u00e9 Libre de Bruxelles"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-25",
+      "abstract": "Topological photonics is a rapidly emerging field of research in which\\ngeometrical and topological ideas are exploited to design and control the\\nbehavior of light. Drawing inspiration from the discovery of the quantum Hall\\neffects and topological insulators in condensed matter, recent advances have\\nshown how to engineer analogous effects also for photons, leading to remarkable\\nphenomena such as the robust unidirectional propagation of light, which hold\\ngreat promise for applications. Thanks to the flexibility and diversity of\\nphotonics systems, this field is also opening up new opportunities to realize\\nexotic topological models and to probe and exploit topological effects in new\\nways. This article reviews experimental and theoretical developments in\\ntopological photonics across a wide range of experimental platforms, including\\nphotonic crystals, waveguides, metamaterials, cavities, optomechanics, silicon\\nphotonics, and circuit QED. A discussion of how changing the dimensionality and\\nsymmetries of photonics systems has allowed for the realization of different\\ntopological phases is offered, and progress in understanding the interplay of\\ntopology with non-Hermitian effects, such as dissipation, is reviewed. As an\\nexciting perspective, topological photonics can be combined with optical\\nnonlinearities, leading toward new collective phenomena and novel strongly\\ncorrelated states of light, such as an analog of the fractional quantum Hall\\neffect.\\n",
+      "cited_by_count": 3386,
+      "type": "article",
+      "source": {
+        "name": "Reviews of Modern Physics",
+        "type": "journal",
+        "issn": [
+          "0034-6861",
+          "1538-4527",
+          "1539-0756"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://link.aps.org/pdf/10.1103/RevModPhys.91.015006"
+      },
+      "topics": [
+        "Neural Networks and Reservoir Computing",
+        "Photonic and Optical Devices",
+        "Topological Materials and Phenomena"
+      ],
+      "referenced_works_count": 868,
+      "url": "https://openalex.org/W4211161891"
+    },
+    {
+      "openalex_id": "W4234801606",
+      "doi": "10.1007/978-3-319-98390-5_6-1",
+      "title": "Extended Mind",
+      "authors": [
+        {
+          "name": "Victor Loughlin",
+          "openalex_id": "A5045588365",
+          "orcid": "https://orcid.org/0000-0002-0885-214X",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": null,
+      "cited_by_count": 3,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4234801606"
+    },
+    {
+      "openalex_id": "W2048384591",
+      "doi": "10.1080/09515089.2011.631997",
+      "title": "Morally irrelevant factors: What's left of the dual process-model of moral cognition?",
+      "authors": [
+        {
+          "name": "Hanno Sauer",
+          "openalex_id": "A5038140181",
+          "orcid": "https://orcid.org/0000-0001-8039-0376",
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-31",
+      "abstract": "Abstract Current developments in empirical moral psychology have spawned a new perspective on the traditional metaethical question of whether moral judgment is based on reason or emotion. Psychologists and cognitive neuroscientists such as Joshua Greene argue that there is empirical evidence that emotion is essential for one particularly important subclass of moral judgments: so-called \"deontological judgments.\" In this paper, I scrutinize this claim and argue that neither the empirical evidence for Greene's dual process-theory of moral judgment nor the normative conclusions it is supposed to yield can be maintained. More specifically, I argue that the evidence from neuroimaging relies on a problematic reverse inference, that the behavioral data are flawed, and that the findings from focal brain damage do not support the model. From a normative point of view, Greene fails to show that we ought to discount the intuitions that give rise to deontological judgments because they respond to morally irrelevant factors: firstly, I show that they do not pick up on the factors Greene deems to be morally irrelevant in the first place, and secondly, I argue that there generally is reason to trust our deontological intuitions. Keywords: Dual Process TheoryJoshua GreeneMetaethicsMoral JudgmentTrolley Problem Acknowledgments I would like to thank Tom Bates, William Bechtel, Pauline Kleingeld, Diana Popescu, Markus Schlosser, Herman Siemens, Bruno Verbeek, and three anonymous referees from Philosophical Psychology for their very helpful comments and suggestions. Research for this project was funded by the NWO (Dutch Scientific Organization). Notes Here they are, in the versions Greene uses in his experiments: Trolley You are at the wheel of a runaway trolley quickly approaching a fork in the tracks. On the tracks extending to the left is a group of five railway workmen. On the tracks extending to the right is a single railway workman. If you do nothing the trolley will proceed to the left, causing the deaths of the five workmen. The only way to avoid the deaths of these workmen is to hit a switch on your dashboard that will cause the trolley to proceed to the right, causing the death of the single workman. Is it appropriate for you to hit the switch in order to avoid the deaths of the five workmen? Footbridge A runaway trolley is heading down the tracks toward five workmen who will be killed if the trolley proceeds on its present course. You are on a footbridge over the tracks, in between the approaching trolley and the five workmen. Next to you on this footbridge is a stranger who happens to be very large. The only way to save the lives of the five workmen is to push this stranger off the bridge and onto the tracks below where his large body will stop the trolley. The stranger will die if you do this, but the five workmen will be saved. Is it appropriate for you to push the stranger on to the tracks in order to save the five workmen? The text of these and other dilemmas can be found in the supplementary material to Greene et al.'s (2001) article (http:://www.sciencemag.org/content/293/5537/2105/suppl/DC1). The load-condition consisted in a task to detect the cipher \"5\" in a stream of numbers scrolling across the screen on which the dilemmas were presented. The results are not unambiguous, however. Eight out of the 21 moral scenarios yielded no difference in responses between VMPFC patients and two control groups of normal, healthy individuals and people with other types of brain damage. For the remaining 13 scenarios, significant differences were found. Although all subjects exhibited similar tendencies with respect to each of the scenarios, patients with damage to the VMPFC were indeed more likely to judge it appropriate to perform an emotionally conflicting action (for example, to smother one's baby to protect a group of people from a lethal threat). In order to see very clearly what has been found, I shall sum up the results in headline-style: (i) Cognitive load does not increase the frequency deontological judgments. In fact, it does slightly increase the frequency of utilitarian judgment (60% vs. 61%). (ii) In the absence of load there is no RT difference between deontological and utilitarian judgments. (This confirms McGuire's and his colleagues' analysis from above.) (iii) Cognitive load does slow down utilitarian judgment. (It should be noted, however, that the effect is not spectacular: 6.5 seconds for utilitarian vs. 5.8 seconds for deontological judgments on average). In order to make sense of these puzzling results, Greene reanalyzed the data after dividing his 82 participants into two groups, based on their general tendency to prefer utilitarian or deontological judgments. For these \"high-\" and \"low-utilitarian\" groups, the results were: (iv) Cognitive load does not have a significant effect on which judgments people make. (Low-utilitarian group: 43% utilitarian judgment under load, 41% in the absence of load; High-utilitarian group: 79% utilitarian judgment under load, 78% in the absence of load). (v) Cognitive load slows down utilitarian judgment in both groups. Furthermore, the RT-effect originally predicted was eventually found in low-utilitarian subjects, but the opposite held true of high-utilitarian participants: (vi) In the absence of load, low-utilitarian subjects take longer to make utilitarian judgments. (vii) In the absence of load, high-utilitarian subjects make utilitarian judgments more quickly. For similar reasons, studies on the effects of enhanced serotonin on moral judgment (Crockett, Clark, Hauser, & Robbins, 2010) do not help Greene much in making his case against deontological intuitions. It is very likely, after all, that the same effect could be observed for consequentialist judgments, provided a suitable drug\u2014one that decreases harm aversion, for instance\u2014is administered. Strictly speaking, this is not correct. In fact, Greene has replaced his old \"me hurt you\" criterion with the PF-Factor, which are two ways to spell out the content of the personal/impersonal distinction. For reasons of simplicity, I shall refer to the original proposal simply as the personal/impersonal distinction. Footbridge Pole An empty runaway trolley is speeding down a set of tracks toward five railway workmen. There is a footbridge above the tracks in between the runaway trolley and the five workmen. On this footbridge is a railway workman wearing a large, heavy backpack. If nothing is done, the trolley will proceed down the main tracks and cause the deaths of the five workmen. It is possible to avoid these five deaths. Joe is a bystander who understands what is going on and who happens to be standing right behind the workman on the footbridge. Joe is near a six-foot long pole. Joe sees that he can avoid the deaths of the five workmen by using the pole to push the workman with the heavy backpack off of the footbridge and onto the tracks below. The trolley will collide with the workman, and the combined weight of the workman and the backpack will be enough to stop the trolley, avoiding the deaths of the five workmen. But the collision will cause the death of the workman with the backpack. \u2026 Is it morally acceptable for Joe to use the pole to push the workman off of the footbridge in order to avoid the deaths of the five workmen, causing the death of the single workman instead? This dilemma can be found in the supplementary material to Greene et al. (2009; doi:10.1016/j.cognition.2009.02.001). Several other attempts have been made at justifying the deontological option in the footbridge case. Nozick (1993 Nozick, R. 1993. The nature of rationality, Princeton, NJ: Princeton University Press. [Crossref] , [Google Scholar], p. 60) has argued that deontological intuitions stem from human risk-aversion. In assessing the dilemmas, people choose different baselines as their starting points, and judge possible gains and losses against the background of those baselines. One possibly lost life against the baseline of five certainly lost lives (in Trolley) thus seems more attractive than the possibility of five gained lives against the baseline of one certain death (in Footbridge). But Nozick's account doesn't really show that deontological judgments are justified. For the most part, he offers an explanation for why people judge the way they do that refers to the influence of framing effects on their judgments. Kamm (2007) has argued that the non-consequentialist response is justified in light of the principle of permissible harm. The problem with her account is that it is hard to see how to justify her proposal except for an appeal to the intuition it is supposed to justify: the one that is typically elicited by Footbridge and variations of it. A large portion of this paper is dedicated to an argument against the claim that deontological intuitions are emotional at all, and thus seems to commit the same kind of unmotivated conflation. That part of the argument is meant for those who think that there is something intrinsically dubious about emotions as such. I now argue that this is not the case, but have aimed to show that even if one shares this assumption, one need not agree that deontological judgments have no normative force. The original parity principle is the central element of the theory of extended cognition. It is this: \"if, as we confront some task, a part of the world functions as a process which, were it to go on in the head, we would have no hesitation in accepting as part of the cognitive process, then that part of the world is (for that time) part of the cognitive process\" (Clark, 2010 Clark, A. 2010. \"Memento's revenge: The extended mind, extended\". In The extended mind, Edited by: Menary, R. 43\u201367. Cambridge, MA: MIT Press. [Crossref] , [Google Scholar], p. 44). Simon, who coined the notion of a heuristic (Simon & Newell, 1958 Simon, H and Newell, A. 1958. Heuristic problem solving: The next advance in operations research. Operations Research, 6: 1\u201310. [Crossref], [Web of Science \u00ae] , [Google Scholar]), took the conditions under which heuristics fail as guides towards identifying their content.",
+      "cited_by_count": 50,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Psychology of Moral and Emotional Judgment",
+        "Emotions and Moral Behavior",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 97,
+      "url": "https://openalex.org/W2048384591"
+    },
+    {
+      "openalex_id": "W2119046658",
+      "doi": "10.1103/revmodphys.82.1155",
+      "title": "Introduction to quantum noise, measurement, and amplification",
+      "authors": [
+        {
+          "name": "Aashish A. Clerk",
+          "openalex_id": "A5060816310",
+          "orcid": "https://orcid.org/0000-0001-7297-9068",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Michel Devoret",
+          "openalex_id": "A5089631322",
+          "orcid": "https://orcid.org/0000-0002-2883-9575",
+          "institutions": [
+            "Yale University",
+            "McGill University"
+          ]
+        },
+        {
+          "name": "S. M. Girvin",
+          "openalex_id": "A5046083937",
+          "orcid": "https://orcid.org/0000-0002-6470-5494",
+          "institutions": [
+            "Yale University",
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Florian Marquardt",
+          "openalex_id": "A5059746672",
+          "orcid": "https://orcid.org/0000-0003-4566-1753",
+          "institutions": [
+            "McGill University",
+            "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+          ]
+        },
+        {
+          "name": "Robert Schoelkopf",
+          "openalex_id": "A5084929692",
+          "orcid": "https://orcid.org/0000-0002-2469-5068",
+          "institutions": [
+            "Yale University",
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-04-15",
+      "abstract": "The topic of quantum noise has become extremely timely due to the rise of\\nquantum information physics and the resulting interchange of ideas between the\\ncondensed matter and AMO/quantum optics communities. This review gives a\\npedagogical introduction to the physics of quantum noise and its connections to\\nquantum measurement and quantum amplification. After introducing quantum noise\\nspectra and methods for their detection, we describe the basics of weak\\ncontinuous measurements. Particular attention is given to treating the standard\\nquantum limit on linear amplifiers and position detectors using a general\\nlinear-response framework. We show how this approach relates to the standard\\nHaus-Caves quantum limit for a bosonic amplifier known in quantum optics, and\\nillustrate its application for the case of electrical circuits, including\\nmesoscopic detectors and resonant cavity detectors.\\n",
+      "cited_by_count": 1834,
+      "type": "article",
+      "source": {
+        "name": "Reviews of Modern Physics",
+        "type": "journal",
+        "issn": [
+          "0034-6861",
+          "1538-4527",
+          "1539-0756"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://link.aps.org/pdf/10.1103/RevModPhys.82.1155"
+      },
+      "topics": [
+        "Mechanical and Optical Resonators",
+        "Quantum Information and Cryptography",
+        "Quantum and electron transport phenomena"
+      ],
+      "referenced_works_count": 153,
+      "url": "https://openalex.org/W2119046658"
+    },
+    {
+      "openalex_id": "W4415609872",
+      "doi": "10.4324/9781003189466-9",
+      "title": "Technology and the Extended Mind",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-31",
+      "abstract": "The concept of extended mind involves the idea that the use of various tools, artifacts, or aspects of the environment can facilitate, enhance, or even constitute cognition. In the original version of the extended mind hypothesis (EMH), the relevant technology is treated in parity with processes that occur in the head or brain, in conformity with the parity principle. The most contentious objection to the EMH concerns the idea that the use of an external artifact or piece of technology \u201cconstitutes\u201d cognition, or more controversially put, constitutes the mind. A friendlier, or one might say, internal objection to EMH\u2019s parity principle leads to a revised version of the extended mind, often referred to as a \u201csecond wave\u201d of extended mind theory. Although, in some cases there may be an epistemic-functional similarity or parity between internal neural processes and external tools and technologies.",
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4415609872"
+    },
+    {
+      "openalex_id": "W2067605736",
+      "doi": "10.1109/jproc.2013.2287851",
+      "title": "Spatial Modulation for Generalized MIMO: Challenges, Opportunities, and Implementation",
+      "authors": [
+        {
+          "name": "Marco Di Renzo",
+          "openalex_id": "A5081612175",
+          "orcid": "https://orcid.org/0000-0003-0772-8793",
+          "institutions": [
+            "Sup\u00e9lec",
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 Paris-Sud"
+          ]
+        },
+        {
+          "name": "Harald Haas",
+          "openalex_id": "A5074320996",
+          "orcid": "https://orcid.org/0000-0001-9705-2701",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Ali Ghrayeb",
+          "openalex_id": "A5014049864",
+          "orcid": "https://orcid.org/0000-0002-6808-5886",
+          "institutions": [
+            "Texas A&M University",
+            "Texas A&M University at Qatar"
+          ]
+        },
+        {
+          "name": "Shinya Sugiura",
+          "openalex_id": "A5033883091",
+          "orcid": "https://orcid.org/0000-0001-7736-8696",
+          "institutions": [
+            "Tokyo University of Agriculture and Technology"
+          ]
+        },
+        {
+          "name": "Lajos Hanzo",
+          "openalex_id": "A5091122305",
+          "orcid": "https://orcid.org/0000-0002-2636-5214",
+          "institutions": [
+            "University of Southampton"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "A key challenge of future mobile communication research is to strike an attractive compromise between wireless network's area spectral efficiency and energy efficiency. This necessitates a clean-slate approach to wireless system design, embracing the rich body of existing knowledge, especially on multiple-input-multiple-ouput (MIMO) technologies. This motivates the proposal of an emerging wireless communications concept conceived for single-radio-frequency (RF) large-scale MIMO communications, which is termed as SM. The concept of SM has established itself as a beneficial transmission paradigm, subsuming numerous members of the MIMO system family. The research of SM has reached sufficient maturity to motivate its comparison to state-of-the-art MIMO communications, as well as to inspire its application to other emerging wireless systems such as relay-aided, cooperative, small-cell, optical wireless, and power-efficient communications. Furthermore, it has received sufficient research attention to be implemented in testbeds, and it holds the promise of stimulating further vigorous interdisciplinary research in the years to come. This tutorial paper is intended to offer a comprehensive state-of-the-art survey on SM-MIMO research, to provide a critical appraisal of its potential advantages, and to promote the discussion of its beneficial application areas and their research challenges leading to the analysis of the technological issues associated with the implementation of SM-MIMO. The paper is concluded with the description of the world's first experimental activities in this vibrant research field.",
+      "cited_by_count": 1442,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the IEEE",
+        "type": "journal",
+        "issn": [
+          "0018-9219",
+          "1558-2256"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/5/6685843/06678765.pdf"
+      },
+      "topics": [
+        "Advanced Wireless Communication Technologies",
+        "Full-Duplex Wireless Communications",
+        "Cooperative Communication and Network Coding"
+      ],
+      "referenced_works_count": 306,
+      "url": "https://openalex.org/W2067605736"
+    },
+    {
+      "openalex_id": "W1571552325",
+      "doi": "10.1038/npjqi.2015.1",
+      "title": "Majorana zero modes and topological quantum computation",
+      "authors": [
+        {
+          "name": "S. Das Sarma",
+          "openalex_id": "A5060980314",
+          "orcid": "https://orcid.org/0000-0002-0439-986X",
+          "institutions": [
+            "University of Maryland, College Park",
+            "University of California, Santa Barbara",
+            "Microsoft (United States)"
+          ]
+        },
+        {
+          "name": "Michael Freedman",
+          "openalex_id": "A5064155719",
+          "orcid": "https://orcid.org/0000-0001-8664-3485",
+          "institutions": [
+            "University of California, Santa Barbara",
+            "Microsoft (United States)"
+          ]
+        },
+        {
+          "name": "Chetan Nayak",
+          "openalex_id": "A5103270503",
+          "orcid": "https://orcid.org/0000-0002-7046-1852",
+          "institutions": [
+            "Microsoft (United States)",
+            "University of California, Santa Barbara"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-10-26",
+      "abstract": null,
+      "cited_by_count": 1101,
+      "type": "article",
+      "source": {
+        "name": "npj Quantum Information",
+        "type": "journal",
+        "issn": [
+          "2056-6387"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/npjqi20151.pdf"
+      },
+      "topics": [
+        "Topological Materials and Phenomena",
+        "Graphene research and applications",
+        "Quantum and electron transport phenomena"
+      ],
+      "referenced_works_count": 169,
+      "url": "https://openalex.org/W1571552325"
+    },
+    {
+      "openalex_id": "W1969469858",
+      "doi": "10.1371/journal.pcbi.1003588",
+      "title": "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0",
+      "authors": [
+        {
+          "name": "Masafumi Oizumi",
+          "openalex_id": "A5053543093",
+          "orcid": "https://orcid.org/0000-0001-8802-2607",
+          "institutions": [
+            "University of Wisconsin\u2013Madison",
+            "RIKEN Center for Brain Science"
+          ]
+        },
+        {
+          "name": "Larissa Albantakis",
+          "openalex_id": "A5088756569",
+          "orcid": "https://orcid.org/0000-0003-1000-9917",
+          "institutions": [
+            "University of Wisconsin\u2013Madison"
+          ]
+        },
+        {
+          "name": "Giulio Tononi",
+          "openalex_id": "A5001381023",
+          "orcid": "https://orcid.org/0000-0002-3892-4087",
+          "institutions": [
+            "University of Wisconsin\u2013Madison"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-05-08",
+      "abstract": "This paper presents Integrated Information Theory (IIT) of consciousness 3.0, which incorporates several advances over previous formulations. IIT starts from phenomenological axioms: information says that each experience is specific--it is what it is by how it differs from alternative experiences; integration says that it is unified--irreducible to non-interdependent components; exclusion says that it has unique borders and a particular spatio-temporal grain. These axioms are formalized into postulates that prescribe how physical mechanisms, such as neurons or logic gates, must be configured to generate experience (phenomenology). The postulates are used to define intrinsic information as \"differences that make a difference\" within a system, and integrated information as information specified by a whole that cannot be reduced to that specified by its parts. By applying the postulates both at the level of individual mechanisms and at the level of systems of mechanisms, IIT arrives at an identity: an experience is a maximally irreducible conceptual structure (MICS, a constellation of concepts in qualia space), and the set of elements that generates it constitutes a complex. According to IIT, a MICS specifies the quality of an experience and integrated information \u03a6Max its quantity. From the theory follow several results, including: a system of mechanisms may condense into a major complex and non-overlapping minor complexes; the concepts that specify the quality of an experience are always about the complex itself and relate only indirectly to the external environment; anatomical connectivity influences complexes and associated MICS; a complex can generate a MICS even if its elements are inactive; simple systems can be minimally conscious; complicated systems can be unconscious; there can be true \"zombies\"--unconscious feed-forward systems that are functionally equivalent to conscious complexes.",
+      "cited_by_count": 1144,
+      "type": "article",
+      "source": {
+        "name": "PLoS Computational Biology",
+        "type": "journal",
+        "issn": [
+          "1553-734X",
+          "1553-7358"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003588&type=printable"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W1969469858"
+    },
+    {
+      "openalex_id": "W2181383207",
+      "doi": null,
+      "title": "Cognitive Enhancement and Personal Identity",
+      "authors": [
+        {
+          "name": "Roberto Mordacci",
+          "openalex_id": "A5081752963",
+          "orcid": "https://orcid.org/0000-0002-6949-549X",
+          "institutions": [
+            "Vita-Salute San Raffaele University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-08-27",
+      "abstract": "Enhancing cognition is a complex activity, for the sake of which humanity has developed a rich array of techniques and skills. We can distinguish between three categories: a) cognitive supports and education; b) neural cognitive enhancers: drugs and other ways to improve the functionality of cognitive neural networks; c) technological cognitive enhancers: implants, extended minds and technological supports variously integrated in the neural cognitive networks. Applying a version of the Parity Principle, I argue that there is no morally relevant difference in the three categories. What we want to preserve while using these techniques is not the biological status quo of the mind of persons, but rather personal identities. In this perspective, there can be no general objection to cognitive enhancement. Every technique, even very traditional ones, have their drawbacks, especially when they threaten to reduce the autonomy of agents in moulding their own personal identity.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doaj.org/article/f0477f1d0a1043a7a5d5839e80b2b753"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Psychology of Moral and Emotional Judgment",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 6,
+      "url": "https://openalex.org/W2181383207"
+    },
+    {
+      "openalex_id": "W2472273914",
+      "doi": "10.7710/1526-0569.1560",
+      "title": "\u201cI Is Someone Else\u201d: Constituting the Extended Mind\u2019s Fourth Wave, with Hegel",
+      "authors": [
+        {
+          "name": "J. M. Fritzman",
+          "openalex_id": "A5074742097",
+          "orcid": "https://orcid.org/0000-0002-5086-809X"
+        },
+        {
+          "name": "Kristin Thornburg",
+          "openalex_id": "A5024577255"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": "We seek to constitute the extended mind\u2019s fourth wave, socially distributed group cognition, and we do so by thinking with Hegel. The extended mind theory\u2019s first wave invokes the parity principle, which maintains that processes that occur external to the organism\u2019s skin should be considered mental if they are regarded as mental when they occur inside the organism. The second wave appeals to the complementarity principle, which claims that what is crucial is that these processes together constitute a cognitive system. The first two waves assume that cognitive systems have well-defined territories or boundaries, and that internal and external processes do not switch location. The third wave rejects these assumptions, holding instead that internal processes are not privileged, and internal and external processes can switch, and that processes can be distributed among individuals. The fourth wave would advocate socially distributed group cognition. Groups are deterritorialized collective agents; they are ineliminatively and irreducibly real, they have mental states. Individuals constitute groups, but groups also constitute individuals. What counts as an individual and a group is a function of the level of analysis. And they are conflicted. Essays in Philosophy 17(2) 157 Essays Philos (2016)17:156-191 | DOI: 10.7710/1526-0569.1560 Published online: 8 July 2016. \u00a9 Fritzman & Thornburg 2016 Contact authors: fritzman@lclark.edu, kristin.parvazian@gmail.com To work now? Never, never: I\u2019m on strike. Right now, I\u2019m encrapulating myself as much as possible. Why? I want to be a poet, and I\u2019m working to turn myself into a seer: you won\u2019t understand at all, and it\u2019s unlikely that I\u2019ll be able to explain it to you. It has to do with making your way toward the unknown by a derangement of all the senses. The suffering is tremendous, but one must bear up against it, to be born a poet, and I know that\u2019s what I am. It\u2019s not at all my fault. It\u2019s wrong to say I think: one should say I am thought. Forgive the pun. I is someone else. Tough luck to the wood that becomes a violin, and to hell with the unaware who quibble over what they\u2019re completely missing anyway!i dversaries of the extended mind emphasize the importance of the \u201cpersisting individual\u201d to cognitive science. They urge that this is incompatible with the extended mind\u2019s transient couplings and hook-ups, linking individuals and aspects of their environments, thereby constituting cognitive systems. Yet, in the nineteenth century, Arthur Rimbaud recognized that individuals are constitutively conjoined to others, always already, who are themselves so conjoined, and that an individual\u2019s persistence is that of a A \u201cI Is Someone Else\u201d | Fritzman & Thornburg 158 continuing process, not a substance. Metaphor: individuals are not trees, much less petrified wood, but rhizomes.ii Asparagus and ginger are rhizomes, Indian lotus too. With uncanny insight, Hindus not only portray Vi\u1e63\u1e47u (the god of preservation) and Lak\u1e63m\u012b (the goddess of prosperity) on lotuses, they also depict the universe\u2019s creation as a lotus emerging from Vi\u1e63\u1e47u\u2019s navel. Although not his main point, Rimbaud saw that a violin constitutively depends on its wood. And, his main point: I does not think; rather, I is thought\u2019s result. In the \u201cPreface\u201d to the Elements of the Philosophy of Right, Hegel cautions his readers to not expect philosophy to give advice about what should be done.iii This is so, he explains, because philosophy\u2019s comprehension is always retrospective, discerning an era\u2019s essential characteristics only after they have already fully developed. So, it might be anticipated that a project of thinking with Hegel about the extended mind could at most discern what others have already achieved\u2014 articulating, clarifying, and making explicit\u2014but that it would not advance the discussion. The extended mind would clarify Hegel\u2019s concept of Geist (\u201cspirit\u201d or \u201cmind\u201d), and his concept of \u201cright\u201d (Recht roughly, social mores and law) serves as an exemplar of the extended mind.iv This could seem like a system of mirrors, mutually illuminating each other\u2014 and impatient readers might wonder when the smoke will be introduced. Nevertheless, the project of making things explicit can be valuable, articulating and then synthesizing, thereby making way for further conceptual advance. Moreover, Hegelians have defended the extended mind from Mark Sprevak\u2019s argument that the extended mind is overly permissive in its attributions of mental states, and that\u2014since functionalism entails the extended mind\u2014both should be rejected.v Essays in Philosophy 17(2) 159 Naturally, Hegelians worry, not that the extended mind is too liberal in its attributions of mental states, but rather that it is too conservative. We will discuss the extended mind\u2019s first two waves, suggesting that they really constitute one wave, explain that the third wave is well under way, and show that the resources are in place for a fourth wave. We suggest that the fourth wave is conflicted, constituted, as it were, by various interfering waves.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Essays in Philosophy",
+        "type": "journal",
+        "issn": [
+          "1526-0569"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://commons.pacificu.edu/cgi/viewcontent.cgi?article=1560&context=eip"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W2472273914"
+    },
+    {
+      "openalex_id": "W2152029324",
+      "doi": "10.12942/lrsp-2010-3",
+      "title": "Dynamo Models of the Solar Cycle",
+      "authors": [
+        {
+          "name": "Paul Charbonneau",
+          "openalex_id": "A5048754539",
+          "orcid": "https://orcid.org/0000-0003-1618-3924",
+          "institutions": [
+            "Universit\u00e9 de Montr\u00e9al"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "This paper reviews recent advances and current debates in modeling the solar cycle as a hydromagnetic dynamo process. Emphasis is placed on (relatively) simple dynamo models that are nonetheless detailed enough to be comparable to solar cycle observations. After a brief overview of the dynamo problem and of key observational constraints, we begin by reviewing the various magnetic field regeneration mechanisms that have been proposed in the solar context. We move on to a presentation and critical discussion of extant solar cycle models based on these mechanisms. We then turn to the origin and consequences of fluctuations in these models, including amplitude and parity modulation, chaotic behavior, intermittency, and predictability. The paper concludes with a discussion of our current state of ignorance regarding various key questions relating to the explanatory framework offered by dynamo models of the solar cycle.",
+      "cited_by_count": 614,
+      "type": "article",
+      "source": {
+        "name": "Living Reviews in Solar Physics",
+        "type": "journal",
+        "issn": [
+          "1614-4961",
+          "2367-3648"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://link.springer.com/content/pdf/10.12942/lrsp-2010-3.pdf"
+      },
+      "topics": [
+        "Solar and Space Plasma Dynamics",
+        "Geomagnetism and Paleomagnetism Studies",
+        "Astro and Planetary Science"
+      ],
+      "referenced_works_count": 406,
+      "url": "https://openalex.org/W2152029324"
+    },
+    {
+      "openalex_id": "W2043861297",
+      "doi": "10.1016/s0140-6736(15)60160-x",
+      "title": "Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development",
+      "authors": [
+        {
+          "name": "John G. Meara",
+          "openalex_id": "A5047305795",
+          "orcid": "https://orcid.org/0000-0003-4369-3209",
+          "institutions": [
+            "Boston Children's Hospital"
+          ]
+        },
+        {
+          "name": "Andrew Leather",
+          "openalex_id": "A5047384276",
+          "orcid": "https://orcid.org/0000-0003-0500-5962",
+          "institutions": [
+            "Kings Health Partners",
+            "King's College London"
+          ]
+        },
+        {
+          "name": "Lars Hagander",
+          "openalex_id": "A5063934013",
+          "orcid": "https://orcid.org/0000-0001-6407-4613",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "Blake C. Alkire",
+          "openalex_id": "A5036469649",
+          "institutions": [
+            "Massachusetts Eye and Ear Infirmary"
+          ]
+        },
+        {
+          "name": "Nivaldo Alonso",
+          "openalex_id": "A5005984139",
+          "orcid": "https://orcid.org/0000-0003-1532-9610",
+          "institutions": [
+            "Universidade de S\u00e3o Paulo"
+          ]
+        },
+        {
+          "name": "Emmanuel A. Ameh",
+          "openalex_id": "A5027335214",
+          "orcid": "https://orcid.org/0000-0003-2386-3039",
+          "institutions": [
+            "National Hospital Abuja"
+          ]
+        },
+        {
+          "name": "Stephen W. Bickler",
+          "openalex_id": "A5046412944",
+          "orcid": "https://orcid.org/0000-0003-2626-2407",
+          "institutions": [
+            "University of California, San Diego",
+            "Rady Children's Hospital-San Diego"
+          ]
+        },
+        {
+          "name": "Lesong Conteh",
+          "openalex_id": "A5071473618",
+          "orcid": "https://orcid.org/0000-0002-0719-3672",
+          "institutions": [
+            "Imperial College London"
+          ]
+        },
+        {
+          "name": "Anna Dare",
+          "openalex_id": "A5060019311",
+          "orcid": "https://orcid.org/0000-0002-6738-5676",
+          "institutions": [
+            "King's College London",
+            "Kings Health Partners"
+          ]
+        },
+        {
+          "name": "Justine Davies",
+          "openalex_id": "A5019729892",
+          "orcid": "https://orcid.org/0000-0001-6834-1838"
+        },
+        {
+          "name": "Eunice D\u00e9rivois M\u00e9risier",
+          "openalex_id": "A5054395600"
+        },
+        {
+          "name": "Shenaaz El\u2010Halabi",
+          "openalex_id": "A5021116072",
+          "institutions": [
+            "Ministry of Health"
+          ]
+        },
+        {
+          "name": "Paul E. Farmer",
+          "openalex_id": "A5109062335",
+          "institutions": [
+            "Brigham and Women's Hospital",
+            "Partners In Health"
+          ]
+        },
+        {
+          "name": "Atul A. Gawande",
+          "openalex_id": "A5039378572",
+          "orcid": "https://orcid.org/0000-0002-1824-9176",
+          "institutions": [
+            "Ariadne Diagnostics (United States)",
+            "Brigham and Women's Hospital"
+          ]
+        },
+        {
+          "name": "Rowan Gillies",
+          "openalex_id": "A5103599523",
+          "institutions": [
+            "Royal North Shore Hospital"
+          ]
+        },
+        {
+          "name": "Sarah Greenberg",
+          "openalex_id": "A5034126495",
+          "orcid": "https://orcid.org/0000-0003-1947-8699",
+          "institutions": [
+            "Boston Children's Hospital",
+            "Medical College of Wisconsin"
+          ]
+        },
+        {
+          "name": "Caris Grimes",
+          "openalex_id": "A5061011250",
+          "orcid": "https://orcid.org/0000-0002-1662-5799",
+          "institutions": [
+            "Kings Health Partners",
+            "King's College London"
+          ]
+        },
+        {
+          "name": "Russell L. Gruen",
+          "openalex_id": "A5011185916",
+          "orcid": "https://orcid.org/0000-0001-8023-1957",
+          "institutions": [
+            "Nanyang Technological University",
+            "Monash University",
+            "The Alfred Hospital"
+          ]
+        },
+        {
+          "name": "Edna Adan Ismail",
+          "openalex_id": "A5007168852",
+          "institutions": [
+            "Edna Adan Maternity Hospital"
+          ]
+        },
+        {
+          "name": "Thaim Buya Kamara",
+          "openalex_id": "A5110082787",
+          "institutions": [
+            "University of Sierra Leone"
+          ]
+        },
+        {
+          "name": "Chris Lavy",
+          "openalex_id": "A5008191130",
+          "orcid": "https://orcid.org/0000-0001-8794-3789",
+          "institutions": [
+            "Nuffield Orthopaedic Centre",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Ganbold Lundeg",
+          "openalex_id": "A5045666191",
+          "orcid": "https://orcid.org/0000-0001-8470-7342",
+          "institutions": [
+            "Mongolian National University of Medical Sciences"
+          ]
+        },
+        {
+          "name": "Nyengo Mkandawire",
+          "openalex_id": "A5077121960",
+          "orcid": "https://orcid.org/0000-0002-1357-8173",
+          "institutions": [
+            "Flinders University",
+            "University of Malawi"
+          ]
+        },
+        {
+          "name": "Nakul Raykar",
+          "openalex_id": "A5073692972",
+          "orcid": "https://orcid.org/0000-0003-1825-7333",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Boston Children's Hospital"
+          ]
+        },
+        {
+          "name": "Johanna N. Riesel",
+          "openalex_id": "A5000745248",
+          "institutions": [
+            "Massachusetts General Hospital"
+          ]
+        },
+        {
+          "name": "Edgar B. Rodas",
+          "openalex_id": "A5112494844",
+          "institutions": [
+            "University of Cuenca",
+            "Universidad del Azuay"
+          ]
+        },
+        {
+          "name": "John Rose",
+          "openalex_id": "A5017735140",
+          "orcid": "https://orcid.org/0000-0001-6235-5892",
+          "institutions": [
+            "University of California, San Diego"
+          ]
+        },
+        {
+          "name": "Nobhojit Roy",
+          "openalex_id": "A5061055678",
+          "orcid": "https://orcid.org/0000-0003-2022-7416",
+          "institutions": [
+            "Bhabha Atomic Research Center Hospital"
+          ]
+        },
+        {
+          "name": "Mark G. Shrime",
+          "openalex_id": "A5088219447",
+          "orcid": "https://orcid.org/0000-0002-3546-9867",
+          "institutions": [
+            "Massachusetts Eye and Ear Infirmary",
+            "Harvard University",
+            "Harvard University Press"
+          ]
+        },
+        {
+          "name": "Richard Sullivan",
+          "openalex_id": "A5010167072",
+          "orcid": "https://orcid.org/0000-0002-6435-1825",
+          "institutions": [
+            "Kings Health Partners",
+            "King's College London"
+          ]
+        },
+        {
+          "name": "St\u00e9phane Verguet",
+          "openalex_id": "A5059887341",
+          "orcid": "https://orcid.org/0000-0003-4128-0849",
+          "institutions": [
+            "Harvard Global Health Institute"
+          ]
+        },
+        {
+          "name": "David Watters",
+          "openalex_id": "A5044455463",
+          "orcid": "https://orcid.org/0000-0002-5742-8417",
+          "institutions": [
+            "Royal Australasian College of Surgeons",
+            "Deakin University"
+          ]
+        },
+        {
+          "name": "Thomas G. Weiser",
+          "openalex_id": "A5091227833",
+          "orcid": "https://orcid.org/0000-0002-3118-3888",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Iain H. Wilson",
+          "openalex_id": "A5103212555",
+          "orcid": "https://orcid.org/0000-0002-7147-1403",
+          "institutions": [
+            "Royal Devon & Exeter NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Gavin Yamey",
+          "openalex_id": "A5084382216",
+          "orcid": "https://orcid.org/0000-0002-8390-7382",
+          "institutions": [
+            "University of California, San Francisco",
+            "Global Policy Institute"
+          ]
+        },
+        {
+          "name": "Winnie Yip",
+          "openalex_id": "A5073611041",
+          "orcid": "https://orcid.org/0000-0002-8168-2669",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-26",
+      "abstract": null,
+      "cited_by_count": 3521,
+      "type": "review",
+      "source": {
+        "name": "The Lancet",
+        "type": "journal",
+        "issn": [
+          "0140-6736",
+          "1474-547X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.thelancet.com/article/S014067361560160X/pdf"
+      },
+      "topics": [
+        "Global Health and Surgery",
+        "Global Health Workforce Issues",
+        "Cardiac, Anesthesia and Surgical Outcomes"
+      ],
+      "referenced_works_count": 291,
+      "url": "https://openalex.org/W2043861297"
+    },
+    {
+      "openalex_id": "W2186066651",
+      "doi": "10.22004/ag.econ.288998",
+      "title": "World agriculture towards 2030/2050: the 2012 revision",
+      "authors": [
+        {
+          "name": "N. Alexandratos",
+          "openalex_id": "A5089624765"
+        },
+        {
+          "name": "Jelle Bruinsma",
+          "openalex_id": "A5018363749"
+        },
+        {
+          "name": "Alexandratos, Nikos",
+          "openalex_id": ""
+        },
+        {
+          "name": "Bruinsma, Jelle",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Current UN projections indicate that world population could increase by 2.25 billion people from today's levels, reaching 9.15 billion by 2050. At the global level, agricultural production and consumption in 2050 are projected to be 60 percent higher than in 2005/07. The perceived limit to producing food for a growing global population remains a source of debate and preoccupation despite the agriculture sector's historical ability to meet such demand. This paper is the latest in the series by the Global Perspective Studies unit within FAO, which aims to provide insights into how food and agriculture may develop, between now and 2050, making note of key assumptions and uncertainties. Such a long look forward is inherently burdened with uncertainty, but the methodical inclusion of the range of technical expertise found throughout FAO on likely paths of development and constraints results in an outlook that is widely used for planning and framing debates in food and agriculture.",
+      "cited_by_count": 3140,
+      "type": "preprint",
+      "source": {
+        "name": "RePEc: Research Papers in Economics",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.22004/ag.econ.288998"
+      },
+      "topics": [
+        "Sustainable Development and Environmental Policy",
+        "Agriculture, Water, and Health"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W2186066651"
+    },
+    {
+      "openalex_id": "W2403089519",
+      "doi": "10.1103/revmodphys.90.045002",
+      "title": "History of dark matter",
+      "authors": [
+        {
+          "name": "Gianfranco Bertone",
+          "openalex_id": "A5045384271",
+          "orcid": "https://orcid.org/0000-0002-6191-1487",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Dan Hooper",
+          "openalex_id": "A5058056387",
+          "orcid": "https://orcid.org/0000-0001-8837-4127",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-10-15",
+      "abstract": "Although dark matter is a central element of modern cosmology, the history of\\nhow it became accepted as part of the dominant paradigm is often ignored or\\ncondensed into a brief anecdotical account focused around the work of a few\\npioneering scientists. The aim of this review is to provide the reader with a\\nbroader historical perspective on the observational discoveries and the\\ntheoretical arguments that led the scientific community to adopt dark matter as\\nan essential part of the standard cosmological model.\\n",
+      "cited_by_count": 1115,
+      "type": "article",
+      "source": {
+        "name": "Reviews of Modern Physics",
+        "type": "journal",
+        "issn": [
+          "0034-6861",
+          "1538-4527",
+          "1539-0756"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://link.aps.org/pdf/10.1103/RevModPhys.90.045002"
+      },
+      "topics": [
+        "Dark Matter and Cosmic Phenomena",
+        "Cosmology and Gravitation Theories",
+        "History and Developments in Astronomy"
+      ],
+      "referenced_works_count": 338,
+      "url": "https://openalex.org/W2403089519"
+    },
+    {
+      "openalex_id": "W3038096834",
+      "doi": "10.12942/lrr-2014-7",
+      "title": "Massive Gravity",
+      "authors": [
+        {
+          "name": "Claudia de Rham",
+          "openalex_id": "A5032507670",
+          "orcid": "https://orcid.org/0000-0002-6183-1030",
+          "institutions": [
+            "Case Western Reserve University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-08-25",
+      "abstract": null,
+      "cited_by_count": 1084,
+      "type": "review",
+      "source": {
+        "name": "Living Reviews in Relativity",
+        "type": "journal",
+        "issn": [
+          "1433-8351"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://link.springer.com/content/pdf/10.12942/lrr-2014-7.pdf"
+      },
+      "topics": [
+        "Cosmology and Gravitation Theories",
+        "Black Holes and Theoretical Physics",
+        "Relativity and Gravitational Theory"
+      ],
+      "referenced_works_count": 763,
+      "url": "https://openalex.org/W3038096834"
+    },
+    {
+      "openalex_id": "W1962360816",
+      "doi": "10.4324/9780203448946",
+      "title": "Handbook of International Research in Mathematics Education",
+      "authors": [
+        {
+          "name": "Nathalie Sinclair",
+          "openalex_id": "A5111814811",
+          "institutions": [
+            "University of Modena and Reggio Emilia"
+          ]
+        },
+        {
+          "name": "Anna Baccaglini\u2010Frank",
+          "openalex_id": "A5049835674",
+          "orcid": "https://orcid.org/0000-0002-8116-5370"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-07-30",
+      "abstract": "In The Age of Discontinuity: Guidelines to Our Changing Society (1992), Professor of Management Peter Drucker lays out ways in which technologies are transforming, and will continue to transform, industries throughout the world economy; for many workers, what characterizes work life now is the continual need to adapt to technological change. Such changes are not limited to the world of work: technology is transforming interactions with media, and this also relates to books. This chapter focuses on one way in which technology may transform educational processes and bring about new educational dynamics. Specifically we examine ways in which e-book technology might influence one genre of book, the (mathematics) textbook",
+      "cited_by_count": 1001,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/1602.03361"
+      },
+      "topics": [
+        "Education and Technology Integration",
+        "Innovative Teaching and Learning Methods",
+        "Mathematics Education and Teaching Techniques"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W1962360816"
+    },
+    {
+      "openalex_id": "W1491837485",
+      "doi": "10.1016/j.physrep.2015.05.001",
+      "title": "Light-front holographic QCD and emerging confinement",
+      "authors": [
+        {
+          "name": "Stanley J. Brodsky",
+          "openalex_id": "A5056236658",
+          "orcid": "https://orcid.org/0000-0001-8786-3172",
+          "institutions": [
+            "SLAC National Accelerator Laboratory",
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Guy F. de T\u00e9ramond",
+          "openalex_id": "A5047612140",
+          "orcid": "https://orcid.org/0000-0001-6035-7050",
+          "institutions": [
+            "Universidad de Costa Rica"
+          ]
+        },
+        {
+          "name": "H. G. Dosch",
+          "openalex_id": "A5067120047",
+          "orcid": "https://orcid.org/0000-0002-9230-2721",
+          "institutions": [
+            "Heidelberg Institute for Theoretical Studies"
+          ]
+        },
+        {
+          "name": "Joshua Erlich",
+          "openalex_id": "A5051738482",
+          "orcid": "https://orcid.org/0000-0002-5088-4348",
+          "institutions": [
+            "Williams (United States)",
+            "William & Mary"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-21",
+      "abstract": null,
+      "cited_by_count": 516,
+      "type": "article",
+      "source": {
+        "name": "Physics Reports",
+        "type": "journal",
+        "issn": [
+          "0370-1573",
+          "1873-6270"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/am/pii/S0370157315002306"
+      },
+      "topics": [
+        "Black Holes and Theoretical Physics",
+        "Particle physics theoretical and experimental studies",
+        "Quantum Chromodynamics and Particle Interactions"
+      ],
+      "referenced_works_count": 503,
+      "url": "https://openalex.org/W1491837485"
+    },
+    {
+      "openalex_id": "W1508604947",
+      "doi": "10.1186/s13321-015-0068-4",
+      "title": "InChI, the IUPAC International Chemical Identifier",
+      "authors": [
+        {
+          "name": "Stephen R. Heller",
+          "openalex_id": "A5085542188",
+          "orcid": "https://orcid.org/0000-0002-5538-8482",
+          "institutions": [
+            "Material Measurement Laboratory",
+            "National Institute of Standards and Technology"
+          ]
+        },
+        {
+          "name": "Alan D. Mcnaught",
+          "openalex_id": "A5048576607"
+        },
+        {
+          "name": "\u0418. \u0412. \u041f\u043b\u0435\u0442\u043d\u0435\u0432",
+          "openalex_id": "A5035335470",
+          "orcid": "https://orcid.org/0000-0001-7175-2136",
+          "institutions": [
+            "Lomonosov Moscow State University"
+          ]
+        },
+        {
+          "name": "Stephen E. Stein",
+          "openalex_id": "A5025106357",
+          "institutions": [
+            "National Institute of Standards and Technology",
+            "Material Measurement Laboratory"
+          ]
+        },
+        {
+          "name": "Dmitrii V. Tchekhovskoi",
+          "openalex_id": "A5031687981",
+          "orcid": "https://orcid.org/0009-0003-6710-8606",
+          "institutions": [
+            "National Institute of Standards and Technology",
+            "Material Measurement Laboratory"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-05-29",
+      "abstract": "This FAIRsharing record describes: Originally developed by the International Union of Pure and Applied Chemistry (IUPAC), the IUPAC International Chemical Identifier (InChI) is a machine-readable string generated from a chemical structure. InChIs are unique to the compound they describe and can encode absolute stereochemistry making chemicals and chemistry machine-readable and discoverable. A simple analogy is that InChI is the bar-code for chemistry and chemical structures. A hashed fixed-length version of the InChI, the InChIKey, is also widely used. The InChI format and algorithm are non-proprietary and the software is open source, with ongoing development done by the community. A number of IUPAC working groups are working on extensions and new applications of the standard.",
+      "cited_by_count": 833,
+      "type": "article",
+      "source": {
+        "name": "Journal of Cheminformatics",
+        "type": "journal",
+        "issn": [
+          "1758-2946"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://jcheminf.biomedcentral.com/counter/pdf/10.1186/s13321-015-0068-4"
+      },
+      "topics": [
+        "History and advancements in chemistry",
+        "Analytical Chemistry and Chromatography",
+        "Computational Drug Discovery Methods"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W1508604947"
+    },
+    {
+      "openalex_id": "W2082014836",
+      "doi": "10.1103/revmodphys.84.1655",
+      "title": "The classical-quantum boundary for correlations: Discord and related measures",
+      "authors": [
+        {
+          "name": "Kavan Modi",
+          "openalex_id": "A5053776631",
+          "orcid": "https://orcid.org/0000-0002-2054-9901",
+          "institutions": [
+            "National University of Singapore",
+            "University of Oxford",
+            "Centre for Quantum Technologies"
+          ]
+        },
+        {
+          "name": "Aharon Brodutch",
+          "openalex_id": "A5042298430",
+          "orcid": "https://orcid.org/0000-0001-5536-1485",
+          "institutions": [
+            "University of Oxford",
+            "National University of Singapore",
+            "Centre for Quantum Technologies",
+            "University of Waterloo"
+          ]
+        },
+        {
+          "name": "Hugo Cable",
+          "openalex_id": "A5025529494",
+          "orcid": "https://orcid.org/0000-0002-9926-027X",
+          "institutions": [
+            "National University of Singapore",
+            "University of Oxford",
+            "Centre for Quantum Technologies"
+          ]
+        },
+        {
+          "name": "Tomasz Paterek",
+          "openalex_id": "A5052431003",
+          "orcid": "https://orcid.org/0000-0002-8490-3156",
+          "institutions": [
+            "National University of Singapore",
+            "University of Oxford",
+            "Centre for Quantum Technologies"
+          ]
+        },
+        {
+          "name": "Vlatko Vedral",
+          "openalex_id": "A5079595457",
+          "orcid": "https://orcid.org/0000-0003-4561-5124",
+          "institutions": [
+            "Centre for Quantum Technologies",
+            "National University of Singapore",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-11-26",
+      "abstract": "One of the best signatures of nonclassicality in a quantum system is the\\nexistence of correlations that have no classical counterpart. Different methods\\nfor quantifying the quantum and classical parts of correlations are amongst the\\nmore actively-studied topics of quantum information theory over the past\\ndecade. Entanglement is the most prominent of these correlations, but in many\\ncases unentangled states exhibit nonclassical behavior too. Thus distinguishing\\nquantum correlations other than entanglement provides a better division between\\nthe quantum and classical worlds, especially when considering mixed states.\\nHere we review different notions of classical and quantum correlations\\nquantified by quantum discord and other related measures. In the first half, we\\nreview the mathematical properties of the measures of quantum correlations,\\nrelate them to each other, and discuss the classical-quantum division that is\\ncommon among them. In the second half, we show that the measures identify and\\nquantify the deviation from classicality in various\\nquantum-information-processing tasks, quantum thermodynamics, open-system\\ndynamics, and many-body physics. We show that in many cases quantum\\ncorrelations indicate an advantage of quantum methods over classical ones.\\n",
+      "cited_by_count": 1558,
+      "type": "article",
+      "source": {
+        "name": "Reviews of Modern Physics",
+        "type": "journal",
+        "issn": [
+          "0034-6861",
+          "1538-4527",
+          "1539-0756"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://link.aps.org/pdf/10.1103/RevModPhys.84.1655"
+      },
+      "topics": [
+        "Quantum Information and Cryptography",
+        "Quantum Mechanics and Applications",
+        "Advanced Thermodynamics and Statistical Mechanics"
+      ],
+      "referenced_works_count": 402,
+      "url": "https://openalex.org/W2082014836"
+    },
+    {
+      "openalex_id": "W2073511410",
+      "doi": "10.1063/1.3518900",
+      "title": "Computational Studies of Quantum Spin Systems",
+      "authors": [
+        {
+          "name": "Anders W. Sandvik",
+          "openalex_id": "",
+          "institutions": [
+            "Boston University"
+          ]
+        },
+        {
+          "name": "Adolfo Avella",
+          "openalex_id": ""
+        },
+        {
+          "name": "Ferdinando Mancini",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "These lecture notes introduce quantum spin systems and several computational methods for studying their ground-state and finite-temperature properties. Symmetry-breaking and critical phenomena are first discussed in the simpler setting of Monte Carlo studies of classical spin systems, to illustrate finite-size scaling at continuous and first-order phase transitions. Exact diagonalization and quantum Monte Carlo (stochastic series expansion) algorithms and their computer implementations are then discussed in detail. Applications of the methods are illustrated by results for some of the most essential models in quantum magnetism, such as the S=1/2 Heisenberg antiferromagnet in one and two dimensions, as well as extended models useful for studying quantum phase transitions between antiferromagnetic and magnetically disordered states.",
+      "cited_by_count": 452,
+      "type": "article",
+      "source": {
+        "name": "AIP conference proceedings",
+        "type": "journal",
+        "issn": [
+          "0094-243X",
+          "1551-7616",
+          "1935-0465"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://aip.scitation.org/doi/pdf/10.1063/1.3518900"
+      },
+      "topics": [
+        "Quantum many-body systems",
+        "Theoretical and Computational Physics",
+        "Physics of Superconductivity and Magnetism"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W2073511410"
+    },
+    {
+      "openalex_id": "W2980951591",
+      "doi": "10.1007/s00146-020-00950-y",
+      "title": "Recommender systems and their ethical challenges",
+      "authors": [
+        {
+          "name": "Silvia Milano",
+          "openalex_id": "A5033554834",
+          "orcid": "https://orcid.org/0000-0001-9643-4222",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Mariarosaria Taddeo",
+          "openalex_id": "A5003032735",
+          "orcid": "https://orcid.org/0000-0002-1181-649X",
+          "institutions": [
+            "University of Oxford",
+            "The Alan Turing Institute",
+            "Turing Institute"
+          ]
+        },
+        {
+          "name": "Luciano Floridi",
+          "openalex_id": "A5046574356",
+          "orcid": "https://orcid.org/0000-0002-5444-2280",
+          "institutions": [
+            "The Alan Turing Institute",
+            "University of Oxford",
+            "Turing Institute"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-27",
+      "abstract": "Abstract This article presents the first, systematic analysis of the ethical challenges posed by recommender systems through a literature review. The article identifies six areas of concern, and maps them onto a proposed taxonomy of different kinds of ethical impact. The analysis uncovers a gap in the literature: currently user-centred approaches do not consider the interests of a variety of other stakeholders\u2014as opposed to just the receivers of a recommendation\u2014in assessing the ethical impacts of a recommender system.",
+      "cited_by_count": 473,
+      "type": "article",
+      "source": {
+        "name": "AI & Society",
+        "type": "journal",
+        "issn": [
+          "0951-5666",
+          "1435-5655"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s00146-020-00950-y.pdf"
+      },
+      "topics": [
+        "Privacy-Preserving Technologies in Data",
+        "Ethics and Social Impacts of AI",
+        "Recommender Systems and Techniques"
+      ],
+      "referenced_works_count": 44,
+      "url": "https://openalex.org/W2980951591"
+    },
+    {
+      "openalex_id": "W1984513249",
+      "doi": "10.1080/09515089.2011.569919",
+      "title": "Active internalism and open dynamical systems",
+      "authors": [
+        {
+          "name": "Jeff Yoshimi",
+          "openalex_id": "A5076447296",
+          "institutions": [
+            "Schlumberger (Ireland)"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-18",
+      "abstract": "Abstract The question whether cognition is subserved by internal processes in the brain (internalism) or extends in to the world (active externalism) has been vigorously debated in recent years. I show how internalist and externalist ideas can be pursued in a common framework, using (1) open dynamical systems, which allow for separate analysis of an agent's intrinsic and embodied dynamics, and (2) supervenience functions, which can be used to study how low-level dynamical systems give rise to higher-level dynamical structures. Keywords: Active ExternalismDynamical Systems TheoryEmbodied CognitionInternalismSupervenience Acknowledgements I am grateful to Bill Bechtel, Rick Dale, Scott Hotton, Georg Theiner, an anonymous referee, and audiences at two conferences where earlier versions of this paper were presented\u2014Embodied, Embedded, Enactive and Extended Cognition, at the University of Central Florida, and a meeting of the Central Valley Philosophy Association, at the College of the Sequoias. Notes Notes [1] I refer to this debate as the \u201cembodiment debate.\u201d I take \u201cexternalism\u201d to be a covering term for positions that emphasize the importance of the environment in cognitive processes. \u201cExternalism\u201d in this sense covers active externalism, semantic externalism, embodiment, the enactive approach to perception, etc. When a more specific approach is in question, and the context does not make this clear, that position is referred to using appropriate terminology. [2] Recent treatments, with references to earlier work, are Chemero (Citation2009), Clark (Citation2008), Gibbs (Citation2006), Kiverstein and Clark (Citation2009), and No\u00eb (Citation2004). [3] For overview of the internalist response, see Adams and Aizawa (Citation2008), and Rupert (Citation2009). The internalist position is also treated in detail in Clark (Citation2008). [4] Similar approaches exist in the literature. Clark (Citation2008) endorses externalism for much cognitive processing, but is also an internalist about consciousness (2009). Wilson describes a \u201cmoderate externalist view,\u201d \u201ca kind of pluralistic view of the mind vis-\u00e0-vis the debate over individualism, whereby individualistic and externalist views of cognition divide the mind between them\u201d (2010a, p. 277) Wilson (Citation2001) also provides a set of tools for distinguishing different aspects of realization, which is similar to the set of tools described here. Bechtel (forthcoming) shows how mechanistic explanation often requires simultaneously considering internal dynamics and external couplings, at multiple levels of analysis. Also note that the tools I use\u2014what I call \u201copen dynamical systems\u201d and \u201csupervenience functions\u201d\u2014involve formalization of concepts associated with existing areas of research (more in section 3). [5] When I refer to a \u201csystem\u201d or \u201cobject,\u201d I mean a real thing or collection of things, something like a spatio-temporal particular. I denote systems (and their parts) by upper case letters. When I refer to \u201cstates\u201d and \u201cstate spaces,\u201d by contrast, I mean ways these systems can be. More specifically, I take state spaces to be a special kind of property set, and states to be members of such sets (Yoshimi, forthcoming). I denote state spaces by upper case bold letters. For example, if T is a total system, and A is an agent system \u201cin\u201d T (i.e., a mereological part of T), then we can talk about a state space S 1 for A, which is a set of ways A could be, and a separate state space S 2 for T, which is a set of ways T could be. As we will see, multiple state spaces can apply to the same system. [6] As Rupert says, \u201cproponents of the extended view often rest their case on observations about dependence\u201d (2010, p. 2; see also Rupert, Citation2004, section 2). [7] Also compare what Donald (Citation1991) calls \u201cexograms\u201d (e.g., written texts) which serve as external stores of memory (see also Sutton, Citation2010). [8] This was only labeled the \u201cparity principle\u201d later (Clark, Citation2008). Compare Adams and Aizawa (Citation2008) on \u201ccognitive equivalence.\u201d For critical discussion of the parity principle, see Menary (Citation2006); Sutton (Citation2010); and Wilson and Clark (Citation2009). The issues raised in these papers are addressed in section 4. [9] See Clark (Citation2008, p. 88). [10] For a helpful review, history, and analysis of internalism, see Bartlett (Citation2008). [11] One property of supervenience is that (roughly), if A supervenes on B then A also supervenes on any set of properties that in some sense \u201cincludes\u201d B. For example, if conscious states supervene on brain states, then conscious states also supervene on world states (if changes in conscious states entail changes in brain state, they thereby entail changes in the world those brains are part of). Thus, it is sometimes stipulated that a given base set of properties be minimal, i.e. the \u201csmallest\u201d set of properties B that A supervenes on (e.g., for the case of conscious states, this minimal set might contain states of some subsystem of the brain). This concept of a \u201cminimal subvenient base\u201d has not, to my knowledge, ever been made precise. Throughout when referring to \u201csubvenient bases\u201d I have this kind of minimal subvenient base in mind. For example, when referring to the brain as the subvenient base of consciousness, I assume that there is actually some mereological part of the brain which is the minimal subvenient base of consciousness. [12] As Bartlett (Citation2008) says, there was no \u201corganized defense\u201d of internalism until recently; in fact, the position was initially formulated as a foil for critics to attack. [13] Among Greek and Roman scholars there was a debate between those who thought the heart was the seat of the soul (e.g., Aristotle), and those who thought the brain was (e.g., Plato). The Roman physician Galen is said to have settled the issue. In his most famous demonstration, he removed the laryngeal nerves from a pig, and observed that this eliminated vocalization but no other functions. Other experiments showed that damage to specific parts of the brain had a specific impact on cognition (e.g., inducing blindness), even if the sense organs were intact (Gross, Citation1988). [14] Clark (Citation2009) is critical of this type of evidence (wrongly I think), but I will not respond to his arguments here (though I will respond to related worries in section 4). Clark also describes a novel way of supporting a neural basis for consciousness. Citing an earlier suggestion by Chalmers, Clark notes that relatively high bandwidth communication channels within the brain (as compared with lower bandwidth channels connecting the brain to its environment) make it the \u201conly adequate \u2018vehicle\u2019\u201d for consciousness (2009, p. 983). [15] Compare Grush's (Citation2003) arguments concerning the control-theoretic functions of the nervous system. [16] On symbolic dynamics in relation to cognitive science, see Dale and Spivey (Citation2005); and Atmanspracher and beim Graben (Citation2007). On the relationship between recurrent neural networks and state machines, see Casey (Citation1996), which includes references to earlier work. On both topics see beim Graben and Potthast (Citation2009). These ideas are discussed in relation to the philosophical literature on supervenience in Yoshimi (forthcoming). [17] Also see Phattanasri, Chiel, and Beer (Citation2007). [18] Dynamical systems can be formally defined (see Hotton & Yoshimi, Citation2010, for a discussion of the formal definition), but we will not consider the formal definition here. Also note that there is a common equivocation at this point, between the formal mathematical structure and the real system being modeled (van Gelder, Citation1998). The equivocation is mostly harmless and will be ignored in what follows. [19] The term \u201corbit\u201d is standard in dynamical systems theory. The term \u201cpath\u201d is neutral between classical dynamical systems and open dynamical systems, and so I will prefer that term here. [20] I am using the phrase \u201cphase portrait\u201d in a somewhat non-standard way. The phrase usually refers to a visual depiction of selected orbits of a dynamical system (e.g., Figure 1). I also use it to refer to a logical rather than a graphical object\u2014namely, the full set of orbits of a dynamical system, what is sometimes called an \u201corbit space.\u201d [21] Of course, outside influences can be incorporated, but then they are taken to be part of a larger dynamical system which is not subject to external influences (a useful strategy, as we\u2019re about to see). [22] As noted above, others have analyzed the dynamics of agents in environments. Our contribution is to formalize and generalize these ideas using an explicit mathematical framework, which in turn provides (among other things) for a more rigorous analysis of certain dynamical concepts, e.g., \u201chysteresis.\u201d We also describe tools for analyzing some of the complex structures that occur in an open system. These points are elaborated in Hotton and Yoshimi (Citation2010), and Hotton and Yoshimi (forthcoming). In those papers we also differentiate open dynamical systems in our sense from open thermodynamic systems and open loop control systems. [23] In what follows, I distinguish open dynamical systems, which are compound systems like the one shown in Figure 2, from open systems or \u201cembodied agent systems,\u201d which correspond to one part of an open dynamical system, namely the agent system when it is embedded in an environment (see the bottom right panel in Figure 2). [24] The act of \u201cplacing\u201d the agent system in the total space involves more formalism than this (Hotton & Yoshimi, forthcoming), but the intuitive idea should be clear. In this case, a dynamical system that consists of an infinite collection of copies of the agent system is defined on the total space. Placing the agent system in the total space then amounts to associating the agent system with one of these copies. [25] Technically, there is also a third classical dynamical system, corresponding to the embedding of the agent system in the total state space. [26] Compare Wilson's (Citation2010a) concept of \u201cfunctional gain,\u201d a property of integrated systems whereby they display novel functions compared to the behavior of any of their components considered in isolation. Also see Wilson and Clark (Citation2009). [27] In Hotton and Yoshimi (Citation2010), and Hotton and Yoshimi (forthcoming), techniques for dealing with this complexity are described (e.g., grouping paths into collections of paths that do roughly the same thing, and then color coding these collections). [28] See Yoshimi (forthcoming) for discussion of the relation between supervenience and dynamics, and for review of authors who distinguish diachronic causal process and synchronic determination relations. In the context of the embodiment debate, this kind of distinction has been invoked with aims similar to my own. Adams and Aizawa (Citation2001, 2008) distinguish coupling (which is dynamic) from constitution (which is static). Clark, drawing on such philosophers as Susan Hurley and Ned Block, distinguishes \u201cinstrumental dependence\u201d (dynamic) and \u201cconstitutive involvement\u201d (which is static; 2009, p. 965). I say more on this in section 4. [29] I have discussed elsewhere how standard formulations of supervenience imply this functional formulation (Yoshimi, Citationforthcoming). Varieties of supervenience such as strong, weak, and global (see McLaughlin & Bennett, Citation2005, for review) imply different functional formulations. For example, strong supervenience entails a single supervenience function prefixed by a modal parameter (so that base states determine the same supervenient states in all possible worlds), while weak supervenience entails a family of supervenience functions, one for each possible world. These differences can largely be bracketed here, though in a fuller treatment varieties of supervenience (including explicit modal parameters) could usefully enrich the overarching framework, with its emphasis on adaptability to different cases. [30] The function need not be defined on the entire domain; there are most likely brain states that don\u2019t determine any conscious state, and similarly in other cases of supervenience. This introduces trivial complications, which I deal with elsewhere. [31] Note that, while the supervenient state set in this example is discrete, this need not be the case; it could be a continuum. [32] As Clark says, \u201cinscriptions in the notebook figure as part of the physical supervenience base for certain standing beliefs of the agent\u201d (2009, p. 966). [33] Matters are even more complex than this. Having specified a base space of interest, it is sometimes the case that a hierarchy of spaces supervenes on that base space. For example, physical states of the brain determine chemical states, which determine biological states, which sometimes determine psychological states. This situation has an interesting analysis in terms of the partitions described above, whereby as one moves up the hierarchy of supervenience functions, increasingly coarse-grained partitions are induced on the lowest level base space. [34] See Wilson (Citation2010a), who refers to \u201csystems of various levels of durability and robustness over time and circumstance\u201d (see also Wilson & Clark, Citation2009). [35] Recall that this was Haugeland's example in discussing \u201ccausal intimacy.\u201d For review see Chiel and Beer (Citation1997). [36] Compare the analysis of dissociated cortical cultures (which allow isolated brain tissue to be studied), or for that matter just about any analysis of a biological system in vitro. [37] Also see Clark's (Citation2008) discussion of \u201ccoarse grained functional poise,\u201d and Bartlett's (Citation2008) discussion of \u201ccore realizers.\u201d [38] Clark counters this argument in a similar way; see (Citation2009, pp. 970\u2013987). Also see the discussion of \u201cSearle's objection\u201d in No\u00eb (Citation2004, p. 219). [39] On \u201csoft assembly\u201d and related concepts, see Bingham (Citation1988). [40] Pluralist approaches to cognitive science have been a subject of considerable recent discussion. See, e.g., Dale, Dietrich, and Chemero (Citation2009), McClelland et al. (Citation2010), and Spivey and Anderson (Citation2008). [41] Of course, the tools I\u2019ve described are neutral with respect to the philosophical positions. In particular, they could be used by someone with strictly internalist or externalist leanings.",
+      "cited_by_count": 30,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and History of Science",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 70,
+      "url": "https://openalex.org/W1984513249"
+    },
+    {
+      "openalex_id": "W2974009797",
+      "doi": "10.1103/physrevb.100.115147",
+      "title": "Symmetry fractionalization, defects, and gauging of topological phases",
+      "authors": [
+        {
+          "name": "Maissam Barkeshli",
+          "openalex_id": "A5004169905",
+          "orcid": "https://orcid.org/0000-0002-4322-9433",
+          "institutions": [
+            "Microsoft (United States)"
+          ]
+        },
+        {
+          "name": "Parsa Bonderson",
+          "openalex_id": "A5066212845",
+          "orcid": "https://orcid.org/0000-0003-2341-8605",
+          "institutions": [
+            "Microsoft (United States)"
+          ]
+        },
+        {
+          "name": "Meng Cheng",
+          "openalex_id": "A5034971718",
+          "orcid": "https://orcid.org/0000-0001-7600-1809",
+          "institutions": [
+            "Microsoft (United States)"
+          ]
+        },
+        {
+          "name": "Zhenghan Wang",
+          "openalex_id": "A5101752833",
+          "orcid": "https://orcid.org/0000-0002-5253-6400",
+          "institutions": [
+            "University of California, Santa Barbara",
+            "Microsoft (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-20",
+      "abstract": "We examine the interplay of symmetry and topological order in $2+1$\\ndimensional topological phases of matter. We present a definition of the \\\\it\\ntopological symmetry \\\\rm group, which characterizes the symmetry of the\\nemergent topological quantum numbers of a topological phase, and we describe\\nits relation with the microscopic symmetry of the underlying physical system.\\nWe derive a general framework to characterize and classify symmetry\\nfractionalization in topological phases, including phases that are non-Abelian\\nand symmetries that permute the quasiparticle types and/or are anti-unitary. We\\ndevelop a theory of extrinsic defects (fluxes) associated with elements of the\\nsymmetry group, which provides a general classification of symmetry-enriched\\ntopological phases derived from a topological phase of matter $\\\\mathcal{C}$\\nwith symmetry group $G$. The algebraic theory of the defects, known as a\\n$G$-crossed braided tensor category $\\\\mathcal{C}_{G}^{\\\\times}$, allows one to\\ncompute many properties, such as the number of topologically distinct types of\\ndefects associated with each group element, their fusion rules, quantum\\ndimensions, zero modes, braiding exchange transformations, a generalized\\nVerlinde formula for the defects, and modular transformations of the\\n$G$-crossed extensions of topological phases. We also examine the promotion of\\nthe global symmetry to a local gauge invariance, wherein the extrinsic\\n$G$-defects are turned into deconfined quasiparticle excitations, which results\\nin a different topological phase $(\\\\mathcal{C}_{G}^{\\\\times})^{G}$. A number of\\ninstructive and/or physically relevant examples are studied in detail.\\n",
+      "cited_by_count": 532,
+      "type": "article",
+      "source": {
+        "name": "Physical review. B./Physical review. B",
+        "type": "journal",
+        "issn": [
+          "2469-9950",
+          "2469-9969",
+          "2469-9977"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://link.aps.org/pdf/10.1103/PhysRevB.100.115147"
+      },
+      "topics": [
+        "Topological Materials and Phenomena",
+        "Quantum many-body systems",
+        "Quantum, superfluid, helium dynamics"
+      ],
+      "referenced_works_count": 180,
+      "url": "https://openalex.org/W2974009797"
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

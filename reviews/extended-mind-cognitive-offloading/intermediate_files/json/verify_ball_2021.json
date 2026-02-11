@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1080/09658211.2021.1991380"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1080/09658211.2021.1991380",
+      "title": "Individual differences in working memory capacity predict benefits to memory from intention offloading",
+      "authors": [
+        {
+          "family": "Ball",
+          "given": "Hunter"
+        },
+        {
+          "family": "Peper",
+          "given": "Phil"
+        },
+        {
+          "family": "Alakbarova",
+          "given": "Durna"
+        },
+        {
+          "family": "Brewer",
+          "given": "Gene"
+        },
+        {
+          "family": "Gilbert",
+          "given": "Sam J."
+        }
+      ],
+      "editors": [],
+      "year": 2021,
+      "container_title": "Memory",
+      "volume": "30",
+      "issue": "2",
+      "page": "77-91",
+      "publisher": "Informa UK Limited",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1080/09658211.2021.1991380"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

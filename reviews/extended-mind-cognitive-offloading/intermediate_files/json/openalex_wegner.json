@@ -1,0 +1,1036 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "transactive memory Wegner",
+  "results": [
+    {
+      "openalex_id": "W2041605163",
+      "doi": "10.1080/19416520.2011.590300",
+      "title": "Transactive Memory Systems 1985\u20132010: An Integrative Framework of Key Dimensions, Antecedents, and Consequences",
+      "authors": [
+        {
+          "name": "Yuqing Ren",
+          "openalex_id": "A5103216480",
+          "orcid": "https://orcid.org/0000-0002-2125-7695",
+          "institutions": [
+            "Carnegie Mellon University",
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Linda Argote",
+          "openalex_id": "A5073091089",
+          "orcid": "https://orcid.org/0000-0002-4149-6968",
+          "institutions": [
+            "Carnegie Mellon University",
+            "University of Minnesota"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-01",
+      "abstract": "Over two decades have passed since Wegner and his co-authors published the groundbreaking paper on transactive memory systems (TMS) in 1985. The concept attracted the interest of management, psychology, and communication scholars who have employed a variety of methods to examine the phenomenon. In this paper, we review 76 papers that examined transactive memory systems and summarize the findings in an integrative framework to show the antecedents and consequences of TMS. Our review also reveals important issues in the literature related to the measurement of TMS, its multidimensional nature, extending TMS from the team level to the organizational level, and the potential role of TMS in explaining the benefits of experience in existing organizations and new entrepreneurial ventures. We conclude by calling for future research to examine the dynamic evolution of TMS, TMS in virtual teams, TMS in entrepreneurial ventures, and TMS at the organizational level facilitated with information technologies.",
+      "cited_by_count": 333,
+      "type": "article",
+      "source": {
+        "name": "Academy of Management Annals",
+        "type": "journal",
+        "issn": [
+          "1941-6067",
+          "1941-6520"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Team Dynamics and Performance",
+        "Knowledge Management and Sharing",
+        "Job Satisfaction and Organizational Behavior"
+      ],
+      "referenced_works_count": 113,
+      "url": "https://openalex.org/W2041605163"
+    },
+    {
+      "openalex_id": "W4245591466",
+      "doi": "10.5465/19416520.2011.590300",
+      "title": "Transactive Memory Systems 1985\u20132010: An Integrative Framework of Key Dimensions, Antecedents, and Consequences",
+      "authors": [
+        {
+          "name": "Yuqing Ren",
+          "openalex_id": "A5103216480",
+          "orcid": "https://orcid.org/0000-0002-2125-7695",
+          "institutions": [
+            "University of Minnesota"
+          ]
+        },
+        {
+          "name": "Linda Argote",
+          "openalex_id": "A5073091089",
+          "orcid": "https://orcid.org/0000-0002-4149-6968",
+          "institutions": [
+            "Carnegie Mellon University",
+            "University of Minnesota"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-06-01",
+      "abstract": "Over two decades have passed since Wegner and his co-authors published the groundbreaking paper on transactive memory systems (TMS) in 1985. The concept attracted the interest of management, psychology, and communication scholars who have employed a variety of methods to examine the phenomenon. In this paper, we review 76 papers that examined transactive memory systems and summarize the findings in an integrative framework to show the antecedents and consequences of TMS. Our review also reveals important issues in the literature related to the measurement of TMS, its multidimensional nature, extending TMS from the team level to the organizational level, and the potential role of TMS in explaining the benefits of experience in existing organizations and new entrepreneurial ventures. We conclude by calling for future research to examine the dynamic evolution of TMS, TMS in virtual teams, TMS in entrepreneurial ventures, and TMS at the organizational level facilitated with information technologies.",
+      "cited_by_count": 301,
+      "type": "article",
+      "source": {
+        "name": "Academy of Management Annals",
+        "type": "journal",
+        "issn": [
+          "1941-6067",
+          "1941-6520"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Team Dynamics and Performance",
+        "Knowledge Management and Sharing",
+        "Job Satisfaction and Organizational Behavior"
+      ],
+      "referenced_works_count": 93,
+      "url": "https://openalex.org/W4245591466"
+    },
+    {
+      "openalex_id": "W1857960223",
+      "doi": "10.1111/j.1467-6486.2012.01077.x",
+      "title": "Transactive Memory Systems: A Microfoundation of Dynamic Capabilities",
+      "authors": [
+        {
+          "name": "Linda Argote",
+          "openalex_id": "A5073091089",
+          "orcid": "https://orcid.org/0000-0002-4149-6968",
+          "institutions": [
+            "University of Minnesota",
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Yuqing Ren",
+          "openalex_id": "A5103216480",
+          "orcid": "https://orcid.org/0000-0002-2125-7695",
+          "institutions": [
+            "Decision Sciences (United States)",
+            "University of Minnesota",
+            "Carnegie Mellon University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-08-03",
+      "abstract": "A persistent puzzle in management research is competitive advantage and why certain firms excel in getting ahead while others falter (Knott, 2003). One explanation is the dynamic capability argument, which emphasizes a firm's superior ability in sensing new opportunities in its environment and seeking those opportunities by continuously adapting, integrating, and reconfiguring its key assets and competences (Teece et al., 1997). Researchers have called for more work to identify the micro-processes or mechanisms through which firms develop dynamic capabilities (Argote and Ingram, 2000; Spender and Grant, 1996; Teece, 2007). In this paper, we present transactive memory as a microfoundation of dynamic capabilities and describe how an organizational system for collectively encoding, storing, and retrieving knowledge can facilitate the combinative integration and renovation of an organization's knowledge assets. In spite of the consensus that dynamic capabilities play a crucial role in competitive advantage, complete consensus in defining the term has not been achieved. Teece et al. (1997) defined dynamic capabilities as 'the firm's ability to integrate, build, and reconfigure internal and external competences to address rapidly changing environments' (p. 516). Zollo and Winter (2002) defined a dynamic capability as 'a learned and stable pattern of collective activity through which the organization systematically generates and modifies its operating routines in pursuit of improved effectiveness' (p. 340). Helfat et al. (2007) defined a dynamic capability as 'the capacity of an organization to purposefully create, extend, or modify its resource base' (p. 1). Dynamic capabilities concern an organization's ability to reallocate or reconfigure resources to adapt to changes in the future (Helfat et al., 2007). In the next section, we discuss how an organizational transactive memory \u2013 or a concept map of who knows what in an organization \u2013 facilitates capability-building processes. A transactive memory system refers to a shared system that individuals in groups and organizations develop to collectively encode, store, and retrieve information or knowledge in different domains (Lewis and Herndon, 2011; Wegner, 1987). Simply put, transactive memory refers to the knowledge of 'who knows what'. Experimental and field studies of transactive memory in dyads and small groups have linked the existence of transactive memory to improved performance in a variety of tasks such as consulting, product assembly, and software development (Faraj and Sproul, 2000; Hollingshead, 1998a, 1998b, 1998c; Lewis, 2004; Liang et al., 1995). Researchers have identified three indicators of the existence of transactive memory systems (Lewis, 2003; Moreland et al., 1998): knowledge or memory specialization (the tendency for group members to remember different aspects of a task or to develop specialized and complementary expertise), task credibility (how much group members trust each other's knowledge), and task coordination (the ability of group members to work together smoothly and efficiently while performing a task). This meta knowledge of who knows what provides individuals with access to more knowledge than they individually possess. Further, the knowledge enables the group to specialize such that individuals with expertise in a specific domain take responsibility for remembering knowledge, performing tasks in the domain, and answering questions from other team members about that domain. Through performing tasks and answering questions, a member establishes credibility and expertise status. Thus, other members come to trust his or her expertise, which is another indicator of the operation of a transactive memory system. Other members, being aware of the person's expertise, direct new knowledge in the domain to him or her, which reinforces the person's specialization. Further, members know whom to count on for performing various tasks and whom to consult for information in particular domains, which improves coordination. Coordination is another indicator of the operation of a transactive memory system. Not only are transactive memory systems beneficial in stable environments, they are also valuable in dynamic environments. Ren et al. (2006) demonstrated in a simulation that transactive memory systems were more valuable in environments where problems changed and knowledge became obsolete than when problems were stable. Similarly, Miller et al. (2012) showed in a computational model that transactive memory facilitates adaptation to novel problems in addition to enhancing efficiency. Transactive memory systems have also been found to facilitate group adaptation to new tasks (Lewis et al., 2005). Groups with well-developed transactive memories have also been found to be more creative than their counterparts with less developed transactive memory systems (Gino et al., 2010). When members know who is good at what, they are able to reconfigure their knowledge to create new products and services. For example, a member of a product development team with expertise in material engineering and a member with expertise in health care might put their knowledge together to create a new material that is ideal for particular kinds of surgery. In this example, the ability to reconfigure knowledge was enabled by the knowledge team members possessed of who knew what \u2013 by their transactive memory system. Thus, not only do transactive memory systems provide a base for zero-level capabilities that enable a firm to 'make a living' (Winter, 2003), transactive memory systems also provide a foundation for dynamic capabilities that create new capabilities or reconfigure existing ones. Three characteristics of an organizational transactive memory system make it a valuable source for sustainable competitive advantage (Dierickx and Cool, 1989): path dependency, tacitness and social complexity, and context dependency. First, a transactive memory system takes time to develop and the process of developing a transactive memory system is recursive. As members perform tasks, others develop more differentiated perceptions of expertise \u2013 learning more about tasks that team members are and are not adept at doing. Factors that have consistently been shown to predict the development of a transactive memory system are experience working together and team training (Ren and Argote, 2011). Communication, especially during the early phases of group development, has also been shown to positively affect the development of transactive memory systems. A transactive memory system is an invisible asset that is hard to develop in a short period of time (Itami and Roehl, 1987) yet can benefit the organization in many ways. Second, an organizational transactive memory system is complex and socially embedded (Schreyogg and Kliesch-Eberl, 2007). Transactive memory systems have many components that fit each other (Rivkin, 2000), which is a barrier to imitation. Further, transactive memory systems are developed by social interactions and represent a collective way of problem solving by matching problems to individuals with the right expertise. The social complexity makes it hard for rivals to discern the specific source of the competitive advantage and thus hard to imitate. A transactive memory system can be conceived as a form of 'cospecialized asset'. According to Teece (2007), cospecialized assets are a class of complementary assets where the value of one asset depends on its use in conjunction with another. For example, a marketing research team with a well-developed transactive memory system might have someone who is especially adept at sampling and data analysis and specializes in both areas, another person who specializes in question writing, and a third person who specializes in survey administration and client contact. Team members know each other's areas of expertise and rely on each other to accomplish the team's task. The value of one asset (in this example a person's expertise) depends on its use in conjunction with the other assets. If one person were to move to another three-person team, the value of his or her expertise might decrease. For example, the person who was good at question writing might discover, after moving to a new team, that the new team took it for granted that she would also take care of sampling issues. She would be less effective in that team than in the previous configuration, which better fitted her skills and knowledge. If the person who specialized in sampling and data analysis were to move to a new team, she might find that there was already someone on the new team who handled sampling, which could cause coordination problems. This simple example illustrates that the specialization that occurs when team members develop a transactive memory system is somewhat idiosyncratic to a particular team. Hiring away individuals with specialized expertise may not lead to the acquisition of the advantage associated with the expertise unless complementary skills and the necessary conditions for effective coordination are in place as well. Consistent with this conjecture, Wezel et al. (2006) found that mobility of individuals across firms had the greatest effect when collectives rather than individuals moved. Similarly, Huckman and Pisano (2006) found dramatic differences in the performance of surgeons who performed the same operation in different hospitals. When individuals moved from one organization to another, a transactive memory system developed with one set of colleagues would not be relevant for another. On the other hand, the movement of individuals into a new team can be facilitated by hiring other members of their previous team (Groysberg and Lee, 2009) and by sensitivity on the part of the hiring team to the skills and knowledge of the departing member and his or her replacement (Lewis et al., 2007). Achieving an exact fit between the expertise of the new and departing members is challenging due to the tacit nature of some knowledge. Third, because transactive memory systems develop as individuals learn each other's skills and expertise through experience working together, transactive memory systems are specific to the particular context of an organization and its members. Different organizations have different members with different skills and expertise and thereby different transactive memory systems. Thus, transactive memory systems are idiosyncratic to organizations and meet important criteria for competitive advantage: they are developed or built (Dierickx and Cool, 1989) inside the organization and are difficult for competitors to imitate (Barney, 1986; Lippman and Rumelt, 1982). Routines, recurring patterns of activity among interdependent organization members, also develop from experience (Bapuji et al., 2012; Turner and Fern, 2012). Routines, however, are less dependent on the skills and expertise of particular members than transactive memory systems. For example, a firm might have a production routine that specifies the steps to assemble a product or an acquisition routine that specifies the processes for acquiring other firms. The processes or steps in the routines are specified independently of the members who perform them. Indeed an advantage of relying on routines is that organizations are less affected by turnover when they rely on routines than when they do not (Rao and Argote, 2006; Ton and Huckman, 2008). By contrast, transactive memory systems depend on the knowledge and skills of particular members. Their effectiveness is negatively affected by turnover (Lewis et al., 2007; Moreland et al., 1998). Thus, the value of a transactive memory system in a new setting would depend more on the number of members of the system who move to the new context than the value of a routine would. According to Teece et al. (1997), dynamic capabilities capture an organization's ability to build, integrate, and reconfigure its knowledge assets to address changing environments. A well-developed transactive memory at the organizational level thus should achieve three goals to enhance dynamic or combinative capabilities, as identified by Kogut and Zander (1992): efficiency (the extent to which the capability accesses and utilizes the specialist knowledge held by individual organizational members), scope (the breadth of specialized knowledge the organizational capability draws upon), and flexibility of integration (the extent to which a capability can access additional knowledge and reconfigure existing knowledge). Building new knowledge assets to respond to environmental changes requires timely access to information and the ability to filter information from various sources to recognize trends in technologies, customer needs, and marketplace responses (Teece, 2007). An organizational transactive memory system, by providing information about who is an expert in certain domains, can facilitate the collective filtering of information about new opportunities and the flow of information to those who can make sense of it (Teece, 2007). In addition, as organizations explore new opportunities, an organizational transactive memory system can shed light on fruitful directions to pursue by identifying areas in which the organization has absorptive capacity (Cohen and Levinthal, 1990) and by connecting people with others who have complementary expertise. Organizations with well-developed transactive memory systems are able to combine members' expertise in new ways to develop new products or services that respond to changing environmental demands. After a new opportunity is identified, the development of a new capability usually resides within one or several teams. Helfat and Peteraf (2003) suggested that capabilities include two types of routines: those for performing individual tasks and those for coordinating tasks. An organizational transactive memory system facilitates the building and staffing of these teams by providing the knowledge needed to locate members with required expertise. An organizational transactive memory system is also important to the functioning of these teams in terms of internal coordination and external coordination with the rest of the organization. Exploration and experimentation in these teams are social learning processes that require common codes of communication and collective application of specialized knowledge to a complex problem. An organizational transactive memory system showing individual expertise can increase the efficiency of the team's external activities and its access to knowledge repositories outside of the team. If a firm is successful at pursuing a new opportunity, the knowledge and routines generated during the exploration process need to be incorporated into organizational operations, which often requires coordination among functional groups or business units. An organizational transactive memory system, if properly developed and supported, can lubricate inter-group interaction through boundary-spanning networks, high levels of trust, timely sharing of information, and smooth coordination. A transactive memory system is a microfoundation of an organization's dynamic capability. Because an organization's transactive memory system develops through experience, is idiosyncratic to a particular organization and hard for outsiders to discern, it is a source of competitive advantage. Organizations with well-developed transactive memory systems are able to build, integrate and reconfigure knowledge more effectively than their counterparts with less developed transactive memory systems. Thus, transactive memory systems facilitate the development of dynamic capabilities in organizations. We thank the Montezemolo Visiting Professorship at Cambridge Judge Business School, the National Science Foundation (Grant Number 823283), and the Center for Organizational Learning at Carnegie Mellon University for their support. Thanks are also due to the Special Issue Editors, especially Tammy Madsen, and participants at the conference on the microfoundations of organizational capabilities in Helsinki for their helpful comments.",
+      "cited_by_count": 264,
+      "type": "article",
+      "source": {
+        "name": "Journal of Management Studies",
+        "type": "journal",
+        "issn": [
+          "0022-2380",
+          "1467-6486"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-6486.2012.01077.x"
+      },
+      "topics": [
+        "Innovation and Knowledge Management",
+        "Competitive and Knowledge Intelligence",
+        "Business Strategy and Innovation"
+      ],
+      "referenced_works_count": 48,
+      "url": "https://openalex.org/W1857960223"
+    },
+    {
+      "openalex_id": "W1992746932",
+      "doi": "10.1007/s13164-012-0128-x",
+      "title": "Transactive Memory Systems: A Mechanistic Analysis of Emergent Group Memory",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "openalex_id": "A5088373052",
+          "orcid": "https://orcid.org/0000-0001-7632-0412",
+          "institutions": [
+            "Villanova University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-10",
+      "abstract": null,
+      "cited_by_count": 97,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Team Dynamics and Performance",
+        "Advanced Memory and Neural Computing"
+      ],
+      "referenced_works_count": 144,
+      "url": "https://openalex.org/W1992746932"
+    },
+    {
+      "openalex_id": "W2705567097",
+      "doi": "10.1177/1046496417712439",
+      "title": "Transactive Memory in Small, Intimate Groups: More Than the Sum of Their Parts",
+      "authors": [
+        {
+          "name": "Amanda J. Barnier",
+          "openalex_id": "A5003473190",
+          "orcid": "https://orcid.org/0000-0003-1126-555X",
+          "institutions": [
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "Louis Klein",
+          "openalex_id": "A5058267754",
+          "orcid": "https://orcid.org/0000-0002-0634-0538",
+          "institutions": [
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "Celia B. Harris",
+          "openalex_id": "A5089960054",
+          "orcid": "https://orcid.org/0000-0001-5261-4205",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-19",
+      "abstract": "Thirty years after social psychologist, Daniel Wegner, pitched a new approach to the study of individual and group behavior, his theory of transactive memory has inspired rich literatures on the cognitive and social lives of small groups, especially in social and organizational domains. We revisit Wegner\u2019s original conceptualization of transactive memory as a feature of long-standing intimate groups, such as romantic couples and other family and friendship groups. We sketch the spread and success of Wegner\u2019s theory across social, organizational, cognitive, and educational domains, noting particular spaces where a renewed focus on intimate groups could add to our vision of transactive memory systems. We review recent interdisciplinary research on couples as socially distributed cognitive systems, which combines influential philosophical views of distributed cognition and the burgeoning experimental memory literature on collaborative recall. We then discuss two core conceptual and methodological challenges of Wegner\u2019s theorizing revealed by intimate and other groups: navigating between memory units, or levels of analysis, and measuring genuine emergence in transactive memory systems. Finally, we suggest an interdisciplinary framework and recommendations for future research on transactive memory in small groups.",
+      "cited_by_count": 37,
+      "type": "article",
+      "source": {
+        "name": "Small Group Research",
+        "type": "journal",
+        "issn": [
+          "1046-4964",
+          "1552-8278"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Team Dynamics and Performance",
+        "Cognitive Science and Mapping",
+        "Knowledge Management and Sharing"
+      ],
+      "referenced_works_count": 140,
+      "url": "https://openalex.org/W2705567097"
+    },
+    {
+      "openalex_id": "W2317938658",
+      "doi": "10.5096/ascs200951",
+      "title": "Making sense of group cognition: the curious case of transactive memory systems",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "openalex_id": "A5088373052",
+          "orcid": "https://orcid.org/0000-0001-7632-0412",
+          "institutions": [
+            "University of Alberta"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": "The \u201cextended mind\u201d thesis (Clark, 2008) has focused primarily on the interactions between single individuals and cognitive artifacts, resulting in a relative neglect of interactions between people. At the same time, the idea that groups can have cognitive properties of their own has gained new ascendancy in various fields concerned with collective behavior. My main goal in this paper is to propose an understanding of group cognition as an emergent form of socially distributed cognition. To that end, I first clarify the relevant notions of cognition and emergence that are at play in the contemporary debate. I then apply our conceptual framework to recent developments in the theory of transactive memory systems (Wegner, 1986), arguing that the idea of group cognition is neither trivial nor shrouded in metaphysical mystery.",
+      "cited_by_count": 44,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Team Dynamics and Performance",
+        "Complex Systems and Decision Making",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W2317938658"
+    },
+    {
+      "openalex_id": "W2498367351",
+      "doi": "10.1111/sjp.12160",
+      "title": "Transactive Memory Reconstructed: Rethinking Wegner's Research Program",
+      "authors": [
+        {
+          "name": "Bryce Huebner",
+          "openalex_id": "A5079607162",
+          "orcid": "https://orcid.org/0000-0001-5096-6397"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-03-01",
+      "abstract": "Abstract In this paper, I argue that recent research on episodic memory supports a limited defense of the phenomena that Daniel Wegner has termed transactive memory. Building on psychological and neurological research, targeting both individual and shared memory, I argue that individuals can collaboratively work to construct shared episodic memories. In some cases, this yields memories that are distributed across multiple individuals instead of being housed in individual brains.",
+      "cited_by_count": 23,
+      "type": "article",
+      "source": {
+        "name": "The Southern Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0038-4283",
+          "2041-6962"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Memory Processes and Influences",
+        "Identity, Memory, and Therapy"
+      ],
+      "referenced_works_count": 64,
+      "url": "https://openalex.org/W2498367351"
+    },
+    {
+      "openalex_id": "W2229225224",
+      "doi": null,
+      "title": "Googling to Forget: The Cognitive Processing of Internet Search",
+      "authors": [
+        {
+          "name": "Elizabeth T Friede",
+          "openalex_id": "A5031895494"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "Technology is currently extremely integrated with everyday life. Popular media has made bold claims that the internet is making us \u201cdumber\u201d and people struggle to remember information more now than they ever have in the past. Scientific research on the effect of internet search on cognition and memory is still in its infancy. This research will analyze the literature and theories discussing memory and the internet. Based on an original experiment by Sparrow, Liu, and Wegner. 20 participants (10 young adults and 10 older adults) performed a typing task with twenty trivia statements, followed by a recall and recognition memory test to look for the effects of directed forgetting and transactive memory. This experiment did not replicate the effect found in the original experiment. It calls to question if the effect of transactive memory is applicable to social relationships that only include a person and a computer.",
+      "cited_by_count": 5,
+      "type": "article",
+      "source": {
+        "name": "Scholarship - Claremont (Claremont Colleges)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1688&context=cmc_theses"
+      },
+      "topics": [
+        "Information Retrieval and Search Behavior",
+        "Memory Processes and Influences",
+        "Intelligent Tutoring Systems and Adaptive Learning"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W2229225224"
+    },
+    {
+      "openalex_id": "W2944285188",
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "name": "Joseph Firth",
+          "openalex_id": "A5023196820",
+          "orcid": "https://orcid.org/0000-0002-0618-2752",
+          "institutions": [
+            "Western Sydney University",
+            "University of Manchester",
+            "University of Melbourne",
+            "University of Oxford",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "John Torous",
+          "openalex_id": "A5026523515",
+          "orcid": "https://orcid.org/0000-0002-5362-7937",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Brendon Stubbs",
+          "openalex_id": "A5005008571",
+          "orcid": "https://orcid.org/0000-0001-7387-3791",
+          "institutions": [
+            "King's College London",
+            "South London and Maudsley NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Josh A. Firth",
+          "openalex_id": "A5003551603",
+          "orcid": "https://orcid.org/0000-0001-7183-4115",
+          "institutions": [
+            "University of Oxford",
+            "University of Melbourne",
+            "Western Sydney University",
+            "University of Manchester",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "Genevieve Z. Steiner",
+          "openalex_id": "A5037720902",
+          "orcid": "https://orcid.org/0000-0002-8708-6104",
+          "institutions": [
+            "Westmead Institute",
+            "Translational Research Institute",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Lee Smith",
+          "openalex_id": "A5059447980",
+          "orcid": "https://orcid.org/0000-0002-5340-9833",
+          "institutions": [
+            "Anglia Ruskin University"
+          ]
+        },
+        {
+          "name": "Mario \u00c1lvarez\u2010Jim\u00e9nez",
+          "openalex_id": "A5077079077",
+          "orcid": "https://orcid.org/0000-0002-3535-9086",
+          "institutions": [
+            "University of Melbourne",
+            "Orygen Youth Health"
+          ]
+        },
+        {
+          "name": "John Gleeson",
+          "openalex_id": "A5047926815",
+          "orcid": "https://orcid.org/0000-0001-7969-492X",
+          "institutions": [
+            "Australian Catholic University",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Davy Vancampfort",
+          "openalex_id": "A5030050325",
+          "orcid": "https://orcid.org/0000-0002-4592-8625",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Christopher J. Armitage",
+          "openalex_id": "A5020278901",
+          "orcid": "https://orcid.org/0000-0003-2365-1765",
+          "institutions": [
+            "Manchester Academic Health Science Centre",
+            "NIHR Manchester Biomedical Research Centre",
+            "NIHR Greater Manchester Patient Safety Translational Research Centre",
+            "University of Manchester",
+            "Manchester University NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jerome Sarris",
+          "openalex_id": "A5013936218",
+          "orcid": "https://orcid.org/0000-0001-9287-8854",
+          "institutions": [
+            "Westmead Institute",
+            "Western Sydney University",
+            "University of Melbourne",
+            "Melbourne Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-06",
+      "abstract": "The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real\u2010world social processes creates a new interplay between the Internet and our social lives, including our self\u2010concepts and self\u2010esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20617"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W2944285188"
+    },
+    {
+      "openalex_id": "W3001106379",
+      "doi": "10.1007/s11423-019-09729-5",
+      "title": "Applying collaborative cognitive load theory to computer-supported collaborative learning: towards a research agenda",
+      "authors": [
+        {
+          "name": "Jeroen Janssen",
+          "openalex_id": "A5085831839",
+          "orcid": "https://orcid.org/0000-0003-1178-0682",
+          "institutions": [
+            "Utrecht University"
+          ]
+        },
+        {
+          "name": "Paul A. Kirschner",
+          "openalex_id": "A5069373510",
+          "orcid": "https://orcid.org/0000-0002-8743-0462",
+          "institutions": [
+            "Open University of the Netherlands"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-21",
+      "abstract": null,
+      "cited_by_count": 151,
+      "type": "article",
+      "source": {
+        "name": "Educational Technology Research and Development",
+        "type": "journal",
+        "issn": [
+          "1042-1629",
+          "1556-6501"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11423-019-09729-5.pdf"
+      },
+      "topics": [
+        "Innovative Teaching and Learning Methods",
+        "Knowledge Management and Sharing",
+        "Visual and Cognitive Learning Processes"
+      ],
+      "referenced_works_count": 126,
+      "url": "https://openalex.org/W3001106379"
+    },
+    {
+      "openalex_id": "W2806955551",
+      "doi": "10.1111/tops.12350",
+      "title": "Features of Successful and Unsuccessful Collaborative Memory Conversations in Long\u2010Married Couples",
+      "authors": [
+        {
+          "name": "Celia B. Harris",
+          "openalex_id": "A5089960054",
+          "orcid": "https://orcid.org/0000-0001-5261-4205",
+          "institutions": [
+            "Australian Research Council",
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "Amanda J. Barnier",
+          "openalex_id": "A5003473190",
+          "orcid": "https://orcid.org/0000-0003-1126-555X",
+          "institutions": [
+            "Macquarie University",
+            "Australian Research Council"
+          ]
+        },
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "Greg Savage",
+          "openalex_id": "A5006706169",
+          "orcid": "https://orcid.org/0000-0002-5895-1947",
+          "institutions": [
+            "Australian Research Council",
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-05-30",
+      "abstract": "Abstract While we often engage in conversational reminiscing with loved ones, the effects of these conversations on our memory performance remain poorly understood. On the one hand, Wegner's transactive memory theory predicts that intimate groups experience benefits from remembering together. On the other hand, research on collaborative recall has shown costs of shared remembering in groups of strangers\u2014at least in terms of number of items recalled\u2014and even in intimate groups there is heterogeneity in outcomes. In the current research, we studied the effects of particular communicative features in determining the outcomes of collaborative recall in intimate groups. We tested 39 older, long\u2010married couples. They completed a non\u2010personal recall task (name all the countries in Europe) and a personal recall task (name all your mutual friends), both separately and together. When they collaborated, we recorded their conversation. We coded for specific \u201ccommunication variables\u201d and obtained measures of \u201cconversational style.\u201d Overall, we found two clusters of communication variables positively associated with collaborative success: (a) cuing each other, responding to cues, and repeating each other; and (b) making positive statements about memory performance and persisting with the task. A negative cluster of behaviors\u2014correcting each other, having uneven expertise, and strategy disagreements\u2014was associated with less interactive, more \u201cmonologue\u201d style of collaboration, but not with overall recall performance. We discuss our results in terms of the importance of different conversational processes in driving the heterogeneous outcomes of group remembering in intimate groups, suggesting that a focus on recall output alone limits our understanding of conversational remembering.",
+      "cited_by_count": 38,
+      "type": "article",
+      "source": {
+        "name": "Topics in Cognitive Science",
+        "type": "journal",
+        "issn": [
+          "1756-8757",
+          "1756-8765"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tops.12350"
+      },
+      "topics": [
+        "Identity, Memory, and Therapy",
+        "Memory Processes and Influences",
+        "Memory and Neural Mechanisms"
+      ],
+      "referenced_works_count": 52,
+      "url": "https://openalex.org/W2806955551"
+    },
+    {
+      "openalex_id": "W2286124505",
+      "doi": "10.13140/rg.2.2.30431.64168",
+      "title": "TMT characteristics that position family firms for success: examining the effects of human capital, non-familiness, entrepreneurial orientation, and transactive memory systems",
+      "authors": [
+        {
+          "name": "Drake Mullens",
+          "openalex_id": "A5080426581",
+          "orcid": "https://orcid.org/0000-0002-5050-216X"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "Entrepreneurship is critical to family firm growth, profitability, and survival (Zahra 2005); however, entrepreneurship remains understudied in the family business context (Zahra and Sharma, 2004). Limited extant research suggests family firms act less entrepreneurially than their non-family counterparts but performance enhancements result from entrepreneurial actions (Litz and Klesen, 2001). Consequently, I explored the effects of human capital and non-familiness in the top management team on the group's transactive memory system (Wegner, 1987) and the organization's entrepreneurial orientation. In my sample, human capital in the top management team was positively related to the team's transactive memory system. Similarly, human capital was positively related to the firm's entrepreneurial orientation. Contrary to my expectations, non-family managers' participation in the top management team, referred to henceforth as TMT non-familiness, was not significantly related to the firm's entrepreneurial orientation. As expected, TMT non-familiness detracted from the group's transactive memory system. \\tAdditionally, family firms have been described by stagnancy (Daily &amp; Dollinger, 1992), limited growth prospects (Gumpert&amp; Boyd, 1984), and nepotism (Vinton, 1998). However, I argued that the organization's transactive memory system and entrepreneurial orientation serve as mechanisms to leverage the talents of employees and bolster organizational performance. I found that a firm's entrepreneurial orientation is an important mediator of the relationship between human capital and performance. I also explored the relationship between entrepreneurial orientation and business sustainability, which has largely been ignored (Hall, Daneke, and Lenox, 2010). I found mixed results for the aforementioned relationships. Transactive memory systems are not significantly associated with organizational performance. However, entrepreneurial orientation relates positively to financial performance, social performance, and environmental performance.",
+      "cited_by_count": 1,
+      "type": "dissertation",
+      "source": {
+        "name": "UTA ResearchCommons (University of Texas Arlington)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10106/23940"
+      },
+      "topics": [
+        "Family Business Performance and Succession",
+        "Entrepreneurship Studies and Influences",
+        "Corporate Finance and Governance"
+      ],
+      "referenced_works_count": 215,
+      "url": "https://openalex.org/W2286124505"
+    },
+    {
+      "openalex_id": "W3042944066",
+      "doi": "10.1108/ijopm-12-2019-0827",
+      "title": "Exploring the antecedents of organizational resilience practices \u2013 A transactive memory systems approach",
+      "authors": [
+        {
+          "name": "Diogo Cotta",
+          "openalex_id": "A5043413492",
+          "orcid": "https://orcid.org/0000-0002-2851-8245",
+          "institutions": [
+            "Maastricht School of Management",
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Fabrizio Salvador",
+          "openalex_id": "A5081369143",
+          "orcid": "https://orcid.org/0000-0001-7735-6003",
+          "institutions": [
+            "IE University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-11",
+      "abstract": "Purpose The purpose of this paper was to explore individual- and firm-level antecedents of the ability of a manufacturing firm's personnel to collaborate and integrate knowledge for organizational resilience practices. Design/methodology/approach The authors apply hierarchical regression analysis to study a sample of 192 European industrial equipment manufacturers. Data for each firm are collected from surveys of two key informants in each firm, as well as from public sources. Findings Firms' personnel\u2019s ability to integrate information and knowledge for organizational resilience practices was positively related with the extent of the head of manufacturing's network of personal contacts inside the firm. This effect was stronger in firms with more formalized job descriptions and clearly defined roles. The head of manufacturing's orientation to teamwork and cooperation impacted this ability only in firms that did not financially incentivize cooperation. The authors also found that cooperation incentives and role formalization directly relate to firms' personnel\u2019s ability to integrate information and knowledge for organizational resilience practices. Originality/value The study proposes to study organizational resilience practices through a transactive memory systems lens. The study is also the first to link characteristics of individual managers to firm-level resilience practices by examining the antecedents of firms' ability to integrate information and knowledge to recover from operational disruptions. Furthermore, the study serves to enhance the knowledge of resilience practices by examining the role of firm-level antecedents and their interplay with characteristics of individual managers.",
+      "cited_by_count": 56,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Operations & Production Management",
+        "type": "journal",
+        "issn": [
+          "0144-3577",
+          "1758-6593"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.emerald.com/insight/content/doi/10.1108/IJOPM-12-2019-0827/full/pdf?title=exploring-the-antecedents-of-organizational-resilience-practices-a-transactive-memory-systems-approach"
+      },
+      "topics": [
+        "Supply Chain Resilience and Risk Management",
+        "Innovation and Knowledge Management",
+        "Occupational Health and Safety Research"
+      ],
+      "referenced_works_count": 162,
+      "url": "https://openalex.org/W3042944066"
+    },
+    {
+      "openalex_id": "W2048487711",
+      "doi": "10.1007/s13164-013-0131-x",
+      "title": "Distributed Cognition and Memory Research: History and Current Directions",
+      "authors": [
+        {
+          "name": "Kourken Michaelian",
+          "openalex_id": "A5005971328",
+          "orcid": "https://orcid.org/0000-0002-5205-3046",
+          "institutions": [
+            "Bilkent University"
+          ]
+        },
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-19",
+      "abstract": null,
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-013-0131-x.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Memory and Neural Mechanisms",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2048487711"
+    },
+    {
+      "openalex_id": "W2156653081",
+      "doi": "10.1371/journal.pone.0115212",
+      "title": "Reading the Mind in the Eyes or Reading between the Lines? Theory of Mind Predicts Collective Intelligence Equally Well Online and Face-To-Face",
+      "authors": [
+        {
+          "name": "David Engel",
+          "openalex_id": "A5050932373",
+          "orcid": "https://orcid.org/0000-0002-0774-9458",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Anita Williams Woolley",
+          "openalex_id": "A5028277052",
+          "orcid": "https://orcid.org/0000-0003-0620-4744",
+          "institutions": [
+            "Carnegie Mellon University",
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Lisa X. Jing",
+          "openalex_id": "A5040936014",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Christopher F. Chabris",
+          "openalex_id": "A5043896474",
+          "orcid": "https://orcid.org/0000-0002-7379-7378",
+          "institutions": [
+            "Massachusetts Institute of Technology",
+            "Union College"
+          ]
+        },
+        {
+          "name": "Thomas W. Malone",
+          "openalex_id": "A5079825006",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-12-16",
+      "abstract": "Recent research with face-to-face groups found that a measure of general group effectiveness (called \"collective intelligence\") predicted a group's performance on a wide range of different tasks. The same research also found that collective intelligence was correlated with the individual group members' ability to reason about the mental states of others (an ability called \"Theory of Mind\" or \"ToM\"). Since ToM was measured in this work by a test that requires participants to \"read\" the mental states of others from looking at their eyes (the \"Reading the Mind in the Eyes\" test), it is uncertain whether the same results would emerge in online groups where these visual cues are not available. Here we find that: (1) a collective intelligence factor characterizes group performance approximately as well for online groups as for face-to-face groups; and (2) surprisingly, the ToM measure is equally predictive of collective intelligence in both face-to-face and online groups, even though the online groups communicate only via text and never see each other at all. This provides strong evidence that ToM abilities are just as important to group performance in online environments with limited nonverbal cues as they are face-to-face. It also suggests that the Reading the Mind in the Eyes test measures a deeper, domain-independent aspect of social reasoning, not merely the ability to recognize facial expressions of mental states.",
+      "cited_by_count": 288,
+      "type": "article",
+      "source": {
+        "name": "PLoS ONE",
+        "type": "journal",
+        "issn": [
+          "1932-6203"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0115212&type=printable"
+      },
+      "topics": [
+        "Opinion Dynamics and Social Influence",
+        "Social and Intergroup Psychology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 69,
+      "url": "https://openalex.org/W2156653081"
+    },
+    {
+      "openalex_id": "W2788726593",
+      "doi": "10.1177/1754073917696584",
+      "title": "Relationships and Health: The Critical Role of Affective Science",
+      "authors": [
+        {
+          "name": "David A. Sbarra",
+          "openalex_id": "A5057299762",
+          "orcid": "https://orcid.org/0000-0001-6727-6552",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "James A. Coan",
+          "openalex_id": "A5072963026",
+          "orcid": "https://orcid.org/0000-0003-0662-0123",
+          "institutions": [
+            "University of Virginia"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-01",
+      "abstract": "High-quality social relationships predict a range of positive health outcomes, but no broadly accepted theory can explain the mechanisms of action in this area. The central argument of this article is that affective science can provide keys for integrating the diverse array of theoretical models concerning relationships and health. From nine prominent theories, we cull four components of relational affect that link social resources to health-related outcomes. This component model holds promise for integrating research from the different theoretical perspectives and for generating new, mechanistic questions about the connection between relationships and health. The article closes by outlining three empirical study ideas that illustrate ways in which the different components can be studied together in the context of mechanism-focused research.",
+      "cited_by_count": 82,
+      "type": "article",
+      "source": {
+        "name": "Emotion Review",
+        "type": "journal",
+        "issn": [
+          "1754-0739",
+          "1754-0747"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1754073917696584"
+      },
+      "topics": [
+        "Behavioral Health and Interventions",
+        "Attachment and Relationship Dynamics",
+        "Mental Health Research Topics"
+      ],
+      "referenced_works_count": 146,
+      "url": "https://openalex.org/W2788726593"
+    },
+    {
+      "openalex_id": "W4211089714",
+      "doi": "10.1007/s12152-022-09479-x",
+      "title": "Preserving Narrative Identity for Dementia Patients: Embodiment, Active Environments, and Distributed Memory",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "openalex_id": "A5067275194",
+          "orcid": "https://orcid.org/0000-0002-0102-0308",
+          "institutions": [
+            "Monash University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-09",
+      "abstract": "Abstract One goal of this paper is to argue that autobiographical memories are extended and distributed across embodied brains and environmental resources. This is important because such distributed memories play a constitutive role in our narrative identity. So, some of the building blocks of our narrative identity are not brain-bound but extended and distributed. Recognising the distributed nature of memory and narrative identity, invites us to find treatments and strategies focusing on the environment in which dementia patients are situated. A second goal of this paper is to suggest various of such strategies, including lifelogging technologies such as SenseCams, life story books, multimedia biographies, memory boxes, ambient intelligence systems, and virtual reality applications. Such technologies allow dementia patients to remember their personal past in a way that wouldn\u2019t be possible by merely relying on their biological memory, in that way aiding in preserving their narrative identity and positively contributing to their sense of well-being.",
+      "cited_by_count": 46,
+      "type": "article",
+      "source": {
+        "name": "Neuroethics",
+        "type": "journal",
+        "issn": [
+          "1874-5490",
+          "1874-5504"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12152-022-09479-x.pdf"
+      },
+      "topics": [
+        "Identity, Memory, and Therapy",
+        "Memory and Neural Mechanisms",
+        "Innovative Human-Technology Interaction"
+      ],
+      "referenced_works_count": 107,
+      "url": "https://openalex.org/W4211089714"
+    },
+    {
+      "openalex_id": "W4251261283",
+      "doi": "10.1037/a0024639",
+      "title": "Daniel M. Wegner: Award for Distinguished Scientific Contributions.",
+      "authors": [],
+      "publication_year": 2011,
+      "publication_date": "2011-11-01",
+      "abstract": "Presents Daniel M. Wegner, the 2011 winner of the American Psychological Association Award for Distinguished Scientific Contributions. \"For seminal contributions that span psychology's breadth--from cognitive to social to personality to clinical--and that reach beyond its borders to philosophy and neuroscience. Daniel M. Wegner's studies on transactive memory, action identification, ironic processes, and apparent mental causation all bear his characteristic mark: a beautiful idea brought to life by an elegant experiment. He has spent his scientific career identifying new and important problems and then offering solutions that sparkle with originality and insight. He has seen doors where others saw walls, opened them to reveal new rooms, and illuminated their dark corners.\" (PsycINFO Database Record (c) 2011 APA, all rights reserved).",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "American Psychologist",
+        "type": "journal",
+        "issn": [
+          "0003-066X",
+          "1935-990X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroscience, Education and Cognitive Function"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4251261283"
+    },
+    {
+      "openalex_id": "W4406026056",
+      "doi": "10.3390/soc15010006",
+      "title": "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking",
+      "authors": [
+        {
+          "name": "Michael Gerlich",
+          "openalex_id": "A5058773312",
+          "orcid": "https://orcid.org/0000-0003-4033-4403",
+          "institutions": [
+            "SBS Swiss Business School",
+            "Business School Lausanne"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-03",
+      "abstract": "The proliferation of artificial intelligence (AI) tools has transformed numerous aspects of daily life, yet its impact on critical thinking remains underexplored. This study investigates the relationship between AI tool usage and critical thinking skills, focusing on cognitive offloading as a mediating factor. Utilising a mixed-method approach, we conducted surveys and in-depth interviews with 666 participants across diverse age groups and educational backgrounds. Quantitative data were analysed using ANOVA and correlation analysis, while qualitative insights were obtained through thematic analysis of interview transcripts. The findings revealed a significant negative correlation between frequent AI tool usage and critical thinking abilities, mediated by increased cognitive offloading. Younger participants exhibited higher dependence on AI tools and lower critical thinking scores compared to older participants. Furthermore, higher educational attainment was associated with better critical thinking skills, regardless of AI usage. These results highlight the potential cognitive costs of AI tool reliance, emphasising the need for educational strategies that promote critical engagement with AI technologies. This study contributes to the growing discourse on AI\u2019s cognitive implications, offering practical recommendations for mitigating its adverse effects on critical thinking. The findings underscore the importance of fostering critical thinking in an AI-driven world, making this research essential reading for educators, policymakers, and technologists.",
+      "cited_by_count": 305,
+      "type": "article",
+      "source": {
+        "name": "Societies",
+        "type": "journal",
+        "issn": [
+          "2075-4698"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2075-4698/15/1/6/pdf?version=1735907439"
+      },
+      "topics": [
+        "AI in Service Interactions",
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W4406026056"
+    },
+    {
+      "openalex_id": "W2945956391",
+      "doi": "10.1007/s10111-019-00570-7",
+      "title": "The role of information sharing on decision delay during multiteam disaster response",
+      "authors": [
+        {
+          "name": "Sara Waring",
+          "openalex_id": "A5074494329",
+          "orcid": "https://orcid.org/0000-0003-1625-5705",
+          "institutions": [
+            "University of Liverpool"
+          ]
+        },
+        {
+          "name": "Laurence Alison",
+          "openalex_id": "A5103226687",
+          "orcid": "https://orcid.org/0000-0003-2459-0976",
+          "institutions": [
+            "University of Liverpool"
+          ]
+        },
+        {
+          "name": "Neil Shortland",
+          "openalex_id": "A5084154888",
+          "institutions": [
+            "University of Liverpool"
+          ]
+        },
+        {
+          "name": "Michael Humann",
+          "openalex_id": "A5039290972",
+          "orcid": "https://orcid.org/0000-0003-3788-6653",
+          "institutions": [
+            "University of Liverpool"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-18",
+      "abstract": "Abstract Multiteam systems (MTSs) are comprised of two or more interconnected teams working toward shared superordinate goals but with unique sub-goals. To date, research has predominantly focused on how decisions are made and has viewed these cognitive processes as occurring within individuals. However, for MTSs operating in extreme environments such as disasters, it is often not a question of how decisions are made, but what is causing delays and failures to make decisions. To understand the causes of decision delay within these complex networks, it is important to focus on decision processes at the multiteam level. Using naturalistic observational and interview data collected during a multi-site, multiteam emergency response to a large-scale disaster exercise, this study examines both information sharing (what was shared, with whom, how long this took), and decision processes across teams (situational awareness\u2014SA, plan formulation, and plan execution). Findings demonstrate that interdependencies in cognitive processes exist across individuals where goals overlap. Decision delay is not only caused by failure to develop SA within a team preventing their ability to formulate and execute plans but also by the inability of other teams to execute their plans. The implications of these findings for developing targeted interventions are discussed.",
+      "cited_by_count": 39,
+      "type": "article",
+      "source": {
+        "name": "Cognition Technology & Work",
+        "type": "journal",
+        "issn": [
+          "1435-5558",
+          "1435-5566"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10111-019-00570-7.pdf"
+      },
+      "topics": [
+        "Team Dynamics and Performance",
+        "Human-Automation Interaction and Safety",
+        "Complex Systems and Decision Making"
+      ],
+      "referenced_works_count": 75,
+      "url": "https://openalex.org/W2945956391"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

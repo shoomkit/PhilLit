@@ -1,0 +1,3002 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "external memory Storm Ward",
+  "results": [
+    {
+      "openalex_id": "W2070684401",
+      "doi": "10.1073/pnas.1121254109",
+      "title": "Brain on stress: How the social environment gets under the skin",
+      "authors": [
+        {
+          "name": "Bruce S. McEwen",
+          "openalex_id": "A5035103174",
+          "orcid": "https://orcid.org/0000-0002-5288-7892",
+          "institutions": [
+            "Rockefeller University"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-10-08",
+      "abstract": "Stress is a state of the mind, involving both brain and body as well as their interactions; it differs among individuals and reflects not only major life events but also the conflicts and pressures of daily life that alter physiological systems to produce a chronic stress burden that, in turn, is a factor in the expression of disease. This burden reflects the impact of not only life experiences but also genetic variations and individual health behaviors such as diet, physical activity, sleep, and substance abuse; it also reflects stable epigenetic modifications in development that set lifelong patterns of physiological reactivity and behavior through biological embedding of early environments interacting with cumulative change from experiences over the lifespan. Hormones associated with the chronic stress burden protect the body in the short run and promote adaptation (allostasis), but in the long run, the burden of chronic stress causes changes in the brain and body that can lead to disease (allostatic load and overload). Brain circuits are plastic and remodeled by stress to change the balance between anxiety, mood control, memory, and decision making. Such changes may have adaptive value in particular contexts, but their persistence and lack of reversibility can be maladaptive. However, the capacity of brain plasticity to effects of stressful experiences in adult life has only begun to be explored along with the efficacy of top-down strategies for helping the brain change itself, sometimes aided by pharmaceutical agents and other treatments.",
+      "cited_by_count": 1145,
+      "type": "review",
+      "source": {
+        "name": "Proceedings of the National Academy of Sciences",
+        "type": "journal",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.pnas.org/content/pnas/109/Supplement_2/17180.full.pdf"
+      },
+      "topics": [
+        "Stress Responses and Cortisol",
+        "Neuroendocrine regulation and behavior",
+        "Tryptophan and brain disorders"
+      ],
+      "referenced_works_count": 131,
+      "url": "https://openalex.org/W2070684401"
+    },
+    {
+      "openalex_id": "W2538626945",
+      "doi": "10.1093/scan/nsw154",
+      "title": "The theory of constructed emotion: an active inference account of interoception and categorization",
+      "authors": [
+        {
+          "name": "Lisa Feldman Barrett",
+          "openalex_id": "A5061385021",
+          "orcid": "https://orcid.org/0000-0003-4478-2051",
+          "institutions": [
+            "Northeastern University",
+            "Harvard University",
+            "Massachusetts General Hospital",
+            "Athinoula A. Martinos Center for Biomedical Imaging"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-12",
+      "abstract": "The science of emotion has been using folk psychology categories derived from philosophy to search for the brain basis of emotion. The last two decades of neuroscience research have brought us to the brink of a paradigm shift in understanding the workings of the brain, however, setting the stage to revolutionize our understanding of what emotions are and how they work. In this article, we begin with the structure and function of the brain, and from there deduce what the biological basis of emotions might be. The answer is a brain-based, computational account called the theory of constructed emotion.",
+      "cited_by_count": 1380,
+      "type": "article",
+      "source": {
+        "name": "Social Cognitive and Affective Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1749-5016",
+          "1749-5024"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/scan/article-pdf/12/1/1/27103603/nsw154.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Face Recognition and Perception"
+      ],
+      "referenced_works_count": 288,
+      "url": "https://openalex.org/W2538626945"
+    },
+    {
+      "openalex_id": "W2904110151",
+      "doi": "10.1002/wcc.565",
+      "title": "Explaining differential vulnerability to climate change: A social science review",
+      "authors": [
+        {
+          "name": "Kimberley Anh Thomas",
+          "openalex_id": "A5056627335",
+          "orcid": "https://orcid.org/0000-0002-9600-385X",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Dean Hardy",
+          "openalex_id": "A5030265620",
+          "orcid": "https://orcid.org/0000-0003-4541-9430",
+          "institutions": [
+            "Maryland Department of Natural Resources",
+            "National Socio-Environmental Synthesis Center"
+          ]
+        },
+        {
+          "name": "Heather Lazrus",
+          "openalex_id": "A5002724434",
+          "orcid": "https://orcid.org/0000-0002-1970-6228",
+          "institutions": [
+            "NOAA Earth System Research Laboratory",
+            "NSF National Center for Atmospheric Research"
+          ]
+        },
+        {
+          "name": "Michael M\u00e9ndez",
+          "openalex_id": "A5024675811",
+          "orcid": "https://orcid.org/0000-0002-0660-9410",
+          "institutions": [
+            "Yale University"
+          ]
+        },
+        {
+          "name": "Ben Orlove",
+          "openalex_id": "A5090211831",
+          "orcid": "https://orcid.org/0000-0003-0489-4219",
+          "institutions": [
+            "Columbia University",
+            "Office of International Affairs"
+          ]
+        },
+        {
+          "name": "Isabel Rivera\u2010Collazo",
+          "openalex_id": "A5016620167",
+          "orcid": "https://orcid.org/0000-0002-6857-2318",
+          "institutions": [
+            "Scripps Institution of Oceanography",
+            "University of California, San Diego"
+          ]
+        },
+        {
+          "name": "J. Timmons Roberts",
+          "openalex_id": "A5082988195",
+          "orcid": "https://orcid.org/0000-0002-8726-5698",
+          "institutions": [
+            "Brown University"
+          ]
+        },
+        {
+          "name": "Marcy Rockman",
+          "openalex_id": "A5058331453",
+          "orcid": "https://orcid.org/0000-0003-3831-4788",
+          "institutions": [
+            "National Park Service"
+          ]
+        },
+        {
+          "name": "Benjamin P. Warner",
+          "openalex_id": "A5006179506",
+          "orcid": "https://orcid.org/0000-0002-8874-1692",
+          "institutions": [
+            "University of New Mexico"
+          ]
+        },
+        {
+          "name": "Robert Winthrop",
+          "openalex_id": "A5036454194",
+          "orcid": "https://orcid.org/0000-0001-6710-948X",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-12-07",
+      "abstract": "The varied effects of recent extreme weather events around the world exemplify the uneven impacts of climate change on populations, even within relatively small geographic regions. Differential human vulnerability to environmental hazards results from a range of social, economic, historical, and political factors, all of which operate at multiple scales. While adaptation to climate change has been the dominant focus of policy and research agendas, it is essential to ask as well why some communities and peoples are disproportionately exposed to and affected by climate threats. The cases and synthesis presented here are organized around four key themes (resource access, governance, culture, and knowledge), which we approach from four social science fields (cultural anthropology, archaeology, human geography, and sociology). Social scientific approaches to human vulnerability draw vital attention to the root causes of climate change threats and the reasons that people are forced to adapt to them. Because vulnerability is a multidimensional process rather than an unchanging state, a dynamic social approach to vulnerability is most likely to improve mitigation and adaptation planning efforts. This article is categorized under: Vulnerability and Adaptation to Climate Change &gt; Values\u2010Based Approach to Vulnerability and Adaptation",
+      "cited_by_count": 790,
+      "type": "review",
+      "source": {
+        "name": "Wiley Interdisciplinary Reviews Climate Change",
+        "type": "journal",
+        "issn": [
+          "1757-7780",
+          "1757-7799"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcc.565"
+      },
+      "topics": [
+        "Climate Change, Adaptation, Migration",
+        "Climate change impacts on agriculture",
+        "Disaster Management and Resilience"
+      ],
+      "referenced_works_count": 162,
+      "url": "https://openalex.org/W2904110151"
+    },
+    {
+      "openalex_id": "W4379966446",
+      "doi": "10.1038/s41392-023-01502-8",
+      "title": "Inflammation and aging: signaling pathways and intervention therapies",
+      "authors": [
+        {
+          "name": "Xia Li",
+          "openalex_id": "A5100445602",
+          "orcid": "https://orcid.org/0000-0003-0804-6567",
+          "institutions": [
+            "First Affiliated Hospital Zhejiang University",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Chentao Li",
+          "openalex_id": "A5088917751",
+          "orcid": "https://orcid.org/0000-0003-2887-4845",
+          "institutions": [
+            "Zhejiang University-University of Edinburgh Institute",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Wanying Zhang",
+          "openalex_id": "A5100718896",
+          "orcid": "https://orcid.org/0000-0003-0703-0416",
+          "institutions": [
+            "Zhejiang University-University of Edinburgh Institute"
+          ]
+        },
+        {
+          "name": "Yanan Wang",
+          "openalex_id": "A5100751635",
+          "orcid": "https://orcid.org/0000-0003-4947-8665",
+          "institutions": [
+            "Zhejiang University-University of Edinburgh Institute"
+          ]
+        },
+        {
+          "name": "Pengxu Qian",
+          "openalex_id": "A5001626828",
+          "orcid": "https://orcid.org/0000-0001-5636-6704",
+          "institutions": [
+            "Zhejiang University",
+            "First Affiliated Hospital Zhejiang University",
+            "Zhejiang Lab"
+          ]
+        },
+        {
+          "name": "He Huang",
+          "openalex_id": "A5100782959",
+          "orcid": "https://orcid.org/0000-0002-2723-1621",
+          "institutions": [
+            "First Affiliated Hospital Zhejiang University",
+            "Zhejiang Lab",
+            "Hangzhou First People's Hospital",
+            "Zhejiang University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-08",
+      "abstract": "Abstract Aging is characterized by systemic chronic inflammation, which is accompanied by cellular senescence, immunosenescence, organ dysfunction, and age-related diseases. Given the multidimensional complexity of aging, there is an urgent need for a systematic organization of inflammaging through dimensionality reduction. Factors secreted by senescent cells, known as the senescence-associated secretory phenotype (SASP), promote chronic inflammation and can induce senescence in normal cells. At the same time, chronic inflammation accelerates the senescence of immune cells, resulting in weakened immune function and an inability to clear senescent cells and inflammatory factors, which creates a vicious cycle of inflammation and senescence. Persistently elevated inflammation levels in organs such as the bone marrow, liver, and lungs cannot be eliminated in time, leading to organ damage and aging-related diseases. Therefore, inflammation has been recognized as an endogenous factor in aging, and the elimination of inflammation could be a potential strategy for anti-aging. Here we discuss inflammaging at the molecular, cellular, organ, and disease levels, and review current aging models, the implications of cutting-edge single cell technologies, as well as anti-aging strategies. Since preventing and alleviating aging-related diseases and improving the overall quality of life are the ultimate goals of aging research, our review highlights the critical features and potential mechanisms of inflammation and aging, along with the latest developments and future directions in aging research, providing a theoretical foundation for novel and practical anti-aging strategies.",
+      "cited_by_count": 1055,
+      "type": "review",
+      "source": {
+        "name": "Signal Transduction and Targeted Therapy",
+        "type": "journal",
+        "issn": [
+          "2059-3635",
+          "2095-9907"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41392-023-01502-8.pdf"
+      },
+      "topics": [
+        "Telomeres, Telomerase, and Senescence",
+        "Neutrophil, Myeloperoxidase and Oxidative Mechanisms",
+        "Neuroinflammation and Neurodegeneration Mechanisms"
+      ],
+      "referenced_works_count": 480,
+      "url": "https://openalex.org/W4379966446"
+    },
+    {
+      "openalex_id": "W2944285188",
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "name": "Joseph Firth",
+          "openalex_id": "A5023196820",
+          "orcid": "https://orcid.org/0000-0002-0618-2752",
+          "institutions": [
+            "Western Sydney University",
+            "University of Manchester",
+            "University of Melbourne",
+            "University of Oxford",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "John Torous",
+          "openalex_id": "A5026523515",
+          "orcid": "https://orcid.org/0000-0002-5362-7937",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Brendon Stubbs",
+          "openalex_id": "A5005008571",
+          "orcid": "https://orcid.org/0000-0001-7387-3791",
+          "institutions": [
+            "King's College London",
+            "South London and Maudsley NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Josh A. Firth",
+          "openalex_id": "A5003551603",
+          "orcid": "https://orcid.org/0000-0001-7183-4115",
+          "institutions": [
+            "University of Oxford",
+            "University of Melbourne",
+            "Western Sydney University",
+            "University of Manchester",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "Genevieve Z. Steiner",
+          "openalex_id": "A5037720902",
+          "orcid": "https://orcid.org/0000-0002-8708-6104",
+          "institutions": [
+            "Westmead Institute",
+            "Translational Research Institute",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Lee Smith",
+          "openalex_id": "A5059447980",
+          "orcid": "https://orcid.org/0000-0002-5340-9833",
+          "institutions": [
+            "Anglia Ruskin University"
+          ]
+        },
+        {
+          "name": "Mario \u00c1lvarez\u2010Jim\u00e9nez",
+          "openalex_id": "A5077079077",
+          "orcid": "https://orcid.org/0000-0002-3535-9086",
+          "institutions": [
+            "University of Melbourne",
+            "Orygen Youth Health"
+          ]
+        },
+        {
+          "name": "John Gleeson",
+          "openalex_id": "A5047926815",
+          "orcid": "https://orcid.org/0000-0001-7969-492X",
+          "institutions": [
+            "Australian Catholic University",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Davy Vancampfort",
+          "openalex_id": "A5030050325",
+          "orcid": "https://orcid.org/0000-0002-4592-8625",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Christopher J. Armitage",
+          "openalex_id": "A5020278901",
+          "orcid": "https://orcid.org/0000-0003-2365-1765",
+          "institutions": [
+            "Manchester Academic Health Science Centre",
+            "NIHR Manchester Biomedical Research Centre",
+            "NIHR Greater Manchester Patient Safety Translational Research Centre",
+            "University of Manchester",
+            "Manchester University NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jerome Sarris",
+          "openalex_id": "A5013936218",
+          "orcid": "https://orcid.org/0000-0001-9287-8854",
+          "institutions": [
+            "Westmead Institute",
+            "Western Sydney University",
+            "University of Melbourne",
+            "Melbourne Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-06",
+      "abstract": "The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real\u2010world social processes creates a new interplay between the Internet and our social lives, including our self\u2010concepts and self\u2010esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20617"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W2944285188"
+    },
+    {
+      "openalex_id": "W2061420699",
+      "doi": "10.1007/s11214-012-9879-z",
+      "title": "The Sample Analysis at Mars Investigation and Instrument Suite",
+      "authors": [
+        {
+          "name": "P. R. Mahaffy",
+          "openalex_id": "A5065331092",
+          "orcid": "https://orcid.org/0000-0003-1896-1726",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Christopher R. Webster",
+          "openalex_id": "A5081290438",
+          "orcid": "https://orcid.org/0000-0003-3448-9783",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "M. Cabane",
+          "openalex_id": "A5033502082",
+          "institutions": [
+            "Laboratoire atmosph\u00e8res, milieux, observations spatiales",
+            "Centre National de la Recherche Scientifique",
+            "Institut Pierre-Simon Laplace",
+            "Sorbonne Universit\u00e9"
+          ]
+        },
+        {
+          "name": "P. G. Conrad",
+          "openalex_id": "A5041363339",
+          "orcid": "https://orcid.org/0000-0001-5724-3343",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Patrice Coll",
+          "openalex_id": "A5049894963",
+          "orcid": "https://orcid.org/0000-0003-4184-4640",
+          "institutions": [
+            "Universit\u00e9 Paris Cit\u00e9",
+            "Laboratoire Techniques, Territoires et Soci\u00e9t\u00e9s",
+            "Laboratoire Interuniversitaire des Syst\u00e8mes Atmosph\u00e9riques",
+            "Centre National de la Recherche Scientifique",
+            "Institut Universitaire de France"
+          ]
+        },
+        {
+          "name": "S. K. Atreya",
+          "openalex_id": "A5018601850",
+          "orcid": "https://orcid.org/0000-0002-1972-1815",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Robert Arvey",
+          "openalex_id": "A5056189806",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Michael Barciniak",
+          "openalex_id": "A5023348776",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "M. Benna",
+          "openalex_id": "A5071559107",
+          "orcid": "https://orcid.org/0000-0002-2770-4820",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "L. V. Bleacher",
+          "openalex_id": "A5020813595",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "W. B. Brinckerhoff",
+          "openalex_id": "A5085924059",
+          "orcid": "https://orcid.org/0000-0001-5121-2634",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "J. L. Eigenbrode",
+          "openalex_id": "A5029928846",
+          "orcid": "https://orcid.org/0000-0003-3089-1986",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Daniel Carignan",
+          "openalex_id": "A5083144568",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Mark Cascia",
+          "openalex_id": "A5062511214",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Robert A. Chalmers",
+          "openalex_id": "A5010327009",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Jason P. Dworkin",
+          "openalex_id": "A5089205597",
+          "orcid": "https://orcid.org/0000-0002-3961-8997",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Therese Errigo",
+          "openalex_id": "A5020156999",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Paula Everson",
+          "openalex_id": "A5054906477",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "H. B. Franz",
+          "openalex_id": "A5045324453",
+          "orcid": "https://orcid.org/0000-0001-9716-5597",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Rodger Farley",
+          "openalex_id": "A5110118501",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Steven Feng",
+          "openalex_id": "A5030717098",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Gregory Frazier",
+          "openalex_id": "A5045537172",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Caroline Freissinet",
+          "openalex_id": "A5087337545",
+          "orcid": "https://orcid.org/0000-0002-6528-330X",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "D. P. Glavin",
+          "openalex_id": "A5019711804",
+          "orcid": "https://orcid.org/0000-0001-7779-7765",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Daniel Harpold",
+          "openalex_id": "A5111658046",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Douglas Hawk",
+          "openalex_id": "A5041387805",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Vincent Holmes",
+          "openalex_id": "A5082268492",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Christopher S. Johnson",
+          "openalex_id": "A5005922926",
+          "orcid": "https://orcid.org/0000-0003-4357-6889",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Andrea Jones",
+          "openalex_id": "A5112579892",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Patrick R. Jordan",
+          "openalex_id": "A5067908256",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "James Kellogg",
+          "openalex_id": "A5007736694",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Jesse Lewis",
+          "openalex_id": "A5025480919",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Eric Lyness",
+          "openalex_id": "A5110741124",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "C. A. Malespin",
+          "openalex_id": "A5077188808",
+          "orcid": "https://orcid.org/0000-0002-5852-5016",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "David K. Martin",
+          "openalex_id": "A5112525968",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "John Maurer",
+          "openalex_id": "A5023142616",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "A. C. McAdam",
+          "openalex_id": "A5058320863",
+          "orcid": "https://orcid.org/0000-0001-9120-2991",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Douglas McLennan",
+          "openalex_id": "A5108469862",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "T. Nolan",
+          "openalex_id": "A5018651489",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Marvin Noriega",
+          "openalex_id": "A5055561508",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Alexander A. Pavlov",
+          "openalex_id": "A5058712183",
+          "orcid": "https://orcid.org/0000-0001-8771-1646",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Benito Prats",
+          "openalex_id": "A5057620153",
+          "orcid": "https://orcid.org/0000-0003-3869-3351",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "E. Raaen",
+          "openalex_id": "A5105989332",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Oren Sheinman",
+          "openalex_id": "A5058082126",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "D. Sheppard",
+          "openalex_id": "A5011948950",
+          "orcid": "https://orcid.org/0000-0003-4077-9728",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "James S. Smith",
+          "openalex_id": "A5052412386",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "J. C. Stern",
+          "openalex_id": "A5066047706",
+          "orcid": "https://orcid.org/0000-0002-0162-8807",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Florence Tan",
+          "openalex_id": "A5113921944",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "M. G. Trainer",
+          "openalex_id": "A5007004184",
+          "orcid": "https://orcid.org/0000-0003-1106-8580",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "D. W. Ming",
+          "openalex_id": "A5090457774",
+          "orcid": "https://orcid.org/0000-0003-0567-8876",
+          "institutions": [
+            "Johnson Space Center"
+          ]
+        },
+        {
+          "name": "R. V. Morris",
+          "openalex_id": "A5086253195",
+          "orcid": "https://orcid.org/0000-0003-1413-4002",
+          "institutions": [
+            "Johnson Space Center"
+          ]
+        },
+        {
+          "name": "J. H. Jones",
+          "openalex_id": "A5102822761",
+          "orcid": "https://orcid.org/0009-0002-2786-3837",
+          "institutions": [
+            "Johnson Space Center"
+          ]
+        },
+        {
+          "name": "Cindy Gundersen",
+          "openalex_id": "A5007751047"
+        },
+        {
+          "name": "A. Steele",
+          "openalex_id": "A5026238093",
+          "orcid": "https://orcid.org/0000-0001-9643-2841",
+          "institutions": [
+            "Geophysical Laboratory",
+            "Carnegie Institution for Science"
+          ]
+        },
+        {
+          "name": "J. J. Wray",
+          "openalex_id": "A5033860799",
+          "orcid": "https://orcid.org/0000-0001-5559-2179",
+          "institutions": [
+            "Georgia Institute of Technology"
+          ]
+        },
+        {
+          "name": "Oliver Botta",
+          "openalex_id": "A5109478545",
+          "institutions": [
+            "International Space Science Institute"
+          ]
+        },
+        {
+          "name": "L. A. Leshin",
+          "openalex_id": "A5112654633",
+          "institutions": [
+            "Rensselaer Polytechnic Institute"
+          ]
+        },
+        {
+          "name": "Tobias Owen",
+          "openalex_id": "A5110106885",
+          "institutions": [
+            "University of Hawaii System"
+          ]
+        },
+        {
+          "name": "Steve Battel",
+          "openalex_id": "A5015300176"
+        },
+        {
+          "name": "B. M. Jakosky",
+          "openalex_id": "A5072674162",
+          "orcid": "https://orcid.org/0000-0002-0758-9976",
+          "institutions": [
+            "University of Colorado Boulder",
+            "Laboratory for Atmospheric and Space Physics"
+          ]
+        },
+        {
+          "name": "H. L. K. Manning",
+          "openalex_id": "A5033356469",
+          "institutions": [
+            "Concordia College - Minnesota"
+          ]
+        },
+        {
+          "name": "S. W. Squyres",
+          "openalex_id": "A5041659140",
+          "institutions": [
+            "Cornell University"
+          ]
+        },
+        {
+          "name": "R. Navarro\u2010Gonz\u00e1lez",
+          "openalex_id": "A5083655727",
+          "orcid": "https://orcid.org/0000-0002-6078-7621",
+          "institutions": [
+            "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+          ]
+        },
+        {
+          "name": "Christopher P. McKay",
+          "openalex_id": "A5030306707",
+          "orcid": "https://orcid.org/0000-0002-6243-1362",
+          "institutions": [
+            "Ames Research Center"
+          ]
+        },
+        {
+          "name": "F. Raulin",
+          "openalex_id": "A5019515211",
+          "orcid": "https://orcid.org/0000-0001-5618-8581",
+          "institutions": [
+            "Paris-Est Sup",
+            "Centre National de la Recherche Scientifique",
+            "Laboratoire Techniques, Territoires et Soci\u00e9t\u00e9s",
+            "Laboratoire Interuniversitaire des Syst\u00e8mes Atmosph\u00e9riques",
+            "Universit\u00e9 Paris Cit\u00e9"
+          ]
+        },
+        {
+          "name": "R. Sternberg",
+          "openalex_id": "A5110026459",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Laboratoire Techniques, Territoires et Soci\u00e9t\u00e9s",
+            "Universit\u00e9 Paris Cit\u00e9",
+            "Laboratoire Interuniversitaire des Syst\u00e8mes Atmosph\u00e9riques",
+            "Paris-Est Sup"
+          ]
+        },
+        {
+          "name": "A. Buch",
+          "openalex_id": "A5082365149",
+          "orcid": "https://orcid.org/0000-0002-2097-7252",
+          "institutions": [
+            "\u00c9cole Centrale Paris"
+          ]
+        },
+        {
+          "name": "Paul Sorensen",
+          "openalex_id": "A5098839083",
+          "institutions": [
+            "Creare (United States)"
+          ]
+        },
+        {
+          "name": "Robert Kline-Schoder",
+          "openalex_id": "A5073869122",
+          "institutions": [
+            "Creare (United States)"
+          ]
+        },
+        {
+          "name": "David Coscia",
+          "openalex_id": "A5112042653",
+          "institutions": [
+            "Laboratoire atmosph\u00e8res, milieux, observations spatiales",
+            "Sorbonne Universit\u00e9",
+            "Institut Pierre-Simon Laplace",
+            "Centre National de la Recherche Scientifique"
+          ]
+        },
+        {
+          "name": "Cyril Szopa",
+          "openalex_id": "A5040537652",
+          "orcid": "https://orcid.org/0000-0002-0090-4056",
+          "institutions": [
+            "Sorbonne Universit\u00e9",
+            "Institut Pierre-Simon Laplace",
+            "Centre National de la Recherche Scientifique",
+            "Laboratoire atmosph\u00e8res, milieux, observations spatiales"
+          ]
+        },
+        {
+          "name": "Samuel Teinturier",
+          "openalex_id": "A5075867358",
+          "orcid": "https://orcid.org/0000-0003-1755-9524",
+          "institutions": [
+            "Laboratoire atmosph\u00e8res, milieux, observations spatiales",
+            "Institut Pierre-Simon Laplace",
+            "Centre National de la Recherche Scientifique",
+            "Sorbonne Universit\u00e9"
+          ]
+        },
+        {
+          "name": "Curt Baffes",
+          "openalex_id": "A5060984520",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Jason Feldman",
+          "openalex_id": "A5015071137",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Greg Flesch",
+          "openalex_id": "A5059948066",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Siamak Forouhar",
+          "openalex_id": "A5063506143",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Ray Garcia",
+          "openalex_id": "A5104050975",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Didier Keymeulen",
+          "openalex_id": "A5103220797",
+          "orcid": "https://orcid.org/0000-0003-2990-724X",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Steve Woodward",
+          "openalex_id": "A5087115397",
+          "institutions": [
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Bruce Block",
+          "openalex_id": "A5021982111",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Ken Arnett",
+          "openalex_id": "A5001422159",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Ryan Miller",
+          "openalex_id": "A5056644073",
+          "orcid": "https://orcid.org/0000-0003-4994-7345",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Charles Edmonson",
+          "openalex_id": "A5076227468",
+          "institutions": [
+            "University of Michigan"
+          ]
+        },
+        {
+          "name": "Stephen Gorevan",
+          "openalex_id": "A5074308057",
+          "institutions": [
+            "Honeybee Robotics (United States)"
+          ]
+        },
+        {
+          "name": "E. Mumm",
+          "openalex_id": "A5063771379",
+          "institutions": [
+            "Honeybee Robotics (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-04-26",
+      "abstract": "The Sample Analysis at Mars (SAM) investigation of the Mars Science Laboratory (MSL) addresses the chemical and isotopic composition of the atmosphere and volatiles extracted from solid samples. The SAM investigation is designed to contribute substantially to the mission goal of quantitatively assessing the habitability of Mars as an essential step in the search for past or present life on Mars. SAM is a 40 kg instrument suite located in the interior of MSL\u2019s Curiosity rover. The SAM instruments are a quadrupole mass spectrometer, a tunable laser spectrometer, and a 6-column gas chromatograph all coupled through solid and gas processing systems to provide complementary information on the same samples. The SAM suite is able to measure a suite of light isotopes and to analyze volatiles directly from the atmosphere or thermally released from solid samples. In addition to measurements of simple inorganic compounds and noble gases SAM will conduct a sensitive search for organic compounds with either thermal or chemical extraction from sieved samples delivered by the sample processing system on the Curiosity rover\u2019s robotic arm.",
+      "cited_by_count": 556,
+      "type": "article",
+      "source": {
+        "name": "Space Science Reviews",
+        "type": "journal",
+        "issn": [
+          "0038-6308",
+          "1572-9672"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11214-012-9879-z.pdf"
+      },
+      "topics": [
+        "Planetary Science and Exploration",
+        "Astro and Planetary Science",
+        "Space Science and Extraterrestrial Life"
+      ],
+      "referenced_works_count": 195,
+      "url": "https://openalex.org/W2061420699"
+    },
+    {
+      "openalex_id": "W2099797949",
+      "doi": "10.1007/s11095-010-0233-4",
+      "title": "Polymeric Micelles in Anticancer Therapy: Targeting, Imaging and Triggered Release",
+      "authors": [
+        {
+          "name": "Chris Oerlemans",
+          "openalex_id": "A5019234818",
+          "institutions": [
+            "University Medical Center Utrecht",
+            "University Hospital Heidelberg",
+            "Heidelberg University"
+          ]
+        },
+        {
+          "name": "Wouter Bult",
+          "openalex_id": "A5088138506",
+          "orcid": "https://orcid.org/0000-0002-6543-6337",
+          "institutions": [
+            "Heidelberg University",
+            "University Hospital Heidelberg",
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Mariska Bos",
+          "openalex_id": "A5008138727",
+          "institutions": [
+            "Heidelberg University",
+            "University Medical Center Utrecht",
+            "University Hospital Heidelberg"
+          ]
+        },
+        {
+          "name": "Gert Storm",
+          "openalex_id": "A5110289828",
+          "institutions": [
+            "Utrecht University",
+            "Pharmo Institute"
+          ]
+        },
+        {
+          "name": "J. Frank W. Nijsen",
+          "openalex_id": "A5064157733",
+          "orcid": "https://orcid.org/0000-0001-7625-2253",
+          "institutions": [
+            "Heidelberg University",
+            "University Medical Center Utrecht",
+            "University Hospital Heidelberg"
+          ]
+        },
+        {
+          "name": "Wim E. Hennink",
+          "openalex_id": "A5017735982",
+          "orcid": "https://orcid.org/0000-0002-5750-714X",
+          "institutions": [
+            "Utrecht University",
+            "Pharmo Institute"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-19",
+      "abstract": "Micelles are colloidal particles with a size around 5-100 nm which are currently under investigation as carriers for hydrophobic drugs in anticancer therapy. Currently, five micellar formulations for anticancer therapy are under clinical evaluation, of which Genexol-PM has been FDA approved for use in patients with breast cancer. Micelle-based drug delivery, however, can be improved in different ways. Targeting ligands can be attached to the micelles which specifically recognize and bind to receptors overexpressed in tumor cells, and chelation or incorporation of imaging moieties enables tracking micelles in vivo for biodistribution studies. Moreover, pH-, thermo-, ultrasound-, or light-sensitive block copolymers allow for controlled micelle dissociation and triggered drug release. The combination of these approaches will further improve specificity and efficacy of micelle-based drug delivery and brings the development of a 'magic bullet' a major step forward.",
+      "cited_by_count": 919,
+      "type": "review",
+      "source": {
+        "name": "Pharmaceutical Research",
+        "type": "journal",
+        "issn": [
+          "0724-8741",
+          "1573-904X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11095-010-0233-4.pdf"
+      },
+      "topics": [
+        "Nanoparticle-Based Drug Delivery",
+        "Nanoplatforms for cancer theranostics",
+        "Advanced Polymer Synthesis and Characterization"
+      ],
+      "referenced_works_count": 191,
+      "url": "https://openalex.org/W2099797949"
+    },
+    {
+      "openalex_id": "W3034404898",
+      "doi": "10.1038/s41558-020-0790-4",
+      "title": "Understanding and managing connected extreme events",
+      "authors": [
+        {
+          "name": "Colin Raymond",
+          "openalex_id": "A5039089062",
+          "orcid": "https://orcid.org/0000-0003-3093-5774",
+          "institutions": [
+            "Columbia University",
+            "Jet Propulsion Laboratory"
+          ]
+        },
+        {
+          "name": "Radley M. Horton",
+          "openalex_id": "A5086274687",
+          "orcid": "https://orcid.org/0000-0002-5574-9962",
+          "institutions": [
+            "Columbia University",
+            "Lamont-Doherty Earth Observatory"
+          ]
+        },
+        {
+          "name": "Jakob Zscheischler",
+          "openalex_id": "A5089029609",
+          "orcid": "https://orcid.org/0000-0001-6045-1629",
+          "institutions": [
+            "University of Bern",
+            "Oeschger Centre for Climate Change Research"
+          ]
+        },
+        {
+          "name": "Olivia Martius",
+          "openalex_id": "A5074483417",
+          "orcid": "https://orcid.org/0000-0002-8645-4702",
+          "institutions": [
+            "Oeschger Centre for Climate Change Research",
+            "Bern University of Applied Sciences",
+            "University of Bern"
+          ]
+        },
+        {
+          "name": "Amir AghaKouchak",
+          "openalex_id": "A5050684806",
+          "orcid": "https://orcid.org/0000-0003-4689-8357",
+          "institutions": [
+            "University of California, Irvine",
+            "Irvine University"
+          ]
+        },
+        {
+          "name": "Jennifer K. Balch",
+          "openalex_id": "A5026368309",
+          "orcid": "https://orcid.org/0000-0002-3983-7970",
+          "institutions": [
+            "Cooperative Institute for Research in Environmental Sciences",
+            "University of Colorado Boulder"
+          ]
+        },
+        {
+          "name": "Steven G. Bowen",
+          "openalex_id": "A5002671301",
+          "orcid": "https://orcid.org/0000-0003-2894-6845"
+        },
+        {
+          "name": "Suzana J. Camargo",
+          "openalex_id": "A5051119431",
+          "orcid": "https://orcid.org/0000-0002-0802-5160",
+          "institutions": [
+            "Columbia University",
+            "Lamont-Doherty Earth Observatory"
+          ]
+        },
+        {
+          "name": "Jeremy Hess",
+          "openalex_id": "A5012593605",
+          "orcid": "https://orcid.org/0000-0002-0440-2459",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Kai Kornhuber",
+          "openalex_id": "A5050085107",
+          "orcid": "https://orcid.org/0000-0001-5466-2059",
+          "institutions": [
+            "Lamont-Doherty Earth Observatory",
+            "Earth Island Institute",
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Michael Oppenheimer",
+          "openalex_id": "A5082082741",
+          "orcid": "https://orcid.org/0000-0002-9708-5914",
+          "institutions": [
+            "Princeton University",
+            "Woodrow Wilson International Center for Scholars"
+          ]
+        },
+        {
+          "name": "Alex C. Ruane",
+          "openalex_id": "A5050787568",
+          "orcid": "https://orcid.org/0000-0002-5582-9217",
+          "institutions": [
+            "National Aeronautics and Space Administration",
+            "Goddard Institute for Space Studies"
+          ]
+        },
+        {
+          "name": "Thomas Wahl",
+          "openalex_id": "A5002008766",
+          "orcid": "https://orcid.org/0000-0003-3643-5463",
+          "institutions": [
+            "University of Central Florida"
+          ]
+        },
+        {
+          "name": "Kathleen D. White",
+          "openalex_id": "A5112057390",
+          "institutions": [
+            "United States Army Corps of Engineers"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-15",
+      "abstract": null,
+      "cited_by_count": 622,
+      "type": "article",
+      "source": {
+        "name": "Nature Climate Change",
+        "type": "journal",
+        "issn": [
+          "1758-678X",
+          "1758-6798"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.nature.com/articles/s41558-020-0790-4.pdf"
+      },
+      "topics": [
+        "Climate variability and models",
+        "Flood Risk Assessment and Management",
+        "Climate Change and Health Impacts"
+      ],
+      "referenced_works_count": 102,
+      "url": "https://openalex.org/W3034404898"
+    },
+    {
+      "openalex_id": "W2229711034",
+      "doi": "10.1016/j.quascirev.2015.12.005",
+      "title": "Last millennium northern hemisphere summer temperatures from tree rings: Part I: The long term context",
+      "authors": [
+        {
+          "name": "Rob Wilson",
+          "openalex_id": "A5011435868",
+          "orcid": "https://orcid.org/0000-0003-4486-8904",
+          "institutions": [
+            "University of St Andrews",
+            "Columbia University",
+            "Lamont-Doherty Earth Observatory"
+          ]
+        },
+        {
+          "name": "Kevin J. Anchukaitis",
+          "openalex_id": "A5030091109",
+          "orcid": "https://orcid.org/0000-0002-8509-8080",
+          "institutions": [
+            "Columbia University",
+            "Lamont-Doherty Earth Observatory",
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "Keith R. Briffa",
+          "openalex_id": "A5033664017",
+          "orcid": "https://orcid.org/0000-0003-3323-3639",
+          "institutions": [
+            "University of East Anglia"
+          ]
+        },
+        {
+          "name": "Ulf B\u00fcntgen",
+          "openalex_id": "A5110507970",
+          "institutions": [
+            "Swiss Federal Institute for Forest, Snow and Landscape Research",
+            "Oeschger Centre for Climate Change Research",
+            "Czech Academy of Sciences, Global Change Research Institute"
+          ]
+        },
+        {
+          "name": "Edward R. Cook",
+          "openalex_id": "A5028895068",
+          "orcid": "https://orcid.org/0000-0001-7478-4176",
+          "institutions": [
+            "Columbia University",
+            "Lamont-Doherty Earth Observatory"
+          ]
+        },
+        {
+          "name": "Rosanne D\u2019Arrigo",
+          "openalex_id": "A5064582325",
+          "orcid": "https://orcid.org/0000-0002-9797-0796",
+          "institutions": [
+            "Columbia University",
+            "Lamont-Doherty Earth Observatory"
+          ]
+        },
+        {
+          "name": "Nicole Davi",
+          "openalex_id": "A5075113516",
+          "orcid": "https://orcid.org/0000-0002-4529-5418",
+          "institutions": [
+            "Columbia University",
+            "Lamont-Doherty Earth Observatory",
+            "William Paterson University"
+          ]
+        },
+        {
+          "name": "Jan Esper",
+          "openalex_id": "A5086893844",
+          "orcid": "https://orcid.org/0000-0003-3919-014X",
+          "institutions": [
+            "Johannes Gutenberg University Mainz"
+          ]
+        },
+        {
+          "name": "David Frank",
+          "openalex_id": "A5031289302",
+          "orcid": "https://orcid.org/0000-0001-5463-5640",
+          "institutions": [
+            "Swiss Federal Institute for Forest, Snow and Landscape Research"
+          ]
+        },
+        {
+          "name": "Bj\u00f6rn E. Gunnarson",
+          "openalex_id": "A5113882955",
+          "institutions": [
+            "Stockholm University"
+          ]
+        },
+        {
+          "name": "Gabriele C. Hegerl",
+          "openalex_id": "A5083816490",
+          "orcid": "https://orcid.org/0000-0002-4159-1295",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Samuli Helama",
+          "openalex_id": "A5017727430",
+          "orcid": "https://orcid.org/0000-0002-9777-3354",
+          "institutions": [
+            "Natural Resources Institute Finland"
+          ]
+        },
+        {
+          "name": "Stefan Klesse",
+          "openalex_id": "A5036305451",
+          "orcid": "https://orcid.org/0000-0003-1569-1724",
+          "institutions": [
+            "Swiss Federal Institute for Forest, Snow and Landscape Research"
+          ]
+        },
+        {
+          "name": "Paul J. Krusic",
+          "openalex_id": "A5025677513",
+          "orcid": "https://orcid.org/0000-0001-5358-9697",
+          "institutions": [
+            "Stockholm University"
+          ]
+        },
+        {
+          "name": "Hans W. Linderholm",
+          "openalex_id": "A5016092465",
+          "orcid": "https://orcid.org/0000-0002-1522-8919",
+          "institutions": [
+            "University of Gothenburg"
+          ]
+        },
+        {
+          "name": "Vladimir S. Myglan",
+          "openalex_id": "A5002743467",
+          "orcid": "https://orcid.org/0000-0002-5268-653X",
+          "institutions": [
+            "Siberian Federal University"
+          ]
+        },
+        {
+          "name": "Timothy J. Osborn",
+          "openalex_id": "A5015551186",
+          "orcid": "https://orcid.org/0000-0001-8425-6799",
+          "institutions": [
+            "University of East Anglia"
+          ]
+        },
+        {
+          "name": "Milo\u0161 Rydval",
+          "openalex_id": "A5066279530",
+          "orcid": "https://orcid.org/0000-0001-5079-2534",
+          "institutions": [
+            "Czech University of Life Sciences Prague",
+            "University of St Andrews"
+          ]
+        },
+        {
+          "name": "Lea Schneider",
+          "openalex_id": "A5088734837",
+          "orcid": "https://orcid.org/0000-0002-8208-7300",
+          "institutions": [
+            "Johannes Gutenberg University Mainz"
+          ]
+        },
+        {
+          "name": "Andrew Schurer",
+          "openalex_id": "A5015083467",
+          "orcid": "https://orcid.org/0000-0002-9176-3622",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Greg Wiles",
+          "openalex_id": "A5113632266"
+        },
+        {
+          "name": "Peng Zhang",
+          "openalex_id": "A5100364166",
+          "orcid": "https://orcid.org/0000-0002-7115-1389"
+        },
+        {
+          "name": "Eduardo Zorita",
+          "openalex_id": "A5026299709",
+          "orcid": "https://orcid.org/0000-0002-7264-5743"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-09",
+      "abstract": null,
+      "cited_by_count": 516,
+      "type": "article",
+      "source": {
+        "name": "Quaternary Science Reviews",
+        "type": "journal",
+        "issn": [
+          "0277-3791",
+          "1873-457X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/20.500.11820/462de075-65f9-4855-b8fa-8a1862097ba3"
+      },
+      "topics": [
+        "Tree-ring climate responses",
+        "Plant Water Relations and Carbon Dynamics",
+        "Geology and Paleoclimatology Research"
+      ],
+      "referenced_works_count": 169,
+      "url": "https://openalex.org/W2229711034"
+    },
+    {
+      "openalex_id": "W2979675549",
+      "doi": "10.3390/ma12203323",
+      "title": "Smart Hydrogels in Tissue Engineering and Regenerative Medicine",
+      "authors": [
+        {
+          "name": "Somasundar Mantha",
+          "openalex_id": "A5058681395",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Sangeeth Pillai",
+          "openalex_id": "A5081997464",
+          "orcid": "https://orcid.org/0000-0002-4475-984X",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Parisa Khayambashi",
+          "openalex_id": "A5048746549",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Akshaya Upadhyay",
+          "openalex_id": "A5039565151",
+          "orcid": "https://orcid.org/0000-0001-8790-8502",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Yuli Zhang",
+          "openalex_id": "A5101851956",
+          "orcid": "https://orcid.org/0000-0001-9060-9933",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Owen Tao",
+          "openalex_id": "A5067888480",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Hieu M. Pham",
+          "openalex_id": "A5023226555",
+          "orcid": "https://orcid.org/0000-0002-6854-0148",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Simon D. Tran",
+          "openalex_id": "A5072523216",
+          "orcid": "https://orcid.org/0000-0001-5594-359X",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-12",
+      "abstract": "The field of regenerative medicine has tremendous potential for improved treatment outcomes and has been stimulated by advances made in bioengineering over the last few decades. The strategies of engineering tissues and assembling functional constructs that are capable of restoring, retaining, and revitalizing lost tissues and organs have impacted the whole spectrum of medicine and health care. Techniques to combine biomimetic materials, cells, and bioactive molecules play a decisive role in promoting the regeneration of damaged tissues or as therapeutic systems. Hydrogels have been used as one of the most common tissue engineering scaffolds over the past two decades due to their ability to maintain a distinct 3D structure, to provide mechanical support for the cells in the engineered tissues, and to simulate the native extracellular matrix. The high water content of hydrogels can provide an ideal environment for cell survival, and structure which mimics the native tissues. Hydrogel systems have been serving as a supportive matrix for cell immobilization and growth factor delivery. This review outlines a brief description of the properties, structure, synthesis and fabrication methods, applications, and future perspectives of smart hydrogels in tissue engineering.",
+      "cited_by_count": 826,
+      "type": "review",
+      "source": {
+        "name": "Materials",
+        "type": "journal",
+        "issn": [
+          "1996-1944"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1996-1944/12/20/3323/pdf?version=1570861239"
+      },
+      "topics": [
+        "3D Printing in Biomedical Research",
+        "Hydrogels: synthesis, properties, applications",
+        "Electrospun Nanofibers in Biomedical Applications"
+      ],
+      "referenced_works_count": 166,
+      "url": "https://openalex.org/W2979675549"
+    },
+    {
+      "openalex_id": "W2257383498",
+      "doi": "10.1038/npp.2015.166",
+      "title": "Neurobiological Interactions Between Stress and the Endocannabinoid System",
+      "authors": [
+        {
+          "name": "Maria Morena",
+          "openalex_id": "A5019248299",
+          "orcid": "https://orcid.org/0000-0001-6590-8130",
+          "institutions": [
+            "University of Calgary"
+          ]
+        },
+        {
+          "name": "Sachin Patel",
+          "openalex_id": "A5011655951",
+          "orcid": "https://orcid.org/0000-0001-8052-520X",
+          "institutions": [
+            "Vanderbilt University Medical Center"
+          ]
+        },
+        {
+          "name": "Jaideep S. Bains",
+          "openalex_id": "A5012127614",
+          "orcid": "https://orcid.org/0000-0002-3634-6463",
+          "institutions": [
+            "University of Calgary"
+          ]
+        },
+        {
+          "name": "Matthew N. Hill",
+          "openalex_id": "A5103120178",
+          "orcid": "https://orcid.org/0000-0001-7144-9209",
+          "institutions": [
+            "University of Calgary"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-06-12",
+      "abstract": null,
+      "cited_by_count": 626,
+      "type": "review",
+      "source": {
+        "name": "Neuropsychopharmacology",
+        "type": "journal",
+        "issn": [
+          "0893-133X",
+          "1740-634X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.nature.com/articles/npp2015166.pdf"
+      },
+      "topics": [
+        "Cannabis and Cannabinoid Research",
+        "Neuroscience and Neuropharmacology Research",
+        "Neurotransmitter Receptor Influence on Behavior"
+      ],
+      "referenced_works_count": 282,
+      "url": "https://openalex.org/W2257383498"
+    },
+    {
+      "openalex_id": "W2072854067",
+      "doi": "10.1039/c4cs00532e",
+      "title": "Quantum dots: bright and versatile in vitro and in vivo fluorescence imaging biosensors",
+      "authors": [
+        {
+          "name": "K. David Wegner",
+          "openalex_id": "A5053486805",
+          "orcid": "https://orcid.org/0000-0003-0517-1880",
+          "institutions": [
+            "Centre Hospitalier d'Orsay",
+            "Universit\u00e9 Paris-Sud"
+          ]
+        },
+        {
+          "name": "Niko Hildebrandt",
+          "openalex_id": "A5069754539",
+          "orcid": "https://orcid.org/0000-0001-8767-9623",
+          "institutions": [
+            "Universit\u00e9 Paris-Sud",
+            "Centre Hospitalier d'Orsay"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "abstract": "Colourful cells and tissues: semiconductor quantum dots and their versatile applications in multiplexed bioimaging research.",
+      "cited_by_count": 924,
+      "type": "review",
+      "source": {
+        "name": "Chemical Society Reviews",
+        "type": "journal",
+        "issn": [
+          "0306-0012",
+          "1460-4744"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.rsc.org/en/content/articlepdf/2015/cs/c4cs00532e"
+      },
+      "topics": [
+        "Quantum Dots Synthesis And Properties",
+        "Advanced biosensing and bioanalysis techniques",
+        "Nanocluster Synthesis and Applications"
+      ],
+      "referenced_works_count": 520,
+      "url": "https://openalex.org/W2072854067"
+    },
+    {
+      "openalex_id": "W2635926651",
+      "doi": "10.3758/s13428-017-0891-9",
+      "title": "Mind-wandering, how do I measure thee with probes? Let me count the ways",
+      "authors": [
+        {
+          "name": "Yana Weinstein",
+          "openalex_id": "A5025576523",
+          "orcid": "https://orcid.org/0000-0002-5144-968X",
+          "institutions": [
+            "University of Massachusetts Lowell"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-22",
+      "abstract": null,
+      "cited_by_count": 249,
+      "type": "review",
+      "source": {
+        "name": "Behavior Research Methods",
+        "type": "journal",
+        "issn": [
+          "1554-351X",
+          "1554-3528"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0891-9.pdf"
+      },
+      "topics": [
+        "Mind wandering and attention",
+        "Neural and Behavioral Psychology Studies",
+        "Sleep and Wakefulness Research"
+      ],
+      "referenced_works_count": 134,
+      "url": "https://openalex.org/W2635926651"
+    },
+    {
+      "openalex_id": "W3093354679",
+      "doi": "10.1038/s41578-020-00247-y",
+      "title": "A materials-science perspective on tackling COVID-19",
+      "authors": [
+        {
+          "name": "Zhongmin Tang",
+          "openalex_id": "A5006625728",
+          "orcid": "https://orcid.org/0000-0002-1532-8004",
+          "institutions": [
+            "Brigham and Women's Hospital",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Na Kong",
+          "openalex_id": "A5101559320",
+          "orcid": "https://orcid.org/0000-0002-3823-8335",
+          "institutions": [
+            "Harvard University",
+            "Brigham and Women's Hospital"
+          ]
+        },
+        {
+          "name": "Xingcai Zhang",
+          "openalex_id": "A5057717921",
+          "orcid": "https://orcid.org/0000-0001-7114-1095",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Yuan Liu",
+          "openalex_id": "A5100390796",
+          "orcid": "https://orcid.org/0000-0001-5031-7514",
+          "institutions": [
+            "Harvard University",
+            "Brigham and Women's Hospital"
+          ]
+        },
+        {
+          "name": "Ping Hu",
+          "openalex_id": "A5101491966",
+          "orcid": "https://orcid.org/0000-0001-5201-893X",
+          "institutions": [
+            "Shanghai Institute of Ceramics",
+            "Chinese Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Shan Mou",
+          "openalex_id": "A5085026775",
+          "orcid": "https://orcid.org/0000-0001-6376-5535",
+          "institutions": [
+            "Shanghai Jiao Tong University",
+            "Renji Hospital",
+            "State Key Laboratory of Oncogene and Related Genes"
+          ]
+        },
+        {
+          "name": "Peter Liljestr\u00f6m",
+          "openalex_id": "A5066029443",
+          "orcid": "https://orcid.org/0000-0002-2132-0981",
+          "institutions": [
+            "Karolinska Institutet"
+          ]
+        },
+        {
+          "name": "Jianlin Shi",
+          "openalex_id": "A5108427188",
+          "orcid": "https://orcid.org/0000-0001-8790-195X",
+          "institutions": [
+            "Chinese Academy of Sciences",
+            "Shanghai Institute of Ceramics"
+          ]
+        },
+        {
+          "name": "Weihong Tan",
+          "openalex_id": "A5024421064",
+          "orcid": "https://orcid.org/0000-0002-8066-1524",
+          "institutions": [
+            "State Key Laboratory of Chemobiosensing and Chemometrics",
+            "Renji Hospital",
+            "Hunan University",
+            "Shanghai Jiao Tong University",
+            "Cancer Hospital of Chinese Academy of Medical Sciences",
+            "State Key Laboratory of Oncogene and Related Genes"
+          ]
+        },
+        {
+          "name": "Jong Seung Kim",
+          "openalex_id": "A5100737773",
+          "orcid": "https://orcid.org/0000-0003-3477-1172",
+          "institutions": [
+            "Korea University"
+          ]
+        },
+        {
+          "name": "Yihai Cao",
+          "openalex_id": "A5073365279",
+          "orcid": "https://orcid.org/0000-0003-1308-0065",
+          "institutions": [
+            "Karolinska Institutet"
+          ]
+        },
+        {
+          "name": "R\u00f3bert Langer",
+          "openalex_id": "A5042597057",
+          "orcid": "https://orcid.org/0000-0003-4255-0492",
+          "institutions": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "name": "Kam W. Leong",
+          "openalex_id": "A5050822671",
+          "orcid": "https://orcid.org/0000-0002-8133-4955",
+          "institutions": [
+            "Columbia University Irving Medical Center",
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Omid C. Farokhzad",
+          "openalex_id": "A5053752264",
+          "orcid": "https://orcid.org/0000-0003-2009-270X",
+          "institutions": [
+            "Brigham and Women's Hospital",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Wei Tao",
+          "openalex_id": "A5100660697",
+          "orcid": "https://orcid.org/0000-0002-4277-3728",
+          "institutions": [
+            "Brigham and Women's Hospital",
+            "Harvard University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-14",
+      "abstract": null,
+      "cited_by_count": 297,
+      "type": "review",
+      "source": {
+        "name": "Nature Reviews Materials",
+        "type": "journal",
+        "issn": [
+          "2058-8437"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.nature.com/articles/s41578-020-00247-y.pdf"
+      },
+      "topics": [
+        "SARS-CoV-2 and COVID-19 Research",
+        "SARS-CoV-2 detection and testing",
+        "COVID-19 diagnosis using AI"
+      ],
+      "referenced_works_count": 189,
+      "url": "https://openalex.org/W3093354679"
+    },
+    {
+      "openalex_id": "W2019183416",
+      "doi": "10.1109/tkde.2015.2427795",
+      "title": "In-Memory Big Data Management and Processing: A Survey",
+      "authors": [
+        {
+          "name": "Hao Zhang",
+          "openalex_id": "A5100396896",
+          "orcid": "https://orcid.org/0000-0002-3532-4043",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Gang Chen",
+          "openalex_id": "A5109000029",
+          "orcid": "https://orcid.org/0000-0002-5519-5912",
+          "institutions": [
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Beng Chin Ooi",
+          "openalex_id": "A5024892041",
+          "orcid": "https://orcid.org/0000-0003-4446-1100",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Kian\u2010Lee Tan",
+          "openalex_id": "A5077593594",
+          "orcid": "https://orcid.org/0000-0001-9315-4057",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Meihui Zhang",
+          "openalex_id": "A5032263010",
+          "orcid": "https://orcid.org/0000-0002-0752-9877",
+          "institutions": [
+            "Singapore University of Technology and Design"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-29",
+      "abstract": "Growing main memory capacity has fueled the development of in-memory big data management and processing. By eliminating disk I/O bottleneck, it is now possible to support interactive data analytics. However, in-memory systems are much more sensitive to other sources of overhead that do not matter in traditional I/O-bounded disk-based systems. Some issues such as fault-tolerance and consistency are also more challenging to handle in in-memory environment. We are witnessing a revolution in the design of database systems that exploits main memory as its data storage layer. Many of these researches have focused along several dimensions: modern CPU and memory hierarchy utilization, time/space efficiency, parallelism, and concurrency control. In this survey, we aim to provide a thorough review of a wide range of in-memory data management and processing proposals and systems, including both data storage systems and data processing frameworks. We also give a comprehensive presentation of important technology in memory management, and some key factors that need to be considered in order to achieve efficient in-memory data management and processing.",
+      "cited_by_count": 414,
+      "type": "article",
+      "source": {
+        "name": "IEEE Transactions on Knowledge and Data Engineering",
+        "type": "journal",
+        "issn": [
+          "1041-4347",
+          "1558-2191",
+          "2326-3865"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/69/7116676/07097722.pdf"
+      },
+      "topics": [
+        "Advanced Data Storage Technologies",
+        "Distributed and Parallel Computing Systems",
+        "Cloud Computing and Resource Management"
+      ],
+      "referenced_works_count": 290,
+      "url": "https://openalex.org/W2019183416"
+    },
+    {
+      "openalex_id": "W2951699241",
+      "doi": "10.1016/j.envsoft.2019.06.002",
+      "title": "A comprehensive review of compound inundation models in low-gradient coastal watersheds",
+      "authors": [
+        {
+          "name": "F\u00e9lix Santiago-Collazo",
+          "openalex_id": "A5004814671",
+          "orcid": "https://orcid.org/0000-0002-2084-5161",
+          "institutions": [
+            "Louisiana State University"
+          ]
+        },
+        {
+          "name": "Matthew V. Bilskie",
+          "openalex_id": "A5057728869",
+          "orcid": "https://orcid.org/0000-0002-7697-7403",
+          "institutions": [
+            "Louisiana Sea Grant",
+            "Louisiana State University"
+          ]
+        },
+        {
+          "name": "Scott C. Hagen",
+          "openalex_id": "A5029682023",
+          "orcid": "https://orcid.org/0000-0001-8370-9450",
+          "institutions": [
+            "Louisiana State University",
+            "Louisiana Sea Grant"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-06-19",
+      "abstract": null,
+      "cited_by_count": 245,
+      "type": "review",
+      "source": {
+        "name": "Environmental Modelling & Software",
+        "type": "journal",
+        "issn": [
+          "1364-8152",
+          "1873-6726"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/am/pii/S1364815219302853"
+      },
+      "topics": [
+        "Tropical and Extratropical Cyclones Research",
+        "Flood Risk Assessment and Management",
+        "Coastal wetland ecosystem dynamics"
+      ],
+      "referenced_works_count": 227,
+      "url": "https://openalex.org/W2951699241"
+    },
+    {
+      "openalex_id": "W1976469665",
+      "doi": "10.1073/pnas.1212726110",
+      "title": "Communicating science in politicized environments",
+      "authors": [
+        {
+          "name": "Arthur Lupia",
+          "openalex_id": "A5019344066",
+          "orcid": "https://orcid.org/0000-0003-3220-1125",
+          "institutions": [
+            "University of Michigan\u2013Ann Arbor"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-08-12",
+      "abstract": "Many members of the scientific community attempt to convey information to policymakers and the public. Much of this information is ignored or misinterpreted. This article describes why these outcomes occur and how science communicators can achieve better outcomes. The article focuses on two challenges associated with communicating scientific information to such audiences. One challenge is that people have less capacity to pay attention to scientific presentations than many communicators anticipate. A second challenge is that people in politicized environments often make different choices about whom to believe than do people in other settings. Together, these challenges cause policymakers and the public to be less responsive to scientific information than many communicators desire. Research on attention and source credibility can help science communicators better adapt to these challenges. Attention research clarifies when, and to what type of stimuli, people do (and do not) pay attention. Source credibility research clarifies the conditions under which an audience will believe scientists\u2019 descriptions of phenomena rather than the descriptions of less-valid sources. Such research can help communicators stay true to their science while making their findings more memorable and more believable to more audiences.",
+      "cited_by_count": 183,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the National Academy of Sciences",
+        "type": "journal",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.pnas.org/content/pnas/110/Supplement_3/14048.full.pdf"
+      },
+      "topics": [
+        "Misinformation and Its Impacts",
+        "Climate Change Communication and Perception",
+        "Social Media and Politics"
+      ],
+      "referenced_works_count": 65,
+      "url": "https://openalex.org/W1976469665"
+    },
+    {
+      "openalex_id": "W1773198732",
+      "doi": "10.1016/j.resuscitation.2015.07.018",
+      "title": "European Resuscitation Council and European Society of Intensive Care Medicine Guidelines for Post-resuscitation Care 2015",
+      "authors": [
+        {
+          "name": "Jerry P. Nolan",
+          "openalex_id": "A5086950255",
+          "orcid": "https://orcid.org/0000-0003-3141-3812",
+          "institutions": [
+            "University of Bristol",
+            "Royal United Hospital"
+          ]
+        },
+        {
+          "name": "Jasmeet Soar",
+          "openalex_id": "A5025095503",
+          "orcid": "https://orcid.org/0000-0001-5970-6073",
+          "institutions": [
+            "Southmead Hospital"
+          ]
+        },
+        {
+          "name": "Alain Cariou",
+          "openalex_id": "A5065027400",
+          "orcid": "https://orcid.org/0000-0003-3258-4672",
+          "institutions": [
+            "Assistance Publique \u2013 H\u00f4pitaux de Paris",
+            "Universit\u00e9 Paris Cit\u00e9",
+            "D\u00e9l\u00e9gation Paris 5"
+          ]
+        },
+        {
+          "name": "Tobias Cronberg",
+          "openalex_id": "A5008449628",
+          "orcid": "https://orcid.org/0000-0002-3442-3058",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "V\u00e9ronique Moulaert",
+          "openalex_id": "A5110745675",
+          "institutions": [
+            "Adelante"
+          ]
+        },
+        {
+          "name": "Charles D. Deakin",
+          "openalex_id": "A5089854058",
+          "orcid": "https://orcid.org/0000-0002-2565-9771",
+          "institutions": [
+            "University Hospital Southampton NHS Foundation Trust",
+            "NIHR Southampton Respiratory Biomedical Research Unit"
+          ]
+        },
+        {
+          "name": "Bernd W. B\u00f6ttiger",
+          "openalex_id": "A5077280166",
+          "orcid": "https://orcid.org/0000-0001-8000-8931",
+          "institutions": [
+            "University Hospital Cologne"
+          ]
+        },
+        {
+          "name": "Hans Friberg",
+          "openalex_id": "A5028430735",
+          "orcid": "https://orcid.org/0000-0002-5588-0098",
+          "institutions": [
+            "Lund University"
+          ]
+        },
+        {
+          "name": "Kjetil Sunde",
+          "openalex_id": "A5025181087",
+          "orcid": "https://orcid.org/0000-0001-9518-5199",
+          "institutions": [
+            "University of Oslo",
+            "Oslo University Hospital"
+          ]
+        },
+        {
+          "name": "Claudio Sandroni",
+          "openalex_id": "A5078876786",
+          "orcid": "https://orcid.org/0000-0002-8878-2611",
+          "institutions": [
+            "Universit\u00e0 Cattolica del Sacro Cuore"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-10-01",
+      "abstract": "In 2010, post-resuscitation care was incorporated into the Advanced Life Support section of the European Resuscitation Council (ERC) Guidelines.1Deakin C.D. Nolan J.P. Soar J. et al.European Resuscitation Council Guidelines for Resuscitation 2010. Section 4. Adult advanced life support.Resuscitation. 2010; 81: 1305-1352Abstract Full Text Full Text PDF PubMed Scopus (530) Google Scholar The ERC and the European Society of Intensive Care Medicine (ESICM) have collaborated to produce these post-resuscitation care guidelines, which recognise the importance of high-quality post-resuscitation care as a vital link in the Chain of Survival.2Nolan J. Soar J. Eikeland H. The chain of survival.Resuscitation. 2006; 71: 270-271Abstract Full Text Full Text PDF PubMed Scopus (60) Google Scholar These post-resuscitation care guidelines are being co-published in Resuscitation and Intensive Care Medicine. The most important changes in post-resuscitation care since 2010 include:\u2022There is a greater emphasis on the need for urgent coronary catheterisation and percutaneous coronary intervention (PCI) following out-of-hospital cardiac arrest of likely cardiac cause.\u2022Targeted temperature management remains important but there is now an option to target a temperature of 36 \u00b0C instead of the previously recommended 32\u201334 \u00b0C.\u2022Prognostication is now undertaken using a multimodal strategy and there is emphasis on allowing sufficient time for neurological recovery and to enable sedatives to be cleared.\u2022A novel section has been added which addresses rehabilitation after survival from a cardiac arrest. Recommendations include the systematic organisation of follow-up care, which should include screening for potential cognitive and emotional impairments and provision of information. The International Liaison Committee on Resuscitation (ILCOR, www.ilcor.org) includes representatives from the American Heart Association (AHA), the European Resuscitation Council (ERC), the Heart and Stroke Foundation of Canada (HSFC), the Australian and New Zealand Committee on Resuscitation (ANZCOR), the Resuscitation Council of Southern Africa (RCSA), the Inter-American Heart Foundation (IAHF), and the Resuscitation Council of Asia (RCA). Since 2000, researchers from the ILCOR member councils have evaluated resuscitation science in 5-yearly cycles. The most recent International Consensus Conference was held in Dallas in February 2015 and the published conclusions and recommendations from this process form the basis of the ERC Guidelines 2015 and for these ERC-ESICM post-resuscitation care guidelines. During the three years leading up to this conference, 250 evidence reviewers from 39 countries reviewed thousands of relevant, peer-reviewed publications to address 169 specific resuscitation questions, each in the standard PICO (Population, Intervention, Comparison, Outcome) format. To assess the quality of the evidence and the strength of the recommendations, ILCOR adopted the GRADE (Grading of Recommendations Assessment, Development and Evaluation) methodology. Each PICO question was reviewed by at least two evidence reviewers who drafted a science statement based on their interpretation of all relevant data on the specific topic and the relevant ILCOR task force added consensus draft treatment recommendations. Final wording of science statements and treatment recommendations was completed after further review by ILCOR member organisations and by the editorial board, and published in Resuscitation and Circulation as the 2015 Consensus on Science and Treatment Recommendations (CoSTR). These ERC-ESICM guidelines on post-resuscitation care are based on the 2015 CoSTR document and represent consensus among the writing group, which included representatives of the ERC and the ESICM.",
+      "cited_by_count": 1112,
+      "type": "article",
+      "source": {
+        "name": "Resuscitation",
+        "type": "journal",
+        "issn": [
+          "0300-9572",
+          "1873-1570"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.resuscitationjournal.com/article/S0300957215003305/pdf"
+      },
+      "topics": [
+        "Cardiac Arrest and Resuscitation",
+        "Traumatic Brain Injury and Neurovascular Disturbances",
+        "Trauma and Emergency Care Studies"
+      ],
+      "referenced_works_count": 464,
+      "url": "https://openalex.org/W1773198732"
+    },
+    {
+      "openalex_id": "W2955629465",
+      "doi": "10.3389/fimmu.2019.01540",
+      "title": "The Neonatal Fc Receptor (FcRn): A Misnomer?",
+      "authors": [
+        {
+          "name": "Micha\u0142 Pyzik",
+          "openalex_id": "A5049725885",
+          "orcid": "https://orcid.org/0000-0003-2591-6202",
+          "institutions": [
+            "Harvard University",
+            "Brigham and Women's Hospital"
+          ]
+        },
+        {
+          "name": "Kine Marita Knudsen Sand",
+          "openalex_id": "A5043802389",
+          "orcid": "https://orcid.org/0000-0002-5758-1016",
+          "institutions": [
+            "Harvard University",
+            "University of Oslo",
+            "Brigham and Women's Hospital"
+          ]
+        },
+        {
+          "name": "Jonathan J. Hubbard",
+          "openalex_id": "A5009826831",
+          "orcid": "https://orcid.org/0000-0002-5740-7325",
+          "institutions": [
+            "Boston Children's Hospital",
+            "Harvard University",
+            "Brigham and Women's Hospital"
+          ]
+        },
+        {
+          "name": "Jan Terje Andersen",
+          "openalex_id": "A5016201832",
+          "orcid": "https://orcid.org/0000-0003-1710-1628",
+          "institutions": [
+            "University of Oslo",
+            "Oslo University Hospital"
+          ]
+        },
+        {
+          "name": "Inger Sandlie",
+          "openalex_id": "A5045878198",
+          "orcid": "https://orcid.org/0009-0005-8063-0145",
+          "institutions": [
+            "University of Oslo"
+          ]
+        },
+        {
+          "name": "Richard S. Blumberg",
+          "openalex_id": "A5054599656",
+          "orcid": "https://orcid.org/0000-0002-9704-248X",
+          "institutions": [
+            "Harvard University",
+            "Brigham and Women's Hospital"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-10",
+      "abstract": "Antibodies are essential components of an adaptive immune response. Immunoglobulin G (IgG) is the most common type of antibody found in circulation and extracellular fluids. Although IgG alone can directly protect the body from infection through the activities of its antigen binding region, the majority of IgG immune functions are mediated via proteins and receptors expressed by specialized cell subsets that bind to the fragment crystallizable (Fc) region of IgG. Fc gamma (\u03b3) receptors (Fc\u03b3R) belong to a broad family of proteins that presently include classical membrane-bound surface receptors as well as atypical intracellular receptors and cytoplasmic glycoproteins. Among the atypical Fc\u03b3Rs, the neonatal Fc receptor (FcRn) has increasingly gained notoriety given its intimate influence on IgG biology and its ability to also bind to albumin. FcRn functions as a recycling or transcytosis receptor that is responsible for maintaining IgG and albumin in the circulation, and bidirectionally transporting these two ligands across polarized cellular barriers. More recently, it has been appreciated that FcRn acts as an immune receptor by interacting with and facilitating antigen presentation of peptides derived from IgG immune complexes (IC). Here we review FcRn biology and focus on newer advances including how emerging FcRn-targeted therapies may affect the immune responses to IgG and IgG IC.",
+      "cited_by_count": 396,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Immunology",
+        "type": "journal",
+        "issn": [
+          "1664-3224"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2019.01540/pdf"
+      },
+      "topics": [
+        "Monoclonal and Polyclonal Antibodies Research",
+        "Glycosylation and Glycoproteins Research",
+        "Receptor Mechanisms and Signaling"
+      ],
+      "referenced_works_count": 313,
+      "url": "https://openalex.org/W2955629465"
+    },
+    {
+      "openalex_id": "W2888821530",
+      "doi": "10.1007/s10669-018-9702-9",
+      "title": "Contributions of green infrastructure to enhancing urban resilience",
+      "authors": [
+        {
+          "name": "Chad Staddon",
+          "openalex_id": "A5052079408",
+          "orcid": "https://orcid.org/0000-0002-2063-8525",
+          "institutions": [
+            "University of the West of England"
+          ]
+        },
+        {
+          "name": "Sarah Ward",
+          "openalex_id": "A5026379413",
+          "orcid": "https://orcid.org/0000-0002-1432-4204",
+          "institutions": [
+            "University of the West of England"
+          ]
+        },
+        {
+          "name": "Laura De Vito",
+          "openalex_id": "A5086087628",
+          "orcid": "https://orcid.org/0000-0001-9196-4013",
+          "institutions": [
+            "University of the West of England"
+          ]
+        },
+        {
+          "name": "Adriana A. Z\u00fa\u00f1iga-Ter\u00e1n",
+          "openalex_id": "A5041474510",
+          "orcid": "https://orcid.org/0000-0003-2912-2469",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "Andrea K. Gerlak",
+          "openalex_id": "A5005074264",
+          "orcid": "https://orcid.org/0000-0002-2198-6679",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "Yolandi Schoeman",
+          "openalex_id": "A5060336508",
+          "orcid": "https://orcid.org/0000-0002-5844-059X",
+          "institutions": [
+            "IIE MSA"
+          ]
+        },
+        {
+          "name": "Aimee Hart",
+          "openalex_id": "A5027557379",
+          "institutions": [
+            "Arcadis (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Giles Booth",
+          "openalex_id": "A5042823996",
+          "institutions": [
+            "Arcadis (United Kingdom)"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-08-27",
+      "abstract": "Abstract After briefly reviewing key resilience engineering perspectives and summarising some green infrastructure (GI) tools, we present the contributions that GI can make to enhancing urban resilience and maintaining critical system functionality across complex integrated social\u2013ecological and technical systems. We then examine five key challenges for the effective implementation of GI that include (1) standards; (2) regulation; (3) socio-economic factors; (4) financeability; and (5) innovation. We highlight ways in which these challenges are being dealt with around the world, particularly through the use of approaches that are both context appropriate and socially inclusive. Although progress surmounting these challenges has been made, more needs to be done to ensure that GI approaches are inclusive and appropriate and feature equally alongside more traditional \u2018grey\u2019 infrastructure in the future of urban resilience planning. This research was undertaken for the Resilience Shift initiative to shift the approach to resilience in practice for critical infrastructure sectors. The programme aims to help practitioners involved in critical infrastructure to make decisions differently, contributing to a safer and better world.",
+      "cited_by_count": 170,
+      "type": "article",
+      "source": {
+        "name": "Environment Systems & Decisions",
+        "type": "journal",
+        "issn": [
+          "2194-5403",
+          "2194-5411"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10669-018-9702-9.pdf"
+      },
+      "topics": [
+        "Environmental and Social Impact Assessments",
+        "Disaster Management and Resilience",
+        "Infrastructure Resilience and Vulnerability Analysis"
+      ],
+      "referenced_works_count": 48,
+      "url": "https://openalex.org/W2888821530"
+    },
+    {
+      "openalex_id": "W3106646965",
+      "doi": "10.1038/s41385-020-00359-2",
+      "title": "The central role of the nasal microenvironment in the transmission, modulation, and clinical progression of SARS-CoV-2 infection",
+      "authors": [
+        {
+          "name": "Oreste Gallo",
+          "openalex_id": "A5037827357",
+          "orcid": "https://orcid.org/0000-0003-3426-7179",
+          "institutions": [
+            "Azienda Ospedaliero-Universitaria Careggi"
+          ]
+        },
+        {
+          "name": "Luca Giovanni Locatello",
+          "openalex_id": "A5012860005",
+          "orcid": "https://orcid.org/0000-0002-1879-5580",
+          "institutions": [
+            "Azienda Ospedaliero-Universitaria Careggi"
+          ]
+        },
+        {
+          "name": "Alessio Mazzoni",
+          "openalex_id": "A5042837544",
+          "orcid": "https://orcid.org/0000-0001-7768-3805",
+          "institutions": [
+            "University of Florence"
+          ]
+        },
+        {
+          "name": "Luca Novelli",
+          "openalex_id": "A5064268922",
+          "orcid": "https://orcid.org/0000-0002-2705-248X",
+          "institutions": [
+            "Azienda Ospedaliero-Universitaria Careggi"
+          ]
+        },
+        {
+          "name": "Francesco Annunziato",
+          "openalex_id": "A5011711495",
+          "orcid": "https://orcid.org/0000-0001-8798-7589",
+          "institutions": [
+            "Azienda Ospedaliero-Universitaria Careggi",
+            "University of Florence"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-11-26",
+      "abstract": null,
+      "cited_by_count": 258,
+      "type": "review",
+      "source": {
+        "name": "Mucosal Immunology",
+        "type": "journal",
+        "issn": [
+          "1933-0219",
+          "1935-3456"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.mucosalimmunology.org/article/S1933021922001325/pdf"
+      },
+      "topics": [
+        "SARS-CoV-2 and COVID-19 Research",
+        "COVID-19 Clinical Research Studies",
+        "Long-Term Effects of COVID-19"
+      ],
+      "referenced_works_count": 188,
+      "url": "https://openalex.org/W3106646965"
+    },
+    {
+      "openalex_id": "W2976720228",
+      "doi": "10.1016/j.cpc.2019.106949",
+      "title": "DScribe: Library of descriptors for machine learning in materials science",
+      "authors": [
+        {
+          "name": "Lauri Himanen",
+          "openalex_id": "A5059047868",
+          "orcid": "https://orcid.org/0000-0002-3130-8193",
+          "institutions": [
+            "Aalto University"
+          ]
+        },
+        {
+          "name": "Marc O. J. J\u00e4ger",
+          "openalex_id": "A5103022151",
+          "institutions": [
+            "Aalto University"
+          ]
+        },
+        {
+          "name": "Eiaki V. Morooka",
+          "openalex_id": "A5061280867",
+          "orcid": "https://orcid.org/0009-0007-9345-2805",
+          "institutions": [
+            "Aalto University"
+          ]
+        },
+        {
+          "name": "Filippo Federici Canova",
+          "openalex_id": "A5103623277",
+          "institutions": [
+            "Aalto University",
+            "Nanolayers"
+          ]
+        },
+        {
+          "name": "Yashasvi S. Ranawat",
+          "openalex_id": "A5005434076",
+          "orcid": "https://orcid.org/0000-0001-7799-4267",
+          "institutions": [
+            "Aalto University"
+          ]
+        },
+        {
+          "name": "David Gao",
+          "openalex_id": "A5091349221",
+          "orcid": "https://orcid.org/0000-0002-9720-7627",
+          "institutions": [
+            "Norwegian University of Science and Technology",
+            "Nanolayers"
+          ]
+        },
+        {
+          "name": "Patrick Rinke",
+          "openalex_id": "A5046665161",
+          "orcid": "https://orcid.org/0000-0003-1898-723X",
+          "institutions": [
+            "Aalto University",
+            "Technical University of Munich"
+          ]
+        },
+        {
+          "name": "Adam S. Foster",
+          "openalex_id": "A5030321890",
+          "orcid": "https://orcid.org/0000-0001-5371-5905",
+          "institutions": [
+            "Aalto University",
+            "Life Science Institute",
+            "Johannes Gutenberg University Mainz",
+            "Kanazawa University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-26",
+      "abstract": "DScribe is a software package for machine learning that provides popular\\nfeature transformations (\"descriptors\") for atomistic materials simulations.\\nDScribe accelerates the application of machine learning for atomistic property\\nprediction by providing user-friendly, off-the-shelf descriptor\\nimplementations. The package currently contains implementations for Coulomb\\nmatrix, Ewald sum matrix, sine matrix, Many-body Tensor Representation (MBTR),\\nAtom-centered Symmetry Function (ACSF) and Smooth Overlap of Atomic Positions\\n(SOAP). Usage of the package is illustrated for two different applications:\\nformation energy prediction for solids and ionic charge prediction for atoms in\\norganic molecules. The package is freely available under the open-source Apache\\nLicense 2.0.\\n",
+      "cited_by_count": 739,
+      "type": "article",
+      "source": {
+        "name": "Computer Physics Communications",
+        "type": "journal",
+        "issn": [
+          "0010-4655",
+          "1879-2944"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0010465519303042?via%3Dihub"
+      },
+      "topics": [
+        "Machine Learning in Materials Science",
+        "Computational Drug Discovery Methods",
+        "X-ray Diffraction in Crystallography"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W2976720228"
+    },
+    {
+      "openalex_id": "W3156263552",
+      "doi": "10.1038/s43017-021-00155-x",
+      "title": "Initialized Earth System prediction from subseasonal to decadal timescales",
+      "authors": [
+        {
+          "name": "Gerald A. Meehl",
+          "openalex_id": "A5088846266",
+          "orcid": "https://orcid.org/0000-0002-8760-9534",
+          "institutions": [
+            "Climate and Global Dynamics Laboratory",
+            "NSF National Center for Atmospheric Research"
+          ]
+        },
+        {
+          "name": "Jadwiga H. Richter",
+          "openalex_id": "A5032252703",
+          "orcid": "https://orcid.org/0000-0001-7048-0781",
+          "institutions": [
+            "Climate and Global Dynamics Laboratory",
+            "NSF National Center for Atmospheric Research"
+          ]
+        },
+        {
+          "name": "Haiyan Teng",
+          "openalex_id": "A5026441268",
+          "orcid": "https://orcid.org/0000-0001-6839-0672",
+          "institutions": [
+            "Pacific Northwest National Laboratory"
+          ]
+        },
+        {
+          "name": "Antonietta Capotondi",
+          "openalex_id": "A5021490977",
+          "orcid": "https://orcid.org/0000-0002-3594-5472",
+          "institutions": [
+            "Cooperative Institute for Research in Environmental Sciences",
+            "NOAA Physical Sciences Laboratory",
+            "University of Colorado Boulder"
+          ]
+        },
+        {
+          "name": "K. M. Cobb",
+          "openalex_id": "A5031276403",
+          "orcid": "https://orcid.org/0000-0002-2125-9164",
+          "institutions": [
+            "Georgia Institute of Technology"
+          ]
+        },
+        {
+          "name": "Francisco J. Doblas\u2010Reyes",
+          "openalex_id": "A5077181632",
+          "orcid": "https://orcid.org/0000-0002-6622-4280",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Catalunya",
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "Barcelona Supercomputing Center"
+          ]
+        },
+        {
+          "name": "Markus G. Donat",
+          "openalex_id": "A5053346548",
+          "orcid": "https://orcid.org/0000-0002-0608-7288",
+          "institutions": [
+            "Barcelona Supercomputing Center",
+            "Universitat Polit\u00e8cnica de Catalunya"
+          ]
+        },
+        {
+          "name": "Matthew H. England",
+          "openalex_id": "A5027589785",
+          "orcid": "https://orcid.org/0000-0001-9696-2930",
+          "institutions": [
+            "UNSW Sydney"
+          ]
+        },
+        {
+          "name": "John C. Fyfe",
+          "openalex_id": "A5054074368",
+          "orcid": "https://orcid.org/0000-0003-2524-0652",
+          "institutions": [
+            "Environment and Climate Change Canada"
+          ]
+        },
+        {
+          "name": "Weiqing Han",
+          "openalex_id": "A5083983357",
+          "orcid": "https://orcid.org/0000-0003-3633-9105",
+          "institutions": [
+            "University of Colorado Boulder"
+          ]
+        },
+        {
+          "name": "Hyemi Kim",
+          "openalex_id": "A5076443181",
+          "orcid": "https://orcid.org/0000-0003-4713-4658",
+          "institutions": [
+            "Stony Brook University"
+          ]
+        },
+        {
+          "name": "Ben P. Kirtman",
+          "openalex_id": "A5067910023",
+          "orcid": "https://orcid.org/0000-0001-7423-2734",
+          "institutions": [
+            "University of Miami"
+          ]
+        },
+        {
+          "name": "Yochanan Kushnir",
+          "openalex_id": "A5000307534",
+          "orcid": "https://orcid.org/0000-0003-3312-5160",
+          "institutions": [
+            "Lamont-Doherty Earth Observatory",
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Nicole S. Lovenduski",
+          "openalex_id": "A5033119266",
+          "orcid": "https://orcid.org/0000-0001-5893-1009",
+          "institutions": [
+            "Institute of Arctic and Alpine Research",
+            "University of Colorado Boulder"
+          ]
+        },
+        {
+          "name": "Michael Mann",
+          "openalex_id": "A5061339003",
+          "orcid": "https://orcid.org/0000-0003-3067-296X",
+          "institutions": [
+            "Pennsylvania State University"
+          ]
+        },
+        {
+          "name": "William J. Merryfield",
+          "openalex_id": "A5083446207",
+          "orcid": "https://orcid.org/0000-0003-4280-9724",
+          "institutions": [
+            "Environment and Climate Change Canada"
+          ]
+        },
+        {
+          "name": "Ver\u00f2nica Nieves",
+          "openalex_id": "A5007936981",
+          "orcid": "https://orcid.org/0000-0003-0024-8383",
+          "institutions": [
+            "Universitat de Val\u00e8ncia"
+          ]
+        },
+        {
+          "name": "Kathy Pegion",
+          "openalex_id": "A5084835242",
+          "orcid": "https://orcid.org/0000-0001-5820-7678",
+          "institutions": [
+            "George Mason University"
+          ]
+        },
+        {
+          "name": "Nan Rosenbloom",
+          "openalex_id": "A5025996378",
+          "orcid": "https://orcid.org/0000-0001-7389-3346",
+          "institutions": [
+            "Climate and Global Dynamics Laboratory",
+            "NSF National Center for Atmospheric Research"
+          ]
+        },
+        {
+          "name": "Sara C. Sanchez",
+          "openalex_id": "A5011287980",
+          "orcid": "https://orcid.org/0000-0002-1923-1218",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Adam A. Scaife",
+          "openalex_id": "A5081992122",
+          "orcid": "https://orcid.org/0000-0002-5189-7538",
+          "institutions": [
+            "Exeter Hospital",
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Doug Smith",
+          "openalex_id": "A5009219680",
+          "orcid": "https://orcid.org/0000-0001-5708-694X",
+          "institutions": [
+            "Exeter Hospital"
+          ]
+        },
+        {
+          "name": "Aneesh C. Subramanian",
+          "openalex_id": "A5047030429",
+          "orcid": "https://orcid.org/0000-0001-7805-0102",
+          "institutions": [
+            "University of Colorado Boulder"
+          ]
+        },
+        {
+          "name": "Lantao Sun",
+          "openalex_id": "A5076498687",
+          "orcid": "https://orcid.org/0000-0001-8578-9175",
+          "institutions": [
+            "Colorado State University"
+          ]
+        },
+        {
+          "name": "D. M. Thompson",
+          "openalex_id": "A5042601207",
+          "orcid": "https://orcid.org/0000-0002-6181-1259",
+          "institutions": [
+            "University of Arizona"
+          ]
+        },
+        {
+          "name": "Caroline C. Ummenhofer",
+          "openalex_id": "A5048700514",
+          "orcid": "https://orcid.org/0000-0002-9163-3967",
+          "institutions": [
+            "ARC Centre of Excellence for Climate System Science",
+            "Woods Hole Oceanographic Institution"
+          ]
+        },
+        {
+          "name": "Shang\u2010Ping Xie",
+          "openalex_id": "A5027462848",
+          "orcid": "https://orcid.org/0000-0002-3676-1325",
+          "institutions": [
+            "Scripps Institution of Oceanography"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-13",
+      "abstract": null,
+      "cited_by_count": 226,
+      "type": "review",
+      "source": {
+        "name": "Nature Reviews Earth & Environment",
+        "type": "journal",
+        "issn": [
+          "2662-138X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.nature.com/articles/s43017-021-00155-x.pdf"
+      },
+      "topics": [
+        "Climate variability and models",
+        "Meteorological Phenomena and Simulations",
+        "Atmospheric and Environmental Gas Dynamics"
+      ],
+      "referenced_works_count": 276,
+      "url": "https://openalex.org/W3156263552"
+    },
+    {
+      "openalex_id": "W3180328126",
+      "doi": "10.3390/biom11071011",
+      "title": "Inflammation and Cell Death of the Innate and Adaptive Immune System during Sepsis",
+      "authors": [
+        {
+          "name": "Christina Nedeva",
+          "openalex_id": "A5043520414",
+          "orcid": "https://orcid.org/0000-0002-9887-8019",
+          "institutions": [
+            "La Trobe University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-07-10",
+      "abstract": "Sepsis is a life-threatening medical condition that occurs when the host has an uncontrolled or abnormal immune response to overwhelming infection. It is now widely accepted that sepsis occurs in two concurrent phases, which consist of an initial immune activation phase followed by a chronic immunosuppressive phase, leading to immune cell death. Depending on the severity of the disease and the pathogen involved, the hosts immune system may not fully recover, leading to ongoing complications proceeding the initial infection. As such, sepsis remains one of the leading causes of morbidity and mortality world-wide, with treatment options limited to general treatment in intensive care units (ICU). Lack of specific treatments available for sepsis is mostly due to our limited knowledge of the immuno-physiology associated with the disease. This review will provide a comprehensive overview of the mechanisms and cell types involved in eliciting infection-induced immune activation from both the innate and adaptive immune system during sepsis. In addition, the mechanisms leading to immune cell death following hyperactivation of immune cells will be explored. The evaluation and better understanding of the cellular and systemic responses leading to disease onset could eventuate into the development of much needed therapies to combat this unrelenting disease.",
+      "cited_by_count": 214,
+      "type": "review",
+      "source": {
+        "name": "Biomolecules",
+        "type": "journal",
+        "issn": [
+          "2218-273X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2218-273X/11/7/1011/pdf?version=1625924139"
+      },
+      "topics": [
+        "Sepsis Diagnosis and Treatment",
+        "Immune Response and Inflammation",
+        "Inflammation biomarkers and pathways"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W3180328126"
+    },
+    {
+      "openalex_id": "W2021694444",
+      "doi": "10.1039/c4cs00143e",
+      "title": "Single-molecule electronics: from chemical design to functional devices",
+      "authors": [
+        {
+          "name": "Lanlan Sun",
+          "openalex_id": "A5102911042",
+          "orcid": "https://orcid.org/0000-0002-3290-6101",
+          "institutions": [
+            "Chalmers University of Technology"
+          ]
+        },
+        {
+          "name": "Yuri Diaz Fernandez",
+          "openalex_id": "A5026297694",
+          "orcid": "https://orcid.org/0000-0003-3422-8663",
+          "institutions": [
+            "Chalmers University of Technology"
+          ]
+        },
+        {
+          "name": "Tina Gschneidtner",
+          "openalex_id": "A5118940932",
+          "orcid": "https://orcid.org/0000-0002-9009-3209",
+          "institutions": [
+            "Chalmers University of Technology"
+          ]
+        },
+        {
+          "name": "Fredrik Westerlund",
+          "openalex_id": "A5090791975",
+          "orcid": "https://orcid.org/0000-0002-4767-4868",
+          "institutions": [
+            "Chalmers University of Technology"
+          ]
+        },
+        {
+          "name": "Samuel Lara\u2010Avila",
+          "openalex_id": "A5033238019",
+          "orcid": "https://orcid.org/0000-0002-8331-718X",
+          "institutions": [
+            "Micro Cooling Concepts (United States)",
+            "Chalmers University of Technology"
+          ]
+        },
+        {
+          "name": "Kasper Moth\u2010Poulsen",
+          "openalex_id": "A5012584282",
+          "orcid": "https://orcid.org/0000-0003-4018-4927",
+          "institutions": [
+            "Chalmers University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "The use of single molecules in electronics represents the next limit of miniaturisation of electronic devices, which would enable to continue the trend of aggressive downscaling of silicon-based electronic devices.",
+      "cited_by_count": 503,
+      "type": "review",
+      "source": {
+        "name": "Chemical Society Reviews",
+        "type": "journal",
+        "issn": [
+          "0306-0012",
+          "1460-4744"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.rsc.org/en/content/articlepdf/2014/cs/c4cs00143e"
+      },
+      "topics": [
+        "Molecular Junctions and Nanostructures",
+        "Quantum and electron transport phenomena",
+        "Quantum-Dot Cellular Automata"
+      ],
+      "referenced_works_count": 419,
+      "url": "https://openalex.org/W2021694444"
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

@@ -1,0 +1,517 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "cognitive constitution Rowlands",
+  "results": [
+    {
+      "paperId": "d65f68e19e7fa56756281cfb050eea7150a4ffb1",
+      "title": "The New Science of the Mind: From Extended Mind to Embodied Phenomenology",
+      "authors": [
+        {
+          "name": "Andreas Elpidorou",
+          "authorId": "2015562"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 73,
+      "doi": "10.1080/09515089.2011.633697",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d65f68e19e7fa56756281cfb050eea7150a4ffb1",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "771 - 774",
+        "volume": "25"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ebafeca30c531733457225935f59e1a9769de668",
+      "title": "Pain: Modularity and Cognitive Constitution",
+      "authors": [
+        {
+          "name": "B\u0142a\u017cej Skrzypulec",
+          "authorId": "3802662"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Discussions concerning the modularity of the pain system have been focused on questions regarding the cognitive penetrability of pain mechanisms. It has been claimed that phenomena such as placebo analgesia demonstrate that the pain system is cognitively penetrated; therefore, it is not encapsulated from central cognition. However, important arguments have been formulated which aim to show that cognitive penetrability does not in fact entail a lack of modularity of the pain system. This paper offers an alternative way to reject the modularity of the pain system, which is independent from, but consistent with, the presence of cognitive penetration. It is proposed that, given the current knowledge regarding the functioning and the structure of the pain system, there are good reasons to accept that certain central cognitive mechanisms are part of the pain system. It is argued that such a \u2018cognitive constitution\u2019 of the pain system entails that the pain system is not modular.",
+      "citationCount": 1,
+      "doi": "10.1086/727001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ebafeca30c531733457225935f59e1a9769de668",
+      "venue": "British Journal for the Philosophy of Science",
+      "journal": {
+        "name": "The British Journal for the Philosophy of Science"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "2c7f28c1215b21ec2746394e2a869b2275df71da",
+      "title": "Epistemic Virtue, Reliable Attention, and Cognitive Constitution",
+      "authors": [
+        {
+          "name": "A. Fairweather",
+          "authorId": "30203426"
+        },
+        {
+          "name": "Carlos Montemayor",
+          "authorId": "144520696"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1017/9781316105849.002",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2c7f28c1215b21ec2746394e2a869b2275df71da",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "27-52",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d093ff2a0c3cecd6ba94eaa5b35d5005c65d3a19",
+      "title": "Mechanistic Constitution as a Natural Law in Better Best Systems",
+      "authors": [
+        {
+          "name": "Jens Harbecke",
+          "authorId": "49531966"
+        }
+      ],
+      "year": 2025,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s10838-025-09717-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d093ff2a0c3cecd6ba94eaa5b35d5005c65d3a19",
+      "venue": "Journal for General Philosophy of Science, Zeitschrift f\u00fcr allgemeine Wissenschaftstheorie",
+      "journal": {
+        "name": "Journal for General Philosophy of Science",
+        "pages": "325 - 344",
+        "volume": "56"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "title": "The Mark of the Cognitive and the Coupling-Constitution Fallacy: A Defense of the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "authorId": "2053496114"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Clark and Chalmers (1998) introduced the extended mind hypothesis, according to which some mental states can be realized by non-biological external resources. A lively debate has flourished around this hypothesis, connected with the issues of embodiment, embeddedness, situatedness and enaction (cf. Clark, 2008; Menary, 2010; Shapiro, 2011). Two of the main criticisms addressed to the functionalist version of the extended mind thesis have been the so-called \u201ccoupling-constitution fallacy\u201d and the alleged lack of a mark of the cognitive (Adams and Aizawa, 2001, 2005, 2009, 2010a,b). According to Adams and Aizawa, extended cognition is a logical possibility, but is not instantiated in our world. Following this view, they defend a \u201ccontingent intracranialism,\u201d based on a specific mark of the cognitive that they propose. In this paper I intend to show that neither criticism is effective against the extended cognition thesis. In particular: the mark of the cognitive proposed by Adams and Aizawa does not secure contingent intracranialism; the coupling-constitution fallacy criticizes extended cognition on precisely the point the theory was intended to defend: namely, that the best way to individuate cognitive systems, given a minimal mark of the cognitive, is to rely on coupling relations between agents and environmental resources.",
+      "citationCount": 15,
+      "doi": "10.3389/fpsyg.2017.02061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "bc6b2618b851428214037bc258dc2c7cd3cebc08",
+      "title": "A Study on Oh, Sae-young\u2019s Poetry in Cognitive Constitution & Being Consciousness",
+      "authors": [
+        {
+          "name": "Songhee Lee",
+          "authorId": "2108234968"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/bc6b2618b851428214037bc258dc2c7cd3cebc08",
+      "venue": "",
+      "journal": {
+        "name": "The Korean Language and Literature",
+        "pages": "361-385",
+        "volume": "24"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2523e0ffc4316bd1977feee220ab053373993f4d",
+      "title": "Philosophy as a Cognitive Practice: the Constitution of the category of rest in the structure of knowledge",
+      "authors": [
+        {
+          "name": "I. Dokuchaev",
+          "authorId": "81643271"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.30936/1606-951x-2019-21-3/4-73-87",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2523e0ffc4316bd1977feee220ab053373993f4d",
+      "venue": "Personality Culture Society",
+      "journal": {
+        "name": "Personality.Culture.Society"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "e2c7fa70e162a47c184deb06e42dce8627ffa0f9",
+      "title": "The phenomenon of the representation and constitution of the world of cotemplation in philosophy",
+      "authors": [
+        {
+          "name": "Valentin Cu\u0219c\u0103",
+          "authorId": "2267781128"
+        }
+      ],
+      "year": 2024,
+      "abstract": "The subject addressed in the article concerns the philosophical essence of representation and the world of contemplation in epistemology. It is followed and analyzed the cognitive process and the constitution of pure perception, the transition, then, through representation as a subjective reproductive image, to the symbolic, non-contemplative form of knowledge through language. The essence of representation lies in the fact that it thus makes the connection between sensible \"living\" through contemplation and rational thought, mediated by conventional language, as a symbolic form. Thus, the symbolic existence constituted/constructed through language becomes, in the process of knowledge, another dimension, the superior dimension of reality. The essence of man as a rational being is transformed into a symbolic being that communicates, in a semiotic context, with meanings and meanings, thus living in the universe of symbolic forms - mythology, language, science/knowledge, culture and religion.",
+      "citationCount": 0,
+      "doi": "10.46727/c.v3.21-22-03-2024.p135-142",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e2c7fa70e162a47c184deb06e42dce8627ffa0f9",
+      "venue": "\u015etiin\u021b\u0103 \u0219i educa\u021bie: noi abord\u0103ri \u0219i perspective: Materialele conferin\u0163ei \u015ftiin\u0163ifice interna\u0163ionale.  Vol. 3: \u015etiin\u0163e umaniste",
+      "journal": {
+        "name": "\u015etiin\u021b\u0103 \u0219i educa\u021bie: noi abord\u0103ri \u0219i perspective: Materialele conferin\u0163ei \u015ftiin\u0163ifice interna\u0163ionale.  Vol. 3: \u015etiin\u0163e umaniste"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "62ee22fd57fde6db5facf8cdb42721e87bd9c6d8",
+      "title": "Symbolization and appresentational orders in lifeworldly meaning constitution",
+      "authors": [
+        {
+          "name": "Benjamin Stuck",
+          "authorId": "2330023400"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract This analysis focuses on the role of appresentational orders in the \u201cbuilding of the lifeworld.\u201d Based in phenomenology and the philosophy of culture, the article contributes to semiotics by further developing some of G\u00f6ran Sonesson\u2019s ideas on signs. Appresentation means that \u201cabsent\u201d data is intended as co-present with a directly perceivable term within the unity of consciousness (Husserl). Alfred Schutz sees \u201cmarks,\u201d \u201cindications,\u201d and \u201csigns\u201d as different types of couplings between \u201cpresent\u201d and \u201cabsent\u201d data according to one single cognitive style or \u201csubworld.\u201d These appresentational relations contrast with the more complex \u201csymbols,\u201d which are couplings between different styles or subworlds. For instance, a crucifix may co-present a \u201cLatin cross\u201d given to everyday perception with meanings belonging to the world of religion, making it \u201csymbolically pregnant\u201d (Cassirer). Beyond a mere coupling, appresentation is constituted by appresentational orders, which can reflect high relational complexity. Although Schutz introduced the concept of these orders, he, like Sonesson, misses their full potential for understanding appresentation. Signs and sign-like relations (such as marks and indications), which make possible (life)worldly communication, spatial and temporal orientation, and social organization, can be further differentiated according to the appresentational orders \u201cdominant\u201d in each certain case. In contrast, symbols, which ensure an experience of the lifeworld as a whole (Voegelin), that connect subworlds such as religion, science, dreams, etc., are rather to be characterized by a relevance \u201cannihilation\u201d between appresentational orders.",
+      "citationCount": 2,
+      "doi": "10.1515/sem-2024-0147",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/62ee22fd57fde6db5facf8cdb42721e87bd9c6d8",
+      "venue": "Semiotica: Journal of the International Association for Semiotic Studies",
+      "journal": {
+        "name": "Semiotica",
+        "pages": "45 - 81",
+        "volume": "2024"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "5dd8821256fe4648c9866eb995dea2793ddf048c",
+      "title": "Enactivism and Cognitive Science: Triple Review of J. Stewart, O. Gapenne, and E. A. Di Paolo (eds.), Enaction: Towards a New Paradigm for Cognitive Science; Anthony Chemero, Radical Embodied Cognitive Science; and Mark Rowlands, The New Science of the Mind\u201d",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 10,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5dd8821256fe4648c9866eb995dea2793ddf048c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "94f2ac8a4d90390cc5991528bc67c99c88033fea",
+      "title": "SOVEREIGN RUSSIAN STATEHOOD. COGNITIVE TECHNOLOGIES FOR VALUE TRANSFORMATION",
+      "authors": [
+        {
+          "name": "Elena Vinogradova",
+          "authorId": "2318185397"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Modern Russian statehood is based on domestic historical, legal, cultural values, the preservation of which is manifested in the provisions of the Constitution of the Russian Federation as one of the im-portant tasks. The value system is a topic that has repeatedly become the subject of scientific analysis. Protecting this system and its elements from threats, in particular from cognitive distortions and transformations, has become especially relevant in recent years. The article is devoted to the analysis of the influence of cognitive technologies on the system of sovereign Russian values. It is concluded that in Russian legislation, along with the concept of information security, it is necessary to consolidate cognitive security. In its most general form, it can be considered as a system for counter-ing cognitive technologies.",
+      "citationCount": 1,
+      "doi": "10.29039/2312-7937-2024-2-152-156",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/94f2ac8a4d90390cc5991528bc67c99c88033fea",
+      "venue": "VESTNIK ADVANCED TRAINING INSTITUTE OF THE MIA OF RUSSIA",
+      "journal": {
+        "name": "VESTNIK ADVANCED TRAINING INSTITUTE OF THE MIA OF RUSSIA"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "39f82d4a4d2187d216c77172db94c41b5fb2d727",
+      "title": "The constitutional right to daily and weekly rest in a theoretical and cognitive perspective",
+      "authors": [
+        {
+          "name": "Olgierd Kucharski",
+          "authorId": "2101093121"
+        }
+      ],
+      "year": 2024,
+      "abstract": "This article deals with the analysis of the constitutional right to rest in terms of the theoretical-cognitive concept of I. Kant. It makes it possible to distinguish and organise two levels of understanding of the right to rest. The first understanding is related to the necessity of ensuring the regeneration of the worker's strength, which results from his physiology. In this respect, we come to know such needs by treating man as a phenomenon, for which Kantian pure reason is used, and is related to the ordering role played by the apriori form of time. The second level of understanding the right to uninterrupted rest is closely related to the meaning of the existing legal provisions introducing such arrangements. It is based on practical reason and the categories of freedom and duty to guarantee as much freedom as possible, which directly relates to the categorical imperative. The right torest enshrined in Article 66(2) of the Constitution of the Republic of Poland enables the reconstruction of the values described above and referring to the protective and organisational function of rest during working time.",
+      "citationCount": 0,
+      "doi": "10.16926/gea.2024.01.01.10",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/39f82d4a4d2187d216c77172db94c41b5fb2d727",
+      "venue": "Gubernaculum et Administratio",
+      "journal": {
+        "name": "Gubernaculum et Administratio"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "30c8ad05935ba558574654cfcfd3a9d7eea70f1f",
+      "title": "Our \u201cCognitive Limitations\u201d and the Hard Problem of Consciousness",
+      "authors": [
+        {
+          "name": "Andrew Stark",
+          "authorId": "2322579920"
+        }
+      ],
+      "year": 2024,
+      "abstract": "\n Philosophers have conjectured that human cognitive limitations might preclude our ever resolving the hard problem of consciousness. Few, however, have offered suggestions as to what it might be about our conceptual apparatus that poses the problem. I do so in this essay, arguing that our central difficulties lie with two conceptual categories that pervade philosophical discussion of the hard problem. They are compositional concepts -- part/whole, constituents/constitution, and the like \u2013 and instantiational concepts: properties/objects, universals/particulars, and the like. I look at the uses of these two conceptual categories in four contexts in which the hard problem is considered: multiple realizability, zombies, mental causation, and panpsychism. I show that the two conceptual categories run into the same kinds of obstacles in each case, which suggests that they might be key to the cognitive limitations about which some have speculated",
+      "citationCount": 0,
+      "doi": "10.1017/apa.2024.7",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/30c8ad05935ba558574654cfcfd3a9d7eea70f1f",
+      "venue": "Journal of the American Philosophical Association",
+      "journal": {
+        "name": "Journal of the American Philosophical Association"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "c4b1dc006e4cd86c49f8841537b1021179ee623b",
+      "title": "Loops, constitution, and cognitive extension",
+      "authors": [
+        {
+          "name": "S. Palermos",
+          "authorId": "1834731"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 133,
+      "doi": "10.1016/j.cogsys.2013.04.002",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c4b1dc006e4cd86c49f8841537b1021179ee623b",
+      "venue": "Cognitive Systems Research",
+      "journal": {
+        "name": "Cognitive Systems Research",
+        "pages": "25-41",
+        "volume": "27"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "571ccd481994148a0b124f0944b14e5b24c415a2",
+      "title": "Body as First Teacher: The Role of Rhythmic Visceral Dynamics in Early Cognitive Development",
+      "authors": [
+        {
+          "name": "Andrew W. Corcoran",
+          "authorId": "35336477"
+        },
+        {
+          "name": "Kelsey Perrykkad",
+          "authorId": "88666885"
+        },
+        {
+          "name": "Daniel Feuerriegel",
+          "authorId": "6559429"
+        },
+        {
+          "name": "J. Robinson",
+          "authorId": "47935344"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Embodied cognition\u2014the idea that mental states and processes should be understood in relation to one\u2019s bodily constitution and interactions with the world\u2014remains a controversial topic within cognitive science. Recently, however, increasing interest in predictive processing theories among proponents and critics of embodiment alike has raised hopes of a reconciliation. This article sets out to appraise the unificatory potential of predictive processing, focusing in particular on embodied formulations of active inference. Our analysis suggests that most active-inference accounts invoke weak, potentially trivial conceptions of embodiment; those making stronger claims do so independently of the theoretical commitments of the active-inference framework. We argue that a more compelling version of embodied active inference can be motivated by adopting a diachronic perspective on the way rhythmic physiological activity shapes neural development in utero. According to this visceral afferent training hypothesis, early-emerging physiological processes are essential not only for supporting the biophysical development of neural structures but also for configuring the cognitive architecture those structures entail. Focusing in particular on the cardiovascular system, we propose three candidate mechanisms through which visceral afferent training might operate: (a) activity-dependent neuronal development, (b) periodic signal modeling, and (c) oscillatory network coordination.",
+      "citationCount": 10,
+      "doi": "10.1177/17456916231185343",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/571ccd481994148a0b124f0944b14e5b24c415a2",
+      "venue": "Perspectives on Psychological Science",
+      "journal": {
+        "name": "Perspectives on Psychological Science",
+        "pages": "45 - 75",
+        "volume": "20"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "2f79110b18b964837d96858e83612d6bb3518b5e",
+      "title": "Ethical-Linguistic constitution of clinical subjectivities: a L\u00e9vinasian perspective",
+      "authors": [
+        {
+          "name": "C. E. Pompilio",
+          "authorId": "5080124"
+        },
+        {
+          "name": "Mariana de Toledo Fran\u00e7a",
+          "authorId": "2384422488"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This article explores the clinical encounter not merely as a site for technical intervention or diagnostic reasoning, but as a complex event where epistemology and ethics converge. Challenging the reduction of medicine to scientific protocols, it argues for a conceptual reorientation grounded in language and human relationality. The encounter between clinician and patient is framed as both an epistemic inquiry and a moral covenant, where understanding a patient\u2019s condition requires access not only to biological data but to their social, cultural, and linguistic lifeworld. While the sciences offer truth about the body, they do not suffice to grasp the full existential dimension of illness. Language thus becomes central\u2014not only as a medium of communication, but as the very space where knowledge and care are shaped and shared. It is in and through language that ethical responsibility toward the patient is enacted. This article synthesizes a philosophical investigation into the ethical and linguistic foundations of medical practice. Drawing on the work of Wilhelm von Humboldt, \u00c9mile Benveniste, Emmanuel Levinas, and decolonial thinkers such as Frantz Fanon and \u00c9douard Glissant, it develops a theoretical framework that helps to clarify how subjectivity, vulnerability, and responsibility emerge in and through language during the clinical encounter. The approach is conceptual and interpretive, grounded in close textual analysis and oriented toward the ethical implications of these philosophical insights within the medical practice. From this analysis emerges a critique of dominant ontological assumptions within Western medicine, particularly its tendency to assimilate the Other into pre-existing categories, thereby enacting a form of epistemic violence. Levinas\u2019s distinction between the Said (le Dit) and the Saying (le Dire) becomes central to this critique. The Said corresponds to propositional knowledge and thematic discourse\u2014typical of clinical reasoning\u2014while the Saying signals a more primordial ethical relation: an act of exposure, vulnerability, and responsibility toward the Other. Proximity, as defined by Levinas, is not a spatial or cognitive closeness but an ethical immediacy\u2014a face-to-face relation where the Other appears as irreducibly singular. Humboldt\u2019s and Benveniste\u2019s linguistic theories reinforce this view by emphasizing that subjectivity is dialogical and relational rather than autonomous and pregiven. In contrast to Habermas\u2019s emphasis on validity claims and rational consensus, Levinas privileges the irreducible alterity of the Other as the foundation of ethical life, a move that reframes the conditions under which medical knowledge and care become possible. These philosophical insights have profound implications for the medical practice. When in a clinical encounter, the patients do not merely present symptoms to be categorized\u2014they bring a world that demands ethical attention. Medical language, far from being neutral, reconfigures how illness is understood and treated. The difference between saying a patient \u201chas diabetes,\u201d \u201csuffers from diabetes,\u201d or \u201cis diabetic\u201d reflects deeper assumptions about identity and embodiment. The ethical quality of care hinges on such linguistic choices. Through the lens of Levinas\u2019s Saying, the patient\u2019s voice is heard not simply as information but as a call to responsibility. Moreover, when placed in conversation with decolonial thinkers, this analysis reveals the extent to which colonial and racialized logics continue to shape medical practice. Fanon\u2019s critique of the objectification of Black bodies, and Glissant\u2019s defense of \u201copacity\u201d against totalizing knowledge systems, highlight how patients are often forced into identities that obscure their singularity. The ethical demand of the clinical encounter thus resists any framework\u2014biological, social, or racial\u2014that seeks to fully determine the patient in advance of relation. The article concludes that ethical responsibility in medicine arises not from what is known about the patient, but from a willingness to engage with what remains unknown and unknowable\u2014their singularity, vulnerability, and alterity. The clinical encounter is reimagined as a moral space where language becomes the medium through which care is not only delivered but ethically constituted. In this reconfiguration, the practice of medicine moves beyond procedural norms and toward a relational ethics rooted in proximity and attentiveness. By bringing together Levinas\u2019s philosophy of language and responsibility with decolonial critiques of medical rationality, the article calls for a fundamental transformation in how healing is conceived: not as mastery over the body, but as a dialogical and ethical relation between singular beings.",
+      "citationCount": 0,
+      "doi": "10.1186/s13010-025-00179-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2f79110b18b964837d96858e83612d6bb3518b5e",
+      "venue": "Philosophy, Ethics, and Humanities in Medicine",
+      "journal": {
+        "name": "Philosophy, Ethics, and Humanities in Medicine : PEHM",
+        "volume": "20"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "3f6f856937d7ac3dc63b9506e625cfbbb1f186a4",
+      "title": "The Role of Affective Sensemaking in the Constitution of Experience. The Affective Pertinentization Model (APER)",
+      "authors": [
+        {
+          "name": "S. Salvatore",
+          "authorId": "5524129"
+        },
+        {
+          "name": "Raffaele De Luca Picione",
+          "authorId": "2267645878"
+        },
+        {
+          "name": "M. Cozzolino",
+          "authorId": "3632134"
+        },
+        {
+          "name": "Vincenzo Bochicchio",
+          "authorId": "38906278"
+        },
+        {
+          "name": "A. Palmieri",
+          "authorId": "35854108"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 49,
+      "doi": "10.1007/s12124-020-09590-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3f6f856937d7ac3dc63b9506e625cfbbb1f186a4",
+      "venue": "Integrative Psychological and Behavioural Science",
+      "journal": {
+        "name": "Integrative Psychological and Behavioral Science",
+        "pages": "114 - 132",
+        "volume": "56"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "87a6995c635f13166dda04b0901028ee107f79b0",
+      "title": "The Truth We Know. Reassessing Su\u00e1rez\u2019s Account of Cognitive Truth and Objective Being",
+      "authors": [
+        {
+          "name": "Simone Guidi",
+          "authorId": "2259050416"
+        }
+      ],
+      "year": 2023,
+      "abstract": "This article aims at reassessing a widespread view, according to which Francisco Su\u00e1rez left behind the scholastic model of truth as adaequatio, founding a new concept of truth based on his metaphysics of objective being. In the first part, I reconstruct the debate on the complex and incomplex truth, focu-sing especially on the sources of Su\u00e1rez\u2019s Disputation 8, and presenting the views of Aquinas, Henry of Ghent, Hervaeus, Durandus, Capreolus and Fonseca. Especially the latter proposes an eclectic synthesis, blending elements from the Dominican tradition and Henry of Ghent. In the second part, I analyze Su\u00e1rez\u2019s Disputation 8, showing that his doctrine of truth reprises and mitigates Fonseca\u2019s, thus following most of the Dominican commentators of Aquinas. Here I explain especially the role played by objective being in the constitution of the truth in cognoscendo, also showing that the latter cannot be given without a previous adequation on the level of the truth in significando (the species). In the third part, I discuss three textual passages used by contemporary historiography to legitimate Su\u00e1rez\u2019s alleged abandon of adaequatio, pointing out, in the light of the previous reconstruction, some misreadings in these interpretations.",
+      "citationCount": 0,
+      "doi": "10.21747/21836884/med40a11",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/87a6995c635f13166dda04b0901028ee107f79b0",
+      "venue": "Mediaevalia Textos e estudos",
+      "journal": {
+        "name": "Mediaevalia Textos e estudos"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f207b70c87d1edf1ebcf88dea346ccacd37ab6c1",
+      "title": "Can contemporary cognitive science coherently accommodate itself?",
+      "authors": [
+        {
+          "name": "A. Baz",
+          "authorId": "143737745"
+        }
+      ],
+      "year": 2024,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11229-024-04704-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f207b70c87d1edf1ebcf88dea346ccacd37ab6c1",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "204"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d724f763da42d7eab38a98f28f449e3c2c7c7e4c",
+      "title": "A \u201ccritical inquisition into the constitution of the intellectual faculties\u201d: Kantian transcendental analysis and transcendental reflection in S.T. Coleridge's Logic",
+      "authors": [
+        {
+          "name": "D. Struwig",
+          "authorId": "115116924"
+        }
+      ],
+      "year": 2022,
+      "abstract": "ABSTRACT This essay examines Samuel Taylor Coleridge's Logic and its interpretation of Kant's \u201cscience of transcendental analysis\u201d as a theory of the cognitive faculties and their \u201cinherent forms\u201d or \u201cseveral functional powers\u201d. I explain why Coleridge characterises transcendental analysis as an \u201cinvestigation into the constitution and constituent forms\u201d of the faculties, and consider the reasons behind his schematic division of such inquiry into \u201ctranscendental [\u2009\u2026\u2009] \u00c6sthetic, Logic, and Noetic\u201d. I argue that Coleridge's claims about the forms, operations, and contents that derive from different cognitive powers, and the philosophical method that enables us to prove such derivation, are based on Kant's theory of \u201ctranscendental reflection\u201d. I also explain how Coleridge's facultative conception of transcendental analysis relates to recent scholarship on Kant's accounts of (i) our cognitive capacities and (ii) the purposes of transcendental reflection. My essay does not aim to defend Coleridge's interpretation of Kant, but rather to provide a clearer picture of how this interpretation informs Coleridge's analysis of cognitive activity and mental content in Logic, including his \u201ctranscendental noetic\u201d, which seeks to explain the possibility of the kind intellectual intuition that Kant explicitly denies.",
+      "citationCount": 0,
+      "doi": "10.1080/17496977.2021.2017704",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d724f763da42d7eab38a98f28f449e3c2c7c7e4c",
+      "venue": "Intellectual History Review",
+      "journal": {
+        "name": "Intellectual History Review",
+        "pages": "287 - 309",
+        "volume": "33"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

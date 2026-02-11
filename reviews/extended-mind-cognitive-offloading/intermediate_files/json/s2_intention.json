@@ -1,0 +1,732 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "intention offloading",
+  "results": [
+    {
+      "paperId": "6026415f9eb67585ff5010d24eaeef7be5e7a2d7",
+      "title": "Metacognition guides intention offloading and fulfillment of real-world plans.",
+      "authors": [
+        {
+          "name": "A. E. Scott",
+          "authorId": "2275128792"
+        },
+        {
+          "name": "Sam J. Gilbert",
+          "authorId": "2250733428"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Reminders such as calendar entries and digital alerts are highly effective at helping people remember what they need to do. Recent work has explored the triggers of reminder setting, also known as intention offloading, finding that low confidence is associated with more offloading in laboratory tasks. This supports a metacognitive model of cognitive offloading. Here, we investigated whether this model generalizes to real-world intentions. We asked 112 participants about their upcoming plans and subsequent fulfillment of those plans in two online surveys conducted in 2022. Participants were more likely to set reminders for plans that (a) they were less confident they would remember and (b) they judged to be more important. Participants with lower confidence that they would remember to return for the second survey were more likely to set a reminder for this plan. This, in turn, predicted greater fulfillment. Therefore, ironically, lower confidence predicted greater success. These findings show that intention offloading predicts fulfillment of real-world intentions. They also point toward metacognition as a target for interventions to facilitate this. (PsycInfo Database Record (c) 2024 APA, all rights reserved).",
+      "citationCount": 8,
+      "doi": "10.1037/xap0000515",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6026415f9eb67585ff5010d24eaeef7be5e7a2d7",
+      "venue": "Journal of experimental psychology. Applied",
+      "journal": {
+        "name": "Journal of experimental psychology. Applied"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "e7a145e76e976eb5f7e41e87cb90cab78efbcdc0",
+      "title": "Intention offloading: Domain-general versus task-specific confidence signals",
+      "authors": [
+        {
+          "name": "Chhavi Sachdeva",
+          "authorId": "1395809643"
+        },
+        {
+          "name": "Sam J Gilbert",
+          "authorId": "2295518663"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Intention offloading refers to the use of external reminders to help remember delayed intentions (e.g., setting an alert to help you remember when you need to take your medication). Research has found that metacognitive processes influence offloading such that individual differences in confidence predict individual differences in offloading regardless of objective cognitive ability. The current study investigated the cross-domain organization of this relationship. Participants performed two perceptual discrimination tasks where objective accuracy was equalized using a staircase procedure. In a memory task, two measures of intention offloading were collected, (1) the overall likelihood of setting reminders, and (2) the bias in reminder-setting compared to the optimal strategy. It was found that perceptual confidence was associated with the first measure but not the second. It is shown that this is because individual differences in perceptual confidence capture meaningful differences in objective ability despite the staircase procedure. These findings indicate that intention offloading is influenced by both domain-general and task-specific metacognitive signals. They also show that even when task performance is equalized via staircasing, individual differences in confidence cannot be considered a pure measure of metacognitive bias.",
+      "citationCount": 3,
+      "doi": "10.3758/s13421-024-01529-4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e7a145e76e976eb5f7e41e87cb90cab78efbcdc0",
+      "venue": "Memory & Cognition",
+      "journal": {
+        "name": "Memory & Cognition",
+        "pages": "1125 - 1141",
+        "volume": "52"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "ee50e19dd68ccecd5394887ddff5cb246c09f7f3",
+      "title": "Outsourcing Memory to External Tools: A Review of \u2018Intention Offloading\u2019",
+      "authors": [
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        },
+        {
+          "name": "Annika Boldt",
+          "authorId": "3387192"
+        },
+        {
+          "name": "Chhavi Sachdeva",
+          "authorId": "1395809643"
+        },
+        {
+          "name": "C. Scarampi",
+          "authorId": "1694860088"
+        },
+        {
+          "name": "Pei\u2010Chun Tsai",
+          "authorId": "48201858"
+        }
+      ],
+      "year": 2022,
+      "abstract": "How do we remember delayed intentions? Three decades of research into prospective memory have provided insight into the cognitive and neural mechanisms involved in this form of memory. However, we depend on more than just our brains to remember intentions. We also use external props and tools such as calendars and diaries, strategically placed objects, and technologies such as smartphone alerts. This is known as \u2018intention offloading\u2019. Despite the progress in our understanding of brain-based prospective memory, we know much less about the role of intention offloading in individuals\u2019 ability to fulfil delayed intentions. Here, we review recent research into intention offloading, with a particular focus on how individuals decide between storing intentions in internal memory versus external reminders. We also review studies investigating how intention offloading changes across the lifespan and how it relates to underlying brain mechanisms. We conclude that intention offloading is highly effective, experimentally tractable, and guided by metacognitive processes. Individuals have systematic biases in their offloading strategies that are stable over time. Evidence also suggests that individual differences and developmental changes in offloading strategies are driven at least in part by metacognitive processes. Therefore, metacognitive interventions could play an important role in promoting individuals\u2019 adaptive use of cognitive tools.",
+      "citationCount": 46,
+      "doi": "10.3758/s13423-022-02139-4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ee50e19dd68ccecd5394887ddff5cb246c09f7f3",
+      "venue": "Psychonomic Bulletin & Review",
+      "journal": {
+        "name": "Psychonomic Bulletin & Review",
+        "pages": "60 - 76",
+        "volume": "30"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "b2df58cf9578ff34c6ea0ea6ca2d59b6c65ee41a",
+      "title": "Individual differences in working memory capacity predict benefits to memory from intention offloading",
+      "authors": [
+        {
+          "name": "H. Ball",
+          "authorId": "144658855"
+        },
+        {
+          "name": "P. Peper",
+          "authorId": "118012413"
+        },
+        {
+          "name": "D. Alakbarova",
+          "authorId": "2089129672"
+        },
+        {
+          "name": "Gene A. Brewer",
+          "authorId": "35135684"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2021,
+      "abstract": "ABSTRACT Research suggests that individuals with lower working memory have difficulty remembering to fulfil delayed intentions. The current study examined whether the ability to offload intentions onto the environment mitigated these deficits. Participants (N\u2009=\u2009268) completed three versions of a delayed intention task with and without the use of reminders, along with three measures of working memory capacity. Results showed that individuals with higher working memory fulfilled more intentions when having to rely on their own memory, but this difference was eliminated when offloading was permitted. Individuals with lower working memory chose to offload more often, suggesting that they were less willing to engage in effortful maintenance of internal representations when given the option. Working memory was not associated with metacognitive confidence or optimal offloading choices based on point value. These findings suggest offloading may help circumvent capacity limitations associated with maintaining and remembering delayed intentions.",
+      "citationCount": 24,
+      "doi": "10.1080/09658211.2021.1991380",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b2df58cf9578ff34c6ea0ea6ca2d59b6c65ee41a",
+      "venue": "Memory",
+      "journal": {
+        "name": "Memory",
+        "pages": "77 - 91",
+        "volume": "30"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "5c407c4fd0dca5224ef0c41f111b3b7da5256edf",
+      "title": "Individual differences in cognitive offloading: a comparison of intention offloading, pattern copy, and short-term memory capacity",
+      "authors": [
+        {
+          "name": "Hauke S. Meyerhoff",
+          "authorId": "31628804"
+        },
+        {
+          "name": "Sandra Grinschgl",
+          "authorId": "51294259"
+        },
+        {
+          "name": "F. Papenmeier",
+          "authorId": "6409010"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2020,
+      "abstract": "The cognitive load of many everyday life tasks exceeds known limitations of short-term memory. One strategy to compensate for information overload is cognitive offloading which refers to the externalization of cognitive processes such as reminder setting instead of memorizing. There appears to be remarkable variance in offloading behavior between participants which poses the question whether there is a common factor influencing offloading behavior across different tasks tackling short-term memory processes. To pursue this question, we studied individual differences in offloading behavior between two well-established offloading paradigms: the intention offloading task which tackles memory for intentions and the pattern copy task which tackles continuous short-term memory load. Our study also included an unrelated task measuring short-term memory capacity. Each participant completed all tasks twice on two consecutive days in order to obtain reliability scores. Despite high reliability scores, individual differences in offloading behavior were uncorrelated between the two offloading tasks. In both tasks, however, individual differences in offloading behavior were correlated with the individual differences in an unrelated short-term memory task. Our results therefore show that offloading behavior cannot simply be explained in terms of a single common factor driving offloading behavior across tasks. We discuss the implications of this finding for future research investigating the interrelations of offloading behavior across different tasks.",
+      "citationCount": 26,
+      "doi": "10.1186/s41235-021-00298-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5c407c4fd0dca5224ef0c41f111b3b7da5256edf",
+      "venue": "Cognitive Research",
+      "journal": {
+        "name": "Cognitive Research: Principles and Implications",
+        "volume": "6"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "27fd454a6af176d9d1cf50c110df0842eebbcc36",
+      "title": "Individual differences in cognitive offloading: a comparison of intention offloading, pattern copy, and short-term memory capacity",
+      "authors": [
+        {
+          "name": "Hauke S. Meyerhoff",
+          "authorId": "31628804"
+        },
+        {
+          "name": "Sandra Grinschgl",
+          "authorId": "51294259"
+        },
+        {
+          "name": "F. Papenmeier",
+          "authorId": "6409010"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2021,
+      "abstract": "The cognitive load of many everyday life tasks exceeds known limitations of short-term memory. One strategy to compensate for information overload is cognitive offloading which refers to the externalization of cognitive processes such as reminder setting instead of memorizing. There appears to be remarkable variance in offloading behavior between participants which poses the question whether there is a common factor influencing offloading behavior across different tasks tackling short-term memory processes. To pursue this question, we studied individual differences in offloading behavior between two well-established offloading paradigms: the intention offloading task which tackles memory for intentions and the pattern copy task which tackles continuous short-term memory load. Our study also included an unrelated task measuring short-term memory capacity. Each participant completed all tasks twice on two consecutive days in order to obtain reliability scores. Despite high reliability scores, individual differences in offloading behavior were uncorrelated between the two offloading tasks. In both tasks, however, individual differences in offloading behavior were correlated with the individual differences in an unrelated short-term memory task. Our results therefore show that offloading behavior cannot simply be explained in terms of a single common factor driving offloading behavior across tasks. We discuss the implications of this finding for future research investigating the interrelations of offloading behavior across different tasks.",
+      "citationCount": 3,
+      "doi": "10.1186/s41235-021-00298-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/27fd454a6af176d9d1cf50c110df0842eebbcc36",
+      "venue": "Cognitive Research",
+      "journal": {
+        "name": "Cognitive Research: Principles and Implications",
+        "volume": "6"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "065dd12050dc45fb42ceb0d226492916dfbbb028",
+      "title": "Strategic use of reminders in an \u2018intention offloading\u2019 task: Do individuals with autism spectrum conditions compensate for memory difficulties?",
+      "authors": [
+        {
+          "name": "Mouslim Cherkaoui",
+          "authorId": "37956916"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 27,
+      "doi": "10.1016/j.neuropsychologia.2017.02.008",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/065dd12050dc45fb42ceb0d226492916dfbbb028",
+      "venue": "Neuropsychologia",
+      "journal": {
+        "name": "Neuropsychologia",
+        "pages": "140-151",
+        "volume": "97"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "408421fcd8f4d0b00c1c637c4d2ac1b7dd18698f",
+      "title": "Age differences in intention offloading and the compensatory role of metacognition",
+      "authors": [
+        {
+          "name": "C. Scarampi",
+          "authorId": "1694860088"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.17605/OSF.IO/4UTRS",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/408421fcd8f4d0b00c1c637c4d2ac1b7dd18698f",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2c8b0c1a0746f7fd454cf6848d3c818076cc9187",
+      "title": "An intention-driven task offloading strategy based on imitation learning in pervasive edge computing",
+      "authors": [
+        {
+          "name": "Yang Zhang",
+          "authorId": "2337251895"
+        },
+        {
+          "name": "Shukui Zhang",
+          "authorId": "2268233693"
+        },
+        {
+          "name": "Qi Zhang",
+          "authorId": "2312376935"
+        },
+        {
+          "name": "Jianxi Fan",
+          "authorId": "2337454973"
+        }
+      ],
+      "year": 2024,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1016/j.comnet.2024.110998",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2c8b0c1a0746f7fd454cf6848d3c818076cc9187",
+      "venue": "Comput. Networks",
+      "journal": {
+        "name": "Comput. Networks",
+        "pages": "110998",
+        "volume": "257"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "8f94e1dac3cdc37a5b4b172a947b1d3fff5440b2",
+      "title": "Hybrid Optimization for Multi\u2010Objective Resource Allocation and Offloading in 5G Cloud\u2010RAN",
+      "authors": [
+        {
+          "name": "Kon\u00e9 Kigninman D\u00e9sir\u00e9",
+          "authorId": "2044906252"
+        },
+        {
+          "name": "Kadjo Tanon Lambert",
+          "authorId": "2154086"
+        },
+        {
+          "name": "Kouassi adl\u00e8s Francis",
+          "authorId": "2088820489"
+        },
+        {
+          "name": "Nabil Tabbane",
+          "authorId": "2367790316"
+        },
+        {
+          "name": "Olivier Asseu",
+          "authorId": "2368279611"
+        }
+      ],
+      "year": 2025,
+      "abstract": "In cloud radio access network (C\u2010RAN), the expense of course\u2010grain offloading can become unsuitable due to network conditions or a large volume of input data. The major intention of this manuscript is to design and develop an energy\u2010efficient resource allocation technique and offloading in 5G C\u2010RAN. Here, resource allocation is implemented using the newly developed poor rich firefly optimization (PRFO) algorithm, which combines poor and rich optimization (PRO) with the Firefly Algorithm (FA). The optimization problem is modeled with respect to key objectives under constraints such as high transmit power, minimum data rate, and average power of every user. Additionally, offloading is performed using the proposed Harmonic Poor Rich Firefly Optimization (HPRFO), which integrates harmonic analysis with PRFO to optimize energy, capacity, and bandwidth. The performance of HPRFO is analyzed considering various evaluation measures, like capacity, bandwidth, energy efficiency, minimum data rate, throughput, and power consumption, and is found to have achieved values of 88.706\u2009Mbps, 129.275\u2009Mbps, 86.876\u2009Mbits/J, 88.877\u2009Mbps, 90.988\u2009Mbps, and 33.876\u2009J/s, correspondingly.",
+      "citationCount": 0,
+      "doi": "10.1002/dac.70136",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8f94e1dac3cdc37a5b4b172a947b1d3fff5440b2",
+      "venue": "International Journal of Communication Systems",
+      "journal": {
+        "name": "International Journal of Communication Systems",
+        "volume": "38"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d49cc14729d9d484a572f1f5abe6f9da883ceed5",
+      "title": "An Agentic Task Offloading Workflow Method for Intellicise Wireless Networks in the Industrial Internet of Things",
+      "authors": [
+        {
+          "name": "Guowei Ni",
+          "authorId": "2374050477"
+        },
+        {
+          "name": "Weichen Ni",
+          "authorId": "2362240012"
+        },
+        {
+          "name": "Boxiao Han",
+          "authorId": "2363888158"
+        },
+        {
+          "name": "Zuojun Dai",
+          "authorId": "2375028096"
+        },
+        {
+          "name": "Ziyan Jia",
+          "authorId": "2072783112"
+        }
+      ],
+      "year": 2025,
+      "abstract": "To address the challenge of inaccurate intent recognition in Intellicise (intelligent and concise) Wireless Networks-enabled edge-cloud-terminal computing scenarios, which utilize large language models (LLMs) for task offloading and resource allocation, we propose a two-tier multi-agent workflow method. This method employs slot-filling technology in the Intention Layer to parse user requests and subsequently coordinates multiple agents in the Efficiency Layer to collaboratively optimize scheduling policies by converting subjective intentions into measurable utility metrics. LLMs perceive key factors\u2014such as device location, task type, and context\u2014and adjust task allocation parameters dynamically. They then guide agents to use appropriate tools and perform optimized scheduling based on the task's nature. Experimental results demonstrate that our method accurately recognizes user intents by considering multi-dimensional factors such as edge device deployment-related regional economic factors, network conditions, and IoT device metrics, thereby meeting diverse user intent.",
+      "citationCount": 0,
+      "doi": "10.1109/ECIS65594.2025.11086771",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d49cc14729d9d484a572f1f5abe6f9da883ceed5",
+      "venue": "European Conference on Information Systems",
+      "journal": {
+        "name": "2025 IEEE 2nd International Conference on Electronics, Communications and Intelligent Science (ECIS)",
+        "pages": "1-6"
+      },
+      "publicationTypes": [
+        "Conference"
+      ]
+    },
+    {
+      "paperId": "70abfb63d8a35b89ac522a819548569d831cbef2",
+      "title": "Non-optimal cognitive offloading in schizophrenia in a prospective memory task: Influence of both metacognitive beliefs and cognitive effort avoidance.",
+      "authors": [
+        {
+          "name": "Amandine D\u00e9combe",
+          "authorId": "151397687"
+        },
+        {
+          "name": "C. Scarampi",
+          "authorId": "1694860088"
+        },
+        {
+          "name": "Elora Malleville",
+          "authorId": "2331294826"
+        },
+        {
+          "name": "Delphine Capdevielle",
+          "authorId": "2253095710"
+        },
+        {
+          "name": "Sam J Gilbert",
+          "authorId": "2295518663"
+        },
+        {
+          "name": "S. Raffard",
+          "authorId": "4053415"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Cognitive offloading refers to the use of physical action and the external environment to simplify mental demand. One form of this-intention offloading-involves the use of external reminders to support delayed intentions. Both beliefs of poor memory ability and a preference to avoid cognitive effort lead to offloading intentions rather than using internal memory. Schizophrenia is a population with deficits in prospective memory and to overcome this difficulty, neuropsychological interventions can propose external aids such as reminders. However, it is unknown what motivates individuals with schizophrenia to spontaneously use reminders. Twenty-seven individuals with schizophrenia and twenty-seven non-clinical individuals were recruited to perform a prospective memory task, with two levels of difficulty, by deciding whether to use reminders or their internal memory. The proportion of reminder use, performance (hits and errors), subjective effort and metacognitive beliefs were recorded. The results show a non-optimal use of reminders in the schizophrenia group: this group used more reminders than the non-clinical group when the task was easy but did not increase reminder usage when the task became more difficult. Individuals with schizophrenia perceived the task to be more effortful than the non-clinical individuals in the easy task, but also had a high estimation of their memory ability. Reminder usage in schizophrenia is atypical and non-optimal. This may relate to effort and metacognition but the direct influence of these factors remains to be demonstrated. The overall results open perspectives on the neuropsychological treatment of prospective memory in this population.",
+      "citationCount": 0,
+      "doi": "10.1111/jnp.12399",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/70abfb63d8a35b89ac522a819548569d831cbef2",
+      "venue": "Journal of Neuropsychology",
+      "journal": {
+        "name": "Journal of neuropsychology"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "e6dd8d3983b4651d16bcd9609db96853e10d0ce3",
+      "title": "User perceptions of intelligent offloading diabetic footwear",
+      "authors": [
+        {
+          "name": "Sarah L. Hemler",
+          "authorId": "102073783"
+        },
+        {
+          "name": "Carolyn M. Sommerich",
+          "authorId": "145917024"
+        },
+        {
+          "name": "J. Correia",
+          "authorId": "2159763694"
+        },
+        {
+          "name": "Z. Pataky",
+          "authorId": "2269400260"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Aims Adherence to therapeutic footwear is vital for effective diabetic foot ulcer prevention and treatment. Understanding the key adherence factors and potential barriers is important for footwear design and implementation. Our team is creating intelligent offloading footwear to prevent lower extremity amputations in people living with diabetes (PLwD). This exploratory study assessed the ability of the established Unified Theory of Acceptance and Use of Technology (UTAUT) model to predict behavioral intention to use or recommend this intelligent offloading footwear by PLwD, caregivers of PLwD, or medical professionals treating PLwD. Methods Online and paper questionnaires were implemented to assess the impact of the UTAUT model factors (performance expectancy, effort expectancy, social influence, facilitating conditions) and psychosocial factors (attitude, anxiety, self-efficacy) on the overall behavioral intention to use the footwear. Furthermore, factors influencing potential acceptance and rejection of the footwear were explored. Results Patients (4.0/5) and medical professionals (4.1/5) showed a behavioral intention to \u201cagree\u201d to use or recommend the footwear when it becomes available. Structural equation modeling showed that the UTAUT constructed model may not be the best indicator for behavioral intention here based on a lack of statistical significance. However, the logistic regression modeling showed that the social influence for PLwD (p=0.004) and the attitude toward the footwear for medical professionals (p=0.001) may be the most important when designing and implementing the footwear, though several other factors (performance expectancy, effort expectancy, facilitating conditions, and self-efficacy) were also important for one or both of these populations. Additionally, cost and clinician support were shown to be important factors influencing potential acceptance of the footwear. Conclusions The study found promising intention to use the intelligent footwear in the future. This highlights the need to continue future development and implementation of the footwear to incorporate these results, thus improving the likelihood of high adherence of the footwear.",
+      "citationCount": 0,
+      "doi": "10.3389/fendo.2024.1380525",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e6dd8d3983b4651d16bcd9609db96853e10d0ce3",
+      "venue": "Frontiers in Endocrinology",
+      "journal": {
+        "name": "Frontiers in Endocrinology",
+        "volume": "15"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "31acfb7139e614b7df9c64a284902cac01451323",
+      "title": "Influence of the physical effort of reminder-setting on strategic offloading of delayed intentions",
+      "authors": [
+        {
+          "name": "Gavin Chiu",
+          "authorId": "51001968"
+        },
+        {
+          "name": "S. Gilbert",
+          "authorId": "1901108"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Intention offloading involves using external reminders such as diaries, to-do lists, and digital alerts to help us remember delayed intentions. Recent studies have provided evidence for various cognitive and metacognitive factors that guide intention offloading, but little research has investigated the physical cost of reminder-setting itself. Here, we present two pre-registered experiments investigating how the cost of physical effort associated with reminder-setting influences strategic intention offloading under different levels of memory load. At all memory loads, reminder-setting was reduced when it was more effortful. The ability to set reminders allowed participants to compensate for the influence of memory load on accuracy in the low-effort condition; this effect was attenuated in the high-effort condition. In addition, there was evidence that participants with less confidence in their memory abilities were more likely to set reminders. Contrary to prediction, physical effort had the greatest effect on reminder-setting at intermediate memory loads. We speculate that the physical costs of reminder-setting might have the greatest impact when participants are uncertain about their strategy choice. These results demonstrate the importance of physical effort as one of the factors relevant to cost-benefit decision-making about cognitive offloading strategies.",
+      "citationCount": 7,
+      "doi": "10.1177/17470218231199977",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/31acfb7139e614b7df9c64a284902cac01451323",
+      "venue": "Quarterly Journal of Experimental Psychology",
+      "journal": {
+        "name": "Quarterly Journal of Experimental Psychology (2006)",
+        "pages": "1295 - 1311",
+        "volume": "77"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "7126855a286aac4c5668f7eac68a6cf66f1dc01e",
+      "title": "AI-Driven Personalised Offloading Device Prescriptions: A Cutting-Edge Approach to Preventing Diabetes-Related Plantar Forefoot Ulcers and Complications",
+      "authors": [
+        {
+          "name": "Sayed Ahmed",
+          "authorId": "2109250388"
+        },
+        {
+          "name": "M. A. Kabir",
+          "authorId": "3207804"
+        },
+        {
+          "name": "M. Chowdhury",
+          "authorId": "33756112"
+        },
+        {
+          "name": "S. Nancarrow",
+          "authorId": "6512464"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Diabetes-related foot ulcers and complications are a significant concern for individuals with diabetes, leading to severe health implications such as lower-limb amputation and reduced quality of life. This chapter discusses applying AI-driven personalised offloading device prescriptions as an advanced solution for preventing such conditions. By harnessing the capabilities of artificial intelligence, this cutting-edge approach enables the prescription of offloading devices tailored to each patient's specific requirements. This includes the patient's preferences on offloading devices such as footwear and foot orthotics and their adaptations that suit the patient's intention of use and lifestyle. Through a series of studies, real-world data analysis and machine learning algorithms, high-risk areas can be identified, facilitating the recommendation of precise offloading strategies, including custom orthotic insoles, shoe adaptations, or specialised footwear. By including patient-specific factors to promote adherence, proactively addressing pressure points and promoting optimal foot mechanics, these personalised offloading devices have the potential to minimise the occurrence of foot ulcers and associated complications. This chapter proposes an AI-powered Clinical Decision Support System (CDSS) to recommend personalised prescriptions of offloading devices (footwear and insoles) for patients with diabetes who are at risk of foot complications. This innovative approach signifies a transformative leap in diabetic foot care, offering promising opportunities for preventive healthcare interventions.",
+      "citationCount": 2,
+      "doi": "10.48550/arXiv.2309.13049",
+      "arxivId": "2309.13049",
+      "url": "https://www.semanticscholar.org/paper/7126855a286aac4c5668f7eac68a6cf66f1dc01e",
+      "venue": "arXiv.org",
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2309.13049"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "adacf2687f4ffa8a506bd6d8ef86399cddbd8e5f",
+      "title": "The role of offloading intentions on future-oriented thinking",
+      "authors": [
+        {
+          "name": "Connor Dupre",
+          "authorId": "2269730058"
+        },
+        {
+          "name": "Phil Peper",
+          "authorId": "2269717512"
+        },
+        {
+          "name": "B. H. Ball",
+          "authorId": "2269718812"
+        }
+      ],
+      "year": 2023,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.3758/s13423-023-02423-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/adacf2687f4ffa8a506bd6d8ef86399cddbd8e5f",
+      "venue": "Psychonomic Bulletin & Review",
+      "journal": {
+        "name": "Psychonomic Bulletin & Review",
+        "pages": "1387-1397",
+        "volume": "31"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "01e1c6802ecfb089cc69bf2752aafd7c6d420bc9",
+      "title": "Edge computing task offloading and resource allocation policies",
+      "authors": [
+        {
+          "name": "Ming Tang",
+          "authorId": "2263829143"
+        },
+        {
+          "name": "Xinyun Cheng",
+          "authorId": "1736540815"
+        },
+        {
+          "name": "Zhikang Wang",
+          "authorId": "2264310265"
+        },
+        {
+          "name": "Yaqiao Li",
+          "authorId": "2221269017"
+        },
+        {
+          "name": "Zhe Liu",
+          "authorId": "2221268671"
+        }
+      ],
+      "year": 2023,
+      "abstract": "In moving edge computing system, the unloading strategy of users will affect the energy consumption and computing cost, and then affect the benefits of users. However, most studies do not consider the effect of user uninstallation strategy and resource request strategy on benefits in random distribution of edge servers. To solve this problem, a computational offloading and resource allocation strategy based on improved dual auction algorithm is proposed. First, the interaction process between users and edge servers is modeled as Stackelberg game, and it is proved that there is a unique Nash equilibrium point in this game. Secondly, the uninstallation intention of users for different servers and the amount of computing resource requests are calculated, and the users and the optimal server are auctioned. Finally, the traversal method is used to exchange users and servers in part of the last round of auction, so as to achieve the optimal overall benefit of the system. Simulation results show that the proposed algorithm can effectively reduce the system loss.",
+      "citationCount": 0,
+      "doi": "10.1109/ITOEC57671.2023.10291859",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/01e1c6802ecfb089cc69bf2752aafd7c6d420bc9",
+      "venue": "2023 IEEE 7th Information Technology and Mechatronics Engineering Conference (ITOEC)",
+      "journal": {
+        "name": "2023 IEEE 7th Information Technology and Mechatronics Engineering Conference (ITOEC)",
+        "pages": "1526-1530",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "Conference"
+      ]
+    },
+    {
+      "paperId": "926104411975f532e6d851f81f72daf8307279f0",
+      "title": "Intelligent Offloading for Collaborative Smart City Services in Edge Computing",
+      "authors": [
+        {
+          "name": "Xiaolong Xu",
+          "authorId": "145921385"
+        },
+        {
+          "name": "Qihe Huang",
+          "authorId": "1959055807"
+        },
+        {
+          "name": "Xiaochun Yin",
+          "authorId": "49665253"
+        },
+        {
+          "name": "Mahdi Abbasi",
+          "authorId": "152364410"
+        },
+        {
+          "name": "M. Khosravi",
+          "authorId": "2692014"
+        },
+        {
+          "name": "Lianyong Qi",
+          "authorId": "1782044"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Smart city is a fast-developing system enabled by Internet of Things (IoT) with massive collaborative services (e.g., intelligent transportation and collaborative diagnosis). Generally, the terminals in the smart city are provided with limited computing ability, thus incapable of processing the diversified and cross-application services. Faced with insufficient resource provisioning for the collaborative smart city services, edge computing is emerged as a novel paradigm to provide city terminals with more processing capacity. Nevertheless, as there is a tremendous threat of disclosing private information in the offloading of collaborative services, it is imperative to improve privacy security in the edge computing. With the intention of addressing the privacy disclosure, an intelligent offloading method (IOM) for smart city, realizing privacy preservation, improving offloading efficiency, and promoting edge utility, is proposed. Technically, the information entropy mechanism is employed to be integrated with edge computing to obtain the balance between privacy preservation and collaborative service performance. Eventually, the simulation analysis is implemented to verify the effectiveness of IOM.",
+      "citationCount": 94,
+      "doi": "10.1109/JIOT.2020.3000871",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/926104411975f532e6d851f81f72daf8307279f0",
+      "venue": "IEEE Internet of Things Journal",
+      "journal": {
+        "name": "IEEE Internet of Things Journal",
+        "pages": "7919-7927",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "fc776c1d932238a74df83cff5bb7773451c362e9",
+      "title": "MAESTRO: Orchestrating Computational Offloading to Multiple FemtoClouds in Various Communication Environments",
+      "authors": [
+        {
+          "name": "Hend K. Gedawy",
+          "authorId": "9610745"
+        },
+        {
+          "name": "Ali E. Elgazar",
+          "authorId": "2756221"
+        },
+        {
+          "name": "Khaled A. Harras",
+          "authorId": "144262957"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Many novel IoT-based applications demand low latency, large compute resources, and high privacy. These requirements have motivated the emergence of fog and edge computing to complement the low-privacy and high-latency cloud. The intention behind Fog computing is to place computational servers closer to the user, typically within the city\u2019s vicinity, to reduce latency. However, because of the high deployment cost of these servers at scale, and unreliable network infrastructures in many countries or areas, edge computing was proposed. Edge computing advocates leveraging compute resources, typically 0-hops away, on distributed ensembles of colocated devices called FemtoClouds. In this paper, we propose MAESTRO, a system that enables users to offload computational jobs to multiple FemtoClouds in their immediate vicinity. For MAESTRO, we build an integrated architecture that includes two new scheduling algorithms for assigning computing workloads to FemtoClouds. Each of our scheduling algorithms is designed to allow the system to operate more efficiently given poor or strong network infrastructures. We implement a full prototype of our system to assess its performance on our experimental testbed. The results indicate that in communication-challenged environments, our specialized scheduler outperforms state-of-the-art schedulers by up to 55%, while in communication-friendly environments our other specialized scheduler outperforms state-of-the-art schedulers by up to 67%.",
+      "citationCount": 3,
+      "doi": "10.1109/access.2022.3152075",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fc776c1d932238a74df83cff5bb7773451c362e9",
+      "venue": "IEEE Access",
+      "journal": {
+        "name": "IEEE Access",
+        "pages": "27096-27112",
+        "volume": "10"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "bd754a887b4155141b388c8c43ccfd6f056d301b",
+      "title": "An LSH-based Offloading Method for IoMT Services in Integrated Cloud-Edge Environment",
+      "authors": [
+        {
+          "name": "Xiaolong Xu",
+          "authorId": "145921385"
+        },
+        {
+          "name": "Qihe Huang",
+          "authorId": "1959055807"
+        },
+        {
+          "name": "Yiwen Zhang",
+          "authorId": "1591140814"
+        },
+        {
+          "name": "Shancang Li",
+          "authorId": "1775276"
+        },
+        {
+          "name": "Lianyong Qi",
+          "authorId": "1782044"
+        },
+        {
+          "name": "Wanchun Dou",
+          "authorId": "1768772"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Benefiting from the massive available data provided by Internet of multimedia things (IoMT), enormous intelligent services requiring information of various types to make decisions are emerging. Generally, the IoMT devices are equipped with limited computing power, interfering with the process of computation-intensive services. Currently, to satisfy a wide range of service requirements, the novel computing paradigms, i.e., cloud computing and edge computing, can potentially be integrated for service accommodation. Nevertheless, the private information (i.e., location, service type, etc.) in the services is prone to spilling out during service offloading in the cloud-edge computing. To avoid privacy leakage while improving service utility, including the service response time and energy consumption for service executions, a Locality-sensitive-hash (LSH)-based offloading method, named LOM, is devised. Specifically, LSH is leveraged to encrypt the feature information for the services offloaded to the edge servers with the intention of privacy preservation. Eventually, comparative experiments are conducted to verify the effectiveness of LOM with respect to promoting service utility.",
+      "citationCount": 25,
+      "doi": "10.1145/3408319",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/bd754a887b4155141b388c8c43ccfd6f056d301b",
+      "venue": "ACM Trans. Multim. Comput. Commun. Appl.",
+      "journal": {
+        "name": "ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)",
+        "pages": "1 - 19",
+        "volume": "16"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

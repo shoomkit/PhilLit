@@ -1,0 +1,510 @@
+{
+  "status": "success",
+  "source": "core",
+  "query": "smartphone extended cognition",
+  "results": [
+    {
+      "core_id": "54157958",
+      "doi": "10.1609/aaai.v33i01.33011118",
+      "title": "PhoneMD: Learning to Diagnose Parkinson's Disease from Smartphone Data",
+      "authors": [
+        {
+          "name": "Karlen, Walter"
+        },
+        {
+          "name": "Schwab, Patrick"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Parkinson's disease is a neurodegenerative disease that can affect a person's\nmovement, speech, dexterity, and cognition. Clinicians primarily diagnose\nParkinson's disease by performing a clinical assessment of symptoms. However,\nmisdiagnoses are common. One factor that contributes to misdiagnoses is that\nthe symptoms of Parkinson's disease may not be prominent at the time the\nclinical assessment is performed. Here, we present a machine-learning approach\ntowards distinguishing between people with and without Parkinson's disease\nusing long-term data from smartphone-based walking, voice, tapping and memory\ntests. We demonstrate that our attentive deep-learning models achieve\nsignificant improvements in predictive performance over strong baselines (area\nunder the receiver operating characteristic curve = 0.85) in data from a cohort\nof 1853 participants. We also show that our models identify meaningful features\nin the input data. Our results confirm that smartphone data collected over\nextended periods of time could in the future potentially be used as a digital\nbiomarker for the diagnosis of Parkinson's disease.Comment: AAAI Conference on Artificial Intelligence 201",
+      "publisher": "",
+      "journal": null,
+      "download_url": "http://arxiv.org/abs/1810.01485",
+      "source_url": "http://arxiv.org/abs/1810.01485",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8862801",
+      "doi": "10.1007/s11229-019-02133-9",
+      "title": "Enactivism, other minds, and mental disorders",
+      "authors": [
+        {
+          "name": "Krueger, Joel"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Although enactive approaches to cognition vary in terms of their character and scope, all endorse several core claims. The first is that cognition is tied to action. The second is that cognition is composed of more than just in-the-head processes; cognitive activities are externalized via features of our embodiment and in our ecological dealings with the people and things around us. I appeal to these two enactive claims to consider a view called \u201cdirect social perception\u201d : the idea that we can sometimes perceive features of other minds directly in the character of their embodiment and environmental interactions. I argue that if DSP is true, we can probably also perceive certain features of mental disorders as well. I draw upon the developmental psychologist Daniel Stern\u2019s notion of \u201cforms of vitality\u201d\u2014largely overlooked in these debates\u2014to develop this idea, and I use autism as a case study. I argue further that an enactive approach to DSP can clarify some ways we play a regulative role in shaping the temporal and phenomenal character of the disorder in question, and it may therefore have practical significance for both the clinical and therapeutic encounter",
+      "publisher": "",
+      "journal": "Synthese",
+      "download_url": "https://core.ac.uk/download/186332651.pdf",
+      "source_url": "https://ore.exeter.ac.uk/repository/bitstream/10871/35779/1/Krueger%20-%20Enactivism%2c%20other%20minds%2c%20and%20mental%20disorders.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8865586",
+      "doi": null,
+      "title": "Bioethics and the Hypothesis of Extended Health",
+      "authors": [
+        {
+          "name": "Morar, Nicolae"
+        },
+        {
+          "name": "Skorburg, Joshua August"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Dominant views about the nature of health and disease in bioethics and the philosophy of medicine have presumed the existence of a fixed, stable, individual organism as the bearer of health and disease states, and as such, the appropriate target of medical therapy and ethical concern. However, recent developments in microbial biology, neuroscience, the philosophy of cognitive science, and social and personality psychology (Ickes..",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/287612197.pdf",
+      "source_url": "https://philpapers.org/archive/MORBAT-14.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8851751",
+      "doi": null,
+      "title": "The extended mind thesis is about demarcation and use of words",
+      "authors": [
+        {
+          "name": "M\u00fcller, Vincent C."
+        }
+      ],
+      "year": 2018,
+      "abstract": "The \u00abextended mind thesis\u00bb sounds like a substantive thesis, the truth of which we\n          should investigate. But actually the thesis a) turns about to be just a statement on\n          where the demarcations for the \u00abmental\u00bb are to be set (internal, external,\u2026), i.e. it\n          is about the \u00abmark of the mental\u00bb; and b) the choice about the mark of the mental\n          is a verbal choice, not a matter of scientific discovery. So, the \u00abextended mind thesis\n          \u00bb is a remark on how its supporters or opponents want to use the word \u2018mind\u2019,\n          not a thesis of cognitive science or philosophy. The upshot of the extended mind\n          discussion should not be to draw the line further out, but to drop the demarcation\n          project",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/231877274.pdf",
+      "source_url": "https://philpapers.org/archive/MLLTEM.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8859243",
+      "doi": null,
+      "title": "What is \u2018mental action\u2019?",
+      "authors": [
+        {
+          "name": "Levy, Yair"
+        }
+      ],
+      "year": 2019,
+      "abstract": "There has been a resurgence of interest lately within philosophy of mind and \n          action in the category of mental action. Against this background, the present paper aims to\n          question the very possibility, or at least the theoretical significance, of teasing apart mental and\n          bodily acts. After raising some doubts over the viability of various possible ways of drawing the\n          mental act/bodily act distinction, the paper draws some lessons from debates over embodied\n          cognition, which arguably further undermine the credibility of the distinction. The \n          insignificance of the distinction is demonstrated in part by showing how the focus on \u2018inner\u2019 \n          acts hampers fruitful discussion of Galen Strawson\u2019s skepticism of mental agency. Finally, the\n          possibility is discussed that a distinction between covert and overt action should supplant the\n          one between mental and bodily action",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/186331007.pdf",
+      "source_url": "https://philpapers.org/archive/LEVWIM-2.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8856403",
+      "doi": "10.1007/s11098-017-0935-0",
+      "title": "The narrative self, distributed memory, and evocative objects",
+      "authors": [
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Clark"
+        },
+        {
+          "name": "A Kind"
+        },
+        {
+          "name": "A K\u00f8ster"
+        },
+        {
+          "name": "A Stephan"
+        },
+        {
+          "name": "B Huebner"
+        },
+        {
+          "name": "BS Osborne"
+        },
+        {
+          "name": "C Mackenzie"
+        },
+        {
+          "name": "CS Peirce"
+        },
+        {
+          "name": "D Dennett"
+        },
+        {
+          "name": "D Ihde"
+        },
+        {
+          "name": "D Lupton"
+        },
+        {
+          "name": "D Petrelli"
+        },
+        {
+          "name": "DM Wegner"
+        },
+        {
+          "name": "E Hoven van den"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "E Hutchins"
+        },
+        {
+          "name": "ET Olson"
+        },
+        {
+          "name": "F Adams"
+        },
+        {
+          "name": "F Jongepier"
+        },
+        {
+          "name": "G Colombetti"
+        },
+        {
+          "name": "G Theiner"
+        },
+        {
+          "name": "GM Bell"
+        },
+        {
+          "name": "J Brockmeier"
+        },
+        {
+          "name": "J Dijck van"
+        },
+        {
+          "name": "J Gonzalez"
+        },
+        {
+          "name": "J Krueger"
+        },
+        {
+          "name": "J Locke"
+        },
+        {
+          "name": "J McClelland"
+        },
+        {
+          "name": "J Slaby"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "J Sutton"
+        },
+        {
+          "name": "JA Carter"
+        },
+        {
+          "name": "JA Skorburg"
+        },
+        {
+          "name": "K Beach"
+        },
+        {
+          "name": "K Michaelian"
+        },
+        {
+          "name": "K Sterelny"
+        },
+        {
+          "name": "L Floridi"
+        },
+        {
+          "name": "L Lindemann"
+        },
+        {
+          "name": "L Malafouris"
+        },
+        {
+          "name": "LR Baker"
+        },
+        {
+          "name": "M Crete-Nishihata"
+        },
+        {
+          "name": "M Merleau-Ponty"
+        },
+        {
+          "name": "M Rowlands"
+        },
+        {
+          "name": "M Rowlands"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Schechtman"
+        },
+        {
+          "name": "M Wheeler"
+        },
+        {
+          "name": "P Goldie"
+        },
+        {
+          "name": "P Griffiths"
+        },
+        {
+          "name": "P Smart"
+        },
+        {
+          "name": "R Clowes"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Heersmink"
+        },
+        {
+          "name": "R Menary"
+        },
+        {
+          "name": "R Menary"
+        },
+        {
+          "name": "R Rupert"
+        },
+        {
+          "name": "R Wilson"
+        },
+        {
+          "name": "R Wilson"
+        },
+        {
+          "name": "Richard Heersmink"
+        },
+        {
+          "name": "S Shoemaker"
+        },
+        {
+          "name": "W James"
+        }
+      ],
+      "year": 2018,
+      "abstract": "In this article, I outline various ways in which artifacts are interwoven with autobiographical memory systems and conceptualize what this implies for the self. I first sketch the narrative approach to the self, arguing that who we are as persons is essentially our (unfolding) life story, which, in turn, determines our present beliefs and desires, but also directs our future goals and actions. I then argue that our autobiographical memory is partly anchored in our embodied interactions with an ecology of artifacts in our environment. Lifelogs, photos, videos, journals, diaries, souvenirs, jewelry, books, works of art, and many other meaningful objects trigger and sometimes constitute emotionally-laden autobiographical memories. Autobiographical memory is thus distributed across embodied agents and various environmental structures. To defend this claim, I draw on and integrate distributed cognition theory and empirical research in human-technology interaction. Based on this, I conclude that the self is neither defined by psychological states realized by the brain nor by biological states realized by the organism, but should be seen as a distributed and relational construct",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/131213175.pdf",
+      "source_url": "https://philpapers.org/archive/HEETNS.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "52211653",
+      "doi": "10.1155/2021/4963903",
+      "title": "Social Networks through the Prism of Cognition",
+      "authors": [
+        {
+          "name": "Kazienko, Przemys\u0142aw"
+        },
+        {
+          "name": "Kulisiewicz, Marcin"
+        },
+        {
+          "name": "Lebiere, Christian"
+        },
+        {
+          "name": "Lizardo, Omar"
+        },
+        {
+          "name": "Michalski, Rados\u0142aw"
+        },
+        {
+          "name": "Szyma\u0144ski, Boles\u0142aw K."
+        }
+      ],
+      "year": 2018,
+      "abstract": "Human relations are driven by social events - people interact, exchange\ninformation, share knowledge and emotions, or gather news from mass media.\nThese events leave traces in human memory. The initial strength of a trace\ndepends on cognitive factors such as emotions or attention span. Each trace\ncontinuously weakens over time unless another related event activity\nstrengthens it. Here, we introduce a novel Cognition-driven Social Network\n(CogSNet) model that accounts for cognitive aspects of social perception and\nexplicitly represents human memory dynamics. For validation, we apply our model\nto NetSense data on social interactions among university students. The results\nshow that CogSNet significantly improves quality of modeling of human\ninteractions in social networks",
+      "publisher": "",
+      "journal": "Complexity",
+      "download_url": "http://arxiv.org/abs/1806.04658",
+      "source_url": "http://arxiv.org/abs/1806.04658",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8869092",
+      "doi": "10.5565/rev/indialogs.134",
+      "title": "Consciousness and Cognition in Classical S\u0101\u1e43khya metaphysics",
+      "authors": [
+        {
+          "name": "Formoso, Raquel Ferr\u00e1ndez"
+        }
+      ],
+      "year": 2020,
+      "abstract": "This article explores the psychological dimension of classical S\u0101\u1e43khya philosophy, on the basis of its canonical treatise, S\u0101\u1e43khyak\u0101rik\u0101 of \u012a\u015bvarak\u1e5b\u1e63\u1e47a (4th Century AD). The strong dualism defended by this ancient metaphysics establishes a division between what we will designate as the phenomenon of consciousness (puru\u1e63a) and the cognitive phenomena (prak\u1e5bti). According to our approach, S\u0101\u1e43khya seems to offer a mechanical model of mind by means of an introspective self-research. In fact, we will argue that  in this system of thought, mind is regarded as an artificial extension of consciousness. Considering the S\u0101\u1e43khya classical treatise as the report of a meditative experience, our main purpose is to examine some key points of this dualism. To this end, we also take account of certain Western theories of mind, as well as certain aspects included in another Indian philosophy greatly influenced by the S\u0101\u1e43khya system, namely, the classical Yoga of Pata\u00f1jali",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/305120529.pdf",
+      "source_url": "https://philpapers.org/archive/FORCAC-12.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8869853",
+      "doi": null,
+      "title": "Can Artificial Entities Assert?",
+      "authors": [
+        {
+          "name": "Freiman, Ori"
+        },
+        {
+          "name": "Miller, Boaz"
+        }
+      ],
+      "year": 2018,
+      "abstract": "There is an existing debate regarding the view that technological instruments, devices, or machines can assert \u200eor testify. A standard view in epistemology is that only humans can testify. However, the notion of quasi-\u200etestimony acknowledges that technological devices can assert or testify under some conditions, without \u200edenying that humans and machines are not the same. Indeed, there are four relevant differences between \u200ehumans and instruments. First, unlike humans, machine assertion is not imaginative or playful. Second, \u200emachine assertion is prescripted and context restricted. As such, computers currently cannot easily switch \u200econtexts or make meaningful relevant assertions in contexts for which they were not programmed. Third, \u200ewhile both humans and computers make errors, they do so in different ways. Computers are very sensitive to \u200esmall errors in input, which may cause them to make big errors in output. Moreover, automatic error control \u200eis based on finding irregularities in data without trying to establish whether they make sense. Fourth, \u200etestimony is produced by a human with moral worth, while quasi-testimony is not. Ultimately, the notion of \u200equasi-testimony can serve as a bridge between different philosophical fields that deal with instruments and \u200etestimony as sources of knowledge, allowing them to converse and agree on a shared description of reality, \u200ewhile maintaining their distinct conceptions and ontological commitments about knowledge, humans, and \u200enonhumans.",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/223236283.pdf",
+      "source_url": "https://philpapers.org/archive/FRECAE-5.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8862098",
+      "doi": "10.1177/1354856518770987",
+      "title": "m-Reading: Fiction reading from mobile phones",
+      "authors": [
+        {
+          "name": "Burke, Michael"
+        },
+        {
+          "name": "Kuzmicova, Anezka"
+        },
+        {
+          "name": "Schilhab, Theresa"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Mobile phones are reportedly the most rapidly expanding e-reading device worldwide. However, the embodied, cognitive and affective implications of smartphone-supported fiction reading for leisure (m-reading) have yet to be investigated empirically. Revisiting the theoretical work of digitization scholar Anne Mangen, we argue that the digital reading experience is not only contingent on patterns of embodied reader\u2013device interaction (Mangen, 2008 and later) but also embedded in the immediate environment and broader situational context. We call this the situation constraint. Its application to Mangen\u2019s general framework enables us to identify four novel research areas, wherein m-reading should be investigated with regard to its unique affordances. The areas are reader\u2013device affectivity, situated embodiment, attention training and long-term immersion",
+      "publisher": "",
+      "journal": "Convergence The International Journal of Research into New Media Technologies",
+      "download_url": "https://core.ac.uk/download/156785485.pdf",
+      "source_url": "https://philpapers.org/archive/KUZMFR.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "64850874",
+      "doi": "10.1007/s10516-018-9377-3",
+      "title": "Delegated causality of complex systems",
+      "authors": [
+        {
+          "name": "Vidunas, R."
+        }
+      ],
+      "year": 2018,
+      "abstract": "A notion of delegated causality is introduced here. This subtle kind of causality is dual to interventional causality. Delegated causality elucidates the causal role of dynamical systems at the \u201cedge of chaos\u201d, explicates evident cases of downward causation, and relates emergent phenomena to G\u00f6del\u2019s incompleteness theorem. Apparently rich implications are noticed in biology and Chinese philosophy. The perspective of delegated causality supports cognitive interpretations of self-organization and evolution",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journal": "Axiomathes",
+      "download_url": "",
+      "source_url": null,
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "62637349",
+      "doi": "10.1038/s41598-018-25953-0",
+      "title": "Using network analysis for the prediction of treatment dropout in patients with mood and anxiety disorders: a methodological proof-of-concept study",
+      "authors": [
+        {
+          "name": "Fisher, Aaron J."
+        },
+        {
+          "name": "Hofmann, Stefan G."
+        },
+        {
+          "name": "Husen, Kristin"
+        },
+        {
+          "name": "Lutz, Wolfgang"
+        },
+        {
+          "name": "Rubel, Julian A."
+        },
+        {
+          "name": "Schwartz, Brian"
+        }
+      ],
+      "year": 2018,
+      "abstract": "There are large health, societal, and economic costs associated with attrition from psychological services. The recently emerged, innovative statistical tool of complex network analysis was used in the present proof-of-concept study to improve the prediction of attrition. Fifty-eight patients undergoing psychological treatment for mood or anxiety disorders were assessed using Ecological Momentary Assessments four times a day for two weeks before treatment (3,248 measurements). Multilevel vector autoregressive models were employed to compute dynamic symptom networks. Intake variables and network parameters (centrality measures) were used as predictors for dropout using machine-learning algorithms. Networks for patients differed significantly between completers and dropouts. Among intake variables, initial impairment and sex predicted dropout explaining 6% of the variance. The network analysis identified four additional predictors: Expected force of being excited, outstrength of experiencing social support, betweenness of feeling nervous, and instrength of being active. The final model with the two intake and four network variables explained 32% of variance in dropout and identified 47 out of 58 patients correctly. The findings indicate that patients\u2019 dynamic network structures may improve the prediction of dropout. When implemented in routine care, such prediction models could identify patients at risk for attrition and inform personalized treatment recommendations.This work was supported by the German Research Foundation National Institute (DFG, Grant nos. LU 660/8-1 and LU 660/10-1 to W. Lutz). The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the manuscript. The corresponding author had access to all data in the study and had final responsibility for the decision to submit for publication. Dr. Hofmann receives financial support from the Alexander von Humboldt Foundation (as part of the Humboldt Prize), NIH/NCCIH (R01AT007257), NIH/NIMH (R01MH099021, U01MH108168), and the James S. McDonnell Foundation 21st Century Science Initiative in Understanding Human Cognition - Special Initiative. (LU 660/8-1 - German Research Foundation National Institute (DFG); LU 660/10-1 - German Research Foundation National Institute (DFG); Alexander von Humboldt Foundation; R01AT007257 - NIH/NCCIH; R01MH099021 - NIH/NIMH; U01MH108168 - NIH/NIMH; James S. McDonnell Foundation 21st Century Science Initiative in Understanding Human Cognition - Special Initiative)Accepted manuscrip",
+      "publisher": "'Springer Science and Business Media LLC'",
+      "journal": "Scientific Reports",
+      "download_url": "https://core.ac.uk/download/215940892.pdf",
+      "source_url": "https://open.bu.edu/bitstream/2144/33397/3/s41598-018-25953-0.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "8861731",
+      "doi": "10.2307/j.ctv8xnhwc.14",
+      "title": "Affective affordances and psychopathology",
+      "authors": [
+        {
+          "name": "Colombetti, Giovanna"
+        },
+        {
+          "name": "Krueger, Joel"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Self-disorders in depression and schizophrenia have been the focus of much recent work in phenomenological psychopathology. But little has been said about the role the material environment plays in shaping the affective character of these disorders. In this paper, we argue that enjoying reliable (i.e., trustworthy) access to the things and spaces around us \u2014 the constituents of our material environment \u2014 is crucial for our ability to stabilize and regulate our affective life on a day-today basis. These things and spaces often play an ineliminable role in shaping what we feel and how we feel it; when we interact with them, they contribute ongoing feedback that \" scaffolds \" the character and temporal development of our affective experiences. However, in some psychopathological conditions, the ability to access to these things and spaces becomes disturbed. Individuals not only lose certain forms of access to the practical significance of the built environment but also to its \u200b regulative\u200b significance, too \u2014 and the stability and organization of their affective life is compromised. In developing this view, we discuss core concepts like \" affordance spaces \" , \" scaffolding \" , and \" incorporation \". We apply these concepts to two case studies, severe depression and schizophrenia, and we show why these cases support our main claim. We conclude by briefly considering implications of this view for developing intervention and treatment strategies",
+      "publisher": "",
+      "journal": null,
+      "download_url": "https://core.ac.uk/download/186331065.pdf",
+      "source_url": "https://philpapers.org/archive/KRUAAA.pdf",
+      "language": "en",
+      "document_type": "research"
+    },
+    {
+      "core_id": "54163072",
+      "doi": "10.2196/resprot.8055",
+      "title": "Integrating Taxonomies into Theory-Based Digital Health Interventions\n  for Behavior Change: A Holistic Framework",
+      "authors": [
+        {
+          "name": "Fadhil, Ahmed"
+        },
+        {
+          "name": "Lange, Jan-Philipp"
+        },
+        {
+          "name": "Reiterer, Harald"
+        },
+        {
+          "name": "Wang, Yunlong"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Digital health interventions have been emerging in the last decade. Due to\ntheir interdisciplinary nature, digital health interventions are guided and\ninfluenced by theories (e.g., behavioral theories, behavior change\ntechnologies, persuasive technology) from different research communities.\nHowever, digital health interventions are always coded using various taxonomies\nand reported in insufficient perspectives. The inconsistency and\nincomprehensiveness will bring difficulty for conducting systematic reviews and\nsharing contributions among communities. Based on existing related work,\ntherefore, we propose a holistic framework that embeds behavioral theories,\nbehavior change technique (BCT) taxonomy, and persuasive system design (PSD)\nprinciples. Including four development steps, two toolboxes, and one workflow,\nour framework aims to guide digital health intervention developers to design,\nevaluate, and report their work in a formative and comprehensive way",
+      "publisher": "'JMIR Publications Inc.'",
+      "journal": "JMIR Research Protocols",
+      "download_url": "http://arxiv.org/abs/1810.08812",
+      "source_url": "http://arxiv.org/abs/1810.08812",
+      "language": "en",
+      "document_type": "research"
+    }
+  ],
+  "count": 14,
+  "errors": []
+}

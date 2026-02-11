@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Smart Clowes internet cognitive extension",
+  "results": [
+    {
+      "paperId": "cf780c51b89c33d8236b064957daf086d6066b15",
+      "title": "The Cognitive Ecology of the Internet",
+      "authors": [
+        {
+          "name": "P. Smart",
+          "authorId": "37836120"
+        },
+        {
+          "name": "Richard Heersmink",
+          "authorId": "1861130"
+        },
+        {
+          "name": "Robert W. Clowes",
+          "authorId": "40090096"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 87,
+      "doi": "10.1007/978-3-319-49115-8_13",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cf780c51b89c33d8236b064957daf086d6066b15",
+      "venue": "Cognition Beyond the Brain",
+      "journal": {
+        "pages": "251-282"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c2cf9712274991bae718b83b3f3320c2394fc997",
+      "title": "Extended Cognition and the Internet",
+      "authors": [
+        {
+          "name": "P. Smart",
+          "authorId": "37836120"
+        }
+      ],
+      "year": 2017,
+      "abstract": "The Internet is an important focus of attention for those concerned with issues of extended cognition. In particular, the application of active externalist theorizing to the Internet gives rise to the notion of Internet-extended cognition: the idea that the Internet can (on occasion) form part of an integrated nexus of material elements that serves as the realization base for human mental states and processes. The current review attempts to survey a range of issues and controversies that arise in respect of the notion of Internet-extended cognition. These include the issue of whether the Internet, as a technological system, is able to support real-world cases of cognitive extension. It also includes issues concerning the cognitive and epistemic impacts of the Internet. Finally, the review highlights a range of issues and concerns that have not been the focus of previous philosophical attention. These include issues of \u2018network-extended cognitive bloat\u2019, \u2018conjoined minds\u2019, and an entirely new form of cognitive extension that goes under the heading of \u2018human-extended machine cognition\u2019. Together, these issues serve to highlight the value and importance of Internet-extended cognition to contemporary philosophical debates about the extended mind. In particular, the notion of Internet-extended cognition has the potential to highlight points of philosophical progress that are not easily revealed by the kind of technologically low-grade cases that tend to animate the majority of philosophical discussions in this area.",
+      "citationCount": 35,
+      "doi": "10.1007/s13347-016-0250-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c2cf9712274991bae718b83b3f3320c2394fc997",
+      "venue": "Philosophy & Technology",
+      "journal": {
+        "name": "Philosophy & Technology",
+        "pages": "357 - 390",
+        "volume": "30"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "94dff9fdb4115463baf8857846702b169e46262e",
+      "title": "Shedding Light on the Extended Mind: HoloLens, Holograms, and Internet-Extended Knowledge",
+      "authors": [
+        {
+          "name": "P. Smart",
+          "authorId": "37836120"
+        }
+      ],
+      "year": 2021,
+      "abstract": "The application of extended mind theory to the Internet and Web yields the possibility of Internet-extended knowledge\u2014a form of extended knowledge that arises as a result of an individual's interactions with the online environment. The present paper seeks to advance our understanding of Internet-extended knowledge by describing the functionality of a real-world application, called the HoloArt app. In part, the goal of the paper is illustrative: it is intended to show how recent advances in mixed reality, cloud-computing, and machine intelligence might be combined so as to yield a putative case of Internet-extended knowledge. Beyond this, however, the paper is intended to support the philosophical effort to understand the notions of extended knowledge and the extended mind. In particular, the HoloArt app raises questions about the universality of some of the criteria that have been used to evaluate putative cases of cognitive extension. The upshot is a better appreciation of the way in which claims about extended knowledge and the extended mind might be affected by a consideration of technologically-advanced resources.",
+      "citationCount": 5,
+      "doi": "10.3389/fpsyg.2021.675184",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/94dff9fdb4115463baf8857846702b169e46262e",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "12"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "7de73b2319877db59f33bd831fcea29bdf88e56f",
+      "title": "DIGITAL PAIDEIA OR TEACHING PHILOSOPHY IN MCLUHAN GALAXY: CHALLENGES AND OPPORTUNITIES",
+      "authors": [
+        {
+          "name": "Bo\u0161ko Karad\u017eov",
+          "authorId": "2405611171"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The new generation of young digital individuals exhibits cognitive patterns largely shaped by the media ontology of their time, along with their constant engagement with digital technology. Digital media and internet connectivity establish a new ontology, derived from the Latin ubiquitas, meaning omnipresence and existence everywhere. This digital ubiquity\u2014enabled by the internet, virtual reality, social networks, gaming consoles, rapid information exchange, smart mobile devices, artificial intelligence, and other immersive environments\u2014profoundly transforms young people. In this text, we aim to explore the challenges, dificulties, and with this new generation. Specifically, we will discuss the significance of philosophical education in the digital era, drawing on Marshall McLuhan\u2019s book Understanding Media: The Extensions of Man. We will also examine the emergence of a radically new digital environment, where today\u2019s youth differ significantly from those for whom the traditional educational system was originally designed. Furthermore, we will consider how philosophical pedagogy can be reimagined to align with the possibilities offered by digital technology. Our central thesis is that philosophy educators must adapt the classroom to the digital world in which students now live. Philosophical pedagogy must transform digital technology into a didactic tool; otherwise, none of the educational and functional objectives of philosophy teaching will be achievable.",
+      "citationCount": 0,
+      "doi": "10.46793/humanologyi-2.101k",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7de73b2319877db59f33bd831fcea29bdf88e56f",
+      "venue": "Humanology : international Journal for Advanced and Applied Philosophy for 21st Century",
+      "journal": {
+        "name": "Humanology : international Journal for Advanced and Applied Philosophy for 21st Century"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "a32d9f79f34b3f598a2de98272e4825821753a73",
+      "title": "Phenomenal transparency and the extended mind",
+      "authors": [
+        {
+          "name": "P. Smart",
+          "authorId": "37836120"
+        },
+        {
+          "name": "Gloria Andrada",
+          "authorId": "1395000703"
+        },
+        {
+          "name": "Robert W. Clowes",
+          "authorId": "40090096"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Proponents of the extended mind have suggested that phenomenal transparency may be important to the way we evaluate putative cases of cognitive extension. In particular, it has been suggested that in order for a bio-external resource to count as part of the machinery of the mind, it must qualify as a form of transparent equipment or transparent technology. The present paper challenges this claim. It also challenges the idea that phenomenological properties can be used to settle disputes regarding the constitutional (versus merely causal) status of bio-external resources in episodes of extended cognizing. Rather than regard phenomenal transparency as a criterion for cognitive extension, we suggest that transparency is a feature of situations that support the ascription of certain cognitive/mental dispositional properties to both ourselves and others. By directing attention to the forces and factors that motivate disposition ascriptions, we arrive at a clearer picture of the role of transparency in arguments for extended cognition and the extended mind. As it turns out, transparency is neither necessary nor sufficient for cognitive extension, but this does not mean that it is entirely irrelevant to our understanding of the circumstances in which episodes of extended cognizing are apt to arise.",
+      "citationCount": 14,
+      "doi": "10.1007/s11229-022-03824-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a32d9f79f34b3f598a2de98272e4825821753a73",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "200"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "e2a7dd6139224409a51cd8922b9b0f9b7a83063c",
+      "title": "Emerging Digital Technologies",
+      "authors": [
+        {
+          "name": "P. Smart",
+          "authorId": "37836120"
+        }
+      ],
+      "year": 2018,
+      "abstract": "This chapter explores the cognitive and epistemic implications of emerging digital technologies from the standpoint of two philosophical positions: active externalism and virtue reliabilism. Emerging digital technologies (especially those associated with the Internet and World Wide Web) are important because they help to highlight issues that are not so easily revealed by the rather mundane and technologically low-grade examples favored by the philosophical community. The present analysis suggests that the general thrust of technology design is largely consistent with the criteria that have been used to evaluate putative cases of cognitive extension. In addition, the present analysis suggests that active externalism and virtue reliabilism are broadly compatible when it comes to the notion of extended knowledge. Despite this, a consideration of both the properties of emerging digital technologies and the requirements for extended knowledge reveals something of an unexpected tension between our prospective status as extended cognizers and extended knowers.",
+      "citationCount": 10,
+      "doi": "10.1093/OSO/9780198769811.003.0015",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e2a7dd6139224409a51cd8922b9b0f9b7a83063c",
+      "venue": "Oxford Scholarship Online",
+      "journal": {
+        "name": "Oxford Scholarship Online"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9dd0009c3818ec2acf1724d739b117e1c5878a5a",
+      "title": "Extended Computation: Wide Computationalism in Reverse",
+      "authors": [
+        {
+          "name": "P. Smart",
+          "authorId": "37836120"
+        },
+        {
+          "name": "W. Hall",
+          "authorId": "143786158"
+        },
+        {
+          "name": "M. Boniface",
+          "authorId": "2055083"
+        }
+      ],
+      "year": 2021,
+      "abstract": "Arguments for extended cognition and the extended mind are typically directed at human-centred forms of cognitive extension\u2014forms of cognitive extension in which the cognitive/mental states and processes of a given human individual are subject to a form of extended or wide realization. The same is true of debates and discussions pertaining to the possibility of Web-extended minds and Internet-based forms of cognitive extension. In this case, the focus of attention concerns the extent to which the informational and technological elements of the online environment form part of the machinery of the (individual) human mind. In this paper, we direct attention to a somewhat different form of cognitive extension. In particular, we suggest that the Web allows human individuals to be incorporated into the computational/cognitive routines of online systems. These forms of computational/cognitive extension highlight the potential of the Web and Internet to support bidirectional forms of computational/cognitive incorporation. The analysis of such bidirectional forms of incorporation broadens the scope of philosophical debates in this area, with potentially important implications for our understanding of the foundational notions of extended cognition and the extended mind.",
+      "citationCount": 0,
+      "doi": "10.1145/3462741.3466810",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9dd0009c3818ec2acf1724d739b117e1c5878a5a",
+      "venue": "Web Science Conference",
+      "journal": {
+        "name": "Companion Publication of the 13th ACM Web Science Conference 2021"
+      },
+      "publicationTypes": [
+        "Book",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f28a2dbecd73a1c7720bebe518cbce7f6ea231ba",
+      "title": "Horizon Scanning Series The Effective and Ethical Development of Artificial Intelligence : An Opportunity to Improve Our Wellbeing GDPR and Regulation",
+      "authors": [],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f28a2dbecd73a1c7720bebe518cbce7f6ea231ba",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c8dfe109ac43f2550ec19c0b888460eddebec2b6",
+      "title": "Horizon Scanning Series The Effective and Ethical Development of Artificial Intelligence : An Opportunity to Improve Our Wellbeing",
+      "authors": [
+        {
+          "name": "Hussein A. Abbass",
+          "authorId": "2278763789"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c8dfe109ac43f2550ec19c0b888460eddebec2b6",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    }
+  ],
+  "count": 9,
+  "errors": []
+}

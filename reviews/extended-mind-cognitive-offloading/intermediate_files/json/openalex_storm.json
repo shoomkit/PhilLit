@@ -1,0 +1,1975 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Storm Ward Google effect memory",
+  "results": [
+    {
+      "openalex_id": "W3088841725",
+      "doi": "10.1016/s0140-6736(20)32007-9",
+      "title": "Lessons learnt from easing COVID-19 restrictions: an analysis of countries and regions in Asia Pacific and Europe",
+      "authors": [
+        {
+          "name": "Emeline Han",
+          "openalex_id": "A5063281114",
+          "orcid": "https://orcid.org/0000-0002-4955-7112",
+          "institutions": [
+            "National University Health System",
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Melisa Mei Jin Tan",
+          "openalex_id": "A5006011437",
+          "orcid": "https://orcid.org/0000-0003-1620-8327",
+          "institutions": [
+            "National University of Singapore",
+            "National University Health System"
+          ]
+        },
+        {
+          "name": "Eva Turk",
+          "openalex_id": "A5027318800",
+          "orcid": "https://orcid.org/0000-0001-6017-0624",
+          "institutions": [
+            "University of South-Eastern Norway",
+            "University of Maribor"
+          ]
+        },
+        {
+          "name": "Devi Sridhar",
+          "openalex_id": "A5085114180",
+          "orcid": "https://orcid.org/0000-0002-5058-9023",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "GM Leung",
+          "openalex_id": "A5032186734",
+          "orcid": "https://orcid.org/0000-0002-2503-6283",
+          "institutions": [
+            "University of Hong Kong"
+          ]
+        },
+        {
+          "name": "Kenji Shibuya",
+          "openalex_id": "A5082274727",
+          "orcid": "https://orcid.org/0000-0003-2528-7530",
+          "institutions": [
+            "King's College London"
+          ]
+        },
+        {
+          "name": "Nima Asgari\u2010Jirhandeh",
+          "openalex_id": "A5038487661",
+          "orcid": "https://orcid.org/0000-0002-4743-4194",
+          "institutions": [
+            "World Health Organization Regional Office for South-East Asia"
+          ]
+        },
+        {
+          "name": "Juhwan Oh",
+          "openalex_id": "A5042429881",
+          "orcid": "https://orcid.org/0000-0003-0983-4872",
+          "institutions": [
+            "Seoul National University"
+          ]
+        },
+        {
+          "name": "Alberto L. Garc\u00eda\u2010Basteiro",
+          "openalex_id": "A5070289351",
+          "orcid": "https://orcid.org/0000-0002-2038-5505",
+          "institutions": [
+            "Manhi\u00e7a Health Research Centre",
+            "Barcelona Institute for Global Health",
+            "Universitat de Barcelona"
+          ]
+        },
+        {
+          "name": "Johanna Hanefeld",
+          "openalex_id": "A5073547083",
+          "orcid": "https://orcid.org/0000-0001-9487-2333",
+          "institutions": [
+            "London School of Hygiene & Tropical Medicine",
+            "Robert Koch Institute"
+          ]
+        },
+        {
+          "name": "Alex R. Cook",
+          "openalex_id": "A5090573013",
+          "orcid": "https://orcid.org/0000-0002-6271-5832",
+          "institutions": [
+            "National University of Singapore",
+            "National University Health System"
+          ]
+        },
+        {
+          "name": "Li Yang Hsu",
+          "openalex_id": "A5091304431",
+          "orcid": "https://orcid.org/0000-0002-0396-066X",
+          "institutions": [
+            "National University Health System",
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Yik Ying Teo",
+          "openalex_id": "A5112378952",
+          "institutions": [
+            "National University Health System",
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Dominique Heymann",
+          "openalex_id": "A5044744240",
+          "orcid": "https://orcid.org/0000-0001-7777-0669",
+          "institutions": [
+            "London School of Hygiene & Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Helen Clark",
+          "openalex_id": "A5112697881"
+        },
+        {
+          "name": "Martin McKee",
+          "openalex_id": "A5027320968",
+          "orcid": "https://orcid.org/0000-0002-0121-9683",
+          "institutions": [
+            "London School of Hygiene & Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Helena Legido\u2010Quigley",
+          "openalex_id": "A5061298694",
+          "orcid": "https://orcid.org/0000-0003-4113-4542",
+          "institutions": [
+            "National University of Singapore",
+            "National University Health System",
+            "London School of Hygiene & Tropical Medicine"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-09-24",
+      "abstract": null,
+      "cited_by_count": 843,
+      "type": "review",
+      "source": {
+        "name": "The Lancet",
+        "type": "journal",
+        "issn": [
+          "0140-6736",
+          "1474-547X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.thelancet.com/article/S0140673620320079/pdf"
+      },
+      "topics": [
+        "COVID-19 and Mental Health",
+        "COVID-19 epidemiological studies",
+        "COVID-19 Clinical Research Studies"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W3088841725"
+    },
+    {
+      "openalex_id": "W2944285188",
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "name": "Joseph Firth",
+          "openalex_id": "A5023196820",
+          "orcid": "https://orcid.org/0000-0002-0618-2752",
+          "institutions": [
+            "Western Sydney University",
+            "University of Manchester",
+            "University of Melbourne",
+            "University of Oxford",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "John Torous",
+          "openalex_id": "A5026523515",
+          "orcid": "https://orcid.org/0000-0002-5362-7937",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Brendon Stubbs",
+          "openalex_id": "A5005008571",
+          "orcid": "https://orcid.org/0000-0001-7387-3791",
+          "institutions": [
+            "King's College London",
+            "South London and Maudsley NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Josh A. Firth",
+          "openalex_id": "A5003551603",
+          "orcid": "https://orcid.org/0000-0001-7183-4115",
+          "institutions": [
+            "University of Oxford",
+            "University of Melbourne",
+            "Western Sydney University",
+            "University of Manchester",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "Genevieve Z. Steiner",
+          "openalex_id": "A5037720902",
+          "orcid": "https://orcid.org/0000-0002-8708-6104",
+          "institutions": [
+            "Westmead Institute",
+            "Translational Research Institute",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Lee Smith",
+          "openalex_id": "A5059447980",
+          "orcid": "https://orcid.org/0000-0002-5340-9833",
+          "institutions": [
+            "Anglia Ruskin University"
+          ]
+        },
+        {
+          "name": "Mario \u00c1lvarez\u2010Jim\u00e9nez",
+          "openalex_id": "A5077079077",
+          "orcid": "https://orcid.org/0000-0002-3535-9086",
+          "institutions": [
+            "University of Melbourne",
+            "Orygen Youth Health"
+          ]
+        },
+        {
+          "name": "John Gleeson",
+          "openalex_id": "A5047926815",
+          "orcid": "https://orcid.org/0000-0001-7969-492X",
+          "institutions": [
+            "Australian Catholic University",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Davy Vancampfort",
+          "openalex_id": "A5030050325",
+          "orcid": "https://orcid.org/0000-0002-4592-8625",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Christopher J. Armitage",
+          "openalex_id": "A5020278901",
+          "orcid": "https://orcid.org/0000-0003-2365-1765",
+          "institutions": [
+            "Manchester Academic Health Science Centre",
+            "NIHR Manchester Biomedical Research Centre",
+            "NIHR Greater Manchester Patient Safety Translational Research Centre",
+            "University of Manchester",
+            "Manchester University NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jerome Sarris",
+          "openalex_id": "A5013936218",
+          "orcid": "https://orcid.org/0000-0001-9287-8854",
+          "institutions": [
+            "Westmead Institute",
+            "Western Sydney University",
+            "University of Melbourne",
+            "Melbourne Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-06",
+      "abstract": "The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real\u2010world social processes creates a new interplay between the Internet and our social lives, including our self\u2010concepts and self\u2010esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20617"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W2944285188"
+    },
+    {
+      "openalex_id": "W2106154564",
+      "doi": "10.3389/fnhum.2014.00407",
+      "title": "Investigating the structure of semantic networks in low and high creative persons",
+      "authors": [
+        {
+          "name": "Yoed N. Kenett",
+          "openalex_id": "A5042578735",
+          "orcid": "https://orcid.org/0000-0003-3872-7689",
+          "institutions": [
+            "Bar-Ilan University"
+          ]
+        },
+        {
+          "name": "David Anaki",
+          "openalex_id": "A5079726734",
+          "orcid": "https://orcid.org/0000-0003-4946-2110",
+          "institutions": [
+            "Bar-Ilan University"
+          ]
+        },
+        {
+          "name": "Miriam Faust",
+          "openalex_id": "A5065671698",
+          "orcid": "https://orcid.org/0000-0001-9012-9577",
+          "institutions": [
+            "Bar-Ilan University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-06-10",
+      "abstract": "According to Mednick's (1962) theory of individual differences in creativity, creative individuals appear to have a richer and more flexible associative network than less creative individuals. Thus, creative individuals are characterized by \"flat\" (broader associations) instead of \"steep\" (few, common associations) associational hierarchies. To study these differences, we implement a novel computational approach to the study of semantic networks, through the analysis of free associations. The core notion of our method is that concepts in the network are related to each other by their association correlations-overlap of similar associative responses (\"association clouds\"). We began by collecting a large sample of participants who underwent several creativity measurements and used a decision tree approach to divide the sample into low and high creative groups. Next, each group underwent a free association generation paradigm which allowed us to construct and analyze the semantic networks of both groups. Comparison of the semantic memory networks of persons with low creative ability and persons with high creative ability revealed differences between the two networks. The semantic memory network of persons with low creative ability seems to be more rigid, compared to the network of persons with high creative ability, in the sense that it is more spread out and breaks apart into more sub-parts. We discuss how our findings are in accord and extend Mednick's (1962) theory and the feasibility of using network science paradigms to investigate high level cognition.",
+      "cited_by_count": 371,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00407/pdf"
+      },
+      "topics": [
+        "Creativity in Education and Neuroscience",
+        "Cognitive Science and Mapping",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 114,
+      "url": "https://openalex.org/W2106154564"
+    },
+    {
+      "openalex_id": "W3080296106",
+      "doi": "10.1111/obr.13128",
+      "title": "Individuals with obesity and COVID\u201019: A global perspective on the epidemiology and biological relationships",
+      "authors": [
+        {
+          "name": "Barry M. Popkin",
+          "openalex_id": "A5026342545",
+          "orcid": "https://orcid.org/0000-0001-9495-9324",
+          "institutions": [
+            "University of North Carolina at Chapel Hill",
+            "World Bank"
+          ]
+        },
+        {
+          "name": "Shufa Du",
+          "openalex_id": "A5038660728",
+          "orcid": "https://orcid.org/0000-0003-1156-0866",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        },
+        {
+          "name": "William D. Green",
+          "openalex_id": "A5047264413",
+          "orcid": "https://orcid.org/0000-0001-7472-8756",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        },
+        {
+          "name": "Melinda A. Beck",
+          "openalex_id": "A5055000470",
+          "orcid": "https://orcid.org/0000-0003-4871-6828",
+          "institutions": [
+            "University of North Carolina at Chapel Hill"
+          ]
+        },
+        {
+          "name": "Taghred Algaith",
+          "openalex_id": "A5046244309",
+          "institutions": [
+            "Saudi Health Council",
+            "Shura Council"
+          ]
+        },
+        {
+          "name": "Christopher H. Herbst",
+          "openalex_id": "A5081739068",
+          "institutions": [
+            "World Bank"
+          ]
+        },
+        {
+          "name": "Reem F. Alsukait",
+          "openalex_id": "A5088145689",
+          "orcid": "https://orcid.org/0000-0003-0797-0643",
+          "institutions": [
+            "King Saud University",
+            "World Bank"
+          ]
+        },
+        {
+          "name": "Mohammed Alluhidan",
+          "openalex_id": "A5022443599",
+          "orcid": "https://orcid.org/0000-0003-3824-2059",
+          "institutions": [
+            "Saudi Health Council",
+            "Shura Council"
+          ]
+        },
+        {
+          "name": "Nahar Alazemi",
+          "openalex_id": "A5053710328",
+          "orcid": "https://orcid.org/0000-0001-9676-3800",
+          "institutions": [
+            "Shura Council",
+            "Saudi Health Council"
+          ]
+        },
+        {
+          "name": "Meera Shekar",
+          "openalex_id": "A5058024002",
+          "orcid": "https://orcid.org/0000-0001-5815-4326",
+          "institutions": [
+            "World Bank"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-26",
+      "abstract": "Summary The linkage of individuals with obesity and COVID\u201019 is controversial and lacks systematic reviews. After a systematic search of the Chinese and English language literature on COVID\u201019, 75 studies were used to conduct a series of meta\u2010analyses on the relationship of individuals with obesity\u2013COVID\u201019 over the full spectrum from risk to mortality. A systematic review of the mechanistic pathways for COVID\u201019 and individuals with obesity is presented. Pooled analysis show individuals with obesity were more at risk for COVID\u201019 positive, &gt;46.0% higher (OR = 1.46; 95% CI, 1.30\u20131.65; p &lt; 0.0001); for hospitalization, 113% higher (OR = 2.13; 95% CI, 1.74\u20132.60; p &lt; 0.0001); for ICU admission, 74% higher (OR = 1.74; 95% CI, 1.46\u20132.08); and for mortality, 48% increase in deaths (OR = 1.48; 95% CI, 1.22\u20131.80; p &lt; 0.001). Mechanistic pathways for individuals with obesity are presented in depth for factors linked with COVID\u201019 risk, severity and their potential for diminished therapeutic and prophylactic treatments among these individuals. Individuals with obesity are linked with large significant increases in morbidity and mortality from COVID\u201019. There are many mechanisms that jointly explain this impact. A major concern is that vaccines will be less effective for the individuals with obesity.",
+      "cited_by_count": 1164,
+      "type": "review",
+      "source": {
+        "name": "Obesity Reviews",
+        "type": "journal",
+        "issn": [
+          "1467-7881",
+          "1467-789X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/obr.13128"
+      },
+      "topics": [
+        "Global Public Health Policies and Epidemiology",
+        "COVID-19 Clinical Research Studies",
+        "Obesity and Health Practices"
+      ],
+      "referenced_works_count": 231,
+      "url": "https://openalex.org/W3080296106"
+    },
+    {
+      "openalex_id": "W2019183416",
+      "doi": "10.1109/tkde.2015.2427795",
+      "title": "In-Memory Big Data Management and Processing: A Survey",
+      "authors": [
+        {
+          "name": "Hao Zhang",
+          "openalex_id": "A5100396896",
+          "orcid": "https://orcid.org/0000-0002-3532-4043",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Gang Chen",
+          "openalex_id": "A5109000029",
+          "orcid": "https://orcid.org/0000-0002-5519-5912",
+          "institutions": [
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Beng Chin Ooi",
+          "openalex_id": "A5024892041",
+          "orcid": "https://orcid.org/0000-0003-4446-1100",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Kian\u2010Lee Tan",
+          "openalex_id": "A5077593594",
+          "orcid": "https://orcid.org/0000-0001-9315-4057",
+          "institutions": [
+            "National University of Singapore"
+          ]
+        },
+        {
+          "name": "Meihui Zhang",
+          "openalex_id": "A5032263010",
+          "orcid": "https://orcid.org/0000-0002-0752-9877",
+          "institutions": [
+            "Singapore University of Technology and Design"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-04-29",
+      "abstract": "Growing main memory capacity has fueled the development of in-memory big data management and processing. By eliminating disk I/O bottleneck, it is now possible to support interactive data analytics. However, in-memory systems are much more sensitive to other sources of overhead that do not matter in traditional I/O-bounded disk-based systems. Some issues such as fault-tolerance and consistency are also more challenging to handle in in-memory environment. We are witnessing a revolution in the design of database systems that exploits main memory as its data storage layer. Many of these researches have focused along several dimensions: modern CPU and memory hierarchy utilization, time/space efficiency, parallelism, and concurrency control. In this survey, we aim to provide a thorough review of a wide range of in-memory data management and processing proposals and systems, including both data storage systems and data processing frameworks. We also give a comprehensive presentation of important technology in memory management, and some key factors that need to be considered in order to achieve efficient in-memory data management and processing.",
+      "cited_by_count": 414,
+      "type": "article",
+      "source": {
+        "name": "IEEE Transactions on Knowledge and Data Engineering",
+        "type": "journal",
+        "issn": [
+          "1041-4347",
+          "1558-2191",
+          "2326-3865"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/69/7116676/07097722.pdf"
+      },
+      "topics": [
+        "Advanced Data Storage Technologies",
+        "Distributed and Parallel Computing Systems",
+        "Cloud Computing and Resource Management"
+      ],
+      "referenced_works_count": 290,
+      "url": "https://openalex.org/W2019183416"
+    },
+    {
+      "openalex_id": "W2969376125",
+      "doi": "10.1093/erae/jbz033",
+      "title": "Machine learning in agricultural and applied economics",
+      "authors": [
+        {
+          "name": "Hugo Storm",
+          "openalex_id": "A5017572116",
+          "orcid": "https://orcid.org/0000-0003-3791-3615",
+          "institutions": [
+            "University of Bonn"
+          ]
+        },
+        {
+          "name": "Kathy Baylis",
+          "openalex_id": "A5111373083",
+          "orcid": "https://orcid.org/0000-0001-9633-4766",
+          "institutions": [
+            "University of Illinois Urbana-Champaign",
+            "Agricultural & Applied Economics Association"
+          ]
+        },
+        {
+          "name": "Thomas Heckelei",
+          "openalex_id": "A5003267117",
+          "orcid": "https://orcid.org/0000-0002-6251-3480",
+          "institutions": [
+            "University of Bonn"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-06-06",
+      "abstract": "Abstract This review presents machine learning (ML) approaches from an applied economist\u2019s perspective. We first introduce the key ML methods drawing connections to econometric practice. We then identify current limitations of the econometric and simulation model toolbox in applied economics and explore potential solutions afforded by ML. We dive into cases such as inflexible functional forms, unstructured data sources and large numbers of explanatory variables in both prediction and causal analysis, and highlight the challenges of complex simulation models. Finally, we argue that economists have a vital role in addressing the shortcomings of ML when used for quantitative economic analysis.",
+      "cited_by_count": 200,
+      "type": "article",
+      "source": {
+        "name": "European Review of Agricultural Economics",
+        "type": "journal",
+        "issn": [
+          "0165-1587",
+          "1464-3618"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/erae/article-pdf/47/3/849/33389998/jbz033.pdf"
+      },
+      "topics": [
+        "Forecasting Techniques and Applications",
+        "Stock Market Forecasting Methods",
+        "Energy Load and Power Forecasting"
+      ],
+      "referenced_works_count": 170,
+      "url": "https://openalex.org/W2969376125"
+    },
+    {
+      "openalex_id": "W4226188769",
+      "doi": "10.7759/cureus.22711",
+      "title": "Obesity: A Chronic Low-Grade Inflammation and Its Markers",
+      "authors": [
+        {
+          "name": "Deepesh Khanna",
+          "openalex_id": "A5051395819",
+          "orcid": "https://orcid.org/0000-0002-8673-8297",
+          "institutions": [
+            "Nova Southeastern University"
+          ]
+        },
+        {
+          "name": "Siya Khanna",
+          "openalex_id": "A5010208175",
+          "institutions": [
+            "Nova Southeastern University"
+          ]
+        },
+        {
+          "name": "Pragya Khanna",
+          "openalex_id": "A5065813712",
+          "institutions": [
+            "Gujarat Cancer Society"
+          ]
+        },
+        {
+          "name": "Payal Kahar",
+          "openalex_id": "A5086480618",
+          "orcid": "https://orcid.org/0000-0002-3864-2100",
+          "institutions": [
+            "Florida Gulf Coast University"
+          ]
+        },
+        {
+          "name": "B. M. Patel",
+          "openalex_id": "A5064303476",
+          "orcid": "https://orcid.org/0009-0007-8166-5686",
+          "institutions": [
+            "Gujarat Cancer Society"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-28",
+      "abstract": "As the prevalence of obesity continues to rise, the world is facing a major public health concern. Obesity is a complex disease associated with an increase in several inflammatory markers, leading to chronic low-grade inflammation. Of multifactorial etiology, it is often used as a measurement of morbidity and mortality. There remains much unknown regarding the association between obesity and inflammation. This review seeks to compile scientific literature on obesity and its associated inflammatory markers in chronic disease and further discusses the role of adipose tissue, macrophages, B-cells, T-cells, fatty acids, amino acids, adipokines, and hormones in obesity. Data were obtained using PubMed and Google Scholar. Obesity, inflammation, immune cells, hormones, fatty acids, and others were search words used to acquire relevant articles. Studies suggest brown adipose tissue is negatively associated with body mass index (BMI) and body fat percentage. Researchers also found the adipose tissue of lean individuals predominantly secretes anti-inflammatory markers, while in obese individuals more pro-inflammatory markers are secreted. Many studies found that adipose tissue in obese individuals showed a shift in immune cells from anti-inflammatory M2 macrophages to pro-inflammatory M1 macrophages, which was also correlated with insulin resistance. Obese individuals generally present with higher levels of hormones such as leptin, visfatin, and resistin. With obesity on the rise globally, it is predicted that severe obesity will become most common amongst low-income adults, black individuals, and women by 2030, making the need for intervention urgent. Further investigation into the association between obesity and inflammation is required to understand the mechanism behind this disease.",
+      "cited_by_count": 449,
+      "type": "review",
+      "source": {
+        "name": "Cureus",
+        "type": "journal",
+        "issn": [
+          "2168-8184"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.cureus.com/articles/86626-obesity-a-chronic-low-grade-inflammation-and-its-markers.pdf"
+      },
+      "topics": [
+        "Adipokines, Inflammation, and Metabolic Diseases",
+        "Adipose Tissue and Metabolism",
+        "Regulation of Appetite and Obesity"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W4226188769"
+    },
+    {
+      "openalex_id": "W2635926651",
+      "doi": "10.3758/s13428-017-0891-9",
+      "title": "Mind-wandering, how do I measure thee with probes? Let me count the ways",
+      "authors": [
+        {
+          "name": "Yana Weinstein",
+          "openalex_id": "A5025576523",
+          "orcid": "https://orcid.org/0000-0002-5144-968X",
+          "institutions": [
+            "University of Massachusetts Lowell"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-22",
+      "abstract": null,
+      "cited_by_count": 249,
+      "type": "review",
+      "source": {
+        "name": "Behavior Research Methods",
+        "type": "journal",
+        "issn": [
+          "1554-351X",
+          "1554-3528"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0891-9.pdf"
+      },
+      "topics": [
+        "Mind wandering and attention",
+        "Neural and Behavioral Psychology Studies",
+        "Sleep and Wakefulness Research"
+      ],
+      "referenced_works_count": 134,
+      "url": "https://openalex.org/W2635926651"
+    },
+    {
+      "openalex_id": "W2554655922",
+      "doi": "10.1128/cmr.00045-16",
+      "title": "From Q Fever to Coxiella burnetii Infection: a Paradigm Change",
+      "authors": [
+        {
+          "name": "Carole Eldin",
+          "openalex_id": "A5085828778",
+          "orcid": "https://orcid.org/0000-0002-4575-3407",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes",
+            "Institut de Recherche pour le D\u00e9veloppement",
+            "Inserm"
+          ]
+        },
+        {
+          "name": "Cl\u00e9a Melenotte",
+          "openalex_id": "A5017657842",
+          "orcid": "https://orcid.org/0000-0003-3159-1061",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Inserm",
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes",
+            "Institut de Recherche pour le D\u00e9veloppement"
+          ]
+        },
+        {
+          "name": "Oleg Mediannikov",
+          "openalex_id": "A5010669194",
+          "orcid": "https://orcid.org/0000-0001-6039-2008",
+          "institutions": [
+            "Institut de Recherche pour le D\u00e9veloppement",
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes",
+            "Inserm",
+            "Centre National de la Recherche Scientifique"
+          ]
+        },
+        {
+          "name": "\u00c9ric Ghigo",
+          "openalex_id": "A5083957043",
+          "orcid": "https://orcid.org/0000-0001-5760-7178",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Inserm",
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes",
+            "Institut de Recherche pour le D\u00e9veloppement"
+          ]
+        },
+        {
+          "name": "Matthieu Million",
+          "openalex_id": "A5041784784",
+          "orcid": "https://orcid.org/0000-0002-5556-6947",
+          "institutions": [
+            "Institut de Recherche pour le D\u00e9veloppement",
+            "Inserm",
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes",
+            "Centre National de la Recherche Scientifique"
+          ]
+        },
+        {
+          "name": "Sophie Edouard",
+          "openalex_id": "A5107063266",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Inserm",
+            "Institut de Recherche pour le D\u00e9veloppement",
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes"
+          ]
+        },
+        {
+          "name": "Jean\u2010Louis M\u00e8ge",
+          "openalex_id": "A5107211451",
+          "institutions": [
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes",
+            "Centre National de la Recherche Scientifique",
+            "Institut de Recherche pour le D\u00e9veloppement",
+            "Inserm"
+          ]
+        },
+        {
+          "name": "Max Maurin",
+          "openalex_id": "A5002265993",
+          "orcid": "https://orcid.org/0000-0003-4156-3208",
+          "institutions": [
+            "Centre Hospitalier Universitaire de Grenoble"
+          ]
+        },
+        {
+          "name": "Didier Raoult",
+          "openalex_id": "A5074730004",
+          "orcid": "https://orcid.org/0000-0002-0633-5974",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Inserm",
+            "Institut de Recherche pour le D\u00e9veloppement",
+            "Unit\u00e9 de Recherche sur les Maladies Infectieuses et Tropicales Emergentes"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-18",
+      "abstract": "SUMMARY Coxiella burnetii is the agent of Q fever, or \u201cquery fever,\u201d a zoonosis first described in Australia in 1937. Since this first description, knowledge about this pathogen and its associated infections has increased dramatically. We review here all the progress made over the last 20 years on this topic. C. burnetii is classically a strict intracellular, Gram-negative bacterium. However, a major step in the characterization of this pathogen was achieved by the establishment of its axenic culture. C. burnetii infects a wide range of animals, from arthropods to humans. The genetic determinants of virulence are now better known, thanks to the achievement of determining the genome sequences of several strains of this species and comparative genomic analyses. Q fever can be found worldwide, but the epidemiological features of this disease vary according to the geographic area considered, including situations where it is endemic or hyperendemic, and the occurrence of large epidemic outbreaks. In recent years, a major breakthrough in the understanding of the natural history of human infection with C. burnetii was the breaking of the old dichotomy between \u201cacute\u201d and \u201cchronic\u201d Q fever. The clinical presentation of C. burnetii infection depends on both the virulence of the infecting C. burnetii strain and specific risks factors in the infected patient. Moreover, no persistent infection can exist without a focus of infection. This paradigm change should allow better diagnosis and management of primary infection and long-term complications in patients with C. burnetii infection.",
+      "cited_by_count": 956,
+      "type": "review",
+      "source": {
+        "name": "Clinical Microbiology Reviews",
+        "type": "journal",
+        "issn": [
+          "0893-8512",
+          "1070-6305",
+          "1098-6618"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://cmr.asm.org/content/cmr/30/1/115.full.pdf"
+      },
+      "topics": [
+        "Vector-borne infectious diseases",
+        "Viral Infections and Vectors",
+        "Mosquito-borne diseases and control"
+      ],
+      "referenced_works_count": 722,
+      "url": "https://openalex.org/W2554655922"
+    },
+    {
+      "openalex_id": "W2739028090",
+      "doi": "10.1007/978-3-319-21569-3",
+      "title": "New Horizons for a Data-Driven Economy",
+      "authors": [
+        {
+          "name": "Jos\u00e9 Mar\u00eda Cavanillas",
+          "openalex_id": "A5090081859",
+          "institutions": [
+            "Atos (Spain)"
+          ]
+        },
+        {
+          "name": "Edward Curry",
+          "openalex_id": "A5027850521",
+          "orcid": "https://orcid.org/0000-0001-8236-6433",
+          "institutions": [
+            "Ollscoil na Gaillimhe \u2013 University of Galway"
+          ]
+        },
+        {
+          "name": "Wolfgang Wahlster",
+          "openalex_id": "A5039754369",
+          "orcid": "https://orcid.org/0000-0002-8785-5567",
+          "institutions": [
+            "German Research Centre for Artificial Intelligence"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-01-01",
+      "abstract": null,
+      "cited_by_count": 249,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-21569-3.pdf"
+      },
+      "topics": [
+        "Big Data and Business Intelligence"
+      ],
+      "referenced_works_count": 192,
+      "url": "https://openalex.org/W2739028090"
+    },
+    {
+      "openalex_id": "W4321596088",
+      "doi": "10.1038/s41581-023-00683-3",
+      "title": "Sepsis-associated acute kidney injury: consensus report of the 28th Acute Disease Quality Initiative workgroup",
+      "authors": [
+        {
+          "name": "Alexander Zarbock",
+          "openalex_id": "A5019726220",
+          "orcid": "https://orcid.org/0000-0002-2124-1714",
+          "institutions": [
+            "University Hospital M\u00fcnster",
+            "Outcomes Research Consortium"
+          ]
+        },
+        {
+          "name": "Mitra K. Nadim",
+          "openalex_id": "A5030710602",
+          "orcid": "https://orcid.org/0000-0003-4180-0883",
+          "institutions": [
+            "University of Southern California"
+          ]
+        },
+        {
+          "name": "Peter Pickkers",
+          "openalex_id": "A5025445136",
+          "orcid": "https://orcid.org/0000-0002-1104-4303",
+          "institutions": [
+            "Radboud University Medical Center",
+            "Radboud University Nijmegen"
+          ]
+        },
+        {
+          "name": "Hernando G\u00f3mez",
+          "openalex_id": "A5002956220",
+          "orcid": "https://orcid.org/0000-0001-5605-3513",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Samira Bell",
+          "openalex_id": "A5082071435",
+          "orcid": "https://orcid.org/0000-0001-9100-1575",
+          "institutions": [
+            "University of Dundee",
+            "Genomics (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Michael Joannidis",
+          "openalex_id": "A5028816041",
+          "orcid": "https://orcid.org/0000-0002-6996-0881",
+          "institutions": [
+            "Innsbruck Medical University"
+          ]
+        },
+        {
+          "name": "Kianoush Kashani",
+          "openalex_id": "A5081185019",
+          "orcid": "https://orcid.org/0000-0003-2184-3683",
+          "institutions": [
+            "Mayo Clinic"
+          ]
+        },
+        {
+          "name": "Jay L. Koyner",
+          "openalex_id": "A5002190241",
+          "orcid": "https://orcid.org/0000-0001-6873-8712",
+          "institutions": [
+            "University of Chicago"
+          ]
+        },
+        {
+          "name": "Neesh Pannu",
+          "openalex_id": "A5042956432",
+          "orcid": "https://orcid.org/0000-0002-8626-8504",
+          "institutions": [
+            "University of Alberta"
+          ]
+        },
+        {
+          "name": "Melanie Meersch",
+          "openalex_id": "A5055462266",
+          "institutions": [
+            "University Hospital M\u00fcnster"
+          ]
+        },
+        {
+          "name": "Thiago Reis",
+          "openalex_id": "A5017570699",
+          "orcid": "https://orcid.org/0000-0002-7071-117X",
+          "institutions": [
+            "Universidade de Bras\u00edlia",
+            "D\u2019Or Institute for Research and Education"
+          ]
+        },
+        {
+          "name": "Thomas Rimmel\u00e9",
+          "openalex_id": "A5070066752",
+          "orcid": "https://orcid.org/0000-0002-7213-9787",
+          "institutions": [
+            "Hospices Civils de Lyon"
+          ]
+        },
+        {
+          "name": "Sean M. Bagshaw",
+          "openalex_id": "A5036301763",
+          "orcid": "https://orcid.org/0000-0003-3633-6596",
+          "institutions": [
+            "University of Alberta",
+            "Alberta Health Services"
+          ]
+        },
+        {
+          "name": "Rinaldo Bellomo",
+          "openalex_id": "A5011216396",
+          "orcid": "https://orcid.org/0000-0002-1650-8939",
+          "institutions": [
+            "Australian and New Zealand Intensive Care Society",
+            "Austin Hospital",
+            "University of Melbourne",
+            "The Royal Melbourne Hospital",
+            "Monash University"
+          ]
+        },
+        {
+          "name": "Vincenzo Cantaluppi",
+          "openalex_id": "A5081933975",
+          "orcid": "https://orcid.org/0000-0002-4120-3555",
+          "institutions": [
+            "Universit\u00e0 degli Studi del Piemonte Orientale \u201cAmedeo Avogadro\u201d"
+          ]
+        },
+        {
+          "name": "Akash Deep",
+          "openalex_id": "A5029383431",
+          "orcid": "https://orcid.org/0000-0001-8430-5570",
+          "institutions": [
+            "King's College Hospital NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Silvia De Rosa",
+          "openalex_id": "A5061657411",
+          "orcid": "https://orcid.org/0000-0001-8987-4596",
+          "institutions": [
+            "Ospedale Santa Chiara",
+            "University of Trento"
+          ]
+        },
+        {
+          "name": "Xos\u00e9 P\u00e9rez-Fern\u00e1ndez",
+          "openalex_id": "A5058004778",
+          "orcid": "https://orcid.org/0000-0002-5903-6927",
+          "institutions": [
+            "Bellvitge University Hospital"
+          ]
+        },
+        {
+          "name": "Faeq Husain\u2010Syed",
+          "openalex_id": "A5057601193",
+          "orcid": "https://orcid.org/0000-0001-6742-5052",
+          "institutions": [
+            "University of Giessen"
+          ]
+        },
+        {
+          "name": "Sandra L. Kane\u2010Gill",
+          "openalex_id": "A5004440668",
+          "orcid": "https://orcid.org/0000-0001-7523-4846",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Yvelynne P. Kelly",
+          "openalex_id": "A5007314063",
+          "orcid": "https://orcid.org/0000-0002-4733-5129",
+          "institutions": [
+            "Tallaght University Hospital",
+            "Trinity College Dublin"
+          ]
+        },
+        {
+          "name": "Ravindra L. Mehta",
+          "openalex_id": "A5082648404",
+          "orcid": "https://orcid.org/0000-0002-0908-2968",
+          "institutions": [
+            "University of California, San Diego"
+          ]
+        },
+        {
+          "name": "Patrick Murray",
+          "openalex_id": "A5086691656",
+          "orcid": "https://orcid.org/0000-0001-8516-1839",
+          "institutions": [
+            "University College Dublin"
+          ]
+        },
+        {
+          "name": "Marlies Ostermann",
+          "openalex_id": "A5070798527",
+          "orcid": "https://orcid.org/0000-0001-9500-9080",
+          "institutions": [
+            "St Thomas' Hospital",
+            "King's College London"
+          ]
+        },
+        {
+          "name": "John R. Prowle",
+          "openalex_id": "A5046126733",
+          "orcid": "https://orcid.org/0000-0002-5002-2721",
+          "institutions": [
+            "Queen Mary University of London",
+            "William Harvey Research Institute"
+          ]
+        },
+        {
+          "name": "Zaccaria Ricci",
+          "openalex_id": "A5049601270",
+          "orcid": "https://orcid.org/0000-0001-8916-0569",
+          "institutions": [
+            "University of Florence",
+            "Meyer Children's Hospital"
+          ]
+        },
+        {
+          "name": "Emily See",
+          "openalex_id": "A5030014445",
+          "orcid": "https://orcid.org/0000-0003-4436-4319",
+          "institutions": [
+            "University of Melbourne",
+            "The Royal Melbourne Hospital"
+          ]
+        },
+        {
+          "name": "Antoine Schneider",
+          "openalex_id": "A5041138678",
+          "orcid": "https://orcid.org/0000-0003-0576-7094",
+          "institutions": [
+            "University Hospital of Lausanne"
+          ]
+        },
+        {
+          "name": "Danielle E. Soranno",
+          "openalex_id": "A5066720542",
+          "orcid": "https://orcid.org/0000-0001-7019-809X",
+          "institutions": [
+            "Indiana University School of Medicine",
+            "Indiana University \u2013 Purdue University Indianapolis"
+          ]
+        },
+        {
+          "name": "Ashita Tolwani",
+          "openalex_id": "A5058568676",
+          "orcid": "https://orcid.org/0000-0002-2445-0386",
+          "institutions": [
+            "University of Alabama at Birmingham"
+          ]
+        },
+        {
+          "name": "Gianluca Villa",
+          "openalex_id": "A5084499631",
+          "orcid": "https://orcid.org/0000-0003-4274-3593",
+          "institutions": [
+            "Azienda Ospedaliero-Universitaria Careggi",
+            "University of Florence"
+          ]
+        },
+        {
+          "name": "Claudio Ronco",
+          "openalex_id": "A5076403607",
+          "orcid": "https://orcid.org/0000-0002-6697-4065",
+          "institutions": [
+            "Ospedale San Bortolo",
+            "University of Padua",
+            "International Renal Research Institute of Vicenza"
+          ]
+        },
+        {
+          "name": "Lui G. Forni",
+          "openalex_id": "A5047213840",
+          "orcid": "https://orcid.org/0000-0002-0617-5309",
+          "institutions": [
+            "Royal Surrey NHS Foundation Trust"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-02-23",
+      "abstract": null,
+      "cited_by_count": 564,
+      "type": "review",
+      "source": {
+        "name": "Nature Reviews Nephrology",
+        "type": "journal",
+        "issn": [
+          "1759-5061",
+          "1759-507X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.nature.com/articles/s41581-023-00683-3.pdf"
+      },
+      "topics": [
+        "Acute Kidney Injury Research",
+        "Sepsis Diagnosis and Treatment",
+        "Cardiac Arrest and Resuscitation"
+      ],
+      "referenced_works_count": 215,
+      "url": "https://openalex.org/W4321596088"
+    },
+    {
+      "openalex_id": "W2608106098",
+      "doi": "10.2196/jmir.6686",
+      "title": "Impact of Information and Communication Technologies on Nursing Care: Results of an Overview of Systematic Reviews",
+      "authors": [
+        {
+          "name": "Genevi\u00e8ve Rouleau",
+          "openalex_id": "A5041259584",
+          "orcid": "https://orcid.org/0000-0003-1093-6577",
+          "institutions": [
+            "Universit\u00e9 Laval",
+            "Centre Hospitalier de l\u2019Universit\u00e9 de Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Marie\u2010Pierre Gagnon",
+          "openalex_id": "A5082027305",
+          "orcid": "https://orcid.org/0000-0002-0782-5457",
+          "institutions": [
+            "Universit\u00e9 Laval",
+            "Centre hospitalier universitaire de Qu\u00e9bec"
+          ]
+        },
+        {
+          "name": "Jos\u00e9 C\u00f4t\u00e9",
+          "openalex_id": "A5039722511",
+          "orcid": "https://orcid.org/0000-0002-0617-2861",
+          "institutions": [
+            "Universit\u00e9 de Montr\u00e9al",
+            "Centre Hospitalier de l\u2019Universit\u00e9 de Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Julie Payne-Gagnon",
+          "openalex_id": "A5050982740",
+          "orcid": "https://orcid.org/0000-0002-3116-4978",
+          "institutions": [
+            "Centre hospitalier universitaire de Qu\u00e9bec",
+            "Universit\u00e9 Laval"
+          ]
+        },
+        {
+          "name": "\u00c9milie Hudson",
+          "openalex_id": "A5031482708",
+          "orcid": "https://orcid.org/0000-0001-7591-1034",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Carl\u2010Ardy Dubois",
+          "openalex_id": "A5091622044",
+          "orcid": "https://orcid.org/0000-0001-7663-4796",
+          "institutions": [
+            "Universit\u00e9 de Montr\u00e9al"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-25",
+      "abstract": "PROSPERO International Prospective Register of Systematic Reviews: CRD42014014762; http://www.crd.york.ac.uk/PROSPERO/display_record.asp?ID=CRD42014014762 (Archived by WebCite at http://www.webcitation.org/6pIhMLBZh).",
+      "cited_by_count": 240,
+      "type": "review",
+      "source": {
+        "name": "Journal of Medical Internet Research",
+        "type": "journal",
+        "issn": [
+          "1438-8871",
+          "1439-4456"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.jmir.org/2017/4/e122/PDF"
+      },
+      "topics": [
+        "Electronic Health Records Systems",
+        "Mobile Health and mHealth Applications",
+        "Nursing Diagnosis and Documentation"
+      ],
+      "referenced_works_count": 70,
+      "url": "https://openalex.org/W2608106098"
+    },
+    {
+      "openalex_id": "W1992231066",
+      "doi": "10.3389/fnhum.2014.00215",
+      "title": "Creativity\u00e2\u20ac\u201dthe unconscious foundations of the incubation period",
+      "authors": [
+        {
+          "name": "Simone M. Ritter",
+          "openalex_id": "A5088665639",
+          "orcid": "https://orcid.org/0000-0002-8755-3868",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        },
+        {
+          "name": "Ap Dijksterhuis",
+          "openalex_id": "A5109359460",
+          "institutions": [
+            "Radboud University Nijmegen"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-04-11",
+      "abstract": "Creativity is one of the most important assets we have to navigate through the fast changing world of the 21st century. Anecdotal accounts of creative individuals suggest that oftentimes, creative discoveries result from a process whereby initial conscious thought is followed by a period during which one refrains from task-related conscious thought. For example, one may spend an embarrassing amount of time thinking about a problem when the solution suddenly pops into consciousness while taking a shower. Not only creative individuals but also traditional theories of creativity have put a lot of emphasis on this incubation stage in creative thinking. The aim of the present article is twofold. First, an overview of the domain of incubation and creativity is provided by reviewing and discussing studies on incubation, mind-wandering, and sleep. Second, the causes of incubation effects are discussed. Previously, little attention has been paid to the causes of incubation effects and most findings do not really speak to whether the effects should be explained by unconscious processes or merely by consequences of a period of distraction. In the latter case, there is no need to assume active unconscious processes. The findings discussed in the current article support the idea that it is not merely the absence of conscious thought that drives incubation effects, but that during an incubation period unconscious processes contribute to creative thinking. Finally, practical implications and directions for future research will be discussed.",
+      "cited_by_count": 159,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00215/pdf"
+      },
+      "topics": [
+        "Mind wandering and attention",
+        "Creativity in Education and Neuroscience",
+        "Perfectionism, Procrastination, Anxiety Studies"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W1992231066"
+    },
+    {
+      "openalex_id": "W2948073202",
+      "doi": "10.3758/s13423-019-01615-8",
+      "title": "Offloading memory: Serial position effects",
+      "authors": [
+        {
+          "name": "Megan O. Kelly",
+          "openalex_id": "A5068235097",
+          "orcid": "https://orcid.org/0000-0001-6497-4400",
+          "institutions": [
+            "University of Waterloo"
+          ]
+        },
+        {
+          "name": "Evan F. Risko",
+          "openalex_id": "A5005474666",
+          "orcid": "https://orcid.org/0000-0001-5702-0350",
+          "institutions": [
+            "University of Waterloo"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-06-03",
+      "abstract": null,
+      "cited_by_count": 59,
+      "type": "article",
+      "source": {
+        "name": "Psychonomic Bulletin & Review",
+        "type": "journal",
+        "issn": [
+          "1069-9384",
+          "1531-5320"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.3758/s13423-019-01615-8.pdf"
+      },
+      "topics": [
+        "Advanced Memory and Neural Computing",
+        "Ferroelectric and Negative Capacitance Devices",
+        "Advanced Data Storage Technologies"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W2948073202"
+    },
+    {
+      "openalex_id": "W2779065123",
+      "doi": "10.1016/j.ecolecon.2017.12.015",
+      "title": "Is Flood Risk Capitalised Into Property Values?",
+      "authors": [
+        {
+          "name": "Allan Beltr\u00e1n",
+          "openalex_id": "A5050074832",
+          "orcid": "https://orcid.org/0000-0001-5610-5934",
+          "institutions": [
+            "London School of Economics and Political Science"
+          ]
+        },
+        {
+          "name": "David Maddison",
+          "openalex_id": "A5111384235",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        },
+        {
+          "name": "Robert Elliott",
+          "openalex_id": "A5077924811",
+          "orcid": "https://orcid.org/0000-0002-3966-2082",
+          "institutions": [
+            "University of Birmingham"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-12-21",
+      "abstract": null,
+      "cited_by_count": 172,
+      "type": "article",
+      "source": {
+        "name": "Ecological Economics",
+        "type": "journal",
+        "issn": [
+          "0921-8009",
+          "1873-6106"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0921800916314732"
+      },
+      "topics": [
+        "Flood Risk Assessment and Management",
+        "Water resources management and optimization",
+        "Housing Market and Economics"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W2779065123"
+    },
+    {
+      "openalex_id": "W3195209506",
+      "doi": "10.3390/ijms22168947",
+      "title": "The Role of Fc Receptors on the Effectiveness of Therapeutic Monoclonal Antibodies",
+      "authors": [
+        {
+          "name": "Patricia Gogesch",
+          "openalex_id": "A5072408274",
+          "orcid": "https://orcid.org/0000-0003-0025-0782",
+          "institutions": [
+            "Paul Ehrlich Institut"
+          ]
+        },
+        {
+          "name": "Simone Dudek",
+          "openalex_id": "A5027889030",
+          "institutions": [
+            "Paul Ehrlich Institut"
+          ]
+        },
+        {
+          "name": "Ger van Zandbergen",
+          "openalex_id": "A5035760071",
+          "orcid": "https://orcid.org/0000-0001-5218-4962",
+          "institutions": [
+            "Paul Ehrlich Institut",
+            "University Medical Center of the Johannes Gutenberg University Mainz",
+            "Johannes Gutenberg University Mainz"
+          ]
+        },
+        {
+          "name": "Zoe Waibler",
+          "openalex_id": "A5051811775",
+          "orcid": "https://orcid.org/0000-0001-5758-2652",
+          "institutions": [
+            "Paul Ehrlich Institut"
+          ]
+        },
+        {
+          "name": "Martina Anzaghe",
+          "openalex_id": "A5024435015",
+          "orcid": "https://orcid.org/0000-0002-7983-3835",
+          "institutions": [
+            "Paul Ehrlich Institut"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-08-19",
+      "abstract": "Since the approval of the first monoclonal antibody (mAb) in 1986, a huge effort has been made to guarantee safety and efficacy of therapeutic mAbs. As of July 2021, 118 mAbs are approved for the European market for a broad range of clinical indications. In order to ensure clinical efficacy and safety aspects, (pre-)clinical experimental approaches evaluate the respective modes of action (MoA). In addition to antigen-specificity including binding affinity and -avidity, MoA comprise Fc-mediated effector functions such as antibody dependent cellular cytotoxicity (ADCC) and the closely related antibody dependent cellular phagocytosis (ADCP). For this reason, a variety of cell-based assays have been established investigating effector functions of therapeutic mAbs with different effector/target-cell combinations and several readouts including Fc\u03b3 receptor (Fc\u03b3R)-mediated lysis, fluorescence, or luminescence. Optimized Fc\u03b3R-mediated effector functions regarding clinical safety and efficacy are addressed with modification strategies such as point mutations, altered glycosylation patterns, combination of different Fc subclasses (cross isotypes), and Fc-truncation of the mAb. These strategies opened the field for a next generation of therapeutic mAbs. In conclusion, it is of major importance to consider Fc\u03b3R-mediated effector functions for the efficacy of therapeutic mAbs.",
+      "cited_by_count": 127,
+      "type": "review",
+      "source": {
+        "name": "International Journal of Molecular Sciences",
+        "type": "journal",
+        "issn": [
+          "1422-0067",
+          "1661-6596"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1422-0067/22/16/8947/pdf?version=1629691344"
+      },
+      "topics": [
+        "Monoclonal and Polyclonal Antibodies Research",
+        "Glycosylation and Glycoproteins Research",
+        "Protein purification and stability"
+      ],
+      "referenced_works_count": 214,
+      "url": "https://openalex.org/W3195209506"
+    },
+    {
+      "openalex_id": "W1972130548",
+      "doi": "10.1016/j.trc.2012.04.017",
+      "title": "Evaluating the impact of a novel message dissemination scheme for vehicular networks using real maps",
+      "authors": [
+        {
+          "name": "Manuel Fogue",
+          "openalex_id": "A5015731926",
+          "institutions": [
+            "Universidad de Zaragoza"
+          ]
+        },
+        {
+          "name": "Piedad Garrido",
+          "openalex_id": "A5058485709",
+          "orcid": "https://orcid.org/0000-0002-1750-7225",
+          "institutions": [
+            "Universidad de Zaragoza"
+          ]
+        },
+        {
+          "name": "Francisco J. Mart\u00ednez",
+          "openalex_id": "A5085487136",
+          "orcid": "https://orcid.org/0000-0001-6945-7330",
+          "institutions": [
+            "Universidad de Zaragoza"
+          ]
+        },
+        {
+          "name": "Juan\u2010Carlos Cano",
+          "openalex_id": "A5086152745",
+          "orcid": "https://orcid.org/0000-0002-0038-0539",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+          ]
+        },
+        {
+          "name": "Carlos T. Calafate",
+          "openalex_id": "A5066242048",
+          "orcid": "https://orcid.org/0000-0001-5729-3041",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+          ]
+        },
+        {
+          "name": "Pietro Manzoni",
+          "openalex_id": "A5043546527",
+          "orcid": "https://orcid.org/0000-0003-3753-0403",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-07-13",
+      "abstract": null,
+      "cited_by_count": 74,
+      "type": "article",
+      "source": {
+        "name": "Transportation Research Part C Emerging Technologies",
+        "type": "journal",
+        "issn": [
+          "0968-090X",
+          "1879-2359"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0968090X12000678"
+      },
+      "topics": [
+        "Vehicular Ad Hoc Networks (VANETs)",
+        "Opportunistic and Delay-Tolerant Networks",
+        "Mobile Ad Hoc Networks"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W1972130548"
+    },
+    {
+      "openalex_id": "W3107564806",
+      "doi": "10.3389/fpls.2020.601009",
+      "title": "The Threat of the Combined Effect of Biotic and Abiotic Stress Factors in Forestry Under a Changing Climate",
+      "authors": [
+        {
+          "name": "Demissew Tesfaye Teshome",
+          "openalex_id": "A5035124668",
+          "orcid": "https://orcid.org/0000-0002-8824-7694",
+          "institutions": [
+            "University of Pretoria"
+          ]
+        },
+        {
+          "name": "Godfrey Elijah Zharare",
+          "openalex_id": "A5039277013",
+          "orcid": "https://orcid.org/0000-0003-2341-4719",
+          "institutions": [
+            "University of Zululand"
+          ]
+        },
+        {
+          "name": "Sanushka Naidoo",
+          "openalex_id": "A5011479627",
+          "orcid": "https://orcid.org/0000-0001-5620-5599",
+          "institutions": [
+            "University of Pretoria"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-11-30",
+      "abstract": "Plants encounter several biotic and abiotic stresses, usually in combination. This results in major economic losses in agriculture and forestry every year. Climate change aggravates the adverse effects of combined stresses and increases such losses. Trees suffer even more from the recurrence of biotic and abiotic stress combinations owing to their long lifecycle. Despite the effort to study the damage from individual stress factors, less attention has been given to the effect of the complex interactions between multiple biotic and abiotic stresses. In this review, we assess the importance, impact, and mitigation strategies of climate change driven interactions between biotic and abiotic stresses in forestry. The ecological and economic importance of biotic and abiotic stresses under different combinations is highlighted by their contribution to the decline of the global forest area through their direct and indirect roles in forest loss and to the decline of biodiversity resulting from local extinction of endangered species of trees, emission of biogenic volatile organic compounds, and reduction in the productivity and quality of forest products and services. The abiotic stress factors such as high temperature and drought increase forest disease and insect pest outbreaks, decrease the growth of trees, and cause tree mortality. Reports of massive tree mortality events caused by \u201chotter droughts\u201d are increasing all over the world, affecting several genera of trees including some of the most important genera in plantation forests, such as Pine, Poplar, and Eucalyptus . While the biotic stress factors such as insect pests, pathogens, and parasitic plants have been reported to be associated with many of these mortality events, a considerable number of the reports have not taken into account the contribution of such biotic factors. The available mitigation strategies also tend to undermine the interactive effect under combined stresses. Thus, this discussion centers on mitigation strategies based on research and innovation, which build on models previously used to curb individual stresses.",
+      "cited_by_count": 241,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Plant Science",
+        "type": "journal",
+        "issn": [
+          "1664-462X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpls.2020.601009/pdf"
+      },
+      "topics": [
+        "Forest Insect Ecology and Management",
+        "Plant responses to elevated CO2",
+        "Fire effects on ecosystems"
+      ],
+      "referenced_works_count": 208,
+      "url": "https://openalex.org/W3107564806"
+    },
+    {
+      "openalex_id": "W2030181914",
+      "doi": "10.1007/s00228-011-1161-x",
+      "title": "Macrolides: from in vitro anti-inflammatory and immunomodulatory properties to clinical practice in respiratory diseases",
+      "authors": [
+        {
+          "name": "Paul Zarogoulidis",
+          "openalex_id": "A5037835689",
+          "orcid": "https://orcid.org/0000-0001-5119-2207",
+          "institutions": [
+            "Aristotle University of Thessaloniki",
+            "G. Papanikolaou General Hospital"
+          ]
+        },
+        {
+          "name": "\u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u03a0\u03b1\u03c0\u03ac\u03bd\u03b1\u03c2",
+          "openalex_id": "A5064490540",
+          "orcid": "https://orcid.org/0000-0002-7320-785X",
+          "institutions": [
+            "Democritus University of Thrace"
+          ]
+        },
+        {
+          "name": "Ioannis Kioumis",
+          "openalex_id": "A5107892257",
+          "institutions": [
+            "Aristotle University of Thessaloniki"
+          ]
+        },
+        {
+          "name": "\u0395katerini Chatzaki",
+          "openalex_id": "A5050179686",
+          "orcid": "https://orcid.org/0000-0002-5832-4257",
+          "institutions": [
+            "Democritus University of Thrace"
+          ]
+        },
+        {
+          "name": "Efstratios Maltezos",
+          "openalex_id": "A5059338767",
+          "orcid": "https://orcid.org/0000-0002-5827-2661",
+          "institutions": [
+            "University Hospital of Alexandroupolis"
+          ]
+        },
+        {
+          "name": "Kostas Zarogoulidis",
+          "openalex_id": "A5107928902",
+          "institutions": [
+            "Aristotle University of Thessaloniki"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-11-21",
+      "abstract": null,
+      "cited_by_count": 298,
+      "type": "review",
+      "source": {
+        "name": "European Journal of Clinical Pharmacology",
+        "type": "journal",
+        "issn": [
+          "0031-6970",
+          "1432-1041"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s00228-011-1161-x.pdf"
+      },
+      "topics": [
+        "Chronic Obstructive Pulmonary Disease (COPD) Research",
+        "Asthma and respiratory diseases",
+        "Pediatric health and respiratory diseases"
+      ],
+      "referenced_works_count": 331,
+      "url": "https://openalex.org/W2030181914"
+    },
+    {
+      "openalex_id": "W2147808072",
+      "doi": "10.1175/jcli-d-14-00130.1",
+      "title": "Variability and Predictability of West African Droughts: A Review on the Role of Sea Surface Temperature Anomalies",
+      "authors": [
+        {
+          "name": "Bel\u00e9n Rodr\u00edguez\u2010Fonseca",
+          "openalex_id": "A5001002306",
+          "orcid": "https://orcid.org/0000-0002-5261-7083",
+          "institutions": [
+            "Universidad Complutense de Madrid",
+            "Instituto de Geociencias"
+          ]
+        },
+        {
+          "name": "Elsa Moh\u00edno",
+          "openalex_id": "A5018850769",
+          "orcid": "https://orcid.org/0000-0002-4342-6349",
+          "institutions": [
+            "Universidad Complutense de Madrid"
+          ]
+        },
+        {
+          "name": "Carlos R. Mechoso",
+          "openalex_id": "A5079557563",
+          "orcid": "https://orcid.org/0000-0002-1363-5668",
+          "institutions": [
+            "University of California, Los Angeles"
+          ]
+        },
+        {
+          "name": "Cyril Caminade",
+          "openalex_id": "A5059815059",
+          "orcid": "https://orcid.org/0000-0002-3846-7082",
+          "institutions": [
+            "University of Liverpool"
+          ]
+        },
+        {
+          "name": "Michela Biasutti",
+          "openalex_id": "A5045357387",
+          "orcid": "https://orcid.org/0000-0001-6681-1533",
+          "institutions": [
+            "Lamont-Doherty Earth Observatory"
+          ]
+        },
+        {
+          "name": "Marco Gaetani",
+          "openalex_id": "A5077347771",
+          "orcid": "https://orcid.org/0000-0003-2923-6773",
+          "institutions": [
+            "Istituto di Biometeorologia"
+          ]
+        },
+        {
+          "name": "Javier Garc\u00eda\u2010Serrano",
+          "openalex_id": "A5031134738",
+          "orcid": "https://orcid.org/0000-0003-3913-0876",
+          "institutions": [
+            "Institut Catal\u00e0 de Ci\u00e8ncies del Clima"
+          ]
+        },
+        {
+          "name": "Edward K. Vizy",
+          "openalex_id": "A5087133767",
+          "orcid": "https://orcid.org/0000-0002-5019-2819",
+          "institutions": [
+            "The University of Texas at Austin"
+          ]
+        },
+        {
+          "name": "Kerry H. Cook",
+          "openalex_id": "A5060605123",
+          "orcid": "https://orcid.org/0000-0001-9270-4395",
+          "institutions": [
+            "The University of Texas at Austin"
+          ]
+        },
+        {
+          "name": "Yongkang Xue",
+          "openalex_id": "A5027557327",
+          "orcid": "https://orcid.org/0000-0002-6169-9631",
+          "institutions": [
+            "University of California, Los Angeles"
+          ]
+        },
+        {
+          "name": "Irene Polo",
+          "openalex_id": "A5055897949",
+          "orcid": "https://orcid.org/0000-0002-6250-6109",
+          "institutions": [
+            "University of Reading"
+          ]
+        },
+        {
+          "name": "Teresa Losada",
+          "openalex_id": "A5063298991",
+          "orcid": "https://orcid.org/0000-0002-8430-1745",
+          "institutions": [
+            "University of Castilla-La Mancha"
+          ]
+        },
+        {
+          "name": "Leonard M. Druyan",
+          "openalex_id": "A5111415669",
+          "institutions": [
+            "Goddard Institute for Space Studies",
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Bernard Fontaine",
+          "openalex_id": "A5106453796",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Universit\u00e9 de Bourgogne"
+          ]
+        },
+        {
+          "name": "J. Bader",
+          "openalex_id": "A5109721313",
+          "institutions": [
+            "Max Planck Institute for Meteorology"
+          ]
+        },
+        {
+          "name": "Francisco J. Doblas\u2010Reyes",
+          "openalex_id": "A5077181632",
+          "orcid": "https://orcid.org/0000-0002-6622-4280",
+          "institutions": [
+            "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats",
+            "Institut Catal\u00e0 de Ci\u00e8ncies del Clima"
+          ]
+        },
+        {
+          "name": "Lisa Goddard",
+          "openalex_id": "A5072702925",
+          "orcid": "https://orcid.org/0000-0001-9452-147X",
+          "institutions": [
+            "Data & Society Research Institute"
+          ]
+        },
+        {
+          "name": "Serge Janicot",
+          "openalex_id": "A5085293514",
+          "orcid": "https://orcid.org/0000-0002-7192-2737",
+          "institutions": [
+            "Institut de Recherche pour le D\u00e9veloppement",
+            "Laboratoire d'Oc\u00e9anographie et du Climat : Exp\u00e9rimentations et Approches Num\u00e9riques",
+            "Sorbonne Universit\u00e9"
+          ]
+        },
+        {
+          "name": "Alberto Arribas",
+          "openalex_id": "A5048317461",
+          "institutions": [
+            "Met Office"
+          ]
+        },
+        {
+          "name": "William K. M. Lau",
+          "openalex_id": "A5030797629",
+          "orcid": "https://orcid.org/0000-0002-3587-3691",
+          "institutions": [
+            "Goddard Space Flight Center"
+          ]
+        },
+        {
+          "name": "Andrew Colman",
+          "openalex_id": "A5012133753",
+          "orcid": "https://orcid.org/0000-0003-0863-3358",
+          "institutions": [
+            "Met Office"
+          ]
+        },
+        {
+          "name": "Michael Vellinga",
+          "openalex_id": "A5019652516",
+          "orcid": "https://orcid.org/0000-0002-5720-0359",
+          "institutions": [
+            "Met Office"
+          ]
+        },
+        {
+          "name": "David P. Rowell",
+          "openalex_id": "A5084668205",
+          "orcid": "https://orcid.org/0000-0002-6727-1732",
+          "institutions": [
+            "Met Office"
+          ]
+        },
+        {
+          "name": "Fred Kucharski",
+          "openalex_id": "A5040730319",
+          "orcid": "https://orcid.org/0000-0002-8710-8051",
+          "institutions": [
+            "The Abdus Salam International Centre for Theoretical Physics (ICTP)"
+          ]
+        },
+        {
+          "name": "Aurore Voldoire",
+          "openalex_id": "A5048846733",
+          "orcid": "https://orcid.org/0000-0001-9585-7792",
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "M\u00e9t\u00e9o-France",
+            "Centre National de Recherches M\u00e9t\u00e9orologiques"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-02-09",
+      "abstract": "Abstract The Sahel experienced a severe drought during the 1970s and 1980s after wet periods in the 1950s and 1960s. Although rainfall partially recovered since the 1990s, the drought had devastating impacts on society. Most studies agree that this dry period resulted primarily from remote effects of sea surface temperature (SST) anomalies amplified by local land surface\u2013atmosphere interactions. This paper reviews advances made during the last decade to better understand the impact of global SST variability on West African rainfall at interannual to decadal time scales. At interannual time scales, a warming of the equatorial Atlantic and Pacific/Indian Oceans results in rainfall reduction over the Sahel, and positive SST anomalies over the Mediterranean Sea tend to be associated with increased rainfall. At decadal time scales, warming over the tropics leads to drought over the Sahel, whereas warming over the North Atlantic promotes increased rainfall. Prediction systems have evolved from seasonal to decadal forecasting. The agreement among future projections has improved from CMIP3 to CMIP5, with a general tendency for slightly wetter conditions over the central part of the Sahel, drier conditions over the western part, and a delay in the monsoon onset. The role of the Indian Ocean, the stationarity of teleconnections, the determination of the leader ocean basin in driving decadal variability, the anthropogenic role, the reduction of the model rainfall spread, and the improvement of some model components are among the most important remaining questions that continue to be the focus of current international projects.",
+      "cited_by_count": 214,
+      "type": "review",
+      "source": {
+        "name": "Journal of Climate",
+        "type": "journal",
+        "issn": [
+          "0894-8755",
+          "1520-0442"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.ametsoc.org/downloadpdf/journals/clim/28/10/jcli-d-14-00130.1.pdf"
+      },
+      "topics": [
+        "Climate variability and models",
+        "Meteorological Phenomena and Simulations",
+        "Oceanographic and Atmospheric Processes"
+      ],
+      "referenced_works_count": 223,
+      "url": "https://openalex.org/W2147808072"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "The Extended Mind",
+    "author": "Clark",
+    "year": 1998
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (24.9) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1002/wps.20617"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "family": "Firth",
+          "given": "Joseph"
+        },
+        {
+          "family": "Torous",
+          "given": "John"
+        },
+        {
+          "family": "Stubbs",
+          "given": "Brendon"
+        },
+        {
+          "family": "Firth",
+          "given": "Josh A."
+        },
+        {
+          "family": "Steiner",
+          "given": "Genevieve Z."
+        },
+        {
+          "family": "Smith",
+          "given": "Lee"
+        },
+        {
+          "family": "Alvarez\u2010Jimenez",
+          "given": "Mario"
+        },
+        {
+          "family": "Gleeson",
+          "given": "John"
+        },
+        {
+          "family": "Vancampfort",
+          "given": "Davy"
+        },
+        {
+          "family": "Armitage",
+          "given": "Christopher J."
+        },
+        {
+          "family": "Sarris",
+          "given": "Jerome"
+        }
+      ],
+      "editors": [],
+      "year": 2019,
+      "container_title": "World Psychiatry",
+      "volume": "18",
+      "issue": "2",
+      "page": "119-129",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1002/wps.20617"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

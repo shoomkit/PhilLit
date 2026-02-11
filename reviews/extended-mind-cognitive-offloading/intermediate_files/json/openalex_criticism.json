@@ -1,0 +1,2005 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "extended mind criticism",
+  "results": [
+    {
+      "openalex_id": "W3188690837",
+      "doi": "10.1007/s11245-008-9042-3",
+      "title": "Extended Life",
+      "authors": [
+        {
+          "name": "Ezequiel A. Di Paolo",
+          "openalex_id": "A5008902090",
+          "orcid": "https://orcid.org/0000-0002-3296-5021",
+          "institutions": [
+            "University of Sussex"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-12-17",
+      "abstract": null,
+      "cited_by_count": 360,
+      "type": "article",
+      "source": {
+        "name": "Topoi",
+        "type": "journal",
+        "issn": [
+          "0167-7411",
+          "1572-8749"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Evolutionary Game Theory and Cooperation"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W3188690837"
+    },
+    {
+      "openalex_id": "W1608615070",
+      "doi": "10.2139/ssrn.470983",
+      "title": "The Second Enclosure Movement and the Construction of the Public Domain",
+      "authors": [
+        {
+          "name": "James Boyle",
+          "openalex_id": "A5014733142",
+          "orcid": "https://orcid.org/0000-0002-4621-478X",
+          "institutions": [
+            "Duke University"
+          ]
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-01",
+      "abstract": null,
+      "cited_by_count": 604,
+      "type": "article",
+      "source": {
+        "name": "SSRN Electronic Journal",
+        "type": "repository",
+        "issn": [
+          "1556-5068"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=470983"
+      },
+      "topics": [
+        "Art, Politics, and Modernism"
+      ],
+      "referenced_works_count": 8,
+      "url": "https://openalex.org/W1608615070"
+    },
+    {
+      "openalex_id": "W2002933021",
+      "doi": "10.1016/s1355-2198(02)00085-0",
+      "title": "Everett and structure",
+      "authors": [
+        {
+          "name": "David Wallace",
+          "openalex_id": "A5031761422",
+          "orcid": "https://orcid.org/0000-0003-2385-5979",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2003,
+      "publication_date": "2003-01-21",
+      "abstract": null,
+      "cited_by_count": 221,
+      "type": "article",
+      "source": {
+        "name": "Studies in History and Philosophy of Science Part B Studies in History and Philosophy of Modern Physics",
+        "type": "journal",
+        "issn": [
+          "1355-2198",
+          "1879-2502"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Quantum Mechanics and Applications",
+        "Philosophy and History of Science",
+        "Origins and Evolution of Life"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W2002933021"
+    },
+    {
+      "openalex_id": "W4383742778",
+      "doi": "10.1017/9781009209793",
+      "title": "Embodied and Enactive Approaches to Cognition",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-11",
+      "abstract": "This Element discusses contemporary theories of embodied cognition, including what has been termed the '4Es' (embodied, embedded, extended and enactive cognition). It examines diverse approaches to questions about the nature of the mind, the mind's relation to the brain, perceptual experience, mental representation, sense making, the role of the environment, and social cognition, and it considers the strengths and weaknesses of the theories in question. It contrasts embodied and enactive views with classic cognitivism, and discusses major criticisms and their possible resolutions. This element also provides a strong focus on enactive theory and the prospects for integrating enactive approaches with other embodied and extended theories, mediated through recent developments in predictive processing and the free energy principle. It concludes with a brief discussion of the practical applications of embodied cognition. This title is also available as Open Access on Cambridge Core.",
+      "cited_by_count": 135,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FFAB4E136E12255CD3139A87ECB2DCAD/9781009209809AR.pdf/embodied-and-enactive-approaches-to-cognition.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 267,
+      "url": "https://openalex.org/W4383742778"
+    },
+    {
+      "openalex_id": "W2002771475",
+      "doi": "10.1080/15265160701518466",
+      "title": "Rethinking Neuroethics in the Light of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Neil Levy",
+          "openalex_id": "A5051836354",
+          "orcid": "https://orcid.org/0000-0002-5679-1986",
+          "institutions": [
+            "University of Melbourne",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-09-12",
+      "abstract": "The extended mind thesis is the claim that mental states extend beyond the skulls of the agents whose states they are. This seemingly obscure and bizarre claim has far-reaching implications for neuroethics, I argue. In the first half of this article, I sketch the extended mind thesis and defend it against criticisms. In the second half, I turn to its neuroethical implications. I argue that the extended mind thesis entails the falsity of the claim that interventions into the brain are especially problematic just because they are internal interventions, but that many objections to such interventions rely, at least in part, on this claim. Further, I argue that the thesis alters the focus of neuroethics, away from the question of whether we ought to allow interventions into the mind, and toward the question of which interventions we ought to allow and under what conditions. The extended mind thesis dramatically expands the scope of neuroethics: because interventions into the environment of agents can count as interventions into their minds, decisions concerning such interventions become questions for neuroethics.",
+      "cited_by_count": 89,
+      "type": "article",
+      "source": {
+        "name": "The American Journal of Bioethics",
+        "type": "journal",
+        "issn": [
+          "1526-5161",
+          "1536-0075"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Psychology of Moral and Emotional Judgment",
+        "Free Will and Agency"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2002771475"
+    },
+    {
+      "openalex_id": "W4242590917",
+      "doi": "10.1093/acprof:oso/9780198749417.001.0001",
+      "title": "Thinking with Literature",
+      "authors": [
+        {
+          "name": "Terence Cave",
+          "openalex_id": "A5010365331"
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-03-01",
+      "abstract": "Abstract This book argues that, as literature is among the most powerful and flexible instruments of human thought, it invites a cognitive mode of criticism, one which asserts the priority of individual literary works as unique products of human cognition. The introductory chapter presents some key themes (kinesis, mind-reading, communication, the recognition of life) without technical elaboration. Chapter 2 provides a more systematic account of these themes and their interdisciplinary context, sketching arguments from cognitive psychology, philosophy, linguistics, neuroscience, and evolutionary studies; it discusses the relations between literary and scientific method, the notion of cognition as essentially embodied, and the choice of relevance theory as a viable linguistic model for literary analysis. Chapter 3 returns to the fine grain of literature itself with two close readings. Subsequent chapters provide a detailed account of the notion of 'affordances' and its pertinence to literary study, and an extended reflection on the imagination as a mode of cognition. This opens up two further lines of enquiry: Chapter 6 explores a cognitive approach to literary 'images'; Chapter 7 focuses on cognitive mimesis in a scene from King Lear and an episode from Mme de Lafayette's Princesse de Cl\u00e8ves. A detailed cognitive analysis of Conrad's Lord Jim in Chapter 8 brings together themes of immersion, kinesis, mind-reading, and cognitive dissonance. The final chapter discusses the question of literary values within the cognitive perspective. A 'virtual manifesto for a cognitive approach to literary studies' is offered in lieu of an epilogue.",
+      "cited_by_count": 202,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4242590917"
+    },
+    {
+      "openalex_id": "W2158906984",
+      "doi": "10.7551/mitpress/9780262014038.003.0011",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "Michael Wheeler",
+          "openalex_id": "A5101818008",
+          "orcid": "https://orcid.org/0000-0003-3638-1215"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": "Abstract This chapter aims to clarify the relationship between the extended cognition hypothesis (ExC) and functionalism, and to defend extended functionalism against three of its strongest criticisms. ExC claims that there are conditions under which thinking and thoughts are spatially distributed over the brain, body, and world in such a way that the external factors concerned are rightly accorded cognitive status. It is concerned mainly with the whereabouts of thinking and thoughts that is separate not only from the position adopted by orthodox cognitive science, but also from the position adopted by any embodied-embedded account of mind. Adams and Aizawa have repeatedly emphasized the insufficiency of thoughts being spatially distributed over brain, body, and world solely in the sense that applies when some instance of intelligent behavior is discovered to be causally dependent on the bodily exploitation of certain external props. The chapter concludes with a brief remark on extended functionalism and phenomenal consciousness.",
+      "cited_by_count": 114,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Plant and Biological Electrophysiology Studies"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2158906984"
+    },
+    {
+      "openalex_id": "W3058043437",
+      "doi": "10.1016/j.concog.2020.103001",
+      "title": "Varieties of the extended self",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "openalex_id": "A5067275194",
+          "orcid": "https://orcid.org/0000-0002-0102-0308",
+          "institutions": [
+            "La Trobe University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-18",
+      "abstract": null,
+      "cited_by_count": 52,
+      "type": "review",
+      "source": {
+        "name": "Consciousness and Cognition",
+        "type": "journal",
+        "issn": [
+          "1053-8100",
+          "1090-2376"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Psychology of Moral and Emotional Judgment",
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 136,
+      "url": "https://openalex.org/W3058043437"
+    },
+    {
+      "openalex_id": "W1972144033",
+      "doi": "10.1007/s11406-011-9355-0",
+      "title": "Two Versions of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Katalin Farkas",
+          "openalex_id": "A5023948387",
+          "orcid": "https://orcid.org/0000-0001-9567-091X",
+          "institutions": [
+            "Central European University"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-12-23",
+      "abstract": null,
+      "cited_by_count": 38,
+      "type": "article",
+      "source": {
+        "name": "Philosophia",
+        "type": "journal",
+        "issn": [
+          "0048-3893",
+          "1574-9274"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 14,
+      "url": "https://openalex.org/W1972144033"
+    },
+    {
+      "openalex_id": "W2106642331",
+      "doi": "10.1017/s003467050600012x",
+      "title": "Cicero as Orator and Philosopher: The Value of the <i>Pro Murena</i> for Ciceronian Political Thought",
+      "authors": [
+        {
+          "name": "Rex Stem",
+          "openalex_id": "A5025080400"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-05-01",
+      "abstract": "This essay seeks to demonstrate that the different generic parts of Cicero's corpus are but different sides of the mind of the same man, and, thus, that all parts of the corpus\u2014including the forensic speeches, once they have been corroborated by other passages in his corpus\u2014should be regarded as valuable evidence for understanding Ciceronian political thought. A comparison of Cicero's Peripatetic criticism of the Younger Cato's Stoicism in the Pro Murena to the view of Cato's politics expressed in his private correspondence of 61\u201360 BC and in De Finibus 4.61 reveals that this criticism is more than just a humorous digression to win the case. As an extended expression of Cicero's belief that the inflexible moral certainties of Cato's Stoicism could be detrimental to the managing of the consensus necessary to political life in a republic, the Pro Murena should also be recognized as an articulation of Cicero's philosophical approach to the practice of politics.",
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "The Review of Politics",
+        "type": "journal",
+        "issn": [
+          "0034-6705",
+          "1748-6858"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Classical Antiquity Studies",
+        "Classical Philosophy and Thought",
+        "Seventeenth-Century Political and Philosophical Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2106642331"
+    },
+    {
+      "openalex_id": "W2487501656",
+      "doi": "10.1075/aicr.86.02kiv",
+      "title": "Do sensory substitution devices extend the conscious mind?",
+      "authors": [
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Mirko Farina",
+          "openalex_id": "A5039029789",
+          "orcid": "https://orcid.org/0000-0001-8342-6549",
+          "institutions": [
+            "ARC Centre of Excellence in Cognition and its Disorders"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-07-23",
+      "abstract": "Is the brain the biological substrate of consciousness? Most naturalistic philosophers of mind have supposed that the answer must obviously be \u201cyes\u201d to this question. However, a growing number of philosophers working in 4e (embodied, embedded, extended, enactive) cognitive science have begun to challenge this assumption, arguing instead that consciousness supervenes on the whole embodied animal in dynamic interaction with the environment. We call views that share this claim dynamic sensorimotor theories of consciousness (DSM). Clark (2009), a founder and leading proponent of the hypothesis of the extended mind, demurs, arguing that as matter of fact the biology of consciousness doesn\u2019t allow for a brain, body and world boundary crossing architecture. We begin by looking at one of the arguments for DSM, the variable neural correlates argument. We then outline two criticisms that Clark has made of this argument and endorse his criticisms. However we finish up by using the case of sensory substitution to argue that something of this argument for DSM nevertheless survives. We suggest that Clark ought to concede sensory substitution as a case in which the conscious mind extends. Keywords: variable neural correlates; action-space view; dynamic sensorimotor theories; extended consciousness; sensory substitution devices",
+      "cited_by_count": 32,
+      "type": "book-chapter",
+      "source": {
+        "name": "Advances in consciousness research",
+        "type": "book series",
+        "issn": [
+          "1381-589X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 57,
+      "url": "https://openalex.org/W2487501656"
+    },
+    {
+      "openalex_id": "W1538753860",
+      "doi": "10.4135/9781526402097",
+      "title": "Theoretical Issues in Psychology: An Introduction",
+      "authors": [
+        {
+          "name": "Sacha Bem",
+          "openalex_id": "A5065113417",
+          "institutions": [
+            "Leiden University"
+          ]
+        },
+        {
+          "name": "Huib Looren de Jong",
+          "openalex_id": "A5060855805"
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "Chapter 1. Science: why, and how? Some Basic Concepts in Scientific Method Chapter 2. Kinds of Explanations: Laws, Interpretations and Functions Chapter 3. Philosophy of Science (1): Logical Positivism and its Failure Chapter 4. Philosophy of Science (2): Criticism and Alternatives to Positivism Chapter 5. Sociology and Psychology of Science Chapter 6. Introducing Philosophy of Mind, Brain and Cognition Chapter 7. Modern Approaches to Mind (1): The Language-based view: Functionalism and the Computational Theory of Mind Chapter 8. Modern Approaches to Mind (2): The Brain-based view: Neurophilosophy, Connectionism and Dynamicism Chapter 9. The Extended Mind: Biology, Body, and Environment Chapter 10. Consciousness and Free Will",
+      "cited_by_count": 33,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1538753860"
+    },
+    {
+      "openalex_id": "W4299402866",
+      "doi": "10.4324/9781315202006-13",
+      "title": "The Politics of International Law",
+      "authors": [
+        {
+          "name": "Martti Koskenniemi",
+          "openalex_id": "A5111382963"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-10-05",
+      "abstract": "This chapter extends the criticism of the liberal idea of the Rechtstaat, a commonplace in late modern western society, into its international counterpart. It shows our inherited ideal of a World Order based on the Rule of Law thinly hides from sight the fact that social conflict must still be solved by political means and that even though there may exist a common legal rhetoric among international lawyers. To show that international law is objective \u2013 that is, independent from international politics \u2013 the legal mind fights a battle on two fronts. Many of the doctrines which emerged from the ashes of legal scholarship at the close of the First World War explained the failure of pre-war international doctrines by reference to their apologist character. The formality of international law makes it possible for each state to read its substantive conception of world society as well as its view of the extent of sovereign freedom into legal concepts and categories.",
+      "cited_by_count": 56,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "International Law and Human Rights",
+        "Global Peace and Security Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4299402866"
+    },
+    {
+      "openalex_id": "W2214804268",
+      "doi": "10.1093/oso/9780198801764.001.0001",
+      "title": "Socially Extended Epistemology",
+      "authors": [
+        {
+          "name": "Carter, J. Adam 1980-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Clark, Andy 1957-",
+          "openalex_id": ""
+        },
+        {
+          "name": "Kallestrup, Jesper",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-09-20",
+      "abstract": "The present volume explores the topic of socially extended knowledge. This is a topic of research at the intersection of epistemology and philosophy of mind and cognitive science. The core idea of socially extended epistemology is that epistemic states such as beliefs, justification, and knowledge can be collectively realized by groups or communities of individuals. Typical examples that are being studied in the literature include collective memory in old partners, problem-solving by juries, and the behaviors of hiring committees, scientific research teams, and intelligence agencies. This volume attempts to further our understanding of socially extended knowledge while also exploring its potential practical and societal impact by inviting perspectives not just from philosophy but from cognitive science, computer science, Web science, and cybernetics too. Contributions to the volume mostly fall within two broad categories: (i) foundational issues within socially extended epistemology (including elaborations on, defences and criticisms of core aspects of socially extended epistemology), and (ii) applications and new directions, where themes in socially extended epistemology are connected to these other areas of research. The volume is accordingly divided into two parts corresponding to these broad categories. The topics themselves are of great conceptual interest, and wider interdisciplinary perspectives suggest many connections with social concerns and policy-making.",
+      "cited_by_count": 50,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cognitive Science and Education Research",
+        "Epistemology, Ethics, and Metaphysics",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 7,
+      "url": "https://openalex.org/W2214804268"
+    },
+    {
+      "openalex_id": "W4233212917",
+      "doi": "10.1080/09515080600689872",
+      "title": "Material Symbols",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "Schlumberger (Ireland)"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-05-15",
+      "abstract": "Abstract What is the relation between the material, conventional symbol structures that we encounter in the spoken and written word, and human thought? A common assumption, that structures a wide variety of otherwise competing views, is that the way in which these material, conventional symbol-structures do their work is by being translated into some kind of content-matching inner code. One alternative to this view is the tempting but thoroughly elusive idea that we somehow think in some natural language (such as English). In the present treatment I explore a third option, which I shall call the \"complementarity\" view of language. According to this third view the actual symbol structures of a given language add cognitive value by complementing (without being replicated by) the more basic modes of operation and representation endemic to the biological brain. The \"cognitive bonus\" that language brings is, on this model, not to be cashed out either via the ultimately mysterious notion of \"thinking in a given natural language\" or via some process of exhaustive translation into another inner code. Instead, we should try to think in terms of a kind of coordination dynamics in which the forms and structures of a language qua material symbol system play a key and irreducible role. Understanding language as a complementary cognitive resource is, I argue, an important part of the much larger project (sometimes glossed in terms of the \"extended mind\") of understanding human cognition as essentially and multiply hybrid: as involving a complex interplay between internal biological resources and external non-biological resources. Keywords: LanguageMindThoughtExtended MindHybrid SystemsSymbolsMateriality Acknowledgements This paper grew out of material produced for the workshops on Memory, Mind and Media organized by John Sutton at Macquarie University, Sydney, Australia in December 2004. Thanks to John Sutton, Rob Wilson, Mark Rowlands, and all the speakers and participants at those meetings for their invaluable input and criticism. Thanks also to two anonymous referees for important and thought-provoking comments. This project was completed thanks to teaching relief provided by Edinburgh University and by matching leave provided under the AHRC Research Leave Scheme. Notes Notes [1] Note that the suggestion here is not that processes of abstraction always or even typically require the loop through public tokens or symbols. Rather it is that such loops, when present, can play a distinctive cognition enhancing role. For some important explorations of the nature, scope and possible limits of such roles, see Schwartz and Black (1996 Schwartz, DL and Black, JB. 1996. Shuttling between depictive models and abstract rules: Induction and fallback. Cognitive Science, 20: 457\u2013498. [Crossref], [Web of Science \u00ae] , [Google Scholar]), and Schyns, Goldstone, and Thibaut (1998 Schyns, PG, Goldstone, RL and Thibaut, J-P. 1998. The development of features in object concepts. Behavioral and Brain Sciences, 21: 1\u201354. [Crossref], [PubMed], [Web of Science \u00ae] , [Google Scholar]). [2] A possible worry (thanks to an anonymous referee for raising this issue) is that the kinds of rich interaction between different resources posited by hybrid accounts may first require the translation of the various different elements into a \"common code,\" thus undermining any claim of genuine hybridity. A possible analogy here is with cases of intermodal interaction, also sometimes said to require the existence of a common code. But in both cases a possible response, it seems to me, is simply to deny the requirement. Potent coordinated interaction need not require a common code. Consider the case of coding in the dorsal and ventral visual streams. The two streams (see Milner & Goodale, 1995 Milner, A and Goodale, M. 1995. The visual brain in action, Oxford, , England: Oxford University Press. [Google Scholar]) look to trade in highly distinct representational forms, yet in daily life (in uncompromised subjects) they work together seamlessly in the service of goal directed behaviour. [3] See work on \"tools for thought,\" the \"extended mind,\" \"wide computation,\" \"vehicle externalism\": Clark (1997 Clark, A. 1997. Being there: Putting brain, body and world together again, Cambridge, MA: MIT Press. [Google Scholar], 2003 Clark, A. 2003. Natural-born cyborgs: Minds, technologies, and the future of human intelligence, New York: Oxford University Press. [Google Scholar]); Clark & Chalmers (1998 Clark, A and Chalmers, D. 1998. The extended mind. Analysis, 58: 7\u201319. [Crossref], [Web of Science \u00ae] , [Google Scholar]); Dennett (1991 Dennett, DC. 1991. Consciousness explained, New York: Little Brown. [Google Scholar], 1996 Dennett, DC. 1996. Kinds of minds, New York: Basic Books. [Google Scholar]); Hurley (1998 Hurley, S. 1998. Consciousness in action, Cambridge, MA: Harvard University Press. [Google Scholar]); Rowlands (1999 Rowlands, M. 1999. The body in mind: Understanding cognitive processes, Cambridge, , England: Cambridge University Press. [Crossref] , [Google Scholar]); Wilson (1994 Wilson, RA. 1994. Wide computationalism. Mind, 103: 351\u2013372. [Crossref], [Web of Science \u00ae] , [Google Scholar], 2004 Wilson, RA. 2004. Boundaries of the mind: The individual in the fragile sciences\u2014Cognition, Cambridge, , England: Cambridge University Press. [Google Scholar]). [4] Perhaps there are effects on learning trajectories (see the grade one examples) that resist the dilemma but for here and now thinking (so the argument goes) the options are as stated. [5] From this point on, whenever I speak of 'hybrid representational forms' I shall mean forms that include both standard kinds of internal representation (mentalese, neuralese, perceptual symbol systems, \u2026) and, as proper parts of a kind of distributed encoding, either the material symbols of some public language, or shallow imagistic encodings of those very forms. [6] A second reason (for Fodor's downplaying the power of hybridity) flows from his (in)famous views concerning concept learning. For given those views, the meaning of hybrid representational forms could not be learnt unless the learner already had the resources to represent that very meaning using more biologically basic (indeed, innate) resources. This, however, is not the time or place to engage in this important discussion (for some countervailing thoughts, see Prinz & Clark, 2004 Prinz, J and Clark, A. 2004. Putting concepts to work: Some thoughts for the 21st century. Mind & Language, 19: 57\u201369. [Crossref], [Web of Science \u00ae] , [Google Scholar]). [7] It is a moot point exactly what constitutes \"profound\" reorganization. But in essence, the most radical version of the view I am defending holds that although the brain must learn to deal with the special class of linguistic structures, in so it need not reorganize its neural coding routines in any way that is deeper or more profound than might occur, say, when we first learn to swim, or to play volleyball. [8] A further question is exactly how the hybrid view defended in this paper relates to that of Carruthers (2002 Carruthers, P. 2002. The cognitive functions of language. Behavioral and Brain Sciences, 25: 657\u2013726. [Crossref], [PubMed], [Web of Science \u00ae] , [Google Scholar]). The relation here is hard to determine, as the starting points of the two accounts are very different. Carruthers buys into large-scale mental modularity and sees natural language as cognition enhancing in virtue of being the sole medium of all module-integrating thoughts. The notion of hybrid cognitive vehicles defended here seems to me to be attractively weaker than this. It is indifferent to the truth or falsity of modularity.",
+      "cited_by_count": 107,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language and cultural evolution",
+        "Language, Metaphor, and Cognition",
+        "Categorization, perception, and language"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4233212917"
+    },
+    {
+      "openalex_id": "W2020909337",
+      "doi": "10.1046/j.1365-2745.2000.05262.x",
+      "title": "Eco\u2010hydrology: Plants and Water in Terrestrial and Aquatic Environments",
+      "authors": [
+        {
+          "name": "R. M. M. Crawford",
+          "openalex_id": "A5103634384"
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-12-01",
+      "abstract": "Eco-hydrology: Plants and Water in Terrestrial and Aquatic Environments. Pp. xviii + 402. With 90 Figures and 26 Tables, Routledge, London. ISBN 0-415-16272-6 Price \u00a360 (hardcover), ISBN 0-415-16273-4, \u00a318.99 (paperback). The relationship between water availability and plant ecology has probably exercised the human mind longer than any other environmental relationship. The very early use of irrigation in neolithic agriculture implies some ability to predict fluctuations in water levels, which is still the fundamental question of modern hydrology. The facility with which factors such as rainfall interception, run-off, soil and groundwater storage can be quantified attracts to hydrology minds that delight in the ability to pursue physical models and make predictions that draw largely on definable non-biological phenomena. Biological factors with their intrinsic tendency for uncertainty and variation have been limited hitherto in hydrological calculations to the more dependable properties of biomes such as albedo, interception and evapotranspiration. It is therefore very refreshing to have this collection of essays that deal specifically with contrasting ecological situations and highlight the very powerful modifying and variable influences that vegetation cover exerts on hydrological prediction. An opening chapter by Melvin Tyree on general principles of plant water relations provides a concise and informative introduction to the technicalities, concepts and terminology, which is fortunate as hydrology is a subject that delights in its own terminology. In the preface we are even asked not to confuse eco-hydrology with hydro-ecology. This is probably an important distinction for practitioners of this subject, but a little too much to ask of those who merely wish to contemplate the uses of eco-hydrology from a distance. The main body of the book is devoted to examining the special cases of plants and water in drylands, freshwater wetlands, forests, rivers and land adjacent to lakes. Here the subtleties of plant interactions with water become apparent. Dye staining experiments reveal that plants in dry areas can channel water to deep storage by extending the above ground phenomenon of stem-flow by directing water along the surface of roots. The consequences of this are that some desert plants, such as the creosote and tar bushes when they have a canopy size above 1 m2, can obtain sufficient water to decouple themselves from short-term climatic fluctuations (see chapter by John Wainwright et al.). In wetland areas, there is still dispute about the nature of the division of peat layers into the acrotelm and catotelm. The zonation of plant communities also appears to show much variation in relation to water table levels. The amphibious nature of some plants is evident in that many of the species that inhabit the transition zone between aquatic and terrestrial habitats are capable of enduring submergence as well as emerging above the land\u2013water interface. The discussion of the physiology that makes this possible is not as penetrating as might be wished. For example, the phenomenon of post-anoxic survival, which is crucial to withstanding re-exposure to air after long periods of oxygen deprivation, is never mentioned. It could, however, be argued that plant physiology is not the main subject matter of this book. Nevertheless, mere statements that many plants possess distinct biochemical, anatomical or morphological adaptations without presenting information or discussion of the nature and relevance of these adaptations to changing hydrological conditions leaves an irritating intellectual gap. Similarly, with regard to pollution, riparian zones, which have been termed the \u2018kidneys of the water landscape\u2019, are merely described as \u2018nutrient sinks\u2019, with no physiological discussion of how this is achieved despite their importance to water purification and the whole subject of eco-hydrology. Notwithstanding these criticisms, the book is a valuable addition to eco-hydrological thought as it repeatedly emphasizes the importance of phenology in vegetation development and the role of plants in influencing hydrological predictions. The numerous illustrations could have been more imaginative and would have had greater impact if some colour had been used. Poorly reproduced monochrome LANDSAT images do nothing to enhance an otherwise thought-provoking chapter on scale and interaction by Wilby and Schimel. An excellent index is provided combining both subjects and authors. As a source of information, this work is a welcome addition to any ecological library for the synthesis it provides between the traditional physical aspects of hydrology and the dynamic and variable world of ecology.",
+      "cited_by_count": 181,
+      "type": "article",
+      "source": {
+        "name": "Journal of Ecology",
+        "type": "journal",
+        "issn": [
+          "0022-0477",
+          "1365-2745"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-2745.2000.05262.x"
+      },
+      "topics": [
+        "Tree-ring climate responses",
+        "Soil erosion and sediment transport",
+        "Plant Water Relations and Carbon Dynamics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2020909337"
+    },
+    {
+      "openalex_id": "W1766357240",
+      "doi": "10.18061/emr.v9i3-4.4496",
+      "title": "Musical Manipulations and the Emotionally Extended Mind",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596",
+          "institutions": [
+            "University of Exeter"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-05",
+      "abstract": "I respond to Kersten\u2019s criticism in his article \u201cMusic and Cognitive Extension\u201d of my approach to the musically extended emotional mind in Krueger (2014). I specify how we manipulate\u2014and in so doing, integrate with\u2014music when, as active listeners, we become part of a musically extended cognitive system. I also indicate how Kersten\u2019s account might be enriched by paying closer attention to the way that music functions as an environmental artifact for emotion regulation.",
+      "cited_by_count": 22,
+      "type": "article",
+      "source": {
+        "name": "Empirical Musicology Review",
+        "type": "journal",
+        "issn": [
+          "1559-5749"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://emusicology.org/article/download/4496/3903"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Multisensory perception and integration",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W1766357240"
+    },
+    {
+      "openalex_id": "W2977883299",
+      "doi": "10.1016/j.neuroimage.2011.09.015",
+      "title": "FSL",
+      "authors": [
+        {
+          "name": "Mark Jenkinson",
+          "openalex_id": "A5004220534",
+          "orcid": "https://orcid.org/0000-0001-6043-0166",
+          "institutions": [
+            "Wellcome Centre for Integrative Neuroimaging",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Christian F. Beckmann",
+          "openalex_id": "A5057492639",
+          "orcid": "https://orcid.org/0000-0002-3373-3193",
+          "institutions": [
+            "Wellcome Centre for Integrative Neuroimaging",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Timothy E.J. Behrens",
+          "openalex_id": "A5032723566",
+          "orcid": "https://orcid.org/0000-0003-0048-1177",
+          "institutions": [
+            "University of Oxford",
+            "Wellcome Centre for Integrative Neuroimaging"
+          ]
+        },
+        {
+          "name": "Mark W. Woolrich",
+          "openalex_id": "A5088377480",
+          "orcid": "https://orcid.org/0000-0001-8460-8854",
+          "institutions": [
+            "University of Oxford",
+            "Wellcome Centre for Integrative Neuroimaging"
+          ]
+        },
+        {
+          "name": "Stephen M. Smith",
+          "openalex_id": "A5066553010",
+          "orcid": "https://orcid.org/0000-0001-8166-069X",
+          "institutions": [
+            "Wellcome Centre for Integrative Neuroimaging",
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-09-16",
+      "abstract": null,
+      "cited_by_count": 11366,
+      "type": "review",
+      "source": {
+        "name": "NeuroImage",
+        "type": "journal",
+        "issn": [
+          "1053-8119",
+          "1095-9572"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1053811911010603"
+      },
+      "topics": [
+        "Advanced Neuroimaging Techniques and Applications",
+        "Advanced MRI Techniques and Applications",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W2977883299"
+    },
+    {
+      "openalex_id": "W2768982324",
+      "doi": "10.3389/fpsyg.2017.02061",
+      "title": "The Mark of the Cognitive and the Coupling-Constitution Fallacy: A Defense of the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "openalex_id": "A5082408200",
+          "orcid": "https://orcid.org/0000-0002-4967-7907",
+          "institutions": [
+            "Istituto Universitario di Studi Superiori di Pavia"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-11-28",
+      "abstract": "Clark and Chalmers (1998) introduced the extended mind hypothesis, according to which some mental states can be realized by non-biological external resources. A lively debate has flourished around this hypothesis, connected with the issues of embodiment, embeddedness, situatedness and enaction (cf. Clark, 2008; Menary, 2010; Shapiro, 2011). Two of the main criticisms addressed to the functionalist version of the extended mind thesis have been the so-called \"coupling-constitution fallacy\" and the alleged lack of a mark of the cognitive (Adams and Aizawa, 2001, 2005, 2009, 2010a,b). According to Adams and Aizawa, extended cognition is a logical possibility, but is not instantiated in our world. Following this view, they defend a \"contingent intracranialism,\" based on a specific mark of the cognitive that they propose. In this paper I intend to show that neither criticism is effective against the extended cognition thesis. In particular: the mark of the cognitive proposed by Adams and Aizawa does not secure contingent intracranialism;the coupling-constitution fallacy criticizes extended cognition on precisely the point the theory was intended to defend: namely, that the best way to individuate cognitive systems, given a minimal mark of the cognitive, is to rely on coupling relations between agents and environmental resources.",
+      "cited_by_count": 14,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02061/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 42,
+      "url": "https://openalex.org/W2768982324"
+    },
+    {
+      "openalex_id": "W1847766739",
+      "doi": "10.7551/mitpress/9780262014038.003.0014",
+      "title": "Representation in Extended Cognitive Systems: Does the Scaffolding of Language Extend the Mind?",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "openalex_id": "A5110971972",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": "This chapter presents a criticism of the \"language-based inference,\" an argument for the expansion of the mind that utilizes empirical observations about language and cognition. Cognitive science claims that the use of language, as a system of extraorganismic marks and sounds, creates minds that extend beyond the boundaries of the human organism. Certain occasions where such an extension might occur are examined in this chapter; however, although it is a possibility, no compelling case can be presented in its favor. If cognitive systems are to be understood in such a way that its location bears on the mind's location, external parts of language cannot therefore be considered as becoming parts of that system.",
+      "cited_by_count": 21,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W1847766739"
+    },
+    {
+      "openalex_id": "W2144158050",
+      "doi": "10.1111/j.1468-2427.2005.00568.x",
+      "title": "Cyborg Urbanization: Complexity and Monstrosity in the Contemporary City",
+      "authors": [
+        {
+          "name": "Matthew Gandy",
+          "openalex_id": "A5044112273",
+          "orcid": "https://orcid.org/0000-0002-8478-9808",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2005,
+      "publication_date": "2005-03-01",
+      "abstract": "She referred to the high-rise as if it were some kind of huge animate presence, brooding over them and keeping a magisterial eye on the events taking place. There was something in this feeling \u2014 the elevators pumping up and down the long shafts resembled pistons in the chamber of a heart. The residents moving along the corridors were the cells in a network of arteries, the lights in their apartments the neurones of a brain (J.G. Ballard, 1975: 40). Now, the boundaries between the organic and the inorganic, blurred by cybernetic and bio-technologies, seem less sharp; the body, itself invaded and re-shaped by technology, invades and permeates the space outside, even as this space takes on dimensions that themselves confuse the inner and the outer, visually, mentally and physically (Anthony Vidler, 1990: 37\u20138). The body-territory [corpo-territorio] poses a problematic form of corporeal identity that in becoming ever more routinized has tended to dissolve the distinctions that formerly existed between the organic and the inorganic (Tiziana Villani, 1995: 118). As she tentatively begins to play the piano, the replicant, named Rachel, recalls that she once had lessons but cannot be sure whether these memories are her own or simply the implanted memories of someone else. In this poignant scene in Ridley Scott's Blade Runner (1982) we explore the possibility that human identities might be artificially created in order to produce advanced androids whose intelligence and sensitivity is comparable with that of their human creators. The figure of the cyborg, as represented in science fiction cinema, is not an automaton or robot but a sophisticated creation that seems to simultaneously extend but also threaten our understanding of what it means to be human. If we were to locate the cyborg as an idea, we could say that it is clearly linked to fantastical combinations of bodies and machines but is nonetheless a way of thinking about the world. It is, in other words, an ontological strategy for extending the limits to human knowledge as well as an apposite means of describing those phenomena that appear to reside outside conventional frameworks of understanding. If a cyborgian sensibility is explored within the context of the contemporary city, we find that it has developed out of several interconnecting strands of thought as a trope of critical reflection which uncovers a series of anomalies, fractures and tensions lurking within dominant modes of urban and architectural thinking. Since the early 1960s the potential applications of the cyborg concept have proliferated to include developments such as whole organism cloning, in vitro fertilization, gene sequencing, advanced prosthetics and other sophisticated medical technologies. In tandem with these technological manifestations, the imaginative field of the cyborg has expanded through literature, cinema and the fantasy spaces of contemporary culture.1 It is since the mid-1980s, however, that the idea of the cyborg has been associated with a more densely argued series of theoretical applications as a means to explore the interface between technology and the body. The key intervention here is Donna Haraway's article entitled 'A Cyborg Manifesto', first published in the Socialist Review in 1985, and later included in her influential collection of essays Simians, Cyborgs and Women where she writes in her introduction (1991a: 1): A cyborg is a hybrid creature, composed of organism and machine. But, cyborgs are compounded of special kinds of machines and special kinds of organisms appropriate to the late twentieth century. Cyborgs are post-Second World War hybrid entities made of, first, ourselves and other organic creatures in our unchosen \"high-technological\" guise as information systems, texts, and ergonomically controlled labouring, desiring, and reproducing systems. The second essential ingredient in cyborgs is machines in their guise, also, as communications systems, texts, and self-acting, ergonomically designed apparatuses. This succinct and revealing definition reminds us that the idea of the cyborg, as originally elaborated by Haraway, is at root a political as well as an intellectual project, an idea which originated in and from the 'belly of the monster' (1991a: 4), that nexus of political and economic entanglements that we might term the 'first world' in distinction to the proliferating spaces of marginality that lie beyond.2 Since its inception as a critical intellectual concept in the 1980s the cyborg metaphor has been deployed to challenge disembodied, dualistic, masculinist and teleological bodies of knowledge. It has infused science and technology studies with feminist epistemological strategies. It has opened up new possibilities for the understanding of relations between nature and culture. And it has facilitated greater sensitivity towards social and spatial complexity through its emphasis on 'situated knowledges'. The idea of the cyborg shares an affinity with related concepts such as 'cyberspace', 'cybernetics' and 'cyberpunk'. Yet the contemporary use of the term 'cyborg' is different from these virtual, analytical and fictional constructs because it is grounded in the living and breathing flesh of the human body. Whilst the 'cyber-' metaphor has tended to be associated with various forms of virtuality, the idea of the cyborg is closely linked with the corporeal experience of space.3 In this sense the cyborg can be read as an alternative way of conceptualizing the growth and development of cities that serves to destabilize the pervasive narratives of dematerialization, spatial malleability and virtualization. The underlying materiality of the cyborg metaphor has acquired heightened significance now that the earlier polarity between virtual space and 'meat space' articulated in the first wave of cyber literature is losing its conceptual utility and now that the very idea of 'virtual reality' is itself imploding as it becomes either relocated in the context of a heightened dimension of the real (see, for example, \u017di\u017eek, 2002) or simply derided as an inherently oxymoronic formulation (see Grosz, 2001).4 The emphasis of the cyborg on the material interface between the body and the city is perhaps most strikingly manifested in the physical infrastructure that links the human body to vast technological networks. If we understand the cyborg to be a cybernetic creation, a hybrid of machine and organism, then urban infrastructures can be conceptualized as a series of interconnecting life-support systems (see Swyngedouw, 1996; Marras, 1999; Gandy, 2002; Mitchell, 2003). The modern home, for example, has become a complex exoskeleton for the human body with its provision of water, warmth, light and other essential needs. The home can be conceived as 'prosthesis and prophylactic' in which modernist distinctions between nature and culture, and between the organic and the inorganic, become blurred (Vidler, 1990: 37). And beyond the boundaries of the home itself we find a vast interlinked system of networks, pipes and wires that enable the modern city to function. These interstitial spaces of connectivity within individual buildings extend through urban space to produce a multi-layered structure of extraordinary complexity and utility. The figure of the cyborg is at root a spatial metaphor. But how does the idea of the cyborg intersect with spatial theory? In what ways does the cyborg reinforce or contradict other emerging strands of urban thought that also emphasize urban complexity and hybridity? Has the epistemological subtlety and political prescience of the cyborg, as originally formulated in the 1980s, been realized in practice or simply been diffused through the term's widening usage? And should we ultimately reject the idea of the cyborg as an anachronism derived from cold war science and the first generation of twentieth-century cyberpunk culture? In the rest of this article I will try to address these issues through an exploration of the somewhat haphazard presence of the cyborg in contemporary urban discourse. I will focus in particular on the example of urban infrastructure as a concrete manifestation of the cyborg idea in order to explore different facets of the relationship between the city, the body and the human subject. My aim is not to foreclose discussions surrounding the 'cyborg city' but to open up a series of dialogues in order to explore contemporary thinking around these questions. One of the principal difficulties with delineating the cyborg city as a clearly defined entity is derived from the entanglement of the cyborg idea with a variety of urban metaphors ranging from organicist conceptions of the nineteenth-century city to 'neo-organicist' representations of the post-industrial metropolis. In its classic nineteenth-century form the organicist conception of the city emerged out of a functional analogy, originating within the medical sciences, wherein spatial differentiation corresponded with a distinctive arrangement of human organs. We find that Kantian notions of the self-organizational characteristics of animate matter were combined with new insights into the human vascular and arterial system and an emerging circulatory emphasis within the nascent science of political economy. In recent years, however, the organicist emphasis on the city as an integrated body with identifiable organs, which emerged in response to the nineteenth-century industrial city, has been increasingly displaced by the idea of urban space as a prosthetic extension to the human body. The body-city problematic has been reconceptualized in the context of post-Cartesian and post-positivist modes of thinking. The emphasis on the city as a self-contained body or machine has been challenged by a hybridized conception of space as a system of technological devices that enhances human productive and imaginative capabilities. The cyborg metaphor not only reworks the metabolic preoccupations of the nineteenth-century industrial city but also extends to a contemporary body of ideas that we can term 'neo-organicist' on account of the deployment of biophysical metaphors for the interpretation of social and spatial complexity. In the neo-organicist city we encounter a shift of emphasis away from an anatomical conception of space as an assemblage of individual organs towards a neurological reading of space as a diffuse and interconnected realm of human interaction. The film maker Michael Burke, for example, director of Cyborg City (1999), describes how beneath the 'glass and concrete' of the future city there will be a 'humming mass of technology' acting as a central nervous system, 'constantly monitoring and controlling both its own functions and those of its citizens' (Burke, 1998).5 The mechanical and hierarchical model of the relationship between the body and the city has been supplanted by a more complex and non-linear pattern of urban development in response to the spread of new information technologies (see Gille, 1986; Rabinbach, 1990; Akira, 2001). The organicist city of the modern era was founded on a clear separation between mind and body that enabled the city to be conceptualized as a coherent entity to be acted upon, disciplined, regulated and shaped according to human will. The emergence of the neo-organicist city, in contrast, is founded on the blurring of boundaries rather than their repeated delineation. At the same time, however, there remain important continuities between the kind of machine-based metaphors associated with the early twentieth-century futurism of figures such as Mario Chiattone, Filippo Tommaso Marinetti and Antoniono Sant'Elia and the elaborate computer-based metaphors deployed in the contemporary city (see Villani, 1995; Boyer, 1996; Schaub, 1998). Other significant continuities include, for example, the avant-garde bricolage of early cinema and the surrealist bodies depicted in the art of Hans Bellmer, Francis Picabia and other responses to 'a sterile and over rationalised technological realism' (Vidler, 1990: 42).6 These interconnecting strands between cultural modernism and the emergence of the cyborg metaphor are significant because they underlie the centrality of corporeal metaphors for the critical interpretation of urban form. The current emphasis on corporeal and neurological analogies in the neo-organicist literature owes more to earlier developments than is widely acknowledged. We can detect two principal dimensions to contemporary neo-organicist urban thought. A first strand, rooted in the bio-physical sciences, perceives the city to be a special kind of complex, yet intricately ordered system. This homeostatic perspective, which is inflected by ecological thinking and recent developments in evolutionary biology, has diffused through parts of the architectural literature and is only tangentially linked with the epistemological challenge of cyborg theory.7 A second and more intellectually significant development is represented by the convergence of ideas surrounding the 'thinking space' of the city and the indeterminacy of spatial forms. If the body-city nexus is conceptualized as a thinking machine then the analytical focus shifts towards the identification of those critical networks or 'neurones' that sustain the relationship between the body and the city (Kurokawa, 2001a). Though this dimension to the neo-organicist perspective shares important continuities with the technological preoccupations of early twentieth-century modernism, it extends its conceptual purview into different aspects of cultural modernism. The influential speculations of Gilles Deleuze and Felix Guattari, for example, develop Antonin Artaud's conception of the 'body without organs' to produce a philosophy of spatial complexity quite different from that associated with dominant modernist traditions (Deleuze and Guattari, 1986; 1987; Rajchman, 2000; Uno, 2001). Their philosophical challenge is to perceive space in the absence of any previously existent categories, hierarchies or systems as a form of 'anarchic non-identical proliferation' (Luckhurst, 1997: 128). The organic metaphor of the 'rhizome' is deployed in distinction to 'arborescent' conceptions of cities as hierarchical structures (Teysott, 1990; Akira, 2001; Kurokawa, 2001a). In addition to this emphasis on non-hierarchical structures of difference Deleuze and Guattari's conception of concrete space also seeks to incorporate the imaginary, libidinous and oneiric realms of human experience. From their 'neo-vitalist' perspective, which builds on the philosophical ideas of Henri Bergson, the virtual realm is not simply a mimesis or reflection of physical reality but an independent domain that generates new kinds of spaces and ideas. The political significance of the virtual realm lies in its experimental and emergent role as part of an envisioned space that has yet to be realized within the taken-for-granted realm of concrete reality (Boundas, 1996; Massumi, 2001). The role of the diagram or 'abstract machine' takes on special significance in this context as an attempt to give visual expression to new models of reality.8 In the case of architecture, for example, there has been an intense dialogue between developments in building design and the speculative possibilities engendered by computer-aided simulations so that 'physical space increasingly resembles cyberspace' (Mitchell, 2003: 197). Some architectural practices have deployed so-called 'genetic algorithms' in order to generate a form of 'in vitro' architecture which derives its inspiration from nature yet remains autonomous from it as a purely digitized space of imaginative exploration (see Chu, 2002; De Landa, 2002).9 Examples of architectural practice inflected by post-structuralist ideas which move beyond purely 'in vitro' speculations to fully realized projects include the work of Peter Eisenman, Frank Gehry and Bernard Tschumi, where sophisticated combinations of form, structure and materials have been achieved, which are quite at odds with modernist conceptions of architectural form. A conceptual synthesis can be discerned in some of the recent literature between post-structuralist philosophies of space and Latourian conceptions of actor-network theory to produce a new kind of urban theorization which eschews the meta-narratives associated with neo-Marxian approaches. Building on the insights of Deleuze and Guattari these approaches have sought to remove all the extrinsic or foundational aspects to urban theory and pare analysis down to the movements and interactions that constitute 'the city' as a particular kind of spatial form or activity that is independent of conventional accounts of scale, structure or order.10 The brain or 'thinking space' of the city persists yet is dispersed through innumerable nodes and networks in contrast with the embodied cyborg citizen to be found in the more technophile literature. We can trace these developments back to the emerging critique of architectural modernism in the 1970s and 1980s that increasingly drew on the theoretical ontologies of post-structuralism in order to advance a radically unplanned built form.11 From this perspective the role of 'chaos', for example, takes on a very different significance from that associated with the modernist city and is perceived as a field of evolutionary and radical experimentation. Chaos is no longer seen as an anomalous dimension to the urban experience to be problematized or excluded from analysis but a rich vein of social and spatial interaction through which we may perceive signs of alternative or hitherto overlooked urban forms. Chaos may also be characterized as a more sophisticated, resilient and adaptable form of order as Rem Koolhaas has suggested with respect to the dynamics of West African urbanism (Koolhaas et al., 2001; Koolhaas, 2002). The theoretical novelty of such a perspective sits sharply at odds, however, with the capacity for what one might term 'avant-garde urbanism' to actually explicate any substantial dimensions to urban change (see, for example, Rauterberg, 2002; Gandy, 2004b). We can detect within urban and architectural discourse an emerging counter current to post-structuralist and avant-garde urbanism led by a of and political (see 1996; and 1998). Though the post-structuralism of Deleuze and Guattari seeks to between the and the and is in this respect a significant advance on the and of there is a in any kind of political critique of the cyborg The emphasis on the characteristics of urban space the particular combinations of and human that enable nodes within the urban system to play in the of cultural and economic The of structure the of the theoretical and significance of these insights the between post-structuralism and a cyborg sensibility towards the entanglement of the real and the We are with an between the reading of the industrial city and a 'neo-organicist' with the design of space that quite in architectural The emerging of the interface as a technological is associated with nineteenth-century over science and technology, for example, form part of a counter discourse to modernist of technological 1996; 2003). In recent years, however, the trope of technological has tended to between a of new towards excluded on the one and the of towards technology and its on the other The of the cyborg has engendered a new wave of and towards the of the body by technologies that threaten to or the human subject. In the of for example, we move beyond the and critique of technology towards a political of technology and its with the human body. the of the body by new technologies as a of that the critical of the earlier in and communications technologies 1997: the advance of a in which the of towards an of the human body itself so that we no longer of the body in the city but of the in the (see 1995; The cyborg figure becomes a for the of we are no longer with a cold war but with the of the around the of buildings in of and their The of the have been radically by new technologies of and in order to the of the century. structures have developed that of social such as with forms of social through a of and The significance of urban in particular is now towards which the of essential technological networks such as and in order to and of political A of modern from urban technological networks or to use expression is to a of so that they are no longer political but for (see also a of from whole the of through a of and of the more of technology we can an emphasis on the cyborg as a means of becoming in order to the human body from the boundaries of the autonomous In the work of Mitchell, for example, we can trace a from through the experience of to the contemporary urban citizen as 'a (Mitchell, 2003: writes have been with the body and its now they virtual bodies that can sense and at a but that also remain in their In this sense builds on the inflected of earlier such as and depicted as a series of on infrastructures the extraordinary technological of the cyber city and the interaction of with of human activity (Mitchell, 2003). Yet this is a future in which the and of space are for example, that we are 'the shift from a by boundaries and to a at scale, by networks, and but the between the of and that of to economic In the perspective is so by technological change that it begins to the role of an independent in The blurring of boundaries between the body and the city in to our understanding of the human and the characteristics of human conception of human include, for the role of biophysical and technological systems that the social of for example, has different of analysis to the extension of our conception of to include those structures and that have been excluded from both and epistemological traditions the work of has tended to emphasize the between human and nature the of has been the or of between different kinds of networks or structures The cyborg can be conceived in a Latourian sense as both a new kind of social interaction with space but also a concept to be conceived in to the realm of modernist urban thought. Yet a Latourian with its hybridized conceptions of is quite different from that within philosophical traditions because of the radical extension of human to those and systems which the sought to from the realm of and political The concept of also its own its own of between its The idea of the cyborg as a hybrid can be conceived as a problematic of derived from or some teleological for urban change but it can also a of ideas and developments from the to the The of and for example, can be explored in of combinations of practices and ideas from (see, for example, 1995; 1995; 2003). The cyborg metaphor can be in this sense as an of the limits to or teleological architectural rooted in and conceptions of cultural that we have been we could that we have led a cyborg since human has a of cultural and technological ranging from the of to the developments in materials But if we any or to the cyborg idea we its analytical utility as a means to with the cultural and technological complexity of the contemporary The of human in the cyborg city to the between technological change and the of the from the industrial But can the cyborg idea us to understand the dynamics of infrastructure provision in to a digitized or diffuse conception of the If the interactions between human and have the idea that is the of human then this of the insights of cultural that have quite on the of material and systems of cultural The made by for example, over the of locate these within the context of a more experience of within which to a different of and the other are in a sense is that new forms of are a more integrated rather than system of that the of modern and experience. political discourse is grounded within the context of the of the of the realm and the radical indeterminacy of the human subject. If the can be as an and and realm of human we are with the of delineating the characteristics of the human in a cyborg If the body-city interface is conceptualized as a then the distinction between mind and body and between the material and the virtual becomes But what the human is increasingly with the of the city Whilst it is to that our hybridized interactions with space a greater role for and (Mitchell, 2003: it is to of as a digitized of interactions with not only other but also machines and networks. The for example, describes a emerging between an",
+      "cited_by_count": 459,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Urban and Regional Research",
+        "type": "journal",
+        "issn": [
+          "0309-1317",
+          "1468-2427"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1468-2427.2005.00568.x"
+      },
+      "topics": [
+        "Cybernetics and Technology in Society",
+        "Posthumanist Ethics and Activism",
+        "Geographies of human-animal interactions"
+      ],
+      "referenced_works_count": 205,
+      "url": "https://openalex.org/W2144158050"
+    },
+    {
+      "openalex_id": "W2001985893",
+      "doi": "10.1108/eum0000000005867",
+      "title": "Nature, value and pursuit of reliable corporate knowledge",
+      "authors": [
+        {
+          "name": "J. Mort",
+          "openalex_id": "A5110483228",
+          "institutions": [
+            "Xerox (France)"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-09-01",
+      "abstract": "To innovate, a firm must create from permutations and combinations of many individual and organizational intellects a differential knowledge that could not spring from a single mind. Shaped by particular time and circumstances and emerging as if from a collective, corporate \u201cmind\u201d, this corporate knowledge can define a unique worldview for the firm. Given its centrality to the competitiveness of any firm, an important issue is the degree to which such collective corporate knowledge can be considered reliable. Ziman described reliable scientific knowledge as the product of a collective human enterprise to which its member scientists make individual contributions that are amended and extended by mutual criticism and intellectual cooperation. Uses an analogy with Ziman\u2019s description of the scientific process to examine the nature and value of reliable knowledge in the corporate environment and the imperatives and possibilities for its creation. As will be described, the hallmark of corporate \u201creliable\u201d knowledge cannot be its \u201ccorrectness\u201d but rather its synoptic and emergent nature.",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "Journal of Knowledge Management",
+        "type": "journal",
+        "issn": [
+          "1367-3270",
+          "1758-7484"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Innovation and Knowledge Management",
+        "Business Strategy and Innovation",
+        "Intellectual Capital and Performance Analysis"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2001985893"
+    },
+    {
+      "openalex_id": "W3021458395",
+      "doi": "10.1002/9781118963418.childpsy210",
+      "title": "The Development of Social Understanding",
+      "authors": [
+        {
+          "name": "Jeremy I. M. Carpendale",
+          "openalex_id": "A5045360191",
+          "orcid": "https://orcid.org/0000-0002-7540-948X",
+          "institutions": [
+            "Simon Fraser University"
+          ]
+        },
+        {
+          "name": "Charlie Lewis",
+          "openalex_id": "A5002775071",
+          "orcid": "https://orcid.org/0000-0001-9883-7893",
+          "institutions": [
+            "Lancaster University"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-03-23",
+      "abstract": "Abstract Understanding others is an essential aspect of being human. We review research and theory on the development of a range of skills constituting social understanding beginning in infancy with gaze\u2010following and gestures such as pointing. Given the importance attributed to false belief understanding in preschoolers, we review accounts of this development as well as criticism of these theories. Such debates now extend to current claims that even infants understand others' false beliefs, raising questions about preconceptions of the nature and origins of social awareness. The later developing social skills we turn to next remain relatively neglected in this literature. We discuss contributions from neuroscience for understanding social cognitive development such as neuroimaging and research on mirror neurons. There are many links between social cognition and children's social relations and, in particular, we focus on the key role of language in social cognitive development. We also review ways in which social understanding may influence social conduct and this is linked to the issues of trust and deception, as well as cooperation and moral development. Throughout, we highlight ways that research traditions are influenced by worldviews or preconceptions about the nature of mind, meaning, and knowledge, and emphasize the interconnections between social understanding and all other aspects of human life.",
+      "cited_by_count": 45,
+      "type": "other",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Child and Animal Learning Development",
+        "Action Observation and Synchronization",
+        "Neuroendocrine regulation and behavior"
+      ],
+      "referenced_works_count": 360,
+      "url": "https://openalex.org/W3021458395"
+    },
+    {
+      "openalex_id": "W2246850957",
+      "doi": null,
+      "title": "HOW NEWTON SOLVED THE MIND-BODY PROBLEM",
+      "authors": [
+        {
+          "name": "Geoffrey Gorham",
+          "openalex_id": "A5031932240",
+          "orcid": "https://orcid.org/0009-0009-4162-0074"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "The recent resurgence of interest in Isaac Newton's metaphysics has revived a set of scholarly concerns that were earlier emphasiz d by Burtt (1952), Koyre (1957), and Baker (1930), especially the theological underpinnings of absolute space and time.2 However, another central problem of seventeenth-century metaphysics, the relation between mind and body, never figured prominently for these path-breaking scholars, despite Newton's famous likening of bodies in absolute space to ideas in God's sensoriumP Fortunately, the 1962 publication of Newton's lengthy, highly philosophical manuscript De Gravitatione etAequipon dio Fluidorum (henceforth De Grav) has brought greater attention to this dimension of his thought.4 Ostensibly a treatise on hydrostatics, De Grav quickly turns to criticism of Descartes' relationist conceptions of place and motion, followed by a detailed articulation and defense of Newton's own absolutist theory of space and time.5 And this leads, in turn, to an elaborate?certainly, Newton's most elaborate?discussion of mind-body interaction. This philosophical digression on the mind-body problem is required, according to Newton, since it is on the distinction between thinking and extended substances, or rather between thought and extension, that the Cartesian philosophy is principally founded (De Grav 21).6 Drawing on De Grav, scholars such as Tamny (1979), Iliffe (1995), and Dempsey (2006) have recently contributed to a much richer understanding of Newton's concept of mind and its place in his natural philosophy, physiology, and theology.7",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "History of Philosophy Quarterly",
+        "type": "journal",
+        "issn": [
+          "0740-0675",
+          "2152-1026"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Historical Philosophy and Science",
+        "History of Science and Medicine",
+        "Diverse Historical and Scientific Studies"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W2246850957"
+    },
+    {
+      "openalex_id": "W3033591753",
+      "doi": "10.3389/fpsyg.2020.00987",
+      "title": "A Radical Reassessment of the Body in Social Cognition",
+      "authors": [
+        {
+          "name": "Jessica Lindblom",
+          "openalex_id": "A5080497330",
+          "orcid": "https://orcid.org/0000-0003-0946-7531",
+          "institutions": [
+            "University of Sk\u00f6vde"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-05",
+      "abstract": "The main issue addressed in this paper is to provide a reassessment of the role and relevance of the body in social cognition from a radical embodied cognitive science perspective. Initially, I provide a historical introduction of the traditional account of the body in cognitive science, which I here call the cognitivist view. I then present several lines of criticism raised against the cognitivist view advanced by more embodied, enacted and situated approaches in cognitive science, and related disciplines. Next, I analyze several approaches under the umbrella of embodied social cognition. My line of argument is that some of these approaches, although pointing toward the right direction of conceiving that the social mind is not merely contained inside the head, still fail to fully acknowledge the radically embodied social mind. I argue that the failure of these accounts of embodied social cognition could be associated with so-called 'simple embodiment.' The third part of this paper focuses on elaborating an alternative characterization of the radically embodied social mind that also tries to reduce the remaining problems with 'simple embodiment.' I draw upon two turns in radically embodied cognitive science, the enactive turn, and the intersubjective turn. On the one hand, there is the risk of focusing too much on the individual level in social cognition that may result in new kinds of methodological individualism that partly neglect the social dimension. On the other hand, socially distributed and socially extended approaches that pay more attention to the dynamics within social interaction may encounter the risk of ignoring the individual during social interaction dynamics and simultaneously not emphasizing the role of embodiment. The approach taken is to consider several ways of describing and incorporating the (individual) social mind at the social level that includes language. I outline some ideas and motivations for how to study and expand the field of radical embodied social cognition in the future, as well as pose the ubiquitous hazard of falling back into a cognitivism view in several ways.",
+      "cited_by_count": 25,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00987/pdf"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition",
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 144,
+      "url": "https://openalex.org/W3033591753"
+    },
+    {
+      "openalex_id": "W808807902",
+      "doi": "10.1007/s11229-015-0799-9",
+      "title": "What is the extension of the extended mind?",
+      "authors": [
+        {
+          "name": "Hajo Greif",
+          "openalex_id": "A5013645161",
+          "institutions": [
+            "University of Klagenfurt",
+            "Technical University of Munich"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-06-28",
+      "abstract": "Two aspects of cognitive coupling, as brought forward in the Extended Mind Hypothesis, are discussed in this paper: (1) how shall the functional coupling between the organism and some entity in his environment be spelled out in detail? (2) What are the paradigmatic external entities to enter into that coupling? These two related questions are best answered in the light of an aetiological variety of functionalist argument that adds historical depth to the \"active externalism\" promoted by Clark and Chalmers and helps to counter some of the core criticisms levelled against this view. Under additional reference to conceptual parallels between the Extended Mind Hypothesis and a set of heterodox theories in biology-environmental constructivism, niche construction, developmental systems theory-an argument for the grounding of environmentally extended cognitive traits in evolved biological functions is developed. In a spirit that seeks to integrate extended functionalism with views from cognitive integration and complementarity, it is argued (ad 1) that instances of environmental coupling should be understood as being constitutive to cognitive functions in either of two distinct ways. It is further argued (ad 2) that the historically and systematically prior environmental counterparts in that coupling are features of the natural environment. Language and linguistically imbued artefacts are likely to have descended from more basic relations that have an extension over the environment.",
+      "cited_by_count": 19,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1007/s11229-015-0799-9"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W808807902"
+    },
+    {
+      "openalex_id": "W1500164099",
+      "doi": "10.5860/choice.44-2056",
+      "title": "Frontiers of justice: disability, nationality, species membership",
+      "authors": [
+        {
+          "name": "Martha C. Nussbaum",
+          "openalex_id": "A5075715797"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-12-01",
+      "abstract": "rather \"as a nexus of distinctive sensibilities, cares, and concerns that are expressed in distinctive patterns of emotional and practical response\" (p.236).Drawing on Philippa Foot and Simone Weil, Wiggins draws out the moral significance of solidarity and recognition.\"In recognizing another person, we recognize not merely a subject of consciousness but a being who will seek to interpret us even as we seek to interpret him or her\" (p.243).The priority of primitive aversions, with which Wiggins began, is then linked to acts that violate solidarity and deny recognition.What if we must violate basic deontological rules to prevent catastrophe?Wiggins responds with a fifth moral category \"subsuming the ordinary passably virtuous agent's concern to preserve the very conditions under which human civilization will survive and/or ordinary morality can make its characteristic demands on normal human life\" (p.259).It is a mistake, as consequentialists do, to model the whole of morality on these emergency cases.Wiggins resolutely defends a \"piecemeal\" approach to morality.\"[T]hose who despise the piecemeal . . .cut themselves off from all sorts of truths that bear closely on the questions they ask. . . .In so far as the case for morality can be stated briefly, all that can be said is that, in a way already illustrated, it is the most enterprising and durable expression that a human being will find for the benevolent dispositions he or she can discover within himself or herself \" (p.265).This intriguing book is not aimed at teenage undergraduates, who will find Wiggins a very difficult and frustrating read.Ethics would certainly not be a suitable text for introductory ethics classes.Its target audience is rather those who, while beginners in philosophy, are not beginners in life.Such readers will still find Wiggins challenging (and, at times, opaque and old-fashioned), but they may also find him an intriguing and provocative guide as they seek to apply moral philosophy to moral life.",
+      "cited_by_count": 3819,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/ANDFOJ.pdf"
+      },
+      "topics": [
+        "Political Philosophy and Ethics"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W1500164099"
+    },
+    {
+      "openalex_id": "W2974121906",
+      "doi": "10.1007/s10670-019-00172-9",
+      "title": "Whose (Extended) Mind Is It, Anyway?",
+      "authors": [
+        {
+          "name": "Keith Raymond Harris",
+          "openalex_id": "A5067114284",
+          "orcid": "https://orcid.org/0000-0002-2278-9028",
+          "institutions": [
+            "University of Iowa"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-20",
+      "abstract": null,
+      "cited_by_count": 8,
+      "type": "article",
+      "source": {
+        "name": "Erkenntnis",
+        "type": "journal",
+        "issn": [
+          "0165-0106",
+          "1572-8420"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 43,
+      "url": "https://openalex.org/W2974121906"
+    },
+    {
+      "openalex_id": "W2133416234",
+      "doi": "10.1093/eurheartj/eht151",
+      "title": "2013 ESH/ESC Guidelines for the management of arterial hypertension",
+      "authors": [
+        {
+          "name": "Giuseppe Mancia",
+          "openalex_id": "A5109556918",
+          "institutions": [
+            "University of Milano-Bicocca"
+          ]
+        },
+        {
+          "name": "Robert Fagard",
+          "openalex_id": "A5111569665"
+        },
+        {
+          "name": "Krzysztof Narkiewicz",
+          "openalex_id": "A5089727588",
+          "orcid": "https://orcid.org/0000-0001-5949-5018"
+        },
+        {
+          "name": "Josep Red\u00f3n",
+          "openalex_id": "A5007735183",
+          "orcid": "https://orcid.org/0000-0001-8777-6773"
+        },
+        {
+          "name": "Alberto Zanchetti",
+          "openalex_id": "A5042107498",
+          "orcid": "https://orcid.org/0000-0003-4796-7959"
+        },
+        {
+          "name": "Michael B\u00f6hm",
+          "openalex_id": "A5109794881"
+        },
+        {
+          "name": "Thierry Christiaens",
+          "openalex_id": "A5105817690"
+        },
+        {
+          "name": "Renata C\u00edfkov\u00e1",
+          "openalex_id": "A5062764105",
+          "orcid": "https://orcid.org/0000-0003-2765-3821"
+        },
+        {
+          "name": "Guy De Backer",
+          "openalex_id": "A5107869815"
+        },
+        {
+          "name": "Anna F. Dominiczak",
+          "openalex_id": "A5017081040",
+          "orcid": "https://orcid.org/0000-0003-4913-3608"
+        },
+        {
+          "name": "Maurizio Galderisi",
+          "openalex_id": "A5073163158",
+          "orcid": "https://orcid.org/0000-0003-0311-9069"
+        },
+        {
+          "name": "Diederick E. Grobbee",
+          "openalex_id": "A5113667374"
+        },
+        {
+          "name": "Tiny Jaarsma",
+          "openalex_id": "A5046767891",
+          "orcid": "https://orcid.org/0000-0002-4197-4026"
+        },
+        {
+          "name": "Paulus Kirchhof",
+          "openalex_id": "A5047325459",
+          "orcid": "https://orcid.org/0000-0002-1881-0197"
+        },
+        {
+          "name": "Sverre E. Kjeldsen",
+          "openalex_id": "A5087577272",
+          "orcid": "https://orcid.org/0000-0003-2389-0272"
+        },
+        {
+          "name": "St\u00e9phane Laurent",
+          "openalex_id": "A5108135057"
+        },
+        {
+          "name": "Athanasios J Manolis",
+          "openalex_id": "A5086871534"
+        },
+        {
+          "name": "Peter M. Nilsson",
+          "openalex_id": "A5020047304",
+          "orcid": "https://orcid.org/0000-0002-5652-8459"
+        },
+        {
+          "name": "Lu\u00eds M. Ruilope",
+          "openalex_id": "A5040062593",
+          "orcid": "https://orcid.org/0000-0001-6278-7951"
+        },
+        {
+          "name": "Roland E Schmieder",
+          "openalex_id": "A5107854154"
+        },
+        {
+          "name": "Per Anton Sirnes",
+          "openalex_id": "A5103381389"
+        },
+        {
+          "name": "Peter Sleight",
+          "openalex_id": "A5110181982"
+        },
+        {
+          "name": "Margus Viigimaa",
+          "openalex_id": "A5013595648",
+          "orcid": "https://orcid.org/0000-0001-5575-5978"
+        },
+        {
+          "name": "Bernard Waeber",
+          "openalex_id": "A5032738255"
+        },
+        {
+          "name": "Fa\u0131\u0308ez Zannad",
+          "openalex_id": "A5036821495",
+          "orcid": "https://orcid.org/0000-0001-7456-1570"
+        },
+        {
+          "name": "Michel Burnier",
+          "openalex_id": "A5106486430"
+        },
+        {
+          "name": "Ettore Ambrosioni",
+          "openalex_id": "A5098094252"
+        },
+        {
+          "name": "Mark Caufield",
+          "openalex_id": "A5105987752"
+        },
+        {
+          "name": "Ant\u00f3nio Coca",
+          "openalex_id": "A5069730469",
+          "orcid": "https://orcid.org/0000-0001-6968-3266"
+        },
+        {
+          "name": "Michael Hecht Olsen",
+          "openalex_id": "A5056069818",
+          "orcid": "https://orcid.org/0000-0003-2230-5780"
+        },
+        {
+          "name": "Costas Tsioufis",
+          "openalex_id": "A5107877457"
+        },
+        {
+          "name": "Philippe van de Borne",
+          "openalex_id": "A5108129340"
+        },
+        {
+          "name": "Jose Luis Zamorano",
+          "openalex_id": "A5105464564"
+        },
+        {
+          "name": "Stephan Achenbach",
+          "openalex_id": "A5108094982"
+        },
+        {
+          "name": "Helmut Baumgartner",
+          "openalex_id": "A5108094981"
+        },
+        {
+          "name": "Jeroen J. Bax",
+          "openalex_id": "A5108135318"
+        },
+        {
+          "name": "H\u00e9ctor Bueno",
+          "openalex_id": "A5053660748",
+          "orcid": "https://orcid.org/0000-0003-0277-7596"
+        },
+        {
+          "name": "Veronica Dean",
+          "openalex_id": "A5106134180"
+        },
+        {
+          "name": "Christi Deaton",
+          "openalex_id": "A5025950676",
+          "orcid": "https://orcid.org/0000-0003-3209-0752"
+        },
+        {
+          "name": "\u00c7etin Erol",
+          "openalex_id": "A5056342618",
+          "orcid": "https://orcid.org/0000-0001-7396-3818"
+        },
+        {
+          "name": "Roberto Ferrari",
+          "openalex_id": "A5100727528",
+          "orcid": "https://orcid.org/0000-0003-2046-9175"
+        },
+        {
+          "name": "David Hasdai",
+          "openalex_id": "A5108086695"
+        },
+        {
+          "name": "Arno W Hoes",
+          "openalex_id": "A5105528722"
+        },
+        {
+          "name": "Juhani Knuuti",
+          "openalex_id": "A5070124449",
+          "orcid": "https://orcid.org/0000-0003-3156-9593"
+        },
+        {
+          "name": "Philippe Kolh",
+          "openalex_id": "A5106720395",
+          "institutions": [
+            "University of Li\u00e8ge"
+          ]
+        },
+        {
+          "name": "Patrizio Lancellotti",
+          "openalex_id": "A5108096312"
+        },
+        {
+          "name": "Ale\u0161 Linhart",
+          "openalex_id": "A5075282771",
+          "orcid": "https://orcid.org/0000-0002-3372-7850"
+        },
+        {
+          "name": "Petros Nihoyannopoulos",
+          "openalex_id": "A5107854155"
+        },
+        {
+          "name": "Massimo Piepoli",
+          "openalex_id": "A5086153061",
+          "orcid": "https://orcid.org/0000-0003-1124-234X"
+        },
+        {
+          "name": "Piotr Ponikowski",
+          "openalex_id": "A5017272571",
+          "orcid": "https://orcid.org/0000-0002-3391-7064"
+        },
+        {
+          "name": "Juan Tamargo",
+          "openalex_id": "A5002326750",
+          "orcid": "https://orcid.org/0000-0002-7979-7758"
+        },
+        {
+          "name": "Micha\u0142 Tendera",
+          "openalex_id": "A5073792258",
+          "orcid": "https://orcid.org/0000-0002-0812-6113"
+        },
+        {
+          "name": "Adam Torbicki",
+          "openalex_id": "A5007694037",
+          "orcid": "https://orcid.org/0000-0003-3475-8832"
+        },
+        {
+          "name": "William Wijns",
+          "openalex_id": "A5033359462",
+          "orcid": "https://orcid.org/0000-0002-7267-4376"
+        },
+        {
+          "name": "Stephan Windecker",
+          "openalex_id": "A5053194091",
+          "orcid": "https://orcid.org/0000-0003-2653-6762"
+        },
+        {
+          "name": "Denis Cl\u00e9ment",
+          "openalex_id": "A5103612022"
+        },
+        {
+          "name": "Thierry Gillebert",
+          "openalex_id": "A5006809482",
+          "orcid": "https://orcid.org/0000-0002-3832-919X"
+        },
+        {
+          "name": "Enrico Agabiti Rosei",
+          "openalex_id": "A5108191116"
+        },
+        {
+          "name": "Stefan D Anker",
+          "openalex_id": "A5105887846"
+        },
+        {
+          "name": "Johann Bauersachs",
+          "openalex_id": "A5107870069"
+        },
+        {
+          "name": "Jana Brguljan Hitij",
+          "openalex_id": "A5107854156"
+        },
+        {
+          "name": "Mark J. Caulfield",
+          "openalex_id": "A5074262853",
+          "orcid": "https://orcid.org/0000-0001-9295-3594"
+        },
+        {
+          "name": "Marc De Buyzere",
+          "openalex_id": "A5108096313"
+        },
+        {
+          "name": "Sabina De Geest",
+          "openalex_id": "A5082147781",
+          "orcid": "https://orcid.org/0000-0001-6596-7237"
+        },
+        {
+          "name": "Genevi\u00e8ve D\u00e9rumeaux",
+          "openalex_id": "A5086655631",
+          "orcid": "https://orcid.org/0000-0003-1471-1631"
+        },
+        {
+          "name": "Serap Erdine",
+          "openalex_id": "A5003816226",
+          "orcid": "https://orcid.org/0000-0001-6642-5931"
+        },
+        {
+          "name": "Csaba Farsang",
+          "openalex_id": "A5107854157"
+        },
+        {
+          "name": "Christian Funck\u2010Brentano",
+          "openalex_id": "A5027731973",
+          "orcid": "https://orcid.org/0000-0003-0406-5189"
+        },
+        {
+          "name": "Vjekoslav Gerc",
+          "openalex_id": "A5105933452"
+        },
+        {
+          "name": "Giuseppe German\u00f2",
+          "openalex_id": "A5001023135",
+          "orcid": "https://orcid.org/0000-0001-8739-058X"
+        },
+        {
+          "name": "Stephan Gielen",
+          "openalex_id": "A5108131297"
+        },
+        {
+          "name": "Herman Haller",
+          "openalex_id": "A5105469284"
+        },
+        {
+          "name": "Jens Jordan",
+          "openalex_id": "A5017690840",
+          "orcid": "https://orcid.org/0000-0003-4518-0706"
+        },
+        {
+          "name": "Thomas Kahan",
+          "openalex_id": "A5052721005",
+          "orcid": "https://orcid.org/0000-0001-9909-4956"
+        },
+        {
+          "name": "Michel Komajda",
+          "openalex_id": "A5108014854",
+          "orcid": "https://orcid.org/0000-0002-3010-5589"
+        },
+        {
+          "name": "Dragan Lovi\u0107",
+          "openalex_id": "A5059140544",
+          "orcid": "https://orcid.org/0000-0002-0685-2605"
+        },
+        {
+          "name": "Heiko Mahrholdt",
+          "openalex_id": "A5051025215",
+          "orcid": "https://orcid.org/0000-0001-9862-947X"
+        },
+        {
+          "name": "Jan Ostergren",
+          "openalex_id": "A5107854158"
+        },
+        {
+          "name": "Gianfranco Parati",
+          "openalex_id": "A5015206826",
+          "orcid": "https://orcid.org/0000-0001-9402-7439"
+        },
+        {
+          "name": "Joep Perk",
+          "openalex_id": "A5108096314"
+        },
+        {
+          "name": "Jorge Pol\u00f3nia",
+          "openalex_id": "A5070646346",
+          "orcid": "https://orcid.org/0000-0002-0133-7217"
+        },
+        {
+          "name": "Bogdan A Popescu",
+          "openalex_id": "A5108128188"
+        },
+        {
+          "name": "Zeljko Reiner",
+          "openalex_id": "A5108086284"
+        },
+        {
+          "name": "Lars Ryd\u00e9n",
+          "openalex_id": "A5108096315"
+        },
+        {
+          "name": "Yu.M. S\u0456renko",
+          "openalex_id": "A5040924418",
+          "orcid": "https://orcid.org/0000-0002-4091-4910"
+        },
+        {
+          "name": "Alice Stanton",
+          "openalex_id": "A5037240336",
+          "orcid": "https://orcid.org/0000-0002-4961-165X"
+        },
+        {
+          "name": "Harry Struijker-Boudier",
+          "openalex_id": "A5113678614"
+        },
+        {
+          "name": "Charalambos Vlachopoulos",
+          "openalex_id": "A5032584545",
+          "orcid": "https://orcid.org/0000-0002-9904-3558"
+        },
+        {
+          "name": "Massimo Volpe",
+          "openalex_id": "A5054282642",
+          "orcid": "https://orcid.org/0000-0002-9642-8380"
+        },
+        {
+          "name": "David Wood",
+          "openalex_id": "A5023089434",
+          "orcid": "https://orcid.org/0000-0003-3058-4871"
+        },
+        {
+          "name": "Michael Hecht Olsen",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jan Ostergren",
+          "openalex_id": ""
+        },
+        {
+          "name": "Gianfranco Parati",
+          "openalex_id": ""
+        },
+        {
+          "name": "Joep Perk",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jorge Polonia",
+          "openalex_id": ""
+        },
+        {
+          "name": "Bogdan A Popescu",
+          "openalex_id": ""
+        },
+        {
+          "name": "Zeljko Reiner",
+          "openalex_id": ""
+        },
+        {
+          "name": "Lars Ryd\u00e9n",
+          "openalex_id": ""
+        },
+        {
+          "name": "Yuriy Sirenko",
+          "openalex_id": ""
+        },
+        {
+          "name": "Alice Stanton",
+          "openalex_id": ""
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-06-14",
+      "abstract": "The ESH/ESC Guidelines represent the views of the ESH and ESC and were arrived at after careful consideration of the available evidence at the time they were written.Health professionals are encouraged to take them fully into account when exercising their clinical judgement. The guidelines do not, however, override the individual responsibility of health professionals to make appropriate decisions in the circumstances of the individual patients, in consultation with that patient, and where appropriate and necessary the patient\u2019s guardian or carer. It is also the health professional\u2019s responsibility to verify the rules and regulations applicable to drugs and devices at the time of prescription.",
+      "cited_by_count": 13632,
+      "type": "article",
+      "source": {
+        "name": "European Heart Journal",
+        "type": "journal",
+        "issn": [
+          "0195-668X",
+          "1522-9645"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/eurheartj/article-pdf/34/28/2159/17895598/eht151.pdf"
+      },
+      "topics": [
+        "Blood Pressure and Hypertension Studies",
+        "Cardiac, Anesthesia and Surgical Outcomes",
+        "Health Systems, Economic Evaluations, Quality of Life"
+      ],
+      "referenced_works_count": 1035,
+      "url": "https://openalex.org/W2133416234"
+    },
+    {
+      "openalex_id": "W4220849321",
+      "doi": "10.1007/s13164-022-00625-1",
+      "title": "Interpersonal and Collective Affective Niche Construction: Empirical and Normative Perspectives on Social Media",
+      "authors": [
+        {
+          "name": "Michiru Nagatsu",
+          "openalex_id": "A5052551542",
+          "orcid": "https://orcid.org/0000-0001-6566-0307",
+          "institutions": [
+            "University of Helsinki"
+          ]
+        },
+        {
+          "name": "Mikko Salmela",
+          "openalex_id": "A5002247996",
+          "orcid": "https://orcid.org/0000-0002-9988-3274",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-03-18",
+      "abstract": "Abstract This paper contributes to the interdisciplinary theory of collective affective niche construction, which extends the extended mind (ExM) thesis from cognitive to affective phenomena. Although theoretically innovative, the theory lacks a detailed psychological account of how collective affectivity is scaffolded. It has also been criticized for its uncritical assumption of the subject qua the autonomous user of the affective scaffolding as disposable resources, abstracting away from embedded subjectivity in particular techno-political arrangements. We propose that the social motivation hypothesis, an account grounded in recent empirical and theoretical developments in psychology as well as in the classic theory of moral sentiments, will address the former criticism by explicating the basic mechanisms of human social orientation at work in collective affective niche construction. We also begin to address the latter normative criticism in mobilizing a so-called we-mode approach to collective emotion. To make these theoretical dialectics salient, we study social media as a case of collective affective niches, focusing on the impact on subjective well-being. Finally, we briefly identify promising future directions in building a normative theory of affective niche construction on the collective level.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-022-00625-1.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Social Media and Politics",
+        "Media Influence and Health"
+      ],
+      "referenced_works_count": 81,
+      "url": "https://openalex.org/W4220849321"
+    },
+    {
+      "openalex_id": "W1982744518",
+      "doi": "10.14434/tcv8i1.5048",
+      "title": "The Stuff of Fiction: Digital Editing, Multiple Drafts and the Extended Mind",
+      "authors": [
+        {
+          "name": "Dirk Van H\u00fclle",
+          "openalex_id": "A5033118332",
+          "orcid": "https://orcid.org/0000-0002-7066-6313"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-05",
+      "abstract": "Since genetic criticism regards modern manuscripts as a research object in and of itself, it objects to an editorial practice that treats manuscript studies as a mere tool towards the making of a scholarly edition. Still, an exchange of ideas between genetic criticism and scholarly editing can be mutually beneficial and may work in two directions. This essay therefore starts from digital scholarly editing, more specifically from recent developments in computer-assisted collation of multiple draft versions, to see how it can contribute to the study of modern manuscripts. The argument is that the combination of textual scholarship and genetic criticism can be an effective instrument for literary critics, enabling them to study the material aspect of the writing process as an inherent part of what cognitive philosophy calls \u201cthe extended mind\u201d; and that this extensiveness does not only apply to the writer\u2019s mind, but that an awareness of manuscripts as a crucial part of the \u201cstuff of fiction\u201d can also contribute to a better understanding of literary evocations of the fictional mind.",
+      "cited_by_count": 7,
+      "type": "article",
+      "source": {
+        "name": "Textual Cultures",
+        "type": "journal",
+        "issn": [
+          "1559-2936",
+          "1933-7418"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://scholarworks.iu.edu/journals/index.php/textual/article/download/5048/4646"
+      },
+      "topics": [
+        "Digital Humanities and Scholarship",
+        "Aesthetic Perception and Analysis",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W1982744518"
+    },
+    {
+      "openalex_id": "W2410048585",
+      "doi": "10.7208/chicago/9780226206196.001.0001",
+      "title": "Thoughts and Things",
+      "authors": [
+        {
+          "name": "Leo Bersani",
+          "openalex_id": "A5014172655"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "Leo Bersani's career spans more than fifty years and extends across a wide spectrum of fields-including French studies, modernism, realist fiction, psychoanalytic criticism, film studies, and queer theory. Throughout this new collection of essays that ranges, interestingly and brilliantly, from movies by Claire Denis and Jean-Luc Godard to fiction by Proust and Pierre Bergounioux, Bersani considers various kinds of connectedness. Thoughts and Things posits what would appear to be an irreducible gap between our thoughts (the human subject) and things (the world). Bersani departs from his psychoanalytic convictions to speculate on the oneness of being - of our intrinsic connectedness to the other that is at once external and internal to us. He addresses the problem of formulating ways to consider the undivided mind, drawing on various sources, from Descartes to cosmology, Freud, and Genet and succeeds brilliantly in diagramming new forms as well as radical failures of connectedness. Ambitious, original, and eloquent, Thoughts and Things will be of interest to scholars in philosophy, film, literature, and beyond.",
+      "cited_by_count": 23,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Academic and Historical Perspectives in Psychology"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2410048585"
+    },
+    {
+      "openalex_id": "W3193867998",
+      "doi": "10.1515/9783110339017",
+      "title": "Translating Jazz Into Poetry",
+      "authors": [
+        {
+          "name": "Erik Redling",
+          "openalex_id": "A5068273802"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-02-17",
+      "abstract": "The study develops a new theoretical approach to the relationship between two media (jazz music and writing) and demonstrates its explanatory power with the help of a rich sampling of jazz poems. Currently, the mimetic approach to intermediality (e.g., the notion that jazz poetry imitates jazz music) still dominates the field of criticism. This book challenges that interpretive approach. It demonstrates that a mimetic view of jazz poetry hinders readers from perceiving the metaphoric ways poets rendered music in writing. Drawing on and extending recent cognitive metaphor theories (Lakoff, Johnson, Turner, Fauconnier), it promotes a conceptual metaphor model that allows readers to discover the innovative ways poets translate &#8220;melody,&#8221; &#8220;dynamics,&#8221; &#8220;tempo,&#8221; &#8220;mood,&#8221; and other musical elements into literal and figurative expressions that invite readers to imagine the music in their mind&#8217;s eye (i.e., their mind&#8217;s ear).",
+      "cited_by_count": 16,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Musicology and Musical Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3193867998"
+    },
+    {
+      "openalex_id": "W1701689993",
+      "doi": "10.3233/hsm-140813",
+      "title": "Is culture driving innovation? A multi-national quantitative analysis",
+      "authors": [
+        {
+          "name": "Ronald Busse",
+          "openalex_id": "A5102982468",
+          "orcid": "https://orcid.org/0000-0002-3292-5652",
+          "institutions": [
+            "Xi'an Jiaotong University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-10-27",
+      "abstract": "Hofstede's theory of cultural dimensions and his understanding to determine culture as a collective programming of the mind has inspired myriads of researchers, especially in the fields of (organizational and cross-cultural) psychology and management. This article extends his work and has two main concerns: First, the manuscript critically reviews and recapitulates Hofstede's work on culture in a concise but comprehensive way. Second, the article empirically investigates the correlations between cultural dimensions and several variables indicating innovation. The author emphasizes the significance of culture for businesses and searches for ideal cultural constellations to promote entrepreneurial innovativeness. Criticism is discussed and a potential remedy for Hofstede's main flaw - equaling cultures and nations - is presented and then qualified.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Human Systems Management",
+        "type": "journal",
+        "issn": [
+          "0167-2533",
+          "1875-8703"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cultural Differences and Values",
+        "International Student and Expatriate Challenges",
+        "Organizational Leadership and Management Strategies"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W1701689993"
+    },
+    {
+      "openalex_id": "W3107980341",
+      "doi": "10.5281/zenodo.3463756",
+      "title": "Globalization in Africa and Beyond: The Quest for Global Ethics",
+      "authors": [
+        {
+          "name": "Tom Eneji Ogar",
+          "openalex_id": "A5032785964",
+          "institutions": [
+            "University of Calabar"
+          ]
+        },
+        {
+          "name": "Joseph Nkang Ogar",
+          "openalex_id": "A5017132914",
+          "institutions": [
+            "University of Calabar"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-05-03",
+      "abstract": "The mind-body problem is a perennial philosophical problem that seeks to uncover the relationship or causal interaction that exists between the corporeal and incorporeal aspects of the human person. It thrives under the assumption that the human person is made up of two distinct entities, that is, mind and body, which explains their assumed causal relation. As attractive as this may seem, not all philosophers agree to this feigned idea of interaction and bifurcation of the human person. One philosopher of note, who sorts to address this problem in the 17th century, is Ren\u00e9 Descartes. For Descartes, minds and bodies are distinct kinds of substance, where bodies are spatially extended substances (a res extensa) and minds are unexpended substances characterised primarily by thought (a res cogitans). But, if minds and bodies are radically dissimilar, how could they causally interact? This paper therefore attempts to examine the philosophical foundations of Cartesian dualism. It also articulates the major arguments adopted by Descartes through his methodic doubts to address the mind-body problem. The paper concludes by highlighting some fundamental criticisms of Cartesian Interactionism in the light of recent trends in parapsychology and neuro-scientific research.",
+      "cited_by_count": 12,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.5281/zenodo.3463756"
+      },
+      "topics": [
+        "African cultural and philosophical studies",
+        "Globalization and Economic Impact"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W3107980341"
+    },
+    {
+      "openalex_id": "W3192589064",
+      "doi": "10.1007/s11098-011-9773-7",
+      "title": "Recurrence",
+      "authors": [
+        {
+          "name": "Nathan Salm\u00f3n",
+          "openalex_id": "A5071797308",
+          "orcid": "https://orcid.org/0000-0002-3551-7435",
+          "institutions": [
+            "University of California, Santa Barbara",
+            "City University of New York",
+            "The Graduate Center, CUNY"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-08-18",
+      "abstract": null,
+      "cited_by_count": 24,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Philosophy and Theoretical Science",
+        "Philosophy, Science, and History"
+      ],
+      "referenced_works_count": 18,
+      "url": "https://openalex.org/W3192589064"
+    },
+    {
+      "openalex_id": "W2027262972",
+      "doi": "10.1177/0191453707077019",
+      "title": "Criticism from within nature",
+      "authors": [
+        {
+          "name": "Italo Testa",
+          "openalex_id": "A5022234943",
+          "orcid": "https://orcid.org/0000-0001-5232-6254",
+          "institutions": [
+            "University of Parma"
+          ]
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-06-01",
+      "abstract": "I tackle the definition of the relation between first and second nature while examining some problems with McDowell's conception. This, in the first place, will bring out the need to extend the notion of second nature to the social dimension, understanding it not just as `inner' second nature \u2014 individual mind \u2014 but also as `outer' second nature \u2014 objective spirit. In the second place the dialectical connection between these two notions of second nature will point the way to a critical use of the concept itself, which will link up with a theory of reification. Furthermore, I shall endeavor to fit my reflection into the problematic constellation of critical theory: my analysis in fact rests on the question whether, within a critical theory, the philosophy of nature can be recaptured today, in such a way as to give meaning to the very notion of socio-philosophical criticism of reality.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Social Criticism",
+        "type": "journal",
+        "issn": [
+          "0191-4537",
+          "1461-734X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Environmental Philosophy and Ethics",
+        "Religion, Ecology, and Ethics"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2027262972"
+    },
+    {
+      "openalex_id": "W3134427541",
+      "doi": "10.5040/9781350933927.ch-002",
+      "title": "Discursive psychology",
+      "authors": [
+        {
+          "name": "Derek Edwards",
+          "openalex_id": "A5111801963",
+          "orcid": "https://orcid.org/0009-0004-1091-3011"
+        },
+        {
+          "name": "Jonathan Potter",
+          "openalex_id": "A5057365390",
+          "orcid": "https://orcid.org/0000-0002-3889-8480"
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-01-01",
+      "abstract": "Discursive psychology (DP) is the application of discourse analytic principles to psychological topics. In psychology\u2019s dominant \u2018cognitivist\u2019 paradigm, individuals build mental representations of the world on the basis of innate mental structures and perceptual experience, and talk on that basis. The categories and content of discourse are considered to be a reflection, refracted through various kinds of error and distortion, of how the world is perceived to be. In contrast, DP begins with discourse (talk and text), both theoretically and empirically. Discourse is approached, not as the outcome of mental states and cognitive processes, but as a domain of action in its own right. [Continues...]",
+      "cited_by_count": 3306,
+      "type": "book",
+      "source": {
+        "name": "Continuum eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dspace.lboro.ac.uk/2134/9485"
+      },
+      "topics": [
+        "Discourse Analysis in Language Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3134427541"
+    },
+    {
+      "openalex_id": "W1777098226",
+      "doi": "10.5209/rev_resf.2006.v31.n2.10144",
+      "title": "Sujeto y subjetividad en la mente extensa",
+      "authors": [
+        {
+          "name": "Fernando Broncano",
+          "openalex_id": "A5031329103"
+        }
+      ],
+      "publication_year": 2007,
+      "publication_date": "2007-03-02",
+      "abstract": "In this paper we aim to defend a version of the thesis of \u201cextended mind\u201d against the criticism of some authors that consider that the \u201cextracraneal\u201d devices cannott acomplish the requirements that the components of mental processes must meet. We propose a quality of integration as a criterion to be a mental process, and we consider that, in some situations, external devices can be considered as meeting this criterion.",
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Complutensian Scientific Journals (Complutense University of Madrid)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://revistas.ucm.es/index.php/RESF/article/view/RESF0606220109A"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and Theoretical Science"
+      ],
+      "referenced_works_count": 20,
+      "url": "https://openalex.org/W1777098226"
+    },
+    {
+      "openalex_id": "W2972751987",
+      "doi": "10.1017/s0140525x19001158",
+      "title": "Cognition blindness and cognitive gadgets",
+      "authors": [
+        {
+          "name": "Cecilia Heyes",
+          "openalex_id": "A5044066576",
+          "orcid": "https://orcid.org/0000-0001-9119-9913",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Abstract Responding to commentaries from psychologists, neuroscientists, philosophers, and anthropologists, I clarify a central purpose of Cognitive Gadgets \u2013 to overcome \u201ccognition blindness\u201d in research on human evolution. I defend this purpose against Brunerian, extended mind, and niche construction critiques of computationalism \u2013 that is, views prioritising meaning over information, or asserting that behaviour and objects can be intrinsic parts of a thinking process. I argue that empirical evidence from cognitive science is needed to locate distinctively human cognitive mechanisms on the continuum between gadgets and instincts. Focussing on that requirement, I also address specific challenges, and applaud extensions and refinements, of the evidence surveyed in my book. It has been said that \u201ca writer's idea of sound criticism is ten thousand words of closely reasoned adulation.\u201d I cannot disagree with this untraceable wag, but the 30 commentators on Cognitive Gadgets provided some 30,000 words of criticism that are of much greater scientific value than adulation. I am grateful to them all. The response that follows is V-shaped. It starts with the broadest conceptual and methodological issues and funnels down to matters arising from specific empirical studies.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Behavioral and Brain Sciences",
+        "type": "journal",
+        "issn": [
+          "0140-525X",
+          "1469-1825"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Child and Animal Learning Development",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W2972751987"
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

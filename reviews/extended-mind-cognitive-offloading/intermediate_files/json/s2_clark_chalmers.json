@@ -1,0 +1,592 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Clark Chalmers parity principle",
+  "results": [
+    {
+      "paperId": "ec0dbcb0d828154c80950e2ad0b850aa6c8d07dd",
+      "title": "The Imparity of the Parity Principle",
+      "authors": [
+        {
+          "name": "Zixia Zhang",
+          "authorId": "2116459654"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11406-021-00334-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ec0dbcb0d828154c80950e2ad0b850aa6c8d07dd",
+      "venue": "Philosophia",
+      "journal": {
+        "name": "Philosophia",
+        "pages": "2265 - 2273",
+        "volume": "49"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ee3574312a1a2866e02dc96114e49bb471128a1e",
+      "title": "In search of clarity about parity",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 34,
+      "doi": "10.1007/S11098-010-9601-5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ee3574312a1a2866e02dc96114e49bb471128a1e",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Studies",
+        "pages": "417-425",
+        "volume": "152"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9d7117fc1758b7afab8685a3dd58dbbff227e253",
+      "title": "Cognitive Systems and the Extended Mind",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 151,
+      "doi": "10.1093/acprof:oso/9780195379457.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9d7117fc1758b7afab8685a3dd58dbbff227e253",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d462a1316473a30b6413474fb075857bfca4ee99",
+      "title": "Extended Cognition and Propositional Memory",
+      "authors": [
+        {
+          "name": "J. Carter",
+          "authorId": "2175850070"
+        },
+        {
+          "name": "Jesper Kallestrup",
+          "authorId": "2663484"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 23,
+      "doi": "10.1111/PHPR.12157",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d462a1316473a30b6413474fb075857bfca4ee99",
+      "venue": "",
+      "journal": {
+        "name": "Philosophy and Phenomenological Research",
+        "pages": "691-714",
+        "volume": "92"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "f8db07a7c19c3bb4bb7eec7e3549f24f7347a7e3",
+      "title": "Hegel and the extended mind",
+      "authors": [
+        {
+          "name": "A. Crisafi",
+          "authorId": "49459010"
+        },
+        {
+          "name": "S. Gallagher",
+          "authorId": "144365578"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 30,
+      "doi": "10.1007/s00146-009-0239-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f8db07a7c19c3bb4bb7eec7e3549f24f7347a7e3",
+      "venue": "Ai & Society",
+      "journal": {
+        "name": "AI & SOCIETY",
+        "pages": "123-129",
+        "volume": "25"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "6b58a9bb10bb709f76bd67cf55f6d2f349d055ac",
+      "title": "Extended Cognition: Feedback Loops and Coupled Systems",
+      "authors": [
+        {
+          "name": "O. Marki\u010d",
+          "authorId": "52065210"
+        }
+      ],
+      "year": 2017,
+      "abstract": "The article explores two waves of active externalism. I first introduce the distinction between passive and active externalism and analyse a proposal of active externalism based on the principle of parity proposed by Clark and Chalmers. There are two main obstacles, causal-constitution fallacy and cognitive bloat, that threaten the extended cognition hypothesis. The second wave of discussions based on the complementarity principle deals with cognitive systems with feedback loops between internal and external elements and is a more radical departure from functionalism and traditional thinking about cognition. I conclude with some remarks on potential ethical considerations of extended cognition.",
+      "citationCount": 1,
+      "doi": "10.7906/INDECS.15.4.5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6b58a9bb10bb709f76bd67cf55f6d2f349d055ac",
+      "venue": "",
+      "journal": {
+        "name": "Interdisciplinary Description of Complex Systems",
+        "pages": "270-280",
+        "volume": "15"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "title": "Richard Menary (ed): The Extended Mind",
+      "authors": [
+        {
+          "name": "D. Cole",
+          "authorId": "2055148531"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1007/s11023-011-9252-0",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "47-51",
+        "volume": "22"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "023559d3aaec3f124d98cf1b0d284ef2d2e012cc",
+      "title": "Further thoughts: on the extended mind hypothesis",
+      "authors": [
+        {
+          "name": "C. Norris",
+          "authorId": "145366754"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/023559d3aaec3f124d98cf1b0d284ef2d2e012cc",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "1ab6565ff14dc4b0e15c52acdd49e9130de0219b",
+      "title": "From Content-Externalism to Vehicle-Externalism1",
+      "authors": [
+        {
+          "name": "C. L\u2019hote",
+          "authorId": "1489507749"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1017/S0012217312000443",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1ab6565ff14dc4b0e15c52acdd49e9130de0219b",
+      "venue": "Dialogue",
+      "journal": {
+        "name": "Dialogue",
+        "pages": "275 - 287",
+        "volume": "51"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d76dc834b91688ae850fa522141c008100c5875c",
+      "title": "The socially extended mind",
+      "authors": [
+        {
+          "name": "Lillian",
+          "authorId": "86986361"
+        },
+        {
+          "name": "M. Moss",
+          "authorId": "48384039"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d76dc834b91688ae850fa522141c008100c5875c",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1ad46c2ac988498c699ff323700b2e319266ff6f",
+      "title": "The Boundaries Still Stand : A Reply to Fisher",
+      "authors": [
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1ad46c2ac988498c699ff323700b2e319266ff6f",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ca60b8eb6f88d894364c82be56457cf174e8a745",
+      "title": "Keeping HEC in CHEC : On the Priority of Cognitive Systems",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ca60b8eb6f88d894364c82be56457cf174e8a745",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "23d7202ec4e3fb8342930450f9d6e49b8ac861c2",
+      "title": "Supersizing the Mind",
+      "authors": [
+        {
+          "name": "Miriam Kyselo",
+          "authorId": "5453562"
+        },
+        {
+          "name": "S. Walter",
+          "authorId": "2049380571"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1080/09515080903432798",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/23d7202ec4e3fb8342930450f9d6e49b8ac861c2",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "803 - 807",
+        "volume": "22"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "3d025be06f5718e9af782a6d6ab1a349d2705ab7",
+      "title": "Rethinking Human-AI interactions through the maintainability: a new criterion for Trust and Glue in the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Deivide Garcia da Silva Oliveira",
+          "authorId": "2340582872"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Abstract: This paper explores the implications of the Extended Mind Hypothesis (ExM), as introduced by Andy Clark and David Chalmers in 1998. Focusing on cognitive integration and the Trust and Glue criteria, we have two objectives. First, we examine how ExM reshapes perspectives on human-AI interaction, particularly by challenging the Standard model of AI. We argue that AI, as an active non-organic agent, significantly influences cognitive processes beyond initial expectations. Secondly, we propose the maintainability as a fourth criterion in the Trust and Glue criteria of ExM, in addition to trustworthiness, reliability and accessibility. This addition aims to evaluate parity in coupled systems comprehensively addressing concerns about control in human-AI interactions. We highlight the risks posed by AI\u2019s understanding of human psychology, which may lead to unintended shifts in our objectives and choices. Our analysis concludes that maintainability serves as a critical safeguard against the evolving challenges of human-AI integration.",
+      "citationCount": 1,
+      "doi": "10.1590/0101-3173.2025.v48.n6.e025061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3d025be06f5718e9af782a6d6ab1a349d2705ab7",
+      "venue": "Trans/Form/A\u00e7\u00e3o",
+      "journal": {
+        "name": "Trans/Form/A\u00e7\u00e3o"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "0a007a6e4e0056a31f7c236b074d3633ea66584e",
+      "title": "Karina Vold The Parity Argument for Extended Consciousness",
+      "authors": [
+        {
+          "name": "Karina Vold",
+          "authorId": "51038024"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0a007a6e4e0056a31f7c236b074d3633ea66584e",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b2c4a197560d1e451408775077227e8f06769914",
+      "title": "Supersizing the Mind",
+      "authors": [
+        {
+          "name": "A. Clark",
+          "authorId": "37700983"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 1634,
+      "doi": "10.1093/acprof:oso/9780195333213.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b2c4a197560d1e451408775077227e8f06769914",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1ce5d65fb9ec37c0d5f0038c1069f9504fc6700f",
+      "title": "Extended Mind Over Matter: Privacy Protection Is the Sine Qua Non",
+      "authors": [
+        {
+          "name": "Cohen Marcus Lionel Brown",
+          "authorId": "2215283840"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Palermos\u2019s (2023) concept of \u201cmental data\u201d is appreciated as advancing fresh considerations in urgent discourse on mental privacy. However, it is suggested that the proposal for an ontologically distinct category of mental data as currently drafted is nongenerative of novel privacy measures. I agree that mind-related data pose nascent risks\u2014but not because they constitute part of the mind. This commentary argues that recognizing mental constituents apropos the Extended Mind Thesis (Clark and Chalmers 1998) is arbitrary for the interests of privacy, which are independent of the ontological status of mind-sensitive content. It is enough that data represent minds to elicit concern, to the conclusion that the Extended Mind Thesis is normatively inert with respect to motivating legal revision. Nevertheless, I support the appeal for technological protections, and suggest that a reformulated version of mental data might hold promise for mental privacy approaches. The Extended Mind Thesis (EMT) posits that human mental states and processes are not confined to a person\u2019s physical boundaries, but can reach into the environment to be realized in external artifacts. Palermos (2023) argues that if the EMT is correct, informational content derived from cognitively integrated applications counts as part of the mind and can be regarded as \u201cmental data,\u201d and that this generates novel privacy considerations. I suggest this paradigm is unserviceable for the purpose of legal and ethical revision as Palermos claims, for the reason that there are morally relevant differences between data types that the concept of mental data fails to distinguish. These materialize in the two following ways. First, mental data neglect normative features of attendant data types. As long as agent and artifact comprise a mutually coupled system, mental data describe both synchronous and non-occurrent information regardless of medium. By the received view, the latter condition holds that mental contents extend to \u201cuncoupled peripherals,\u201d which would mean that non-occurrent mental data have long been stored in analogue formats (e.g., the proverbial \u201cpaper trail\u201d), and more recently in digital systems. But unlike outmoded predecessors, contemporary data types that have emerged with the advent of digital technology present new, morally relevant aspects. To wit: Digital platforms enable the mass storage, transfer, collection, and dissemination of content on a scale unprecedented. This brings with it obvious privacy concerns that do not apply, or only partially apply, to traditional media. Simply put, material data sources are saddled with access and transmissibility limits in comparison to digital formats, and the only practical means of overriding these constraints is digitization. What this indicates is that normatively germane distinctions exist between certain kinds of mental data. However, such variations are independent of whether or not one accepts the EMT. That is because the EMT integrates both digital and analogue content coextensively\u2014meaning that the term \u201cmental data\u201d is applied to both pen-and-paper and keypad-and-processor indiscriminately. In other words, further categorization is needed to point to the morally salient features of mental data types because the EMT doesn\u2019t get us any further toward identifying what is of normative significance. What actually prompts fresh ethical concerns is not the acknowledgment that minds extend into the environment, but that personal data about minds now extend into the digital multiverse. The principle issue is therefore one of mental privacy with respect to digital data. With that stated, mental data raise a further concern that warrants attention. A second consideration is that endorsement of the EMT would omit types of informational content about minds that seem apt for the title of mental data. Under the EMT, a condition for mind-constituting artifacts is that they are coupled with an agent in a bidirectional process of causal effect. Minds do not",
+      "citationCount": 2,
+      "doi": "10.1080/21507740.2023.2188283",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1ce5d65fb9ec37c0d5f0038c1069f9504fc6700f",
+      "venue": "AJOB Neuroscience",
+      "journal": {
+        "name": "AJOB Neuroscience",
+        "pages": "97 - 99",
+        "volume": "14"
+      },
+      "publicationTypes": [
+        "LettersAndComments",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "040122b68b4dd807a615628ac3e1e8e351c496d8",
+      "title": "Intrinsic content, active memory and the extended mind",
+      "authors": [
+        {
+          "name": "A. Clark",
+          "authorId": "37700983"
+        }
+      ],
+      "year": 2005,
+      "abstract": null,
+      "citationCount": 164,
+      "doi": "10.1093/ANALYS/65.1.1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/040122b68b4dd807a615628ac3e1e8e351c496d8",
+      "venue": "",
+      "journal": {
+        "name": "Analysis",
+        "pages": "1-11",
+        "volume": "65"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "057af0e8dce4c5f9a35aaa0100b0693004050696",
+      "title": "Embodied AI beyond Embodied Cognition and Enactivism",
+      "authors": [
+        {
+          "name": "R. Manzotti",
+          "authorId": "1961635"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Over the last three decades, the rise of embodied cognition (EC) articulated in various schools (or versions) of embodied, embedded, extended and enacted cognition (Gallagher\u2019s 4E) has offered AI a way out of traditional computationalism\u2014an approach (or an understanding) loosely referred to as embodied AI. This view has split into various branches ranging from a weak form on the brink of functionalism (loosely represented by Clarks\u2019 parity principle) to a strong form (often corresponding to autopoietic-friendly enactivism) suggesting that body\u2013world interactions constitute cognition. From an ontological perspective, however, constitution is a problematic notion with no obvious empirical or technical advantages. This paper discusses the ontological issues of these two approaches in regard to embodied AI and its ontological commitments: circularity, epiphenomenalism, mentalism, and disguised dualism. The paper also outlines an even more radical approach that may offer some ontological advantages. The new approach, called the mind-object identity, is then briefly compared with sensorimotor direct realism and with the embodied identity theory.",
+      "citationCount": 15,
+      "doi": "10.3390/PHILOSOPHIES4030039",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/057af0e8dce4c5f9a35aaa0100b0693004050696",
+      "venue": "Philosophies",
+      "journal": {
+        "name": "Philosophies"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9fd63b10e6a408b76e93b181d281a22090f9e7cf",
+      "title": "Justificadores fora da cabe\u00e7a: internismo epist\u00eamico e a tese da mente estendida",
+      "authors": [
+        {
+          "name": "Gustavo Oliva de Oliveira",
+          "authorId": "1382522554"
+        }
+      ],
+      "year": 2021,
+      "abstract": "This article is about the compatibility between a form of epistemic internalism and a form of externalism about the mental called active externalism, expressed by the extended mind thesis. Internalism about epistemic justification is the thesis that such justification depends exclusively on internal factors. Active externalism is the position according to which it is possible that some of our mental states are external, namely, constituted in part by elements that are \u201coutside our head\u201d. Some philosophers believe the extended mind thesis is incompatible with accessibilist internalism because of the justifying role introspection has for internalists. I argue that, in spite of initial impressions, the extended mind thesis is compatible with epistemic internalism. The text has the following structure: (i) I present the extended mind thesis and Clark and Chalmers\u2019s parity argument for it; (ii) I display epistemic internalism, specially in its accessibilist form; (iii) I lay out and evaluate arguments in favor of the incompatibility thesis regarding the extended mind thesis and accessibilist internalism.",
+      "citationCount": 0,
+      "doi": "10.15448/1983-4012.2021.1.39445",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9fd63b10e6a408b76e93b181d281a22090f9e7cf",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": "14"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c2fb20f687d444144a4d1af1fd30f171b9e16913",
+      "title": "Semantic inferentialism as (a Form of) active externalism",
+      "authors": [
+        {
+          "name": "Adam Carter",
+          "authorId": "122314729"
+        },
+        {
+          "name": "J. H. Collin",
+          "authorId": "35470554"
+        },
+        {
+          "name": "O. Palermos",
+          "authorId": "120216668"
+        }
+      ],
+      "year": 2016,
+      "abstract": "Within contemporary philosophy of mind, it is taken for granted that externalist accounts of meaning and mental content are, in principle, orthogonal to the matter of whether cognition itself is bound within the biological brain or whether it can constitutively include parts of the world. Accordingly, Clark and Chalmers (Analysis 58(1):7\u201319, 1998) distinguish these varieties of externalism as \u2018passive\u2019 and \u2018active\u2019 respectively. The aim here is to suggest that we should resist the received way of thinking about these dividing lines. With reference to Brandom\u2019s (1994, 2000, Inquiry 47:236\u2013253, 2008) broad semantic inferentialism, we show that a theory of meaning can be at the same time a variety of active externalism. While we grant that supporters of other varieties of content externalism (e.g., Putnam 1975 and Burge (Philosophical Review 95:3\u201345, 1986) can deny active externalism, this is not an option for semantic inferentialists: On this latter view, the role of the environment (both in its social and natural form) is not \u2018passive\u2019 in the sense assumed by the alternative approaches to content externalism.",
+      "citationCount": 7,
+      "doi": "10.1007/s11097-016-9458-y",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c2fb20f687d444144a4d1af1fd30f171b9e16913",
+      "venue": "Phenomenology and the Cognitive Sciences",
+      "journal": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "pages": "387 - 402",
+        "volume": "16"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "6039238b4e49e5e0b659c5f6d7e5072f2a926e16",
+      "title": "Building Inner Tools",
+      "authors": [
+        {
+          "name": "Robert L. Goldstone",
+          "authorId": "2379247"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Andy Clark has convincingly argued that the tools that we as humans recruit become integrated parts of an extended cognitive system that includes us as just one component. In this chapter, a Reversed Parity Principle is outlined, which can be used to show how humans can \u201chack\u201d their own minds in order to build inner mental tools, thus changing our existing cognitive abilities in yet another way. The Reversed Parity Principle (RRP) invites a perspectival shift that is potentially as illuminating as the extended mind shift. Whereas extended mind arguments invite us to think of ourselves as broader, wider, and larger than we might otherwise, the RPP invites us to consider the strangeness and otherness that lies within what would normally be considered to be \u201cus.\u201d",
+      "citationCount": 2,
+      "doi": "10.1093/OSO/9780190662813.003.0010",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6039238b4e49e5e0b659c5f6d7e5072f2a926e16",
+      "venue": "Andy Clark and His Critics",
+      "journal": {
+        "name": "Andy Clark and His Critics"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "a183c1ffff0a5daf5700f2f2ccc776097dcd7aef",
+      "title": "Access Internalism and the Extended Mind",
+      "authors": [
+        {
+          "name": "Declan Smithies",
+          "authorId": "34198462"
+        }
+      ],
+      "year": 2018,
+      "abstract": "The main goal of this chapter is to argue that accessibilism in epistemology is incompatible with vehicle externalism in the philosophy of mind (also known as \u201cthe extended mind thesis\u201d). As we shall see, however, there are strong arguments for both of these positions. On the one hand, there is a compelling argument for vehicle externalism: the parity argument from Clark and Chalmers (1998). On the other hand, there is a compelling argument for accessibilism: the Moorean argument from Smithies (2012). If accessibilism is incompatible with vehicle externalism, then both arguments cannot be sound. I resolve the tension by arguing that the Moorean argument succeeds, while the parity argument fails, and hence that vehicle externalism should be rejected on broadly epistemological grounds.",
+      "citationCount": 2,
+      "doi": "10.1093/OSO/9780198769811.003.0002",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a183c1ffff0a5daf5700f2f2ccc776097dcd7aef",
+      "venue": "Oxford Scholarship Online",
+      "journal": {
+        "name": "Oxford Scholarship Online"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "712a82b4c442f979b1d5e53088bec4c599886a33",
+      "title": "Imaginary Friends: Ways of Attending to Other, Artificial, or Possible Minds",
+      "authors": [
+        {
+          "name": "Matt Prindible",
+          "authorId": "119436128"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1184/R1/12556157.V1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/712a82b4c442f979b1d5e53088bec4c599886a33",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7eba0f87a9c85e5feadb18ae695930fc83856c5b",
+      "title": "Virtue Epistemology and Extended Cognition",
+      "authors": [
+        {
+          "name": "J. Carter",
+          "authorId": "2175850070"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Virtue epistemology\u2014no less than mainstream epistemology more generally\u2014has by and large taken for granted the traditional intracranial picture of the mind, according to which the skull and skin mark the bounds of human cognizing. It is only natural then that intellectual virtues themselves have typically been understood as seated firmly within the biological agent. Recent work in the philosophy of mind and cognitive science (e.g., Clark 2008; Clark and Chalmers 1998), however, challenges this traditional account of the mind by suggesting that cognitive processes can criss-cross the boundaries of brain, body and world, so as to include certain parts of the world which we regularly interact with. But if cognition can extend in such a way that physical, extra-organismic artifacts (e.g., iPhones, smartwatches, tactile-visual substitution systems, etc.) can feature in cognitive processes such as memory, perception and the like, what does this mean for virtue epistemology? The aim here will be to attempt to answer this broad question in two parts. First I outline how the extended cognition thesis interfaces with the virtue reliabilist (e.g., Greco 2010; 2012; Sosa 2009; 2015) and virtue responsibilist (e.g., Baehr 2011; Battaly 2015; Montmarquet 1993) programmes in contemporary virtue epistemology, respectively. Next, I propose and briefly develop what I take to be four of the most important new research questions which arise for virtue epistemologists who welcome aboard the possibility of \u2018extended\u2019 intellectual virtues\u2014viz., (i) the parity problem, (ii) the achievement problem, (iii) the cognitive integration problem, and (iv) the autonomy problem. \u00a7",
+      "citationCount": 6,
+      "doi": "10.4324/9781315712550-35",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7eba0f87a9c85e5feadb18ae695930fc83856c5b",
+      "venue": "The Routledge Handbook of Virtue Epistemology",
+      "journal": {
+        "name": "The Routledge Handbook of Virtue Epistemology"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

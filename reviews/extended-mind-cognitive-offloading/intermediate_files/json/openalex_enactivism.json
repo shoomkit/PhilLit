@@ -1,0 +1,1656 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "enactivism embodied cognition",
+  "results": [
+    {
+      "openalex_id": "W2957933134",
+      "doi": "10.3390/philosophies4030039",
+      "title": "Embodied AI beyond Embodied Cognition and Enactivism",
+      "authors": [
+        {
+          "name": "Riccardo Manzotti",
+          "openalex_id": "A5069942717",
+          "orcid": "https://orcid.org/0000-0001-8634-5250",
+          "institutions": [
+            "IULM University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-16",
+      "abstract": "Over the last three decades, the rise of embodied cognition (EC) articulated in various schools (or versions) of embodied, embedded, extended and enacted cognition (Gallagher\u2019s 4E) has offered AI a way out of traditional computationalism\u2014an approach (or an understanding) loosely referred to as embodied AI. This view has split into various branches ranging from a weak form on the brink of functionalism (loosely represented by Clarks\u2019 parity principle) to a strong form (often corresponding to autopoietic-friendly enactivism) suggesting that body\u2013world interactions constitute cognition. From an ontological perspective, however, constitution is a problematic notion with no obvious empirical or technical advantages. This paper discusses the ontological issues of these two approaches in regard to embodied AI and its ontological commitments: circularity, epiphenomenalism, mentalism, and disguised dualism. The paper also outlines an even more radical approach that may offer some ontological advantages. The new approach, called the mind-object identity, is then briefly compared with sensorimotor direct realism and with the embodied identity theory.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "Philosophies",
+        "type": "journal",
+        "issn": [
+          "2409-9287"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2409-9287/4/3/39/pdf?version=1563270767"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Psychiatry, Mental Health, Neuroscience"
+      ],
+      "referenced_works_count": 74,
+      "url": "https://openalex.org/W2957933134"
+    },
+    {
+      "openalex_id": "W2982034313",
+      "doi": "10.1007/s11229-019-02432-1",
+      "title": "Revaluing the behaviorist ghost in enactivism and embodied cognition",
+      "authors": [
+        {
+          "name": "Nikolai Alksnis",
+          "openalex_id": "A5017798006",
+          "orcid": "https://orcid.org/0000-0003-2759-8199",
+          "institutions": [
+            "La Trobe University"
+          ]
+        },
+        {
+          "name": "Jack Reynolds",
+          "openalex_id": "A5028957989",
+          "orcid": "https://orcid.org/0000-0002-4725-0395",
+          "institutions": [
+            "Deakin University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-22",
+      "abstract": null,
+      "cited_by_count": 23,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 129,
+      "url": "https://openalex.org/W2982034313"
+    },
+    {
+      "openalex_id": "W4402555044",
+      "doi": "10.1111/nin.12672",
+      "title": "Enactivism: Embodied cognition, sense\u2010making, and nursing",
+      "authors": [
+        {
+          "name": "Graham McCaffrey",
+          "openalex_id": "A5039134137",
+          "orcid": "https://orcid.org/0000-0002-5702-4818",
+          "institutions": [
+            "University of Calgary"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-16",
+      "abstract": "Abstract Enactivism is a branch of embodied cognition theory that argues for a highly distributed model of cognition as a sense\u2010making process involving brain, body, environment, and subjective experience. It is a theoretical framework with potential value for nursing since it offers an integrated framework for human sense\u2010making that includes physiological and psychological factors as well as the primary experience of subjective perceptions. This paper presents an introduction to the background and main tenets of enactivist theory. These are discussed in relation to nursing, and mental health nursing to argue for the relevance of enactivism in nursing knowledge.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Nursing Inquiry",
+        "type": "journal",
+        "issn": [
+          "1320-7881",
+          "1440-1800"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nin.12672"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Empathy and Medical Education"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W4402555044"
+    },
+    {
+      "openalex_id": "W3036744339",
+      "doi": "10.1007/s11229-020-02748-3",
+      "title": "Thinking embodiment with genetics: epigenetics and postgenomic biology in embodied cognition and enactivism",
+      "authors": [
+        {
+          "name": "Maurizio Meloni",
+          "openalex_id": "A5005112768",
+          "orcid": "https://orcid.org/0000-0003-2570-3872",
+          "institutions": [
+            "Deakin University"
+          ]
+        },
+        {
+          "name": "Jack Reynolds",
+          "openalex_id": "A5028957989",
+          "orcid": "https://orcid.org/0000-0002-4725-0395",
+          "institutions": [
+            "Deakin University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-18",
+      "abstract": "Abstract The role of the body in cognition is acknowledged across a variety of disciplines, even if the precise nature and scope of that contribution remain contentious. As a result, most philosophers working on embodiment\u2014e.g. those in embodied cognition, enactivism, and \u20184e\u2019 cognition\u2014interact with the life sciences as part of their interdisciplinary agenda. Despite this, a detailed engagement with emerging findings in epigenetics and post-genomic biology has been missing from proponents of this embodied turn. Surveying this research provides an opportunity to rethink the relationship between embodiment and genetics, and we argue that the balance of current epigenetic research favours the extension of an enactivist approach to mind and life, rather than the extended functionalist view of embodied cognition associated with Andy Clark and Mike Wheeler, which is more substrate neutral.",
+      "cited_by_count": 18,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-020-02748-3.pdf"
+      },
+      "topics": [
+        "Mental Health and Psychiatry",
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 155,
+      "url": "https://openalex.org/W3036744339"
+    },
+    {
+      "openalex_id": "W2542236968",
+      "doi": "10.1075/aicr.86.06war",
+      "title": "Es are good",
+      "authors": [
+        {
+          "name": "Dave Ward",
+          "openalex_id": "A5086887973",
+          "orcid": "https://orcid.org/0000-0002-7942-373X",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Mog Stapleton",
+          "openalex_id": "A5030124671",
+          "orcid": "https://orcid.org/0000-0002-1244-4317",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-07-23",
+      "abstract": "We present a specific elaboration and partial defense of the claims that cognition is enactive, embodied, embedded, affective and (potentially) extended. According to the view we will defend, the enactivist claim that perception and cognition essentially depend upon the cognizer\u2019s interactions with their environment is fundamental. If a particular instance of this kind of dependence obtains, we will argue, then it follows that cognition is essentially embodied and embedded, that the underpinnings of cognition are inextricable from those of affect, that the phenomenon of cognition itself is essentially bound up with affect, and that the possibility of cognitive extension depends upon the instantiation of a specific mode of skillful interrelation between cognizer and environment. Thus, if cognition is enactive then it is also embodied, embedded, affective and potentially extended. Keywords: enactivism; embodied cognition; situated cognition; affective cognition",
+      "cited_by_count": 105,
+      "type": "book-chapter",
+      "source": {
+        "name": "Advances in consciousness research",
+        "type": "book series",
+        "issn": [
+          "1381-589X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2542236968"
+    },
+    {
+      "openalex_id": "W2411472745",
+      "doi": null,
+      "title": "Constructivism + Embodied Cognition = Enactivism: Theoretical and Practical Implications for Conceptual Change",
+      "authors": [
+        {
+          "name": "Douglas L. Holton",
+          "openalex_id": "A5112143863",
+          "institutions": [
+            "Utah State University"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "abstract": null,
+      "cited_by_count": 24,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Creativity in Education and Neuroscience",
+        "Language, Metaphor, and Cognition",
+        "Design Education and Practice"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W2411472745"
+    },
+    {
+      "openalex_id": "W3215285048",
+      "doi": "10.1515/9781474429764-011",
+      "title": "9. Enactivism and Embodied Cognition in Stoicism and Plato\u2019s Timaeus",
+      "authors": [
+        {
+          "name": "Christopher Gill",
+          "openalex_id": "A5102809698",
+          "orcid": "https://orcid.org/0000-0003-3091-8827"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-11-06",
+      "abstract": null,
+      "cited_by_count": 14,
+      "type": "book-chapter",
+      "source": {
+        "name": "Edinburgh University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Classical Philosophy and Thought"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3215285048"
+    },
+    {
+      "openalex_id": "W4248169967",
+      "doi": "10.1093/oso/9780198794325.001.0001",
+      "title": "Enactivist Interventions",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929"
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-22",
+      "abstract": "<italic>Enactivist Interventions</italic> explores central issues in the contemporary debates about embodied cognition, addressing interdisciplinary questions about intentionality, representation, affordances, the role of affect, and the problems of perception and cognitive penetration, action and free will, higher-order cognition, and intersubjectivity. It argues for a rethinking of the concept of mind, drawing on pragmatism, phenomenology, and cognitive science. It interprets enactivism as a philosophy of nature that has significant methodological and theoretical implications for the scientific investigation of the mind. <italic>Enactivist Interventions</italic> argues that, like the basic phenomena of perception and action, sophisticated cognitive phenomena like reflection, imagining, and mathematical reasoning are best explained in terms of an affordance-based skilled coping. It thus argues for a continuity that runs between basic action, affectivity, and a rationality that in every case remains embodied. It also discusses recent predictive models of brain function and outlines an alternative, enactivist interpretation that emphasizes the close coupling of brain, body, and environment rather than a strong boundary that isolates the brain in its internal processes. The extensive relational dynamics that integrates the brain with the extra-neural body opens into an environment that is physical, social, and cultural and that recycles back into the enactive process. Cognitive processes are <italic>in the world</italic>, situated in affordance spaces defined across evolutionary, developmental, and individual histories, and are constrained by affective processes and normative dimensions of social and cultural practices.",
+      "cited_by_count": 792,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4248169967"
+    },
+    {
+      "openalex_id": "W4206296132",
+      "doi": "10.7551/mitpress/9780262019958.001.0001",
+      "title": "The Feeling Body",
+      "authors": [
+        {
+          "name": "Giovanna Colombetti",
+          "openalex_id": "A5072857737",
+          "orcid": "https://orcid.org/0000-0003-0935-1109"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "A proposal that extends the enactive approach developed in cognitive science and philosophy of mind to issues in affective science. In The Feeling Body, Giovanna Colombetti takes ideas from the enactive approach developed over the last twenty years in cognitive science and philosophy of mind and applies them for the first time to affective science\u2014the study of emotions, moods, and feelings. She argues that enactivism entails a view of cognition as not just embodied but also intrinsically affective, and she elaborates on the implications of this claim for the study of emotion in psychology and neuroscience. In the course of her discussion, Colombetti focuses on long-debated issues in affective science, including the notion of basic emotions, the nature of appraisal and its relationship to bodily arousal, the place of bodily feelings in emotion experience, the neurophysiological study of emotion experience, and the bodily nature of our encounters with others. Drawing on enactivist tools such as dynamical systems theory, the notion of the lived body, neurophenomenology, and phenomenological accounts of empathy, Colombetti advances a novel approach to these traditional issues that does justice to their complexity. Doing so, she also expands the enactive approach into a further domain of inquiry, one that has more generally been neglected by the embodied-embedded approach in the philosophy of cognitive science.",
+      "cited_by_count": 550,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4206296132"
+    },
+    {
+      "openalex_id": "W2607185907",
+      "doi": "10.1007/s11245-017-9484-6",
+      "title": "Introduction: The Varieties of Enactivism",
+      "authors": [
+        {
+          "name": "Dave Ward",
+          "openalex_id": "A5086887973",
+          "orcid": "https://orcid.org/0000-0002-7942-373X",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "David Silverman",
+          "openalex_id": "A5022433311",
+          "orcid": "https://orcid.org/0000-0002-6648-3098",
+          "institutions": [
+            "Universit\u00e9 Paris Cit\u00e9",
+            "D\u00e9l\u00e9gation Paris 5"
+          ]
+        },
+        {
+          "name": "Mario Villalobos",
+          "openalex_id": "A5001970903",
+          "orcid": "https://orcid.org/0000-0003-0567-2888",
+          "institutions": [
+            "Instituto de Filosof\u00eda y Ciencias de la Complejidad",
+            "University of Tarapac\u00e1"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-18",
+      "abstract": null,
+      "cited_by_count": 261,
+      "type": "article",
+      "source": {
+        "name": "Topoi",
+        "type": "journal",
+        "issn": [
+          "0167-7411",
+          "1572-8749"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11245-017-9484-6.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 87,
+      "url": "https://openalex.org/W2607185907"
+    },
+    {
+      "openalex_id": "W578386050",
+      "doi": "10.5860/choice.52-0767",
+      "title": "The feeling body: affective science meets the enactive mind",
+      "authors": [],
+      "publication_year": 2014,
+      "publication_date": "2014-09-22",
+      "abstract": "A proposal that extends the enactive approach developed in cognitive science and philosophy of mind to issues in affective science. In The Feeling Body, Giovanna Colombetti takes ideas from the enactive approach developed over the last twenty years in cognitive science and philosophy of mind and applies them for the first time to affective science -- the study of emotions, moods, and feelings. She argues that enactivism entails a view of cognition as not just embodied but also intrinsically affective, and she elaborates on the implications of this claim for the study of emotion in psychology and neuroscience. In the course of her discussion, Colombetti focuses on long-debated issues in affective science, including the notion of basic emotions, the nature of appraisal and its relationship to bodily arousal, the place of bodily feelings in emotion experience, the neurophysiological study of emotion experience, and the bodily nature of our encounters with others. Drawing on enactivist tools such as dynamical systems theory, the notion of the lived body, neurophenomenology, and phenomenological accounts of empathy, Colombetti advances a novel approach to these traditional issues that does justice to their complexity. Doing so, she also expands the enactive approach into a further domain of inquiry, one that has more generally been neglected by the embodied-embedded approach in the philosophy of cognitive science.",
+      "cited_by_count": 502,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Cognitive Science and Education Research",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W578386050"
+    },
+    {
+      "openalex_id": "W2889877231",
+      "doi": "10.4013/fsu.2018.191.05",
+      "title": "Imagination, narrativity and embodied cognition: Exploring the possibilities of Paul Ricoeur\u2019s hermeneutical phenomenology for enactivism",
+      "authors": [
+        {
+          "name": "Geoffrey Dierckxsens",
+          "openalex_id": "A5056997037",
+          "orcid": "https://orcid.org/0000-0003-1844-581X",
+          "institutions": [
+            "Institute of Philosophy of the Slovak Academy of Sciences"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-08-09",
+      "abstract": "This paper aims to show that Paul Ricoeur\u2019s hermeneutical phenomenology has significance for philosophy of mind, in particular for recent theories of enactivism, one of the most significant latest developments in cognitive theory. While philosophy of mind often finds its inspiration in hermeneutics and phenomenology, especially in Husserl\u2019s and Merleau-Ponty\u2019s, the later development of hermeneutical phenomenology under the influence of Gadamer and Ricoeur, as it evolved into the theory of the interpretation of narratives and lived existence, is often lost sight of in recent debates about embodied cognition. I defend the thesis, however, that combining Ricoeur\u2019s phenomenology with enactivism shows that embodied cognition has an intrinsic ethico-political aspect. The central argument is that, if we take that imagination and narrative lie at the heart of basic embodied cognition as interaction with the world (planning, motor skills, coordination), as both recent theories of enactivism and Ricoeur hold, then embodied cognition or the way in which we experience and gain knowledge in embodied cognitive relations with the world is ethically and politically significant in that it gets shaped by the ethical and political contexts in which these relations take place (e.g., cultural body images and morals in subcultures). These contexts contain ethical and political narratives and our imaginations are influenced by and work with these narratives in order to gain knowledge. This essay thus attempts to explore some of the possibilities of phenomenological hermeneutics for the philosophy of mind today. Keywords: phenomenology, hermeneutics, philosophy of mind, embodied cognition, ethico- political world.",
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Filosofia Unisinos",
+        "type": "journal",
+        "issn": [
+          "1519-5023",
+          "1984-8234"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://revistas.unisinos.br/index.php/filosofia/article/download/fsu.2018.191.05/60746329"
+      },
+      "topics": [
+        "Hermeneutics and Narrative Identity",
+        "Language, Metaphor, and Cognition"
+      ],
+      "referenced_works_count": 30,
+      "url": "https://openalex.org/W2889877231"
+    },
+    {
+      "openalex_id": "W1564141531",
+      "doi": "10.7551/mitpress/9780262014601.003.0003",
+      "title": "Horizons for the Enactive Mind: Values, Social Interaction, and Play",
+      "authors": [
+        {
+          "name": "Ezequiel A. Di Paolo",
+          "openalex_id": "A5008902090",
+          "orcid": "https://orcid.org/0000-0002-3296-5021"
+        },
+        {
+          "name": "Marieke Rohde",
+          "openalex_id": "A5000447323",
+          "orcid": "https://orcid.org/0000-0002-8354-8850"
+        },
+        {
+          "name": "Hanne De Jaegher",
+          "openalex_id": "A5011057176",
+          "orcid": "https://orcid.org/0000-0001-7273-6410"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-11-24",
+      "abstract": "What is the enactive approach to cognition? Over the last 15 years this banner has grown to become a respectable alternative to traditional frameworks in cognitive science. It is at the same time a label with different interpretations and upon which different doubts have been cast. This paper elaborates on the core ideas that define the enactive approach and their implications: autonomy, sensemaking, emergence, embodiment, and experience. These are coherent, radical and very powerful concepts that establish clear methodological guidelines for research. The paper also looks at the problems that arise from taking these ideas seriously. The enactive approach has plenty of room for elaboration in many different areas and many challenges to respond to. In particular, we concentrate on the problems surrounding several theories of value-appraisal and valuegeneration. The enactive view takes the task of understanding meaning and value very seriously and elaborates a proper scientific alternative to reductionist attempts to tackle these issues by functional localization. Another area where the enactive framework can make a significant contribution is social interaction and social undertanding. The legacy of computationalism and methodological individualism is very strong in this field. Enactivism allows us to see embodied social interaction and coordination at many different levels in an integrated manner, from the emergence of autonomous temporal structures that regulate interaction to the generation of socially mediated meaning. Finally, we also present some speculations about how the enactive approach may be the right tool to help us bridge knowledge of concrete embodied and situated practices and higher-level human cognition, thus becoming a serious contender to computationalism in all areas of cognitive science (and not just on low-level sensorimotor cognition). The language offered by the enactive perspective already proves very useful in formulating the problem of human cognition in a tractable manner. These speculations will centre on the role of play as an activity that allows the development of meaning-manipulation skills as well as a further level of autonomous cognitive self, one that is characteristic of human beings. For the enactive view play is seen as re-creation whereas for computationalism fun is a mystery. These discussions will be supported and illustrated with examples from work in evolutionary robotics. The need for synthetic minimal models and their scientific role is a running theme of this paper.",
+      "cited_by_count": 402,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Evolutionary Game Theory and Cooperation",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 144,
+      "url": "https://openalex.org/W1564141531"
+    },
+    {
+      "openalex_id": "W2326240347",
+      "doi": "10.1093/pq/pqt032",
+      "title": "Radicalizing Enactivism. Basic Minds without Content",
+      "authors": [
+        {
+          "name": "Glenda Satne",
+          "openalex_id": "A5040980078",
+          "orcid": "https://orcid.org/0000-0001-5266-1407",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-11-01",
+      "abstract": "Until very recently, the field of cognitive science was (almost) in complete agreement in characterizing the mind as a computational mechanism dealing with brain-based representations to produce actions. Accordingly, cognition was defined as always involving represented information and neurally-based computational processes operating on it. In the last decade or so, an alternative to the representational brain paradigm started to emerge, especially from those who defend a conception of human minds as embodied and embedded in physical and social environments (systems in which brain, bodies, and the world are thought to form an indivisible whole). Is this emerging paradigm\u2014enactivism\u2014a genuine alternative to the representational\u2013computational model of the mind or just an extension of it? Answering this question is the...",
+      "cited_by_count": 189,
+      "type": "article",
+      "source": {
+        "name": "The Philosophical Quarterly",
+        "type": "journal",
+        "issn": [
+          "0031-8094",
+          "1467-9213"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/pq/article-pdf/64/254/202/4402193/pqt032.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2326240347"
+    },
+    {
+      "openalex_id": "W2038677167",
+      "doi": "10.3389/fnhum.2014.00706",
+      "title": "Extensive enactivism: why keep it all in?",
+      "authors": [
+        {
+          "name": "Daniel D. Hutto",
+          "openalex_id": "A5084720966",
+          "orcid": "https://orcid.org/0000-0002-3585-4618",
+          "institutions": [
+            "University of Hertfordshire",
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718"
+        },
+        {
+          "name": "Erik Myin",
+          "openalex_id": "A5026660825",
+          "orcid": "https://orcid.org/0000-0002-2805-9966",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-25",
+      "abstract": "Radical enactive and embodied approaches to cognitive science oppose the received view in the sciences of the mind in denying that cognition fundamentally involves contentful mental representation. This paper argues that the fate of representationalism in cognitive science matters significantly to how best to understand the extent of cognition. It seeks to establish that any move away from representationalism toward pure, empirical functionalism fails to provide a substantive \"mark of the cognitive\" and is bereft of other adequate means for individuating cognitive activity. It also argues that giving proper attention to the way the folk use their psychological concepts requires questioning the legitimacy of commonsense functionalism. In place of extended functionalism-empirical or commonsensical-we promote the fortunes of extensive enactivism, clarifying in which ways it is distinct from notions of extended mind and distributed cognition.",
+      "cited_by_count": 93,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00706/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W2038677167"
+    },
+    {
+      "openalex_id": "W2118555141",
+      "doi": "10.1111/sjp.12120",
+      "title": "Radical Predictive Processing",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-09-01",
+      "abstract": "Abstract Recent work in computational and cognitive neuroscience depicts the brain as an ever\u2010active prediction machine: an inner engine continuously striving to anticipate the incoming sensory barrage. I briefly introduce this class of models before contrasting two ways of understanding the implied vision of mind. One way (Conservative Predictive Processing) depicts the predictive mind as an insulated inner arena populated by representations so rich and reconstructive as to enable the organism to \u2018throw away the world\u2019. The other (Radical Predictive Processing) stresses the use of fast and frugal, action\u2010involving solutions of the kind highlighted by much work in robotics and embodied cognition. But it goes further, by showing how predictive schemes can combine frugal and more knowledge\u2010intensive strategies, switching between them fluently and continuously as task and context dictate. I end by exploring some parallels with work in enactivism, and by noting a certain ambivalence concerning internal representations and their role in the predictive mind.",
+      "cited_by_count": 197,
+      "type": "article",
+      "source": {
+        "name": "The Southern Journal of Philosophy",
+        "type": "journal",
+        "issn": [
+          "0038-4283",
+          "2041-6962"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjp.12120"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W2118555141"
+    },
+    {
+      "openalex_id": "W3119874105",
+      "doi": "10.1007/s11229-020-02997-2",
+      "title": "Correction to: Thinking embodiment with genetics: epigenetics and postgenomic biology in embodied cognition and enactivism",
+      "authors": [
+        {
+          "name": "Maurizio Meloni",
+          "openalex_id": "A5005112768",
+          "orcid": "https://orcid.org/0000-0003-2570-3872",
+          "institutions": [
+            "Deakin University"
+          ]
+        },
+        {
+          "name": "Jack Reynolds",
+          "openalex_id": "A5028957989",
+          "orcid": "https://orcid.org/0000-0002-4725-0395",
+          "institutions": [
+            "Deakin University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-13",
+      "abstract": "The article Thinking embodiment with genetics: epigenetics and postgenomic biology in embodied cognition and enactivism, written by Maurizio Meloni and Jack Reynolds, was originally published electronically on the publisher\u2019s internet portal on 18 June 2020 without open access. With the author(s)\u2019 decision to opt for Open Choice the copyright of the article changed on 6 November 2020 to \u00a9The Author(s) 2020 and the article is forthwith distributed under a Creative Commons Attribution.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-020-02997-2.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3119874105"
+    },
+    {
+      "openalex_id": "W4211189291",
+      "doi": "10.1017/9781108685214",
+      "title": "Enactive Psychiatry",
+      "authors": [
+        {
+          "name": "Sanneke de Haan",
+          "openalex_id": "A5102906224",
+          "orcid": "https://orcid.org/0000-0001-8656-8673",
+          "institutions": [
+            "Tilburg University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-18",
+      "abstract": "Psychiatry is enormously complex. One of its main difficulties is to articulate the relationship between the wide assortment of factors that may cause or contribute to psychiatric disorders. Such factors range from traumatic experiences to dysfunctional neurotransmitters, existential worries, economic deprivation, social exclusion and genetic bad luck. The relevant factors and how they interact can differ not only between diagnoses but also between individuals with the same diagnosis. How should we understand and navigate such complexity? Enactive Psychiatry presents an integrative account of the many phenomena at play in the development and persistence of psychiatric disorders by drawing on insights from enactivism, a theory of embodied cognition. From the enactive perspective on the mind and its relation to both the body and the world, we can achieve a new understanding of the nature of psychiatric disorders and the causality involved in their development and treatment, thereby resolving psychiatry's integration problem.",
+      "cited_by_count": 144,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Neuroscience, Education and Cognitive Function"
+      ],
+      "referenced_works_count": 320,
+      "url": "https://openalex.org/W4211189291"
+    },
+    {
+      "openalex_id": "W2061260962",
+      "doi": "10.1007/s11097-013-9344-9",
+      "title": "Locked-in syndrome: a challenge for embodied cognitive science",
+      "authors": [
+        {
+          "name": "Miriam Kyselo",
+          "openalex_id": "A5030878392",
+          "orcid": "https://orcid.org/0000-0001-9248-1902",
+          "institutions": [
+            "University of the Basque Country"
+          ]
+        },
+        {
+          "name": "Ezequiel A. Di Paolo",
+          "openalex_id": "A5008902090",
+          "orcid": "https://orcid.org/0000-0002-3296-5021",
+          "institutions": [
+            "University of Sussex",
+            "Ikerbasque",
+            "University of the Basque Country"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-11-29",
+      "abstract": null,
+      "cited_by_count": 53,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition",
+        "Psychosomatic Disorders and Their Treatments"
+      ],
+      "referenced_works_count": 117,
+      "url": "https://openalex.org/W2061260962"
+    },
+    {
+      "openalex_id": "W2479650025",
+      "doi": "10.1093/med/9780199689231.001.0001",
+      "title": "Embodied Selves and Divided Minds",
+      "authors": [
+        {
+          "name": "Michelle Maiese",
+          "openalex_id": "A5053389217",
+          "orcid": "https://orcid.org/0000-0003-4039-4561"
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-11-01",
+      "abstract": "Abstract Embodied Selves and Divided Minds examines how research in embodied cognition and enactivism can contribute to our understanding of the nature of self-consciousness, the metaphysics of personal identity, and the disruptions to self-awareness that occur in cases of psychopathology. It begins with the assumption that if we take embodiment seriously and view the self as physically grounded in the living animal body, then we will be in a better position to make sense of how a minded subject persists across time. However, instead of relying solely on puzzle cases to discuss diachronic persistence and the sense of self, this work looks to schizophrenia and dissociative identity disorder as case studies. Here we find real-life examples of disruptions to embodied self-experience that appear to indicate a fragmentation of the self. Rather than concluding that these disorders count as genuine instances of multiplicity, the book's discussion of the self and personal identity allows us to understand the characteristic symptoms of these disorders as significant disruptions to self-consciousness. The concluding chapter then examines the implications of this theoretical framework for the clinical treatment of schizophrenia and dissociative identity disorder. Thus, the work as a whole reveals how a critical dialogue between Philosophy and Psychiatry can contribute to new insights about self-consciousness, personal identity, and psychopathology.",
+      "cited_by_count": 129,
+      "type": "book",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Mental Health and Psychiatry",
+        "Neurology and Historical Studies",
+        "Psychosomatic Disorders and Their Treatments"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2479650025"
+    },
+    {
+      "openalex_id": "W2292958921",
+      "doi": "10.1007/s11245-016-9365-4",
+      "title": "Autonomy and Enactivism: Towards a Theory of Sensorimotor Autonomous Agency",
+      "authors": [
+        {
+          "name": "Xabier E. Barandiaran",
+          "openalex_id": "A5001513750",
+          "orcid": "https://orcid.org/0000-0002-4763-6845",
+          "institutions": [
+            "University of the Basque Country"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-03-04",
+      "abstract": "The concept of \"autonomy\", once at the core of the original enactivist proposal in The Embodied Mind (Varela et al. in The embodied mind: cognitive science and human experience. MIT Press, Cambridge, 1991), is nowadays ignored or neglected by some of the most prominent contemporary enactivists approaches. Theories of autonomy, however, come to fill a theoretical gap that sensorimotor accounts of cognition cannot ignore: they provide a naturalized account of normativity and the resources to ground the identity of a cognitive subject in its specific mode of organization. There are, however, good reasons for the contemporary neglect of autonomy as a relevant concept for enactivism. On the one hand, the concept of autonomy has too often been assimilated into autopoiesis (or basic autonomy in the molecular or biological realm) and the implications are not always clear for a dynamical sensorimotor approach to cognitive science. On the other hand, the foundational enactivist proposal displays a metaphysical tension between the concept of operational closure (autonomy), deployed as constitutive, and that of structural coupling (sensorimotor dynamics); making it hard to reconcile with the claim that experience is sensorimotorly constituted. This tension is particularly apparent when Varela et al. propose Bittorio (a 1D cellular automata) as a model of the operational closure of the nervous system as it fails to satisfy the required conditions for a sensorimotor constitution of experience. It is, however, possible to solve these problems by re-considering autonomy at the level of sensorimotor neurodynamics. Two recent robotic simulation models are used for this task, illustrating the notion of strong sensorimotor dependency of neurodynamic patterns, and their networked intertwinement. The concept of habit is proposed as an enactivist building block for cognitive theorizing, re-conceptualizing mental life as a habit ecology, tied within an agent's behaviour generating mechanism in coordination with its environment. Norms can be naturalized in terms of dynamic, interactively self-sustaining, coherentism. This conception of autonomous sensorimotor agency is put in contrast with those enactive approaches that reject autonomy or neglect the theoretical resources it has to offer for the project of naturalizing minds.",
+      "cited_by_count": 119,
+      "type": "article",
+      "source": {
+        "name": "Topoi",
+        "type": "journal",
+        "issn": [
+          "0167-7411",
+          "1572-8749"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11245-016-9365-4.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 126,
+      "url": "https://openalex.org/W2292958921"
+    },
+    {
+      "openalex_id": "W1978685714",
+      "doi": "10.3109/09593985.2014.1002873",
+      "title": "Embodied-enactive clinical reasoning in physical therapy",
+      "authors": [
+        {
+          "name": "Gunn Kristin \u00d8berg",
+          "openalex_id": "A5030249263",
+          "institutions": [
+            "UiT The Arctic University of Norway",
+            "University Hospital of North Norway"
+          ]
+        },
+        {
+          "name": "Britt Normann",
+          "openalex_id": "A5017702496",
+          "orcid": "https://orcid.org/0000-0003-1874-4318",
+          "institutions": [
+            "UiT The Arctic University of Norway",
+            "Nordland Hospital Trust"
+          ]
+        },
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Hertfordshire",
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-01-14",
+      "abstract": "Clinical reasoning is essential in physical therapy practice. Instrumental approaches and more recent narrative approaches to clinical reasoning guide physical therapists in their understanding of the patient's movement disturbances and help them to plan strategies to improve function. To the extent that instrumental and/or narrative models of clinical reasoning represent impairments as mere physical disturbances, we argue that such models remain incomplete. We draw on a phenomenologically inspired approach to embodied cognition (termed \"enactivism\") to suggest that the dynamics of lived bodily engagement between physical therapist and patient contribute to and help to constitute the clinical reasoning process. This article outlines the phenomenologically informed enactive perspective on clinical reasoning, with special reference to clinical work that addresses impairments as sequelae of neurological diseases.",
+      "cited_by_count": 109,
+      "type": "article",
+      "source": {
+        "name": "Physiotherapy Theory and Practice",
+        "type": "journal",
+        "issn": [
+          "0959-3985",
+          "1532-5040"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 97,
+      "url": "https://openalex.org/W1978685714"
+    },
+    {
+      "openalex_id": "W174361228",
+      "doi": "10.7551/mitpress/9780262027236.001.0001",
+      "title": "The Architecture of Cognition",
+      "authors": [],
+      "publication_year": 2014,
+      "publication_date": "2014-04-18",
+      "abstract": "Philosophers and cognitive scientists reassess systematicity in the post-connectionist era, offering perspectives from ecological psychology, embodied and distributed cognition, enactivism, and other methodologies. In 1988, Jerry Fodor and Zenon Pylyshyn challenged connectionist theorists to explain the systematicity of cognition. In a highly influential critical analysis of connectionism, they argued that connectionist explanations, at best, can only inform us about details of the neural substrate; explanations at the cognitive level must be classical insofar as adult human cognition is essentially systematic. More than twenty-five years later, however, conflicting explanations of cognition do not divide along classicist-connectionist lines, but oppose cognitivism (both classicist and connectionist) with a range of other methodologies, including distributed and embodied cognition, ecological psychology, enactivism, adaptive behavior, and biologically based neural network theory. This volume reassesses Fodor and Pylyshyn's \u201csystematicity challenge\u201d for a post-connectionist era. The contributors consider such questions as how post-connectionist approaches meet Fodor and Pylyshyn's conceptual challenges; whether there is empirical evidence for or against the systematicity of thought; and how the systematicity of human thought relates to behavior. The chapters offer a representative sample and an overview of the most important recent developments in the systematicity debate. Contributors Ken Aizawa, William Bechtel, Gideon Borensztajn, Paco Calvo, Anthony Chemero, Jonathan D. Cohen, Alicia Coram, Jeffrey L. Elman, Stefan L. Frank, Antoni Gomila, Seth A. Herd, Trent Kriete, Christian J. Lebiere, Lorena Lobo, Edouard Machery, Gary Marcus, Emma Mart\u00edn, Fernando Mart\u00ednez-Manrique, Brian P. McLaughlin, Randall C. O'Reilly, Alex A. Petrov, Steven Phillips, William Ramsey, Michael Silberstein, John Symons, David Travieso, William H. Wilson, Willem Zuidema",
+      "cited_by_count": 84,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 244,
+      "url": "https://openalex.org/W174361228"
+    },
+    {
+      "openalex_id": "W2150680404",
+      "doi": "10.1111/j.1756-8765.2012.01219.x",
+      "title": "The Meaning of Embodiment",
+      "authors": [
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-08-14",
+      "abstract": "Abstract There is substantial disagreement among philosophers of embodied cognitive science about the meaning of embodiment. In what follows, I describe three different views that can be found in the current literature. I show how this debate centers around the question of whether the science of embodied cognition can retain the computer theory of mind. One view, which I will label body functionalism, takes the body to play the functional role of linking external resources for problem solving with internal biological machinery. Embodiment is thus understood in terms of the role the body plays in supporting the computational circuits that realize cognition. Body enactivism argues by contrast that no computational account of cognition can account for the role of commonsense knowledge in our everyday practical engagement with the world. I will attempt a reconciliation of these seemingly opposed views.",
+      "cited_by_count": 69,
+      "type": "article",
+      "source": {
+        "name": "Topics in Cognitive Science",
+        "type": "journal",
+        "issn": [
+          "1756-8757",
+          "1756-8765"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1756-8765.2012.01219.x"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 97,
+      "url": "https://openalex.org/W2150680404"
+    },
+    {
+      "openalex_id": "W2051752933",
+      "doi": "10.1007/s11097-011-9223-1",
+      "title": "Dynamic Embodied Cognition",
+      "authors": [
+        {
+          "name": "L\u00e9on C. de Bruin",
+          "openalex_id": "A5020368383",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        },
+        {
+          "name": "Lena K\u00e4stner",
+          "openalex_id": "A5034952055",
+          "orcid": "https://orcid.org/0000-0002-8747-6911",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-09-20",
+      "abstract": null,
+      "cited_by_count": 50,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Child and Animal Learning Development",
+        "Epistemology, Ethics, and Metaphysics"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2051752933"
+    },
+    {
+      "openalex_id": "W2613999439",
+      "doi": "10.1007/s11097-017-9510-6",
+      "title": "Can the mind be embodied, enactive, affective, and extended?",
+      "authors": [
+        {
+          "name": "Michelle Maiese",
+          "openalex_id": "A5053389217",
+          "orcid": "https://orcid.org/0000-0003-4039-4561",
+          "institutions": [
+            "Emmanuel College - Massachusetts"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-05-11",
+      "abstract": null,
+      "cited_by_count": 30,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 49,
+      "url": "https://openalex.org/W2613999439"
+    },
+    {
+      "openalex_id": "W3013347359",
+      "doi": "10.3389/fpsyg.2020.00480",
+      "title": "Mind After Uexk\u00fcll: A Foray Into the Worlds of Ecological Psychologists and Enactivists",
+      "authors": [
+        {
+          "name": "Tim Elmo Feiten",
+          "openalex_id": "A5000800426",
+          "orcid": "https://orcid.org/0000-0002-8635-2335",
+          "institutions": [
+            "University of Cincinnati"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-24",
+      "abstract": "For several decades, a diverse set of approaches to embedded, embodied, extended, enactive and affective cognition has been challenging the cognitivist orthodoxy. Recently, the prospect of a combination of ecological psychology and enactivism has emerged as a promising candidate for a single unified framework that could rival the established cognitivist paradigm as \"a working metatheory for the study of minds\" (Baggs and Chemero, 2018, p. 11). One obstacle to such an ecological-enactive approach is the conceptual tension between the firm commitment to realism of those following James Gibson's ecological approach and the central tenet of enactivism that each living organism enacts its own world, interpreted as a constructivist or subjectivist position. Baggs and Chemero (2018) forward the concept of <i>Umwelt</i>, coined by the biologist Jakob von Uexk\u00fcll, as a conceptual bridge between the two approaches. Inspired by Kant, Uexk\u00fcll's <i>Umwelt</i> describes how the physiology of an organism's sensory apparatus shapes its active experience of the environment. Baggs and Chemero use this link between the subject and its objective surroundings to argue for a strong compatibility between ecological psychology and enactivism. Fultot and Turvey on the other hand view <i>Umwelt</i> as steeped in representationalism, the rejection of which is a fundamental commitment of radical embodied cognition (Fultot and Turvey, 2019). Instead, they advance Uexk\u00fcll's \"compositional theory of nature\" as a conceptual supplement for Gibson's ecological approach (von Uexk\u00fcll, 2010, p. 171; Fultot and Turvey, 2019). In this paper, I provide a brief overview of Uexk\u00fcll's thought and distinguish a crucial difference between two ways of using his term <i>Umwelt</i>. I argue that only one of these ways, the one which emphasizes the role of subjective experience, is adequate to Uexk\u00fcll's philosophical project. I demonstrate how the two ways of using <i>Umwelt</i> are employed in the philosophy of cognitive science, show how this distinction matters to recent debates about an ecological-enactive approach, and provide some critical background to Uexk\u00fcll's compositional theory of meaning.",
+      "cited_by_count": 44,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00480/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W3013347359"
+    },
+    {
+      "openalex_id": "W3126507886",
+      "doi": "10.3389/fpsyg.2021.543076",
+      "title": "Toward an Embodied, Embedded Predictive Processing Account",
+      "authors": [
+        {
+          "name": "Elmarie Venter",
+          "openalex_id": "A5101779535",
+          "orcid": "https://orcid.org/0000-0002-1710-0118",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-29",
+      "abstract": "In this paper, I argue for an embodied, embedded approach to predictive processing and thus align the framework with situated cognition. The recent popularity of theories conceiving of the brain as a predictive organ has given rise to two broad camps in the literature that I call free energy enactivism and cognitivist predictive processing . The two approaches vary in scope and methodology. The scope of cognitivist predictive processing is narrow and restricts cognition to brain processes and structures; it does not consider the body-beyond-brain and the environment as constituents of cognitive processes. Free energy enactivism , on the other hand, includes all self-organizing systems that minimize free energy (including non-living systems) and thus does not offer any unique explanations for more complex cognitive phenomena that are unique to human cognition. Furthermore, because of its strong commitment to the mind-life continuity thesis, it does not provide an explanation of what distinguishes more sophisticated cognitive systems from simple systems. The account that I develop in this paper rejects both of these radical extremes. Instead, I propose a compromise that highlights the necessary components of predictive processing by making use of a mechanistic methodology of explanation. The starting point of the argument in this paper is that despite the interchangeable use of the terms, prediction error minimization and the free energy principle are not identical. But this distinction does not need to disrupt the status quo of the literature if we consider an alternative approach: Embodied, Embedded Predictive Processing (EEPP). EEPP accommodates the free energy principle, as argued for by free energy enactivism, but it also allows for mental representations in its explanation of cognition. Furthermore, EEPP explains how prediction error minimization is realized but, unlike cognitivist PP, it allocates a constitutive role to the body in cognition. Despite highlighting concerns regarding cognitivist PP, I do not wish to discredit the role of the neural domain or representations as free energy enactivism does. Neural structures and processes undeniably contribute to the minimization of prediction error but the role of the body is equally important. On my account, prediction error minimization and free energy minimization are deeply dependent on the body of an agent, such that the body-beyond-brain plays a constitutive role in cognitive processing. I suggest that the body plays three constitutive roles in prediction error minimization: The body regulates cognitive activity, ensuring that cognition and action are intricately linked. The body acts as distributor in the sense that it carries some of the cognitive load by fulfilling the function of minimizing prediction error. Finally, the body serves to constrain the information that is processed by an agent. In fulfilling these three roles, the agent and environment enter into a bidirectional relation through influencing and modeling the structure of the other. This connects EEPP to the free energy principle because the whole embodied agent minimizes free energy in virtue of being a model of its econiche. This grants the body a constitutive role as part of the collection of mechanisms that minimize prediction error and free energy. The body can only fulfill its role when embedded in an environment, of which it is a model. In this sense, EEPP offers the most promising alternative to cognitivist predictive processing and free energy enactivism.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.543076/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W3126507886"
+    },
+    {
+      "openalex_id": "W4363674852",
+      "doi": "10.3390/philosophies8020036",
+      "title": "Degradation of the Body in Idealist\u2013Dualist Philosophy",
+      "authors": [
+        {
+          "name": "Alejandro Quint\u00e1s",
+          "openalex_id": "A5110523294",
+          "institutions": [
+            "Universidad Nacional de Educaci\u00f3n a Distancia",
+            "Universidad de Zaragoza"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-04-08",
+      "abstract": "There is no corporal philosophy at the level of other philosophical subdisciplines. A research line has begun whose ultimate goal is to determine whether a somatic philosophy can be built. From a pragmatist and biopolitical approach, the present study investigated why it has not been possible to develop grounded somatic philosophy. As an answer, the \u201cidealist\u2013dualist episteme\u201d is described, which encompasses invariants in the history of idealist philosophy at the ontological, gnoseological, ethical\u2013political, and pedagogical levels. These constants reflect somatophobia, as well as an ontological and gnoseological disregard of the body, which has led to the irrelevance of the body and corporeality in philosophy until the arrival of the \u201cbodily turn\u201d. The critique of this prevailing idealism and dualism will enable a review of current approaches based on these positions, such as embodiment, enactivism, embodied cognition, or embodied artificial intelligence. It opens up a new philosophical line with a universalis scope that is open to the eclectic construction of a pragmatic corporal philosophy that takes into account Chinese, Japanese, or African philosophies.",
+      "cited_by_count": 6,
+      "type": "article",
+      "source": {
+        "name": "Philosophies",
+        "type": "journal",
+        "issn": [
+          "2409-9287"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2409-9287/8/2/36/pdf?version=1682209724"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W4363674852"
+    },
+    {
+      "openalex_id": "W2077586083",
+      "doi": "10.1007/s11858-014-0634-7",
+      "title": "Survey of key concepts in enactivist theory and methodology",
+      "authors": [
+        {
+          "name": "David A. Reid",
+          "openalex_id": "A5015925724",
+          "orcid": "https://orcid.org/0000-0001-5363-5948",
+          "institutions": [
+            "Acadia University",
+            "University of Bremen"
+          ]
+        },
+        {
+          "name": "Joyce Mgombelo",
+          "openalex_id": "A5044677831",
+          "orcid": "https://orcid.org/0000-0003-2357-9572",
+          "institutions": [
+            "Brock University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-27",
+      "abstract": null,
+      "cited_by_count": 49,
+      "type": "article",
+      "source": {
+        "name": "ZDM",
+        "type": "journal",
+        "issn": [
+          "1863-9690",
+          "1863-9704"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W2077586083"
+    },
+    {
+      "openalex_id": "W2282036578",
+      "doi": "10.1007/s11217-015-9506-z",
+      "title": "Transformative Learning, Enactivism, and Affectivity",
+      "authors": [
+        {
+          "name": "Michelle Maiese",
+          "openalex_id": "A5053389217",
+          "orcid": "https://orcid.org/0000-0003-4039-4561",
+          "institutions": [
+            "Emmanuel College - Massachusetts"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-12-21",
+      "abstract": null,
+      "cited_by_count": 82,
+      "type": "article",
+      "source": {
+        "name": "Studies in Philosophy and Education",
+        "type": "journal",
+        "issn": [
+          "0039-3746",
+          "1573-191X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroscience, Education and Cognitive Function",
+        "Ego Development and Educational Practices",
+        "Adult and Continuing Education Topics"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W2282036578"
+    },
+    {
+      "openalex_id": "W2088094716",
+      "doi": "10.1007/s11858-014-0620-0",
+      "title": "Bringing forth mathematical concepts: signifying sensorimotor enactment in fields of promoted action",
+      "authors": [
+        {
+          "name": "Dor Abrahamson",
+          "openalex_id": "A5068585796",
+          "orcid": "https://orcid.org/0000-0003-2883-4229",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Dragan Trnini\u0107",
+          "openalex_id": "A5034292080",
+          "orcid": "https://orcid.org/0000-0002-5948-2441",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-08-09",
+      "abstract": null,
+      "cited_by_count": 88,
+      "type": "article",
+      "source": {
+        "name": "ZDM",
+        "type": "journal",
+        "issn": [
+          "1863-9690",
+          "1863-9704"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Child and Animal Learning Development",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 70,
+      "url": "https://openalex.org/W2088094716"
+    },
+    {
+      "openalex_id": "W3134026773",
+      "doi": "10.1177/1609406921995299",
+      "title": "Phenomenological Research Needs to be Renewed: Time to Integrate Enactivism as a Flexible Resource",
+      "authors": [
+        {
+          "name": "Peter Stilwell",
+          "openalex_id": "A5054628380",
+          "orcid": "https://orcid.org/0000-0002-2858-9588",
+          "institutions": [
+            "Dalhousie University"
+          ]
+        },
+        {
+          "name": "Katherine Harman",
+          "openalex_id": "A5103463783",
+          "institutions": [
+            "Dalhousie University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "Qualitative research approaches under the umbrella of phenomenology are becoming overly prescriptive and dogmatic (e.g., excessive and unnecessary focus on the epoch\u00e9 and reduction). There is a need for phenomenology (as a qualitative research approach) to be renewed and refreshed with opportunities for methodological flexibility. In this process paper, we offer one way this could be achieved. We provide an overview of the emerging paradigm of post-cognitivism and the aligned movement of enactivism which has roots in phenomenology and embodied cognition. We argue that enactivism can be used as a flexible resource by qualitative researchers exploring the unfolding of first-person (subjective) experience and its meanings (i.e., the enactive concept of sense-making). Enactive approaches are commonly tethered to \u201cE-based\u201d theory, such as the idea that sense-making is a 5E process (Embodied, Embedded, Enacted, Emotive, and Extended). We suggest that enactivism and E-based theory can inform phenomenological research in eclectic and non-prescriptive ways, including integration with existing methods such as observation/interviews and thematic analysis with hybrid deductive-inductive coding. Enactivism-informed phenomenological research moves beyond methodological individualism and can inform novel qualitative research exploring the complex, dynamic, and context-sensitive nature of sense-making. We draw from our enactive study that explored the co-construction of pain-related meanings between clinicians and patients, while also offering other ways that enactive theory could be applied. We provide a sample interview guide and codebook, as well as key components of rigor to consider when designing, conducting, and reporting a trustworthy phenomenological study using enactive theory.",
+      "cited_by_count": 39,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Qualitative Methods",
+        "type": "journal",
+        "issn": [
+          "1609-4069"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1609406921995299"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 77,
+      "url": "https://openalex.org/W3134026773"
+    },
+    {
+      "openalex_id": "W3109478077",
+      "doi": "10.1080/09540261.2020.1830753",
+      "title": "Bio-psycho-social interaction: an enactive perspective",
+      "authors": [
+        {
+          "name": "Sanneke de Haan",
+          "openalex_id": "A5102906224",
+          "orcid": "https://orcid.org/0000-0001-8656-8673",
+          "institutions": [
+            "Tilburg University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-11-25",
+      "abstract": "What are the respective roles of physiological, psychological and social processes in the development of psychiatric disorders? The answer is relevant for deciding on interventions, prevention measures, and for our (self)understanding. Reductionist models assume that only physiological processes are in the end causally relevant. The biopsychosocial (BPS) model, by contrast, assumes that psychological and social processes have their own unique characteristics that cannot be captured by physiological processes and which have their own distinct contributions to the development of psychiatric disorders. Although this is an attractive position, the BPS model suffers from a major flaw: it does not tell us how these biopsychosocial processes can causally interact. If these are processes of such different natures, how then can they causally affect each other? An enactive approach can explain biopsychosocial interaction. Enactivism argues that cognition is an embodied and embedded activity and that living necessarily includes some basic form of cognition, or sense-making. Starting from an enactive view on the interrelations between body, mind, and world, and adopting an organizational rather than a linear notion of causality, we can understand the causality involved in the biopsychosocial processes that may contribute to the development of psychiatric disorders.",
+      "cited_by_count": 56,
+      "type": "review",
+      "source": {
+        "name": "International Review of Psychiatry",
+        "type": "journal",
+        "issn": [
+          "0954-0261",
+          "1369-1627"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/09540261.2020.1830753?needAccess=true"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 29,
+      "url": "https://openalex.org/W3109478077"
+    },
+    {
+      "openalex_id": "W2897306227",
+      "doi": "10.1093/oxfordhb/9780198735410.013.4",
+      "title": "The Enactive Conception of Life",
+      "authors": [
+        {
+          "name": "Ezequiel A. Di Paolo",
+          "openalex_id": "A5008902090",
+          "orcid": "https://orcid.org/0000-0002-3296-5021",
+          "institutions": [
+            "Ikerbasque"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-10-09",
+      "abstract": "Abstract Enactivism offers research in embodied cognition an alternative to functionalism. It does so by theorizing the individuation of organic, sensorimotor, and social bodies in their material precariousness. In this chapter, we discuss the concepts of autonomy, agency, and sense-making as they emerge from a dialectical analysis of the notion of autopoiesis. Each of the requirements of self-production and self-distinction in this notion, requirements that an organism must satisfy simultaneously to stay alive, are shown to involve potentialities and tendencies that contradict each other. The overcoming of this dialectical situation is the passage toward a more concrete concept of self-individuation as an open, unfinished operation that extends over time. This is the enactive concept of agency. The implication is that concrete, material self-individuation is always-already, even for the simplest life-forms, the self-individuation of behaving agents that enact a world.",
+      "cited_by_count": 50,
+      "type": "reference-entry",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophical and Theoretical Analysis",
+        "Cybernetics and Technology in Society"
+      ],
+      "referenced_works_count": 51,
+      "url": "https://openalex.org/W2897306227"
+    },
+    {
+      "openalex_id": "W2530710827",
+      "doi": "10.1080/09540091.2016.1236366",
+      "title": "Musicking, embodiment and participatory enaction of music: outline and key points",
+      "authors": [
+        {
+          "name": "Juan M. Loaiza",
+          "openalex_id": "A5044172504",
+          "orcid": "https://orcid.org/0000-0001-9249-2978",
+          "institutions": [
+            "Queen's University Belfast"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-10-01",
+      "abstract": "This paper proposes a way of understanding the confluence of the enactive approach to cognition and musicology in a wider sense. The implication is that existing socio-cultural approaches to meaning in music \u2013 whereby music is seen as a total social phenomenon, and the naturalistic view of music cognition may be articulated via the life-mind continuum proposed by enactivism. On the one hand, discussions on embodied music cognition are presented with the opportunity to overcome their de facto individualism in a principled, naturalistic way. On the other hand, for the socio-cultural-historical approaches the opportunity seems to be to move beyond the biology-culture divide without submitting to reductionism. A wider explanatory unit is presented. The explanatory utility of embodiment is examined in relation to the wider frame of social-life in dialectical fashion. A definition of musicking is sketched considering it as an instance of processes of social-life. This paper signals a direction to take, yet methodologies, results, and homologies with other disciplines are left open to further discussion.",
+      "cited_by_count": 39,
+      "type": "article",
+      "source": {
+        "name": "Connection Science",
+        "type": "journal",
+        "issn": [
+          "0954-0091",
+          "1360-0494"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Embodied and Extended Cognition",
+        "Music Technology and Sound Studies"
+      ],
+      "referenced_works_count": 84,
+      "url": "https://openalex.org/W2530710827"
+    },
+    {
+      "openalex_id": "W2975707551",
+      "doi": "10.1080/09515089.2019.1668238",
+      "title": "Ecological psychology is radical enough: A reply to radical enactivists",
+      "authors": [
+        {
+          "name": "Miguel Segundo\u2010Ortin",
+          "openalex_id": "A5042579004",
+          "orcid": "https://orcid.org/0000-0002-3787-0013",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Manuel Heras-Escribano",
+          "openalex_id": "A5049246377",
+          "orcid": "https://orcid.org/0000-0002-5955-9947",
+          "institutions": [
+            "University of the Basque Country"
+          ]
+        },
+        {
+          "name": "Vicente Raja",
+          "openalex_id": "A5010859654",
+          "orcid": "https://orcid.org/0000-0001-5780-9052",
+          "institutions": [
+            "Western University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-26",
+      "abstract": "Ecological psychology is one of the most influential theories of perception in the embodied, anti-representational, and situated cognitive sciences. However, radical enactivists claim that Gibsonians tend to describe ecological information and its 'pick up' in ways that make ecological psychology close to representational theories of perception and cognition. Motivated by worries about the tenability of classical views of informational content and its processing, these authors claim that ecological psychology needs to be \"RECtified\" so as to explicitly resist representational readings. In this paper, we argue against this call for RECtification. To do so, we offer a detailed analysis of the notion of perceptual information and other related notions such as specificity and meaning, as they are presented in the specialized ecological literature. We defend that these notions, if properly understood, remain free of any representational commitment. Ecological psychology, we conclude, does not need to be RECtified. Abbreviations: EP = Ecological Psychology REC = Radical Enactivism.",
+      "cited_by_count": 46,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 72,
+      "url": "https://openalex.org/W2975707551"
+    },
+    {
+      "openalex_id": "W4293580420",
+      "doi": "10.5040/9781350292215",
+      "title": "African Philosophy and Enactivist Cognition",
+      "authors": [
+        {
+          "name": "Bruce Janz",
+          "openalex_id": "A5010513269",
+          "orcid": "https://orcid.org/0000-0003-3122-1618"
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-30",
+      "abstract": "Using classic texts in African philosophy, Bruce B. Janz applies the strand of cognitive science known as enactivism to realise new connections and intersections between both fields. The idea that cognition is embodied and embedded in a social world neatly maps onto specifically African epistemologies to outline a new direction of study on what philosophy is.",
+      "cited_by_count": 24,
+      "type": "book",
+      "source": {
+        "name": "Bloomsbury Academic eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "African cultural and philosophical studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4293580420"
+    },
+    {
+      "openalex_id": "W575851270",
+      "doi": "10.1075/ceb.2",
+      "title": "Radical Enactivism",
+      "authors": [],
+      "publication_year": 2006,
+      "publication_date": "2006-11-29",
+      "abstract": "\"This collection is a much-needed remedy to the confusion about which varieties of enactivism are robust yet viable rejections of traditional representationalism approaches to cognitivism \u2013 and which are not. Hutto's paper is the pivot around which the expert commentators, enactivists and non-enactivists alike, sketch out the implications of enactivism for a wide variety of issues: perception, emotion, the theory of content, cognition, development, social interaction, and more. The inclusion of thoughtful replies from Hutto gives the volume a further degree of depth and integration often lacking in collections of essays. Anyone interested in assessing the current cutting-edge developments in the embodied and situated sciences of the mind will want to read this book.\" Ron Chrisley, University of Sussex, UK",
+      "cited_by_count": 25,
+      "type": "book",
+      "source": {
+        "name": "Consciousness & emotion book series",
+        "type": "book series",
+        "issn": [
+          "2352-099X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W575851270"
+    },
+    {
+      "openalex_id": "W3093048850",
+      "doi": "10.3389/fpsyg.2020.539841",
+      "title": "Enactivism and Ecological Psychology: The Role of Bodily Experience in Agency",
+      "authors": [
+        {
+          "name": "Yanna Popova",
+          "openalex_id": "A5110829624"
+        },
+        {
+          "name": "Joanna R\u0105czaszek\u2010Leonardi",
+          "openalex_id": "A5076187962",
+          "orcid": "https://orcid.org/0000-0002-3243-1468",
+          "institutions": [
+            "University of Warsaw"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-15",
+      "abstract": "This paper considers some foundational concepts in ecological psychology and in enactivism, and traces their developments from their historical roots to current preoccupations. Important differences stem, we claim, from dissimilarities in how embodied experience has been understood by the ancestors, founders and followers of ecological psychology and enactivism, respectively. Rather than pointing to differences in domains of interest for the respective approaches, and restating possible divisions of labor between them in research in the cognitive and psychological sciences, we call for a deeper analysis of the role of embodiment in agency that we also undertake. Awareness of the differences that exist in the respective frameworks and their consequences, we argue, may lead to overcoming some current divisions of responsibility, and contribute to a more comprehensive and complementary way of dealing with a broader range of theoretical and practical concerns. While providing some examples of domains, such as social cognition and art reception, in which we can observe the relative usefulness and potential integration of the theoretical and methodological resources from the two approaches, we demonstrate that such deeper synergy is not only possible but also beginning to emerge. Such complementarity, as we envisage, conceives of ecological psychology that allows felt experience as a crucial dynamical element in the explanations and models that it produces, and of an enactive approach that takes into consideration the ubiquitous presence of rich directly perceived relations among variables arising from enactments in the social and physical world.",
+      "cited_by_count": 24,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.539841/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W3093048850"
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

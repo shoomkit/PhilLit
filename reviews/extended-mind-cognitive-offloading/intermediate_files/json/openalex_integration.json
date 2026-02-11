@@ -1,0 +1,1459 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "cognitive integration Menary Sutton",
+  "results": [
+    {
+      "openalex_id": "W1993308918",
+      "doi": "10.1080/09515089.2012.724394",
+      "title": "Extended cognition &amp; constitution: Re-evaluating the constitutive claim of extended cognition",
+      "authors": [
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718",
+          "institutions": [
+            "Kirchhoff (Poland)"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-14",
+      "abstract": "Abstract This paper explores several paths by which the extended cognition (EC) thesis may overcome the coupling-constitution fallacy. In so doing, I address a couple of shortcomings in the contemporary literature. First, on the dimension of first-wave EC, I argue that constitutive arguments based on functional parity suffer from either a threat of cognitive bloat or an impasse with respect to determining the correct level of grain in the attribution of causal-functional roles. Second, on the dimension of second-wave EC, I argue that especially the complementarity approach suffers from a similar sort of dilemma as first-wave EC: an inability to justify just what entails the ontological claim of EC over the scaffolding claim of weaker approaches in cognitive science. In this paper I show that two much more promising explanations by which to ground the ontological claim of EC are available, both starting from an exploration of the coordination dynamics between environmental resources and neural resources. On the one hand, I argue that second-wave EC based on cognitive integration, with its focus on bodily manipulations constrained by cognitive norms, is capable of resolving the coupling-constitution fallacy. On the other hand, I argue that the framework of cognitive integration can be supplemented by philosophical accounts of mechanistic explanation, because such accounts enable us to explain the emergence of higher-level cognitive properties due to a system's organization-dependent structure. Keywords: Composition Constitution Coupling-Constitution Fallacy Extended Cognition Mechanistic Explanation Acknowledgments An Australian Research Council (ARC) PhD scholarship, as part of the ARC Discovery Project Grant DP1095109 awarded to Richard Menary, has funded this project. Thanks to Richard Menary, John Sutton, and Will Newsome for helpful discussion. I am also grateful for the highly constructive comments made by two anonymous referees. Notes Notes [1] Thanks to an anonymous reviewer for proposing this response. [2] There is a slight disagreement in the mechanistic literature about the extent to which one can apply the mechanistic framework to cases of EC. In particular, Craver argues that \u201cmany cognitive mechanisms draw upon resources outside of the brain and outside of the body to such an extent that it is not fruitful to see the skin, or surface of the CNS, as a useful boundary\u201d (2007, p. 141). However, Bechtel (2009 Bechtel, W. 2009. \u201cExplanation: Mechanism, modularity, and situated cognition\u201d. In The Cambridge handbook of situated cognition, Edited by: Robbins, P and Aydede, M. 155\u2013170. New York: Cambridge University Press. [Google Scholar]) thinks that mechanistic explanations are more compatible with weaker embodied and situated approaches to cognition. Note that Bechtel does not think that this necessarily must be this way. As he mentions, what is critical for a mechanistic explanation is first to identify the phenomenon for which one is seeking an explanation (Bechtel, personal communication, January 11, 2011). If the system accomplishing the phenomenon functions as a result of causal interdependence between an individual and artifacts, then that is the place to locate the explanation. But, \u201cmy bet is that there will remain the task of explaining how the organism engages their environment, and that this phenomenon is to be explained inside the head and these will resemble the traditional explanations in cognitive psychology\u201d (Bechtel, personal communication, January 11, 2011). This emerging picture between proponents of mechanistic explanation as to whether the framework can be applied to extended and distributed cognitive science is evidence of an important fact, namely that the ideas of EC are being discussed outside the mainstream debates over EC. Moreover, as I have already mentioned, Theiner (2009 Theiner, G. 2009. \u201cMaking sense of group cognition: The curious case of transactive memory systems\u201d. In ASCS09: Proceedings of the 9th Conference of the Australasian Society for Cognitive Science, Edited by: Christensen, W, Schier, E and Sutton, J. 334\u2013342. Sydney: Macquarie Centre for Cognitive Science. [Google Scholar]) as well as Theiner et al. (2010 Theiner, G, Allen, C and Goldstone, RL. 2010. Recognizing group cognition. Cognitive Systems Research, 11: 378\u2013395. [Crossref], [Web of Science \u00ae] , [Google Scholar]), apply mechanistic explanation to group cognition, and Theiner (2011 Theiner, G. 2011. Res cogitans extense: A philosophical defense of the extended mind thesis, Frankfurt: Peter Lang. [Google Scholar]) appeals to the framework of mechanistic explanation to resist the C-C fallacy in the context of his discussion of extended reasoning.",
+      "cited_by_count": 23,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Philosophy and History of Science",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W1993308918"
+    },
+    {
+      "openalex_id": "W2082398981",
+      "doi": "10.1007/s11098-014-0347-3",
+      "title": "Extending the extended mind: the case for extended affectivity",
+      "authors": [
+        {
+          "name": "Giovanna Colombetti",
+          "openalex_id": "A5072857737",
+          "orcid": "https://orcid.org/0000-0003-0935-1109",
+          "institutions": [
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Tom Roberts",
+          "openalex_id": "A5101934654",
+          "orcid": "https://orcid.org/0000-0002-6675-7060",
+          "institutions": [
+            "University of Exeter"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-06-23",
+      "abstract": null,
+      "cited_by_count": 190,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11098-014-0347-3.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Mental Health and Psychiatry"
+      ],
+      "referenced_works_count": 85,
+      "url": "https://openalex.org/W2082398981"
+    },
+    {
+      "openalex_id": "W2048487711",
+      "doi": "10.1007/s13164-013-0131-x",
+      "title": "Distributed Cognition and Memory Research: History and Current Directions",
+      "authors": [
+        {
+          "name": "Kourken Michaelian",
+          "openalex_id": "A5005971328",
+          "orcid": "https://orcid.org/0000-0002-5205-3046",
+          "institutions": [
+            "Bilkent University"
+          ]
+        },
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Macquarie University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-02-19",
+      "abstract": null,
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Review of Philosophy and Psychology",
+        "type": "journal",
+        "issn": [
+          "1878-5158",
+          "1878-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13164-013-0131-x.pdf"
+      },
+      "topics": [
+        "Neural dynamics and brain function",
+        "Memory and Neural Mechanisms",
+        "Functional Brain Connectivity Studies"
+      ],
+      "referenced_works_count": 147,
+      "url": "https://openalex.org/W2048487711"
+    },
+    {
+      "openalex_id": "W2086684289",
+      "doi": "10.3389/fpsyg.2013.01003",
+      "title": "Affordances and the musically extended mind",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "I defend a model of the musically extended mind. I consider how acts of \"musicking\" grant access to novel emotional experiences otherwise inaccessible. First, I discuss the idea of \"musical affordances\" and specify both what musical affordances are and how they invite different forms of entrainment. Next, I argue that musical affordances - via soliciting different forms of entrainment - enhance the functionality of various endogenous, emotion-granting regulative processes, drawing novel experiences out of us with an expanded complexity and phenomenal character. I argue that music therefore ought to be thought of as part of the vehicle needed to realize these emotional experiences. I appeal to different sources of empirical work to develop this idea.",
+      "cited_by_count": 258,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.01003/pdf"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 190,
+      "url": "https://openalex.org/W2086684289"
+    },
+    {
+      "openalex_id": "W4380446133",
+      "doi": "10.7551/mitpress/8535.003.0009",
+      "title": "Exograms and Interdisciplinarity: History, the Extended Mind, and the Civilizing Process",
+      "authors": [
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": null,
+      "cited_by_count": 123,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Interdisciplinary Research and Collaboration"
+      ],
+      "referenced_works_count": 119,
+      "url": "https://openalex.org/W4380446133"
+    },
+    {
+      "openalex_id": "W2914342221",
+      "doi": "10.1007/s11229-019-02115-x",
+      "title": "Multiscale integration: beyond internalism and externalism",
+      "authors": [
+        {
+          "name": "Maxwell J. D. Ramstead",
+          "openalex_id": "A5010108818",
+          "orcid": "https://orcid.org/0000-0002-1477-8177",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Axel Constant",
+          "openalex_id": "A5007807828",
+          "orcid": "https://orcid.org/0000-0002-1547-8803",
+          "institutions": [
+            "University of Amsterdam",
+            "University College London",
+            "Wellcome Centre for Human Neuroimaging"
+          ]
+        },
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "University College London",
+            "Wellcome Centre for Human Neuroimaging"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-21",
+      "abstract": "Abstract We present a multiscale integrationist interpretation of the boundaries of cognitive systems, using the Markov blanket formalism of the variational free energy principle. This interpretation is intended as a corrective for the philosophical debate over internalist and externalist interpretations of cognitive boundaries; we stake out a compromise position. We first survey key principles of new radical (extended, enactive, embodied) views of cognition. We then describe an internalist interpretation premised on the Markov blanket formalism. Having reviewed these accounts, we develop our positive multiscale account. We argue that the statistical seclusion of internal from external states of the system\u2014entailed by the existence of a Markov boundary\u2014can coexist happily with the multiscale integration of the system through its dynamics. Our approach does not privilege any given boundary (whether it be that of the brain, body, or world), nor does it argue that all boundaries are equally prescient. We argue that the relevant boundaries of cognition depend on the level being characterised and the explanatory interests that guide investigation. We approach the issue of how and where to draw the boundaries of cognitive systems through a multiscale ontology of cognitive systems, which offers a multidisciplinary research heuristic for cognitive science.",
+      "cited_by_count": 156,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-019-02115-x.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 104,
+      "url": "https://openalex.org/W2914342221"
+    },
+    {
+      "openalex_id": "W4383742778",
+      "doi": "10.1017/9781009209793",
+      "title": "Embodied and Enactive Approaches to Cognition",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-11",
+      "abstract": "This Element discusses contemporary theories of embodied cognition, including what has been termed the '4Es' (embodied, embedded, extended and enactive cognition). It examines diverse approaches to questions about the nature of the mind, the mind's relation to the brain, perceptual experience, mental representation, sense making, the role of the environment, and social cognition, and it considers the strengths and weaknesses of the theories in question. It contrasts embodied and enactive views with classic cognitivism, and discusses major criticisms and their possible resolutions. This element also provides a strong focus on enactive theory and the prospects for integrating enactive approaches with other embodied and extended theories, mediated through recent developments in predictive processing and the free energy principle. It concludes with a brief discussion of the practical applications of embodied cognition. This title is also available as Open Access on Cambridge Core.",
+      "cited_by_count": 135,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FFAB4E136E12255CD3139A87ECB2DCAD/9781009209809AR.pdf/embodied-and-enactive-approaches-to-cognition.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 267,
+      "url": "https://openalex.org/W4383742778"
+    },
+    {
+      "openalex_id": "W2933899145",
+      "doi": "10.3389/fpsyg.2019.00679",
+      "title": "Regimes of Expectations: An Active Inference Model of Social Conformity and Human Decision Making",
+      "authors": [
+        {
+          "name": "Axel Constant",
+          "openalex_id": "A5007807828",
+          "orcid": "https://orcid.org/0000-0002-1547-8803",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "McGill University",
+            "University College London",
+            "University of Sydney"
+          ]
+        },
+        {
+          "name": "Maxwell J. D. Ramstead",
+          "openalex_id": "A5010108818",
+          "orcid": "https://orcid.org/0000-0002-1477-8177",
+          "institutions": [
+            "McGill University",
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Samuel P. L. Veissi\u00e8re",
+          "openalex_id": "A5017587005",
+          "orcid": "https://orcid.org/0000-0002-1158-2347",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Karl Friston",
+          "openalex_id": "A5086852785",
+          "orcid": "https://orcid.org/0000-0001-7984-8909",
+          "institutions": [
+            "University College London",
+            "Wellcome Centre for Human Neuroimaging"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-03-29",
+      "abstract": "How do humans come to acquire shared expectations about how they ought to behave in distinct normalized social settings? This paper offers a normative framework to answer this question. We introduce the computational construct of 'deontic value' - based on active inference and Markov decision processes - to formalize conceptions of social conformity and human decision-making. Deontic value is an attribute of choices, behaviors, or action sequences that inherit directly from deontic cues in our econiche (e.g., red traffic lights); namely, cues that denote an obligatory social rule. Crucially, the prosocial aspect of deontic value rests upon a particular form of circular causality: deontic cues exist in the environment in virtue of the environment being modified by repeated actions, while action itself is contingent upon the deontic value of environmental cues. We argue that this construction of deontic cues enables the epistemic (i.e., information-seeking) and pragmatic (i.e., goal- seeking) values of any behavior to be 'cached' or 'outsourced' to the environment, where the environment effectively 'learns' about the behavior of its denizens. We describe the process whereby this particular aspect of value enables learning of habitual behavior over neurodevelopmental and transgenerational timescales.",
+      "cited_by_count": 166,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00679/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Evolutionary Game Theory and Cooperation",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 106,
+      "url": "https://openalex.org/W2933899145"
+    },
+    {
+      "openalex_id": "W2291702528",
+      "doi": "10.3389/fpsyg.2016.00266",
+      "title": "Mind Invasion: Situated Affectivity and the Corporate Life Hack",
+      "authors": [
+        {
+          "name": "Jan Slaby",
+          "openalex_id": "A5059862912",
+          "orcid": "https://orcid.org/0000-0003-4978-7978",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-02-25",
+      "abstract": "In view of the philosophical problems that vex the debate on situated affectivity, it can seem wise to focus on simple cases. Accordingly, theorists often single out scenarios in which an individual employs a device in order to enhance their emotional experience, or to achieve new kinds of experience altogether, such as playing an instrument, going to the movies, or sporting a fancy handbag. I argue that this narrow focus on cases that fit a \"user/resource model\" tends to channel attention away from more complex and also more problematic instances of situated affectivity. Among these are scenarios in which a social domain draws individuals into certain modes of affective interaction, often by way of attunement and habituation to affective styles and interaction patterns that are normative in the domain in question. This can lead to a phenomenon that is not so much \"mind extension\" than \"mind invasion\": affectivity is dynamically framed and modulated from without, often contrary to the prior orientations of the individuals in question. As an example, I discuss affective patterns prevalent in today's corporate workplace. I claim that workplace affect sometimes contributes to what is effectively a \"hack\" of employees' subjectivity.",
+      "cited_by_count": 134,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00266/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Management and Organizational Studies",
+        "Emotions and Moral Behavior"
+      ],
+      "referenced_works_count": 114,
+      "url": "https://openalex.org/W2291702528"
+    },
+    {
+      "openalex_id": "W4211237247",
+      "doi": "10.1111/phc3.12390",
+      "title": "Extended emotions",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596",
+          "institutions": [
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Thomas Szanto",
+          "openalex_id": "A5034989004",
+          "orcid": "https://orcid.org/0000-0001-5114-677X",
+          "institutions": [
+            "University of Copenhagen"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-12-01",
+      "abstract": "Abstract Until recently, philosophers and psychologists conceived of emotions as brain\u2010 and body\u2010bound affairs. But researchers have started to challenge this internalist and individualist orthodoxy. A rapidly growing body of work suggests that some emotions incorporate external resources and thus extend beyond the neurophysiological confines of organisms; some even argue that emotions can be socially extended and shared by multiple agents. Call this the extended emotions thesis (ExE). In this article, we consider different ways of understanding ExE in philosophy, psychology, and the cognitive sciences. First, we outline the background of the debate and discuss different argumentative strategies for ExE. In particular, we distinguish ExE from cognate but more moderate claims about the embodied and situated nature of cognition and emotion (Section 1). We then dwell upon two dimensions of ExE: emotions extended by material culture and by the social factors (Section 2). We conclude by defending ExE against some objections (Section 3) and point to desiderata for future research (Section 4).",
+      "cited_by_count": 87,
+      "type": "article",
+      "source": {
+        "name": "Philosophy Compass",
+        "type": "journal",
+        "issn": [
+          "1747-9991"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10871/23005"
+      },
+      "topics": [
+        "Emotions and Moral Behavior",
+        "Embodied and Extended Cognition",
+        "Language, Discourse, Communication Strategies"
+      ],
+      "referenced_works_count": 127,
+      "url": "https://openalex.org/W4211237247"
+    },
+    {
+      "openalex_id": "W1926849645",
+      "doi": "10.1111/cogs.12273",
+      "title": "Toward a Metacognitive Account of Cognitive Offloading",
+      "authors": [
+        {
+          "name": "Timothy L. Dunn",
+          "openalex_id": "A5008786913",
+          "orcid": "https://orcid.org/0000-0002-6085-7677",
+          "institutions": [
+            "University of Waterloo"
+          ]
+        },
+        {
+          "name": "Evan F. Risko",
+          "openalex_id": "A5005474666",
+          "orcid": "https://orcid.org/0000-0001-5702-0350",
+          "institutions": [
+            "University of Waterloo"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-08-26",
+      "abstract": "Abstract Individuals frequently make use of the body and environment when engaged in a cognitive task. For example, individuals will often spontaneously physically rotate when faced with rotated objects, such as an array of words, to putatively offload the performance costs associated with stimulus rotation. We looked to further examine this idea by independently manipulating the costs associated with both word rotation and array frame rotation. Surprisingly, we found that individuals\u2019 patterns of spontaneous physical rotations did not follow patterns of performance costs or benefits associated with being physically rotated, findings difficult to reconcile with existing theories of strategy selection involving external resources. Individuals\u2019 subjective ratings of perceived benefits, rather, provided an excellent match to the patterns of physical rotations, suggesting that the critical variable when deciding on\u2010the\u2010fly whether to incorporate an external resource is the participant's metacognitive beliefs regarding expected performance or the effort required for each approach (i.e., internal vs. internal + external). Implications for metacognition's future in theories of cognitive offloading are discussed.",
+      "cited_by_count": 103,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Science",
+        "type": "journal",
+        "issn": [
+          "0364-0213",
+          "1551-6709"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cogs.12273"
+      },
+      "topics": [
+        "Neural and Behavioral Psychology Studies",
+        "Child and Animal Learning Development",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 99,
+      "url": "https://openalex.org/W1926849645"
+    },
+    {
+      "openalex_id": "W2917603674",
+      "doi": "10.3389/fpsyg.2019.00301",
+      "title": "The Enactive Approach to Habits: New Concepts for the Cognitive Science of Bad Habits and Addiction",
+      "authors": [
+        {
+          "name": "Susana Ram\u00edrez\u2013Vizcaya",
+          "openalex_id": "A5062478677",
+          "orcid": "https://orcid.org/0000-0001-6829-025X",
+          "institutions": [
+            "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+          ]
+        },
+        {
+          "name": "Tom Froese",
+          "openalex_id": "A5041658140",
+          "orcid": "https://orcid.org/0000-0002-9899-5274",
+          "institutions": [
+            "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-02-26",
+      "abstract": "Habits are the topic of a venerable history of research that extends back to antiquity, yet they were originally disregarded by the cognitive sciences. They started to become the focus of interdisciplinary research in the 1990s, but since then there has been a stalemate between those who approach habits as a kind of bodily automatism or as a kind of mindful action. This implicit mind-body dualism is ready to be overcome with the rise of interest in embodied, embedded, extended, and enactive (4E) cognition. We review the enactive approach and highlight how it moves beyond the traditional stalemate by integrating both autonomy and sense-making into its theory of agency. It defines a habit as an adaptive, precarious, and self-sustaining network of neural, bodily, and interactive processes that generate dynamical sensorimotor patterns. Habits constitute a central source of normativity for the agent. We identify a potential shortcoming of this enactive account with respect to bad habits, since self-maintenance of a habit would always be intrinsically good. Nevertheless, this is only a problem if, following the mainstream perspective on habits, we treat habits as isolated modules. The enactive approach replaces this atomism with a view of habits as constituting an interdependent whole on whose overall viability the individual habits depend. Accordingly, we propose to define a bad habit as one whose expression, while positive for itself, significantly impairs a person's well-being by overruling the expression of other situationally relevant habits. We conclude by considering implications of this concept of bad habit for psychological and psychiatric research, particularly with respect to addiction research.",
+      "cited_by_count": 100,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00301/pdf"
+      },
+      "topics": [
+        "Mental Health Research Topics",
+        "Embodied and Extended Cognition",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 142,
+      "url": "https://openalex.org/W2917603674"
+    },
+    {
+      "openalex_id": "W2982009440",
+      "doi": "10.3389/fpsyg.2019.02372",
+      "title": "How Radical Is Embodied Creativity? Implications of 4E Approaches for Creativity Research and Teaching",
+      "authors": [
+        {
+          "name": "Laura Malinin",
+          "openalex_id": "A5088463336",
+          "orcid": "https://orcid.org/0000-0003-3004-9895",
+          "institutions": [
+            "Colorado State University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-22",
+      "abstract": "Modern ideas of embodiment have been influential in cognitive science for the past several decades, yet there is minimal evidence of embodied cognition approaches in creativity research or pedagogical practices for teaching creativity skills. With creativity research in crisis due to conceptual, methodological, and theoretical issues, radical embodied cognitive science (RECS) may offer a framework to move the field forward. This conceptual analysis examines the current state of creativity research from the 4E (embodied, embedded, enactive, and extended) cognition and RECS perspectives. Two streams are critiqued for their potential to further knowledge about the development of creative expertise and inform educational practices. Promising directions for future research is discussed, including ways dynamical systems approaches, such as those used in improvisational and musical creativity, might yield new insights about how people develop creative expertise and help address the \"higher order thinking\" criticisms of RECS.",
+      "cited_by_count": 90,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02372/pdf"
+      },
+      "topics": [
+        "Creativity in Education and Neuroscience",
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 123,
+      "url": "https://openalex.org/W2982009440"
+    },
+    {
+      "openalex_id": "W2905199499",
+      "doi": "10.3389/fpsyg.2018.02393",
+      "title": "From Wide Cognition to Mechanisms: A Silent Revolution",
+      "authors": [
+        {
+          "name": "Marcin Mi\u0142kowski",
+          "openalex_id": "A5025945088",
+          "orcid": "https://orcid.org/0000-0001-7646-5742",
+          "institutions": [
+            "Polish Academy of Sciences",
+            "Institute of Philosophy and Sociology"
+          ]
+        },
+        {
+          "name": "Robert W. Clowes",
+          "openalex_id": "A5050310382",
+          "orcid": "https://orcid.org/0000-0003-2006-3917",
+          "institutions": [
+            "Universidade Nova de Lisboa",
+            "University of Lisbon"
+          ]
+        },
+        {
+          "name": "Zuzanna Ruci\u0144ska",
+          "openalex_id": "A5062641241",
+          "orcid": "https://orcid.org/0000-0001-8060-8208",
+          "institutions": [
+            "Institute of Philosophy and Sociology",
+            "Polish Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Aleksandra Przegali\u0144ska",
+          "openalex_id": "A5014155376",
+          "orcid": "https://orcid.org/0000-0003-0864-8007",
+          "institutions": [
+            "Kozminski University"
+          ]
+        },
+        {
+          "name": "Tadeusz Zawidzki",
+          "openalex_id": "A5070945310",
+          "orcid": "https://orcid.org/0000-0001-7307-659X",
+          "institutions": [
+            "George Washington University"
+          ]
+        },
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596",
+          "institutions": [
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Adam Gies",
+          "openalex_id": "A5019186242",
+          "institutions": [
+            "Clemson University"
+          ]
+        },
+        {
+          "name": "Marek McGann",
+          "openalex_id": "A5068545185",
+          "orcid": "https://orcid.org/0000-0002-2452-6053",
+          "institutions": [
+            "University of Limerick"
+          ]
+        },
+        {
+          "name": "\u0141ukasz Afeltowicz",
+          "openalex_id": "A5046187110",
+          "orcid": "https://orcid.org/0000-0002-2316-6332",
+          "institutions": [
+            "Nicolaus Copernicus University"
+          ]
+        },
+        {
+          "name": "Witold Wachowski",
+          "openalex_id": "A5061795460",
+          "orcid": "https://orcid.org/0000-0001-9046-2855",
+          "institutions": [
+            "University of Warsaw"
+          ]
+        },
+        {
+          "name": "Fredrik Stjernberg",
+          "openalex_id": "A5003947116",
+          "institutions": [
+            "Link\u00f6ping University"
+          ]
+        },
+        {
+          "name": "Victor Loughlin",
+          "openalex_id": "A5045588365",
+          "orcid": "https://orcid.org/0000-0002-0885-214X",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        },
+        {
+          "name": "Mateusz Hohol",
+          "openalex_id": "A5022318910",
+          "orcid": "https://orcid.org/0000-0003-0422-5488",
+          "institutions": [
+            "Institute of Philosophy and Sociology",
+            "Polish Academy of Sciences",
+            "Jagiellonian University"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-12-06",
+      "abstract": "In this paper, we argue that several recent 'wide' perspectives on cognition (embodied, embedded, extended, enactive, and distributed) are only partially relevant to the study of cognition. While these wide accounts override traditional methodological individualism, the study of cognition has already progressed beyond these proposed perspectives toward building integrated explanations of the mechanisms involved, including not only internal submechanisms but also interactions with others, groups, cognitive artifacts, and their environment. Wide perspectives are essentially research heuristics for building mechanistic explanations. The claim is substantiated with reference to recent developments in the study of \"mindreading\" and debates on emotions. We argue that the current practice in cognitive (neuro)science has undergone, in effect, a silent mechanistic revolution, and has turned from initial binary oppositions and abstract proposals toward the integration of wide perspectives with the rest of the cognitive (neuro)sciences.",
+      "cited_by_count": 81,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02393/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Philosophy and History of Science"
+      ],
+      "referenced_works_count": 186,
+      "url": "https://openalex.org/W2905199499"
+    },
+    {
+      "openalex_id": "W3015415293",
+      "doi": "10.1017/s1744137420000144",
+      "title": "Economic cognitive institutions",
+      "authors": [
+        {
+          "name": "Enrico Petracca",
+          "openalex_id": "A5006405932",
+          "orcid": "https://orcid.org/0000-0001-7572-8117",
+          "institutions": [
+            "University of Bologna"
+          ]
+        },
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-04-06",
+      "abstract": "Abstract This paper introduces the notion of \u2018cognitive\u2019 institution and discusses its relevance to institutional economics. Cognitive institutions are conceptually founded on the philosophy of mind notion of extended mind, broadened to also include the distinctly social, institutional, and normative dimensions. Cognitive institutions are defined as institutions that not just allow agents to perform certain cognitive processes in the social domain but, more importantly, without which some of the agents' cognitive processes would not exist or even be possible. The externalist point of view of the extended mind has already had some influence in institutional economics: Arthur Denzau and Douglass North first introduced the notion of institution understood in terms of \u2018shared mental models\u2019, and relatedly philosopher Andy Clark introduced the notion of \u2018scaffolding institution\u2019. We discuss shared mental models and scaffolding institutions and go a step further by showing that the notion of cognitive institution can capture more fundamental and salient aspects of economic institutions. In particular, we focus on the market as an economic cognitive institution.",
+      "cited_by_count": 70,
+      "type": "article",
+      "source": {
+        "name": "Journal of Institutional Economics",
+        "type": "journal",
+        "issn": [
+          "1744-1374",
+          "1744-1382"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E93F4714D2126B547C3EDD62D8344544/S1744137420000144a.pdf/div-class-title-economic-cognitive-institutions-div.pdf"
+      },
+      "topics": [
+        "Economic Theory and Institutions",
+        "Economic theories and models",
+        "Complex Systems and Time Series Analysis"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W3015415293"
+    },
+    {
+      "openalex_id": "W2038677167",
+      "doi": "10.3389/fnhum.2014.00706",
+      "title": "Extensive enactivism: why keep it all in?",
+      "authors": [
+        {
+          "name": "Daniel D. Hutto",
+          "openalex_id": "A5084720966",
+          "orcid": "https://orcid.org/0000-0002-3585-4618",
+          "institutions": [
+            "University of Hertfordshire",
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718"
+        },
+        {
+          "name": "Erik Myin",
+          "openalex_id": "A5026660825",
+          "orcid": "https://orcid.org/0000-0002-2805-9966",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-09-25",
+      "abstract": "Radical enactive and embodied approaches to cognitive science oppose the received view in the sciences of the mind in denying that cognition fundamentally involves contentful mental representation. This paper argues that the fate of representationalism in cognitive science matters significantly to how best to understand the extent of cognition. It seeks to establish that any move away from representationalism toward pure, empirical functionalism fails to provide a substantive \"mark of the cognitive\" and is bereft of other adequate means for individuating cognitive activity. It also argues that giving proper attention to the way the folk use their psychological concepts requires questioning the legitimacy of commonsense functionalism. In place of extended functionalism-empirical or commonsensical-we promote the fortunes of extensive enactivism, clarifying in which ways it is distinct from notions of extended mind and distributed cognition.",
+      "cited_by_count": 93,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Human Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5161"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2014.00706/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 83,
+      "url": "https://openalex.org/W2038677167"
+    },
+    {
+      "openalex_id": "W2157020404",
+      "doi": "10.3389/fpsyg.2014.00867",
+      "title": "From computers to cultivation: reconceptualizing evolutionary psychology",
+      "authors": [
+        {
+          "name": "Louise Barrett",
+          "openalex_id": "A5053579952",
+          "orcid": "https://orcid.org/0000-0003-1841-2997",
+          "institutions": [
+            "University of Lethbridge"
+          ]
+        },
+        {
+          "name": "Thomas V. Pollet",
+          "openalex_id": "A5008049737",
+          "orcid": "https://orcid.org/0000-0002-4210-935X",
+          "institutions": [
+            "Vrije Universiteit Amsterdam"
+          ]
+        },
+        {
+          "name": "Gert Stulp",
+          "openalex_id": "A5086908160",
+          "orcid": "https://orcid.org/0000-0003-0173-5554",
+          "institutions": [
+            "London School of Hygiene & Tropical Medicine"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-08-12",
+      "abstract": "Does evolutionary theorizing have a role in psychology? This is a more contentious issue than one might imagine, given that, as evolved creatures, the answer must surely be yes. The contested nature of evolutionary psychology lies not in our status as evolved beings, but in the extent to which evolutionary ideas add value to studies of human behavior, and the rigor with which these ideas are tested. This, in turn, is linked to the framework in which particular evolutionary ideas are situated. While the framing of the current research topic places the brain-as-computer metaphor in opposition to evolutionary psychology, the most prominent school of thought in this field (born out of cognitive psychology, and often known as the Santa Barbara school) is entirely wedded to the computational theory of mind as an explanatory framework. Its unique aspect is to argue that the mind consists of a large number of functionally specialized (i.e., domain-specific) computational mechanisms, or modules (the massive modularity hypothesis). Far from offering an alternative to, or an improvement on, the current perspective, we argue that evolutionary psychology is a mainstream computational theory, and that its arguments for domain-specificity often rest on shaky premises. We then go on to suggest that the various forms of e-cognition (i.e., embodied, embedded, enactive) represent a true alternative to standard computational approaches, with an emphasis on \"cognitive integration\" or the \"extended mind hypothesis\" in particular. We feel this offers the most promise for human psychology because it incorporates the social and historical processes that are crucial to human \"mind-making\" within an evolutionarily informed framework. In addition to linking to other research areas in psychology, this approach is more likely to form productive links to other disciplines within the social sciences, not least by encouraging a healthy pluralism in approach.",
+      "cited_by_count": 49,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00867/pdf"
+      },
+      "topics": [
+        "Evolutionary Game Theory and Cooperation",
+        "Language and cultural evolution",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 134,
+      "url": "https://openalex.org/W2157020404"
+    },
+    {
+      "openalex_id": "W2470385410",
+      "doi": "10.3389/fnins.2016.00300",
+      "title": "Autism As a Disorder of High Intelligence",
+      "authors": [
+        {
+          "name": "Bernard J. Crespi",
+          "openalex_id": "A5089912926",
+          "orcid": "https://orcid.org/0000-0002-0362-392X",
+          "institutions": [
+            "Simon Fraser University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-30",
+      "abstract": "A suite of recent studies has reported positive genetic correlations between autism risk and measures of mental ability. These findings indicate that alleles for autism overlap broadly with alleles for high intelligence, which appears paradoxical given that autism is characterized, overall, by below-average IQ. This paradox can be resolved under the hypothesis that autism etiology commonly involves enhanced, but imbalanced, components of intelligence. This hypothesis is supported by convergent evidence showing that autism and high IQ share a diverse set of convergent correlates, including large brain size, fast brain growth, increased sensory and visual-spatial abilities, enhanced synaptic functions, increased attentional focus, high socioeconomic status, more deliberative decision-making, profession and occupational interests in engineering and physical sciences, and high levels of positive assortative mating. These findings help to provide an evolutionary basis to understanding autism risk as underlain in part by dysregulation of intelligence, a core human-specific adaptation. In turn, integration of studies on intelligence with studies of autism should provide novel insights into the neurological and genetic causes of high mental abilities, with important implications for cognitive enhancement, artificial intelligence, the relationship of autism with schizophrenia, and the treatment of both autism and intellectual disability.",
+      "cited_by_count": 150,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-453X",
+          "1662-4548"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnins.2016.00300/pdf"
+      },
+      "topics": [
+        "Autism Spectrum Disorder Research",
+        "Genetics and Neurodevelopmental Disorders",
+        "Congenital heart defects research"
+      ],
+      "referenced_works_count": 238,
+      "url": "https://openalex.org/W2470385410"
+    },
+    {
+      "openalex_id": "W4380445882",
+      "doi": "10.7551/mitpress/8535.003.0011",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "Michael Wheeler",
+          "openalex_id": "A5101818008",
+          "orcid": "https://orcid.org/0000-0003-3638-1215"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": "The Dynamic DuoAccording to the extended cognition hypothesis (henceforth ExC), there are conditions under which thinking and thoughts (or more precisely, the material vehicles that realize thinking and thoughts) are spatially distributed over brain, body and world, in such a way that the external (beyond-the-skin) factors concerned are rightly accorded fully-paid-up cognitive status. 1 According to functionalism in the philosophy of mind, \"what makes something a mental state of a particular type does not depend on its internal constitution, but rather on the way it functions, or the role it plays, in the system of which it is a part\" (Levin 2008).The respective fates of these two positions may not be independent of each other.The claim that ExC is in some way a form of, dependent on, entailed by, or at least commonly played out in terms of, functionalism is now pretty much part of the received view of things (see, e.g.,",
+      "cited_by_count": 86,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W4380445882"
+    },
+    {
+      "openalex_id": "W2107951500",
+      "doi": "10.1016/j.cogsys.2013.06.002",
+      "title": "The dialogically extended mind: Language as skilful intersubjective engagement",
+      "authors": [
+        {
+          "name": "Riccardo Fusaroli",
+          "openalex_id": "A5018733566",
+          "orcid": "https://orcid.org/0000-0003-4775-5219",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Nivedita Gangopadhyay",
+          "openalex_id": "A5026693206",
+          "orcid": "https://orcid.org/0000-0002-5051-0186",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        },
+        {
+          "name": "Kristian Tyl\u00e9n",
+          "openalex_id": "A5023034161",
+          "orcid": "https://orcid.org/0000-0001-7492-0078",
+          "institutions": [
+            "Aarhus University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-06-30",
+      "abstract": null,
+      "cited_by_count": 59,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S138904171300034X"
+      },
+      "topics": [
+        "Language, Metaphor, and Cognition",
+        "Action Observation and Synchronization",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 114,
+      "url": "https://openalex.org/W2107951500"
+    },
+    {
+      "openalex_id": "W2105007504",
+      "doi": "10.1007/s40614-015-0047-0",
+      "title": "Why Brains Are Not Computers, Why Behaviorism Is Not Satanism, and Why Dolphins Are Not Aquatic Apes",
+      "authors": [
+        {
+          "name": "Louise Barrett",
+          "openalex_id": "A5053579952",
+          "orcid": "https://orcid.org/0000-0003-1841-2997",
+          "institutions": [
+            "University of Lethbridge"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-11-11",
+      "abstract": null,
+      "cited_by_count": 67,
+      "type": "article",
+      "source": {
+        "name": "The Behavior Analyst",
+        "type": "journal",
+        "issn": [
+          "0738-6729",
+          "2196-8918"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s40614-015-0047-0.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 82,
+      "url": "https://openalex.org/W2105007504"
+    },
+    {
+      "openalex_id": "W2606154715",
+      "doi": "10.1177/1750698017703810",
+      "title": "The philosophy of memory technologies: Metaphysics, knowledge, and values",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "openalex_id": "A5067275194",
+          "orcid": "https://orcid.org/0000-0002-0102-0308",
+          "institutions": [
+            "Macquarie University"
+          ]
+        },
+        {
+          "name": "J. Adam Carter",
+          "openalex_id": "A5026726066",
+          "orcid": "https://orcid.org/0000-0002-1222-8331",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-09-13",
+      "abstract": "Memory technologies are cultural artifacts that scaffold, transform, and are interwoven with human biological memory systems. The goal of this article is to provide a systematic and integrative survey of their philosophical dimensions, including their metaphysical, epistemological, and ethical dimensions, drawing together debates across the humanities, cognitive sciences, and social sciences. Metaphysical dimensions of memory technologies include their function, the nature of their informational properties, ways of classifying them, and their ontological status. Epistemological dimensions include the truth-conduciveness of external memory, the conditions under which external memory counts as knowledge, and the metacognitive monitoring of external memory processes. Finally, ethical and normative dimensions include the desirability of the effects memory technologies have on biological memory, their effects on self and culture, and their moral status. While the focus in the article is largely philosophical and conceptual, empirical issues such as the way we interact with memory technologies in various contexts are also discussed. We thus take a naturalistic approach in which philosophical and empirical concepts and approaches are seen as continuous.",
+      "cited_by_count": 40,
+      "type": "article",
+      "source": {
+        "name": "Memory Studies",
+        "type": "journal",
+        "issn": [
+          "1750-6980",
+          "1750-6999"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": null
+      },
+      "topics": [
+        "Memory and Neural Mechanisms",
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W2606154715"
+    },
+    {
+      "openalex_id": "W2801117110",
+      "doi": "10.3389/fpsyg.2018.00558",
+      "title": "The Internet Is Not a Tool: Reappraising the Model for Internet-Addiction Disorder Based on the Constraints and Opportunities of the Digital Environment",
+      "authors": [
+        {
+          "name": "Alessandro Musetti",
+          "openalex_id": "A5066307202",
+          "orcid": "https://orcid.org/0000-0003-4125-0068",
+          "institutions": [
+            "University of Parma"
+          ]
+        },
+        {
+          "name": "Paola Corsano",
+          "openalex_id": "A5045182034",
+          "orcid": "https://orcid.org/0000-0001-5131-3929",
+          "institutions": [
+            "University of Parma"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-04-18",
+      "abstract": "OPINION article Front. Psychol., 18 April 2018 | https://doi.org/10.3389/fpsyg.2018.00558",
+      "cited_by_count": 55,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00558/pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Mental Health Research Topics",
+        "Digital Mental Health Interventions"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2801117110"
+    },
+    {
+      "openalex_id": "W2962564927",
+      "doi": "10.1145/3306618.3314238",
+      "title": "AI Extenders",
+      "authors": [
+        {
+          "name": "Jos\u00e9 Hern\u00e1ndez\u2010Orallo",
+          "openalex_id": "A5029864546",
+          "orcid": "https://orcid.org/0000-0001-9746-7632",
+          "institutions": [
+            "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+          ]
+        },
+        {
+          "name": "Karina Vold",
+          "openalex_id": "A5005878131",
+          "orcid": "https://orcid.org/0000-0002-0768-7517",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-27",
+      "abstract": "Humans and AI systems are usually portrayed as separate systems that we need to align in values and goals. However, there is a great deal of AI technology found in non-autonomous systems that are used as cognitive tools by humans. Under the extended mind thesis, the functional contributions of these tools become as essential to our cognition as our brains. But AI can take cognitive extension towards totally new capabilities, posing new philosophical, ethical and technical challenges. To analyse these challenges better, we define and place AI extenders in a continuum between fully-externalized systems, loosely coupled with humans, and fully internalized processes, with operations ultimately performed by the brain, making the tool redundant. We dissect the landscape of cognitive capabilities that can foreseeably be extended by AI and examine their ethical implications.We suggest that cognitive extenders using AI be treated as distinct from other cognitive enhancers by all relevant stakeholders, including developers, policy makers, and human users.",
+      "cited_by_count": 82,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3306618.3314238"
+      },
+      "topics": [
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Embodied and Extended Cognition",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2962564927"
+    },
+    {
+      "openalex_id": "W4386096078",
+      "doi": "10.1007/s11098-023-02024-3",
+      "title": "The dark side of niche construction",
+      "authors": [
+        {
+          "name": "Sabrina Coninx",
+          "openalex_id": "A5001774406",
+          "orcid": "https://orcid.org/0000-0003-1209-4609",
+          "institutions": [
+            "Vrije Universiteit Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-23",
+      "abstract": null,
+      "cited_by_count": 41,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Studies",
+        "type": "journal",
+        "issn": [
+          "0031-8116",
+          "1573-0883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11098-023-02024-3.pdf"
+      },
+      "topics": [
+        "Mental Health and Psychiatry",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Empathy and Medical Education"
+      ],
+      "referenced_works_count": 101,
+      "url": "https://openalex.org/W4386096078"
+    },
+    {
+      "openalex_id": "W3080142728",
+      "doi": "10.3389/fpsyg.2020.01966",
+      "title": "Attuning to the World: The Diachronic Constitution of the Extended Conscious Mind",
+      "authors": [
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367",
+          "institutions": [
+            "University of Amsterdam"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-21",
+      "abstract": "It is a near consensus among materialist philosophers of mind that consciousness must somehow be constituted by internal neural processes, even if we remain unsure quite how this works. Even friends of the extended mind theory have argued that when it comes to the material substrate of conscious experience, the boundary of skin and skull is likely to prove somehow to be privileged. Such arguments have, however, typically conceived of the constitution of consciousness in synchronic terms, making a firm separation between proximate mechanisms and their ultimate causes. We argue that the processes involved in the constitution of some conscious experiences are diachronic, not synchronic. We focus on what we call phenomenal attunement in this paper-the feeling of being at home in a familiar, culturally constructed environment. Such a feeling is missing in cases of culture shock. Phenomenal attunement is a structure of our conscious experience of the world that is ubiquitous and taken for granted. We will argue that it is constituted by cycles of embodied and world-involving engagement whose dynamics are constrained by cultural practices. Thus, it follows that an essential structure of the conscious mind, the absence of which profoundly transforms conscious experience, is extended.",
+      "cited_by_count": 38,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01966/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Mental Health and Psychiatry",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 65,
+      "url": "https://openalex.org/W3080142728"
+    },
+    {
+      "openalex_id": "W2578486360",
+      "doi": "10.1007/s13347-016-0250-2",
+      "title": "Extended Cognition and the Internet",
+      "authors": [
+        {
+          "name": "Paul R. Smart",
+          "openalex_id": "A5021620793",
+          "orcid": "https://orcid.org/0000-0001-9989-5307",
+          "institutions": [
+            "University of Southampton"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-14",
+      "abstract": "The Internet is an important focus of attention for those concerned with issues of extended cognition. In particular, the application of active externalist theorizing to the Internet gives rise to the notion of Internet-extended cognition: the idea that the Internet can (on occasion) form part of an integrated nexus of material elements that serves as the realization base for human mental states and processes. The current review attempts to survey a range of issues and controversies that arise in respect of the notion of Internet-extended cognition. These include the issue of whether the Internet, as a technological system, is able to support real-world cases of cognitive extension. It also includes issues concerning the cognitive and epistemic impacts of the Internet. Finally, the review highlights a range of issues and concerns that have not been the focus of previous philosophical attention. These include issues of 'network-extended cognitive bloat', 'conjoined minds', and an entirely new form of cognitive extension that goes under the heading of 'human-extended machine cognition'. Together, these issues serve to highlight the value and importance of Internet-extended cognition to contemporary philosophical debates about the extended mind. In particular, the notion of Internet-extended cognition has the potential to highlight points of philosophical progress that are not easily revealed by the kind of technologically low-grade cases that tend to animate the majority of philosophical discussions in this area.",
+      "cited_by_count": 44,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs13347-016-0250-2.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "Space Science and Extraterrestrial Life"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W2578486360"
+    },
+    {
+      "openalex_id": "W2774962377",
+      "doi": "10.1007/s11245-018-9547-3",
+      "title": "Schizophrenia and the Scaffolded Self",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596",
+          "institutions": [
+            "University of Exeter"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-03-08",
+      "abstract": null,
+      "cited_by_count": 78,
+      "type": "article",
+      "source": {
+        "name": "Topoi",
+        "type": "journal",
+        "issn": [
+          "0167-7411",
+          "1572-8749"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11245-018-9547-3.pdf"
+      },
+      "topics": [
+        "Mental Health and Psychiatry",
+        "Neurology and Historical Studies",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 121,
+      "url": "https://openalex.org/W2774962377"
+    },
+    {
+      "openalex_id": "W2753079950",
+      "doi": "10.1007/s11229-017-1534-5",
+      "title": "Predictive brains and embodied, enactive cognition: an introduction to the special issue",
+      "authors": [
+        {
+          "name": "Michael D. Kirchhoff",
+          "openalex_id": "A5076845357",
+          "orcid": "https://orcid.org/0000-0002-2530-0718",
+          "institutions": [
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-08-29",
+      "abstract": null,
+      "cited_by_count": 36,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11229-017-1534-5.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 62,
+      "url": "https://openalex.org/W2753079950"
+    },
+    {
+      "openalex_id": "W2947384549",
+      "doi": "10.1016/j.newideapsych.2019.03.001",
+      "title": "Extended musicking, extended mind, extended agency. Notes on the third wave",
+      "authors": [
+        {
+          "name": "Kevin Ryan",
+          "openalex_id": "A5004835955",
+          "orcid": "https://orcid.org/0000-0002-1391-9433",
+          "institutions": [
+            "University of Memphis"
+          ]
+        },
+        {
+          "name": "Andrea Schiavio",
+          "openalex_id": "A5039266599",
+          "orcid": "https://orcid.org/0000-0001-8109-9185",
+          "institutions": [
+            "University of Graz"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-24",
+      "abstract": null,
+      "cited_by_count": 32,
+      "type": "article",
+      "source": {
+        "name": "New Ideas in Psychology",
+        "type": "journal",
+        "issn": [
+          "0732-118X",
+          "1873-3522"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0732118X18302757"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 108,
+      "url": "https://openalex.org/W2947384549"
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

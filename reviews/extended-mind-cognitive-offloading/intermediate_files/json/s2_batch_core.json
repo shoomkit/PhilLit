@@ -1,0 +1,204 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "8 paper IDs",
+  "results": [
+    {
+      "paperId": "d729002d45c826ea6d61d3f4b23c58b2791336fa",
+      "title": "The bounds of cognition",
+      "authors": [
+        {
+          "name": "F. Adams",
+          "authorId": "145928144"
+        },
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2001,
+      "abstract": null,
+      "citationCount": 866,
+      "doi": "10.1080/09515080120033571",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d729002d45c826ea6d61d3f4b23c58b2791336fa",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "43 - 64",
+        "volume": "14"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1080/09515080120033571"
+    },
+    {
+      "paperId": "914fb1149675b38c662a633cc231cd5a8916778e",
+      "title": "Challenges to the Hypothesis of Extended Cognition",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2004,
+      "abstract": null,
+      "citationCount": 576,
+      "doi": "10.5840/JPHIL2004101826",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/914fb1149675b38c662a633cc231cd5a8916778e",
+      "venue": "",
+      "journal": {
+        "name": "The Journal of Philosophy",
+        "pages": "389-428",
+        "volume": "101"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.5840/jphil2004101826"
+    },
+    {
+      "paperId": "ee3574312a1a2866e02dc96114e49bb471128a1e",
+      "title": "In search of clarity about parity",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 34,
+      "doi": "10.1007/S11098-010-9601-5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ee3574312a1a2866e02dc96114e49bb471128a1e",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Studies",
+        "pages": "417-425",
+        "volume": "152"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1007/s11098-010-9601-5"
+    },
+    {
+      "paperId": "c0ae130cf632ca2e144dbbf0ce01982e7dd056d9",
+      "title": "Extended Cognition and Functionalism",
+      "authors": [
+        {
+          "name": "Mark D. Sprevak",
+          "authorId": "3075367"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 156,
+      "doi": "10.5840/JPHIL2009106937",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c0ae130cf632ca2e144dbbf0ce01982e7dd056d9",
+      "venue": "",
+      "journal": {
+        "name": "The Journal of Philosophy",
+        "pages": "503-527",
+        "volume": "106"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.5840/jphil2009106937"
+    },
+    {
+      "paperId": "9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 131,
+      "doi": "10.7551/mitpress/9780262014038.003.0011",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "245-270",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.7551/mitpress/9780262014038.003.0011"
+    },
+    {
+      "paperId": "db5dfaab311aa20ecb9ea307818bfbe72220f7c9",
+      "title": "Does functionalism entail extended mind?",
+      "authors": [
+        {
+          "name": "Kengo Miyazono",
+          "authorId": "5932713"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11229-015-0971-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/db5dfaab311aa20ecb9ea307818bfbe72220f7c9",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "3523 - 3541",
+        "volume": "194"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1007/s11229-015-0971-2"
+    },
+    {
+      "paperId": "36b62298bf31021018567b4d4115bc6996301f16",
+      "title": "What I cannot do without you. Towards a truly embedded and embodied account of the socially extended mind",
+      "authors": [
+        {
+          "name": "Laura Candiotto",
+          "authorId": "100729065"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Through a discussion of the socially extended mind, this paper advances the \u201cnot possible without principle\u201d as an alternative to the social parity principle. By charging the social parity principle with reductionism about the social dimension of socially extended processes, the paper offers a new argumentative strategy for the socially extended mind that stresses its existential significance. The \u201cnot possible without principle\u201d shows that not only is something more achieved through socially located processes of knowledge building, but also that, and more importantly, what is achieved is something that would not have been possible without social interaction . The social parity principle states that the result of an activity achieved via social interaction should be assumed functionally equivalent to a solitary investigation and is characterized by multiple realisability. Contrary to the social parity principle, the \u201cnot possible without principle\u201d holds that the result would not have been achieved without the social interaction between (at least) two agents with specific existential needs. The socially extended mind never happens in a void. This means that the \"not possible without\" principle should be located in real-life, affectively charged, embodied experiences of skilful interactions between agents. This fundamental conceptual change via reference to the \u201cexistential necessity\u201d that regulates socially extended processes is necessary in order to effectively lead the socially extended mind to a truly embedded and embodied account.",
+      "citationCount": 12,
+      "doi": "10.1007/s11097-022-09862-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/36b62298bf31021018567b4d4115bc6996301f16",
+      "venue": "Phenomenology and the Cognitive Sciences",
+      "journal": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "pages": "907-929",
+        "volume": "22"
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1007/s11097-022-09862-2"
+    },
+    {
+      "paperId": "9d7117fc1758b7afab8685a3dd58dbbff227e253",
+      "title": "Cognitive Systems and the Extended Mind",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 151,
+      "doi": "10.1093/acprof:oso/9780195379457.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9d7117fc1758b7afab8685a3dd58dbbff227e253",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null,
+      "_queryId": "DOI:10.1093/acprof:oso/9780195379457.001.0001"
+    }
+  ],
+  "count": 8,
+  "errors": []
+}

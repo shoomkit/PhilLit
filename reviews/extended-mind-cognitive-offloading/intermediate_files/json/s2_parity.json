@@ -1,0 +1,944 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "parity principle extended mind",
+  "results": [
+    {
+      "paperId": "d7cb63fd1b003bb0f6cedcea221b3cf810172b9b",
+      "title": "The Extended Mind, the Parity Principle and Functionalism",
+      "authors": [
+        {
+          "name": "B. Yoon",
+          "authorId": "113888590"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d7cb63fd1b003bb0f6cedcea221b3cf810172b9b",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "143-168",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "36b62298bf31021018567b4d4115bc6996301f16",
+      "title": "What I cannot do without you. Towards a truly embedded and embodied account of the socially extended mind",
+      "authors": [
+        {
+          "name": "Laura Candiotto",
+          "authorId": "100729065"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Through a discussion of the socially extended mind, this paper advances the \u201cnot possible without principle\u201d as an alternative to the social parity principle. By charging the social parity principle with reductionism about the social dimension of socially extended processes, the paper offers a new argumentative strategy for the socially extended mind that stresses its existential significance. The \u201cnot possible without principle\u201d shows that not only is something more achieved through socially located processes of knowledge building, but also that, and more importantly, what is achieved is something that would not have been possible without social interaction . The social parity principle states that the result of an activity achieved via social interaction should be assumed functionally equivalent to a solitary investigation and is characterized by multiple realisability. Contrary to the social parity principle, the \u201cnot possible without principle\u201d holds that the result would not have been achieved without the social interaction between (at least) two agents with specific existential needs. The socially extended mind never happens in a void. This means that the \"not possible without\" principle should be located in real-life, affectively charged, embodied experiences of skilful interactions between agents. This fundamental conceptual change via reference to the \u201cexistential necessity\u201d that regulates socially extended processes is necessary in order to effectively lead the socially extended mind to a truly embedded and embodied account.",
+      "citationCount": 12,
+      "doi": "10.1007/s11097-022-09862-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/36b62298bf31021018567b4d4115bc6996301f16",
+      "venue": "Phenomenology and the Cognitive Sciences",
+      "journal": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "pages": "907-929",
+        "volume": "22"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c8395640d05c407452ca5f5e4b44047eca8165f2",
+      "title": "The Extended Mind and the Principle of Parity",
+      "authors": [
+        {
+          "name": "Sang-Hyong Shin",
+          "authorId": "134758965"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c8395640d05c407452ca5f5e4b44047eca8165f2",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "83-108",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "8a75199cdff1579cfb38c28c5c2887ef761c5071",
+      "title": "\u201cI Is Someone Else\u201d: Constituting the Extended Mind\u2019s Fourth Wave, with Hegel",
+      "authors": [
+        {
+          "name": "J. .. Fritzman",
+          "authorId": "65779506"
+        },
+        {
+          "name": "Kristin Thornburg",
+          "authorId": "103355627"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.7710/1526-0569.1560",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8a75199cdff1579cfb38c28c5c2887ef761c5071",
+      "venue": "",
+      "journal": {
+        "name": "Essays in Philosophy",
+        "pages": "156-190",
+        "volume": "17"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "93fee0b06fff06adfddf3addd7b4bc114096ccf9",
+      "title": "Neuroethics and the Ethical Parity Principle",
+      "authors": [
+        {
+          "name": "J. Demarco",
+          "authorId": "4748483"
+        },
+        {
+          "name": "P. Ford",
+          "authorId": "2646374"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 11,
+      "doi": "10.1007/S12152-014-9211-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/93fee0b06fff06adfddf3addd7b4bc114096ccf9",
+      "venue": "",
+      "journal": {
+        "name": "Neuroethics",
+        "pages": "317-325",
+        "volume": "7"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "20f3d2f72bd68b5e6630874746dc609fb48a2332",
+      "title": "Neuroethics and the Ethical Parity Principle",
+      "authors": [
+        {
+          "name": "J. Demarco",
+          "authorId": "4748483"
+        },
+        {
+          "name": "P. Ford",
+          "authorId": "2646374"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s12152-014-9211-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/20f3d2f72bd68b5e6630874746dc609fb48a2332",
+      "venue": "Neuroethics",
+      "journal": {
+        "name": "Neuroethics",
+        "pages": "317 - 325",
+        "volume": "7"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "title": "Richard Menary (ed): The Extended Mind",
+      "authors": [
+        {
+          "name": "D. Cole",
+          "authorId": "2055148531"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1007/s11023-011-9252-0",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "47-51",
+        "volume": "22"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "4e05362f290772a9f5c9dac12ac861e164857a97",
+      "title": "\u00abRes cogitans extensa\u00bb: A Philosophical Defense of the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "authorId": "1828654"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 32,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4e05362f290772a9f5c9dac12ac861e164857a97",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "023559d3aaec3f124d98cf1b0d284ef2d2e012cc",
+      "title": "Further thoughts: on the extended mind hypothesis",
+      "authors": [
+        {
+          "name": "C. Norris",
+          "authorId": "145366754"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/023559d3aaec3f124d98cf1b0d284ef2d2e012cc",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "f8db07a7c19c3bb4bb7eec7e3549f24f7347a7e3",
+      "title": "Hegel and the extended mind",
+      "authors": [
+        {
+          "name": "A. Crisafi",
+          "authorId": "49459010"
+        },
+        {
+          "name": "S. Gallagher",
+          "authorId": "144365578"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 30,
+      "doi": "10.1007/s00146-009-0239-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f8db07a7c19c3bb4bb7eec7e3549f24f7347a7e3",
+      "venue": "Ai & Society",
+      "journal": {
+        "name": "AI & SOCIETY",
+        "pages": "123-129",
+        "volume": "25"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d76dc834b91688ae850fa522141c008100c5875c",
+      "title": "The socially extended mind",
+      "authors": [
+        {
+          "name": "Lillian",
+          "authorId": "86986361"
+        },
+        {
+          "name": "M. Moss",
+          "authorId": "48384039"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d76dc834b91688ae850fa522141c008100c5875c",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7961712b404dad62f8e93847f5e73d98c9088810",
+      "title": "The Extended Mind and It's Revisions",
+      "authors": [
+        {
+          "name": "Li De-ming",
+          "authorId": "73832977"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7961712b404dad62f8e93847f5e73d98c9088810",
+      "venue": "",
+      "journal": {
+        "name": "Studies in Philosophy of Science and Technology",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "f74cb888dca8ba2035a761087b8d6e1edd18e84d",
+      "title": "Extended Predictive Minds: do Markov Blankets Matter?",
+      "authors": [
+        {
+          "name": "Marco Facchin",
+          "authorId": "88262671"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1007/s13164-021-00607-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f74cb888dca8ba2035a761087b8d6e1edd18e84d",
+      "venue": "Review of Philosophy and Psychology",
+      "journal": {
+        "name": "Review of Philosophy and Psychology",
+        "pages": "909-938",
+        "volume": "14"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ee3574312a1a2866e02dc96114e49bb471128a1e",
+      "title": "In search of clarity about parity",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 34,
+      "doi": "10.1007/S11098-010-9601-5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ee3574312a1a2866e02dc96114e49bb471128a1e",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Studies",
+        "pages": "417-425",
+        "volume": "152"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "057af0e8dce4c5f9a35aaa0100b0693004050696",
+      "title": "Embodied AI beyond Embodied Cognition and Enactivism",
+      "authors": [
+        {
+          "name": "R. Manzotti",
+          "authorId": "1961635"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Over the last three decades, the rise of embodied cognition (EC) articulated in various schools (or versions) of embodied, embedded, extended and enacted cognition (Gallagher\u2019s 4E) has offered AI a way out of traditional computationalism\u2014an approach (or an understanding) loosely referred to as embodied AI. This view has split into various branches ranging from a weak form on the brink of functionalism (loosely represented by Clarks\u2019 parity principle) to a strong form (often corresponding to autopoietic-friendly enactivism) suggesting that body\u2013world interactions constitute cognition. From an ontological perspective, however, constitution is a problematic notion with no obvious empirical or technical advantages. This paper discusses the ontological issues of these two approaches in regard to embodied AI and its ontological commitments: circularity, epiphenomenalism, mentalism, and disguised dualism. The paper also outlines an even more radical approach that may offer some ontological advantages. The new approach, called the mind-object identity, is then briefly compared with sensorimotor direct realism and with the embodied identity theory.",
+      "citationCount": 15,
+      "doi": "10.3390/PHILOSOPHIES4030039",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/057af0e8dce4c5f9a35aaa0100b0693004050696",
+      "venue": "Philosophies",
+      "journal": {
+        "name": "Philosophies"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "0e7244347d7e146d461b058c64749bd49888a9ba",
+      "title": "7. Digital Minds",
+      "authors": [
+        {
+          "name": "B. Montero",
+          "authorId": "145234466"
+        }
+      ],
+      "year": 2022,
+      "abstract": "\u2018Digital minds\u2019 asks: what might the human\u2012digital interface and the prospects of artificial intelligence reveal about the mind\u2012body problem? The extended mind hypothesis states that our memories can be stored on external devices, such as our phones. The parity principle states that a process in the external world counts as part of our minds if it is the case that if this process were to occur inside the head, the process would be part of our minds. Can computers think? The Turing test is thought by some to test for computer thought or intelligence. The Mayan language room argument is a variation of John Searle\u2019s much-discussed argument that aims to show that computers cannot understand language, or in other words that \u2018syntax is not sufficient for semantics\u2019. There are many other questions that reside in the intersection of ethics and artificial intelligence.",
+      "citationCount": 0,
+      "doi": "10.1093/actrade/9780198809074.003.0007",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0e7244347d7e146d461b058c64749bd49888a9ba",
+      "venue": "Philosophy of Mind: A Very Short Introduction",
+      "journal": {
+        "name": "Philosophy of Mind: A Very Short Introduction"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6039238b4e49e5e0b659c5f6d7e5072f2a926e16",
+      "title": "Building Inner Tools",
+      "authors": [
+        {
+          "name": "Robert L. Goldstone",
+          "authorId": "2379247"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Andy Clark has convincingly argued that the tools that we as humans recruit become integrated parts of an extended cognitive system that includes us as just one component. In this chapter, a Reversed Parity Principle is outlined, which can be used to show how humans can \u201chack\u201d their own minds in order to build inner mental tools, thus changing our existing cognitive abilities in yet another way. The Reversed Parity Principle (RRP) invites a perspectival shift that is potentially as illuminating as the extended mind shift. Whereas extended mind arguments invite us to think of ourselves as broader, wider, and larger than we might otherwise, the RPP invites us to consider the strangeness and otherness that lies within what would normally be considered to be \u201cus.\u201d",
+      "citationCount": 2,
+      "doi": "10.1093/OSO/9780190662813.003.0010",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6039238b4e49e5e0b659c5f6d7e5072f2a926e16",
+      "venue": "Andy Clark and His Critics",
+      "journal": {
+        "name": "Andy Clark and His Critics"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "0ef40dfe2e9b5bd5e61e3472a1ce280b88cd5aea",
+      "title": "Cognition as Organism-Environment Interaction",
+      "authors": [
+        {
+          "name": "Simone Pinna",
+          "authorId": "2105834"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/978-3-319-51841-1_2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0ef40dfe2e9b5bd5e61e3472a1ce280b88cd5aea",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "19-37",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ed6b53df4046756effbc6fe2b8362a2947e34388",
+      "title": "Cognitive Enhancement and Personal Identity",
+      "authors": [
+        {
+          "name": "R. Mordacci",
+          "authorId": "15362198"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ed6b53df4046756effbc6fe2b8362a2947e34388",
+      "venue": "",
+      "journal": {
+        "name": "Humana.Mente",
+        "pages": "141-152",
+        "volume": "7"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1ab6565ff14dc4b0e15c52acdd49e9130de0219b",
+      "title": "From Content-Externalism to Vehicle-Externalism1",
+      "authors": [
+        {
+          "name": "C. L\u2019hote",
+          "authorId": "1489507749"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1017/S0012217312000443",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1ab6565ff14dc4b0e15c52acdd49e9130de0219b",
+      "venue": "Dialogue",
+      "journal": {
+        "name": "Dialogue",
+        "pages": "275 - 287",
+        "volume": "51"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "3d025be06f5718e9af782a6d6ab1a349d2705ab7",
+      "title": "Rethinking Human-AI interactions through the maintainability: a new criterion for Trust and Glue in the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "Deivide Garcia da Silva Oliveira",
+          "authorId": "2340582872"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Abstract: This paper explores the implications of the Extended Mind Hypothesis (ExM), as introduced by Andy Clark and David Chalmers in 1998. Focusing on cognitive integration and the Trust and Glue criteria, we have two objectives. First, we examine how ExM reshapes perspectives on human-AI interaction, particularly by challenging the Standard model of AI. We argue that AI, as an active non-organic agent, significantly influences cognitive processes beyond initial expectations. Secondly, we propose the maintainability as a fourth criterion in the Trust and Glue criteria of ExM, in addition to trustworthiness, reliability and accessibility. This addition aims to evaluate parity in coupled systems comprehensively addressing concerns about control in human-AI interactions. We highlight the risks posed by AI\u2019s understanding of human psychology, which may lead to unintended shifts in our objectives and choices. Our analysis concludes that maintainability serves as a critical safeguard against the evolving challenges of human-AI integration.",
+      "citationCount": 1,
+      "doi": "10.1590/0101-3173.2025.v48.n6.e025061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3d025be06f5718e9af782a6d6ab1a349d2705ab7",
+      "venue": "Trans/Form/A\u00e7\u00e3o",
+      "journal": {
+        "name": "Trans/Form/A\u00e7\u00e3o"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "ec0dbcb0d828154c80950e2ad0b850aa6c8d07dd",
+      "title": "The Imparity of the Parity Principle",
+      "authors": [
+        {
+          "name": "Zixia Zhang",
+          "authorId": "2116459654"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11406-021-00334-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ec0dbcb0d828154c80950e2ad0b850aa6c8d07dd",
+      "venue": "Philosophia",
+      "journal": {
+        "name": "Philosophia",
+        "pages": "2265 - 2273",
+        "volume": "49"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1ce5d65fb9ec37c0d5f0038c1069f9504fc6700f",
+      "title": "Extended Mind Over Matter: Privacy Protection Is the Sine Qua Non",
+      "authors": [
+        {
+          "name": "Cohen Marcus Lionel Brown",
+          "authorId": "2215283840"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Palermos\u2019s (2023) concept of \u201cmental data\u201d is appreciated as advancing fresh considerations in urgent discourse on mental privacy. However, it is suggested that the proposal for an ontologically distinct category of mental data as currently drafted is nongenerative of novel privacy measures. I agree that mind-related data pose nascent risks\u2014but not because they constitute part of the mind. This commentary argues that recognizing mental constituents apropos the Extended Mind Thesis (Clark and Chalmers 1998) is arbitrary for the interests of privacy, which are independent of the ontological status of mind-sensitive content. It is enough that data represent minds to elicit concern, to the conclusion that the Extended Mind Thesis is normatively inert with respect to motivating legal revision. Nevertheless, I support the appeal for technological protections, and suggest that a reformulated version of mental data might hold promise for mental privacy approaches. The Extended Mind Thesis (EMT) posits that human mental states and processes are not confined to a person\u2019s physical boundaries, but can reach into the environment to be realized in external artifacts. Palermos (2023) argues that if the EMT is correct, informational content derived from cognitively integrated applications counts as part of the mind and can be regarded as \u201cmental data,\u201d and that this generates novel privacy considerations. I suggest this paradigm is unserviceable for the purpose of legal and ethical revision as Palermos claims, for the reason that there are morally relevant differences between data types that the concept of mental data fails to distinguish. These materialize in the two following ways. First, mental data neglect normative features of attendant data types. As long as agent and artifact comprise a mutually coupled system, mental data describe both synchronous and non-occurrent information regardless of medium. By the received view, the latter condition holds that mental contents extend to \u201cuncoupled peripherals,\u201d which would mean that non-occurrent mental data have long been stored in analogue formats (e.g., the proverbial \u201cpaper trail\u201d), and more recently in digital systems. But unlike outmoded predecessors, contemporary data types that have emerged with the advent of digital technology present new, morally relevant aspects. To wit: Digital platforms enable the mass storage, transfer, collection, and dissemination of content on a scale unprecedented. This brings with it obvious privacy concerns that do not apply, or only partially apply, to traditional media. Simply put, material data sources are saddled with access and transmissibility limits in comparison to digital formats, and the only practical means of overriding these constraints is digitization. What this indicates is that normatively germane distinctions exist between certain kinds of mental data. However, such variations are independent of whether or not one accepts the EMT. That is because the EMT integrates both digital and analogue content coextensively\u2014meaning that the term \u201cmental data\u201d is applied to both pen-and-paper and keypad-and-processor indiscriminately. In other words, further categorization is needed to point to the morally salient features of mental data types because the EMT doesn\u2019t get us any further toward identifying what is of normative significance. What actually prompts fresh ethical concerns is not the acknowledgment that minds extend into the environment, but that personal data about minds now extend into the digital multiverse. The principle issue is therefore one of mental privacy with respect to digital data. With that stated, mental data raise a further concern that warrants attention. A second consideration is that endorsement of the EMT would omit types of informational content about minds that seem apt for the title of mental data. Under the EMT, a condition for mind-constituting artifacts is that they are coupled with an agent in a bidirectional process of causal effect. Minds do not",
+      "citationCount": 2,
+      "doi": "10.1080/21507740.2023.2188283",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1ce5d65fb9ec37c0d5f0038c1069f9504fc6700f",
+      "venue": "AJOB Neuroscience",
+      "journal": {
+        "name": "AJOB Neuroscience",
+        "pages": "97 - 99",
+        "volume": "14"
+      },
+      "publicationTypes": [
+        "LettersAndComments",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "a183c1ffff0a5daf5700f2f2ccc776097dcd7aef",
+      "title": "Access Internalism and the Extended Mind",
+      "authors": [
+        {
+          "name": "Declan Smithies",
+          "authorId": "34198462"
+        }
+      ],
+      "year": 2018,
+      "abstract": "The main goal of this chapter is to argue that accessibilism in epistemology is incompatible with vehicle externalism in the philosophy of mind (also known as \u201cthe extended mind thesis\u201d). As we shall see, however, there are strong arguments for both of these positions. On the one hand, there is a compelling argument for vehicle externalism: the parity argument from Clark and Chalmers (1998). On the other hand, there is a compelling argument for accessibilism: the Moorean argument from Smithies (2012). If accessibilism is incompatible with vehicle externalism, then both arguments cannot be sound. I resolve the tension by arguing that the Moorean argument succeeds, while the parity argument fails, and hence that vehicle externalism should be rejected on broadly epistemological grounds.",
+      "citationCount": 2,
+      "doi": "10.1093/OSO/9780198769811.003.0002",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a183c1ffff0a5daf5700f2f2ccc776097dcd7aef",
+      "venue": "Oxford Scholarship Online",
+      "journal": {
+        "name": "Oxford Scholarship Online"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d26509bb8671bb084587db0e25ab20ae2953bc45",
+      "title": "Location, location, location: On the metaphysical commitments of the extended mind thesis",
+      "authors": [
+        {
+          "name": "Karina Vold",
+          "authorId": "51038024"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d26509bb8671bb084587db0e25ab20ae2953bc45",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "0a007a6e4e0056a31f7c236b074d3633ea66584e",
+      "title": "Karina Vold The Parity Argument for Extended Consciousness",
+      "authors": [
+        {
+          "name": "Karina Vold",
+          "authorId": "51038024"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0a007a6e4e0056a31f7c236b074d3633ea66584e",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c65e14732f2cfe8159d0a2167f75033967994241",
+      "title": "The modernist mind extended: Samuel Beckett, his fiction and the extended mind theory",
+      "authors": [
+        {
+          "name": "O. Beloborodova",
+          "authorId": "16905993"
+        }
+      ],
+      "year": 2015,
+      "abstract": "This paper presents an on-going PhD project that is part of the effort to reassess the alleged \u201cinward turn\u201d (Kahler, 1973) in modernist literature and place modernist fictional minds within their fictional environments. Borrowed from the domain of cognitive science, the principle of \u201cactive externalism\u201d in general and the Extended Mind Theory in particular form the theoretical framework of the project. The practical component draws on the work of the Late Modernist Samuel Beckett and examines (1) the interactive cognitive relationship between the author and the material output of his work at various stages of the writing process (by means of genetic manuscript analysis), and (2) the way Beckett\u2019s fictional characters interact with their environment. The purpose of the article is thus twofold: on the one hand, it demonstrates in a nutshell that cognitive processes involved in the production of narratives can be extended to include extracranial objects. In a separate line of enquiry, Beckett\u2019s fictional minds are shown to be firmly embedded in their narrative contexts (contrary to the popular belief in the hegemony of introspection in modernist narratives), as several examples from Beckett\u2019s (published) texts will demonstrate how fictional minds, too, extend beyond skin and skull.",
+      "citationCount": 0,
+      "doi": "10.11606/issn.2596-2477.i28p74-87",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c65e14732f2cfe8159d0a2167f75033967994241",
+      "venue": "Manuscr\u00edtica",
+      "journal": {
+        "name": "Manuscr\u00edtica: Revista de Cr\u00edtica Gen\u00e9tica"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "9cd86cb5e6d8e065eead607c51ad0874e9d450dd",
+      "title": "Extending the extended self: a mediational-constitutional proposal",
+      "authors": [
+        {
+          "name": "Emanuele Prezioso",
+          "authorId": "2175419127"
+        },
+        {
+          "name": "Francesco Parisi",
+          "authorId": "2197628128"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This paper explores the mediational and constitutional role of technical images (both analogue and digital) for the definition and continuity of the sense of self, proposing a new framework within the extended mind theory grounded in recent approaches to memory. Traditional cognitive science often views the mind as confined within the brain, but we argue that cognition is not merely extended but fundamentally constituted through ongoing material engagements with technical images within specific sociocultural contexts. Our interdisciplinary approach integrates cognitive archaeology, media theory, and cognitive sciences, emphasising the dynamic, embodied, and situated nature of cognition. This perspective shifts the understanding of the mind from a static, internal entity to a dynamic, distributed process continually mediated through organismic transactions in the environment. Building on this tradition of studies in the extended mind, we introduce the Mediational-Constitutional Principle, arguing that technical images not only trigger cognitive processes but actively constitute them. In the paper, we illustrate how technical images mediate and constitute the sense of self because they are central in how memory is continually re-enacted in specific sociomaterial environments made of people, things, and practices. These images function as automatic ecological records, blending past and present, influencing personal narratives and memory.",
+      "citationCount": 0,
+      "doi": "10.1007/s11229-025-04965-0",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9cd86cb5e6d8e065eead607c51ad0874e9d450dd",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "205"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "73a02aa3853dc8b731021c333381740de8d1c7be",
+      "title": "Why the extended mind",
+      "authors": [
+        {
+          "name": "Bogdan Boghitoi",
+          "authorId": "70156282"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/73a02aa3853dc8b731021c333381740de8d1c7be",
+      "venue": "",
+      "journal": {
+        "name": "Annals of the University of Bucharest - Philosophy Series",
+        "volume": "61"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "99a1f2424229da9647287696450589e3dfeeddc1",
+      "title": "Freedom of Thought for the Extended Mind: Cognitive Enhancement and the Constitution",
+      "authors": [
+        {
+          "name": "M. Blitz",
+          "authorId": "67167594"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 38,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/99a1f2424229da9647287696450589e3dfeeddc1",
+      "venue": "",
+      "journal": {
+        "name": "Wisconsin Law Review",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "a440685380ef95ffdefd6f83393966c522e326c6",
+      "title": "Confucianism Revisited \u2014 The Role of Wang Yangming\u2019s Philosophy of Mind in the Age of Artificial Intelligence",
+      "authors": [
+        {
+          "name": "Zhongmou Li",
+          "authorId": "2362682638"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Against the backdrop of the rapid evolution of artificial intelligence\u2014which is profoundly\nreshaping social structures and value orders\u2014ethical and subjectivity crises are becoming\nincreasingly acute, demanding a timely cultural response. As a pivotal strand of China\u2019s intellectual\ntreasury, Wang Yangming\u2019s Philosophy of Mind\u2014anchored in the propositions \u201cthe mind is\nprinciple,\u201d \u201cthere is nothing outside the mind and no principle outside the mind,\u201d and the imperative\nto \u201cextend innate knowledge (liangzhi)\u201d\u2014offers deep resources for addressing the technological\nand axiological dilemmas raised by AI. This paper systematically traces the theoretical lineage of Yangming studies and, engaging current\ndebates on \u201cquasi-subjective AI,\u201d \u201calgorithmic ethics,\u201d and \u201chuman\u2013machine affective relations,\u201d analyzes how Wang\u2019s thought can meet the ethical challenges posed by contemporary artificial\nintelligence. It advances innovative pathways such as the \u201cPrudent-Self Algorithm,\u201d a\n\u201cConscience-oriented Educational Model,\u201d the \u201cConfucian Moralization of AI Art,\u201d and a \u201cCultural\nOntology for Global Governance,\u201d thereby illustrating the bidirectional empowerment of \u201chumanizing\ntechnology through Confucianism and revealing Confucianism through technology.\u201d Findings indicate that Wang Yangming\u2019s Philosophy of Mind possesses the intellectual resilience to\nconfront the challenges of digital civilization and can play a distinctive role in shaping a new\nparadigm of humanistic governance for the AI era\u2014serving as a crucial fulcrum for the modern\ntransformation of Chinese culture and for global value dialogue",
+      "citationCount": 0,
+      "doi": "10.70114/ahmer.2025.2.1.p185",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a440685380ef95ffdefd6f83393966c522e326c6",
+      "venue": "Advances in Humanities and Modern Education Research",
+      "journal": {
+        "name": "Advances in Humanities and Modern Education Research"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "ea4c3a5dc7ec91f04182696633454026c5b0125c",
+      "title": "The Extended Mind",
+      "authors": [
+        {
+          "name": "J. Ladyman",
+          "authorId": "104382240"
+        },
+        {
+          "name": "D. Ross",
+          "authorId": "145890681"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 116,
+      "doi": "10.7551/mitpress/9780262014038.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ea4c3a5dc7ec91f04182696633454026c5b0125c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "997a137bd50942974b99d11fb07fb07a140dade1",
+      "title": "What the Human Mind Is for: the Evolution of the Unconscious (Theses on the General Theory of Evolution)",
+      "authors": [
+        {
+          "name": "Givi Givishvili",
+          "authorId": "2265131350"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Revolutionary experiments in space, carried out in the XXI century, proved the physical non-existence of space and time. Infinitely extended space is also uniformly filled with boundless matter in the form of discrete clusters of mass-energy. Time, on the other hand, turns out to be a fixation of the sequence and duration of cause-and-effect relationships in any process occurring in and be\u00adtween material objects. Therefore, nature is dualistic: it exists in the form of two conditionally independent principles \u2013 non-existence (non-existent space-time continuum) and being (the existing material-ideal Cosmos). At the same time, the physical existence of matter is unthinkable without the physical non-exis\u00adtence of space-time. The Cosmos is also dualistic, dividing into two interdepen\u00addent objects: a) the transitory material (mass-energy) and the imperishable ideal (laws, principles and algorithms of the existence of matter); b) the countless discrete mass-energy dynamic Small Universes (galaxies and their clusters). Together they make up one stationary Large Universe, unlimited in mass and en\u00adergy. At the same time, the material and the ideal together form four intercon\u00adnected steps of the pyramid of the Cosmos: a) the world of elementary particles; b) the world of galaxies, stars and planets; c) the sphere of organics; d) the sphere of culture. Accordingly, a human-like mind turns out to be a categorically impe\u00adrative element of the Cosmos. This conclusion follows from the fact of the limi\u00adted duration of the active phase of the existence of Small Universes. The lat\u00adter circumstance is associated with an irreversible deterioration in the quality of the energy of stars and the extinction of their life cycle. However, currently physics does not know any natural process capable of regenerating the mass- energy of aging stars and reviving their activity. Consequently, for the artificial resumption of the vital activity of Small Universes, in fact, to maintain the eter\u00adnal existence of the Large Universe, a human-like mind is needed (a super-strong anthropic principle). Thus, there is a need to rethink the phenomenon of evo\u00adlution as a global process that encompasses the specifics of the interconnected existence of all four \u201chorizons\u201d of Nature.",
+      "citationCount": 0,
+      "doi": "10.21146/0042-8744-2024-6-15-22",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/997a137bd50942974b99d11fb07fb07a140dade1",
+      "venue": "Voprosy filosofii",
+      "journal": {
+        "name": "Voprosy Filosofii"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "6e8abce4c4ba574af85e94a5ba87ecf29c727afa",
+      "title": "Causal Parity and Externalisms: Extensions in Life and Mind",
+      "authors": [
+        {
+          "name": "P. Huneman",
+          "authorId": "2827831"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.1007/s11023-013-9309-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6e8abce4c4ba574af85e94a5ba87ecf29c727afa",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "377 - 404",
+        "volume": "23"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "2894912c78698e2c51f994cc8a2d1d1cab8aa3c5",
+      "title": "Parity of Esteem as a guiding principle for commissioning, service provision and laws related to health care: what do we know",
+      "authors": [
+        {
+          "name": "Rabeea'h W Aslam",
+          "authorId": "7712936"
+        },
+        {
+          "name": "K. Bhui",
+          "authorId": "30183375"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": "10.1080/13557858.2012.678618",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2894912c78698e2c51f994cc8a2d1d1cab8aa3c5",
+      "venue": "Ethnicity and Health",
+      "journal": {
+        "name": "Ethnicity & Health",
+        "pages": "13 - 15",
+        "volume": "17"
+      },
+      "publicationTypes": [
+        "Editorial",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "b17f535e140f56806b4156affa227a8dc4c4cd90",
+      "title": "The Boundaries of Affectivity (and a Coda on Extended Consciousness)",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "authorId": "2053496114"
+        }
+      ],
+      "year": 2022,
+      "abstract": "In this contribution I will offer a rough guide through \u201csituated affectivity\u201d, a small galaxy of theories, ideas, intuitions which are recently growing at the boundaries between philosophy of emotion, philosophy of mind, philosophy of cognitive science. In the last years, we are witnessing a real \u201caffective turn\u201d in the domain of analytic philosophy of mind and cognitive science, and situated affectivity is an excellent example of what is going on in the field. In the first part, I will present the main versions of situated affectivity, distinguishing between the ideas of situated or scaffolded emotions (Griffi-ths, Scarantino 2009; Colombetti, Krueger 2015) and properly extended emotions (Carter et al. 2016; Colombetti, Roberts 2015), and showing their link to the corresponding idea of the mind: scaffolded, extended or otherwise. In the second part, I will further explore the connection between situated affectivity and the domain of extended mind: I will argue that, even if situated affectivity could be in principle evaluated independently from any particular theory about the mind, dealing with situated affectivity is, beside its independent interest, also a good way to tackle an unsettled problem in the literature on extended mind, namely extended consciousness.",
+      "citationCount": 2,
+      "doi": "10.51359/2357-9986.2022.256751",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b17f535e140f56806b4156affa227a8dc4c4cd90",
+      "venue": "Perspectiva Filos\u00f3fica",
+      "journal": {
+        "name": "Perspectiva Filos\u00f3fica"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "efb902e6d7142000a86429b471c570b23f920877",
+      "title": "An extended view of mind and cognition",
+      "authors": [
+        {
+          "name": "\u00c1ngel Garc\u00eda Rodr\u00edguez",
+          "authorId": "2110595317"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/efb902e6d7142000a86429b471c570b23f920877",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "5-18",
+        "volume": "30"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7665716aa9c2716c09a305d318e5f84f92b42d63",
+      "title": "Redefining the scientific method: As the use of sophisticated scientific methods that extend our mind",
+      "authors": [
+        {
+          "name": "Alexander Krauss",
+          "authorId": "2242770819"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract Scientific, medical, and technological knowledge has transformed our world, but we still poorly understand the nature of scientific methodology. Science textbooks, science dictionaries, and science institutions often state that scientists follow, and should follow, the universal scientific method of testing hypotheses using observation and experimentation. Yet, scientific methodology has not been systematically analyzed using large-scale data and scientific methods themselves as it is viewed as not easily amenable to scientific study. Using data on all major discoveries across science including all Nobel Prize and major non-Nobel Prize discoveries, we can address the question of the extent to which \u201cthe scientific method\u201d is actually applied in making science's groundbreaking research and whether we need to expand this central concept of science. This study reveals that 25% of all discoveries since 1900 did not apply the common scientific method (all three features)\u2014with 6% of discoveries using no observation, 23% using no experimentation, and 17% not testing a hypothesis. Empirical evidence thus challenges the common view of the scientific method. Adhering to it as a guiding principle would constrain us in developing many new scientific ideas and breakthroughs. Instead, assessing all major discoveries, we identify here a general, common feature that the method of science can be reduced to: making all major discoveries has required using sophisticated methods and instruments of science. These include statistical methods, particle accelerators, and X-ray methods. Such methods extend our mind and generally make observing, experimenting, and testing hypotheses in science possible, doing so in new ways and ensure their replicability. This provides a new perspective to the scientific method\u2014embedded in our sophisticated methods and instruments\u2014and suggests that we need to reform and extend the way we view the scientific method and discovery process.",
+      "citationCount": 9,
+      "doi": "10.1093/pnasnexus/pgae112",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7665716aa9c2716c09a305d318e5f84f92b42d63",
+      "venue": "PNAS Nexus",
+      "journal": {
+        "name": "PNAS Nexus",
+        "volume": "3"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "146cec9c7b35dea7fc9bd44202666dfca9100f6d",
+      "title": "VERSION 1 / 29 Extended predictive minds : do Markov Blankets matter ?",
+      "authors": [],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/146cec9c7b35dea7fc9bd44202666dfca9100f6d",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "8e4c16f8d2ba0333341240e70c596296d812d39e",
+      "title": "Against Strong Ethical Parity: Situated Cognition Theses and Transcranial Brain Stimulation",
+      "authors": [
+        {
+          "name": "John H. Heinrichs",
+          "authorId": "37581579"
+        }
+      ],
+      "year": 2017,
+      "abstract": "According to a prominent suggestion in the ethics of transcranial neurostimulation the effects of such devices can be treated as ethically on par with established, pre-neurotechnological alterations of the mind. This parity allegedly is supported by situated cognition theories showing how external devices can be part of a cognitive system. This article will evaluate this suggestion. It will reject the claim, that situated cognition theories support ethical parity. It will however point out another reason, why external carriers or modifications of the mental might come to be considered ethically on par with internal carriers. Section \u201cWhy Could There Be Ethical Parity between Neural Tissue and External Tools?\u201d presents the ethical parity theses between external and internal carriers of the mind as well as neurotechnological alterations and established alterations. Section \u201cExtended, Embodied, Embedded: Situated Cognition as a Relational Thesis\u201d will elaborate the different situated cognition approaches and their relevance for ethics. It will evaluate, whether transcranial stimulation technologies are plausible candidates for situated cognition theses. Section \u201cOn the Ethical Relevance of Situated Cognition Theses\u201d will discuss criteria for evaluating whether a cognitive tool is deeply embedded with a cognitive system and apply these criteria to transcranial brain stimulation technologies. Finally it will discuss the role diverse versions of situated cognition theory can play in the ethics of altering mental states, especially the ethics of transcranial brain stimulation technologies.",
+      "citationCount": 9,
+      "doi": "10.3389/fnhum.2017.00171",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8e4c16f8d2ba0333341240e70c596296d812d39e",
+      "venue": "Frontiers in Human Neuroscience",
+      "journal": {
+        "name": "Frontiers in Human Neuroscience",
+        "volume": "11"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

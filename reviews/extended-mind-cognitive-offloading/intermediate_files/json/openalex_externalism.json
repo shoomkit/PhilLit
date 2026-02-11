@@ -1,0 +1,1895 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "vehicle externalism content externalism",
+  "results": [
+    {
+      "openalex_id": "W1996656034",
+      "doi": "10.1359/jbmr.1999.14.6.960",
+      "title": "Intermittent Parathyroid Hormone (1\u201334) Treatment Increases Callus Formation and Mechanical Strength of Healing Rat Fractures",
+      "authors": [
+        {
+          "name": "Troels T. Andreassen",
+          "openalex_id": "A5111917469",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Charlotte Ejersted",
+          "openalex_id": "A5086800175",
+          "orcid": "https://orcid.org/0000-0002-3162-0793",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "H. Oxlund",
+          "openalex_id": "A5074602648",
+          "institutions": [
+            "Aarhus University"
+          ]
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-06-01",
+      "abstract": "Abstract The influence of intermittent parathyroid hormone (PTH(1\u201334)) administration on callus formation and mechanical strength of tibial fractures in rats was investigated after 20 and 40 days of healing. A dose of 60 \u03bcg of PTH(1\u201334)/kg/day and 200 \u03bcg of PTH(1\u201334)/kg/day, respectively, was administered during the entire periods of healing, and control animals with fractures were given vehicle. The dose of 200 \u03bcg of PTH(1\u201334)/kg/day increased the ultimate load and the external callus volume of the fractures by 75% and 99%, respectively, after 20 days of healing and by 175% and 72%, respectively, after 40 days of healing. The dose of 60 \u03bcg of PTH(1\u201334)/kg/day did not influence either ultimate load or external callus volume of the fractures after 20 days of healing, but the ultimate load was increased by 132% and the external callus volume was increased by 42% after 40 days of healing. During the healing period, the callus bone mineral content (BMC) increased in all groups. After 40 days of healing, the callus BMC was increased by 108% in the 200 \u03bcg of PTH(1\u201334)/kg/day group and by 76% in the 60 \u03bcg of PTH(1\u201334)/kg/day group. Both doses of PTH(1\u201334) steadily augmented the contralateral intact tibia BMC (20 days and 40 days: 60 \u03bcg of PTH (1\u201334)/kg/day 9% and 19%, respectively; 200 \u03bcg of PTH (1\u201334)/kg/day 12% and 27%, respectively) and bone mineral density (20 days and 40 days: 60 \u03bcg of PTH(1\u201334)/kg/day 11% and 12%, respectively; 200 \u03bcg of PTH(1\u201334)/kg/day 11% and 15%, respectively).",
+      "cited_by_count": 347,
+      "type": "article",
+      "source": {
+        "name": "Journal of Bone and Mineral Research",
+        "type": "journal",
+        "issn": [
+          "0884-0431",
+          "1523-4681"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1359/jbmr.1999.14.6.960"
+      },
+      "topics": [
+        "Bone health and osteoporosis research",
+        "Bone health and treatments",
+        "Bone fractures and treatments"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W1996656034"
+    },
+    {
+      "openalex_id": "W2001942810",
+      "doi": "10.1021/ja802656d",
+      "title": "Remotely Triggered Liposome Release by Near-Infrared Light Absorption via Hollow Gold Nanoshells",
+      "authors": [
+        {
+          "name": "Guohui Wu",
+          "openalex_id": "A5047953334",
+          "orcid": "https://orcid.org/0000-0002-5193-8504",
+          "institutions": [
+            "University of California, Santa Barbara",
+            "Baylor College of Medicine"
+          ]
+        },
+        {
+          "name": "Alexander Mikhailovsky",
+          "openalex_id": "A5003453769",
+          "orcid": "https://orcid.org/0000-0002-6807-4810",
+          "institutions": [
+            "Baylor College of Medicine",
+            "University of California, Santa Barbara"
+          ]
+        },
+        {
+          "name": "Htet A. Khant",
+          "openalex_id": "A5056181739",
+          "institutions": [
+            "Baylor College of Medicine",
+            "University of California, Santa Barbara"
+          ]
+        },
+        {
+          "name": "Caroline Fu",
+          "openalex_id": "A5109184462",
+          "institutions": [
+            "Baylor College of Medicine",
+            "University of California, Santa Barbara"
+          ]
+        },
+        {
+          "name": "Wah Chiu",
+          "openalex_id": "A5049689333",
+          "orcid": "https://orcid.org/0000-0002-8910-3078",
+          "institutions": [
+            "University of California, Santa Barbara",
+            "Baylor College of Medicine"
+          ]
+        },
+        {
+          "name": "Joseph A. Zasadzinski",
+          "openalex_id": "A5029251110",
+          "orcid": "https://orcid.org/0000-0001-5663-6989",
+          "institutions": [
+            "University of California, Santa Barbara",
+            "Baylor College of Medicine"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-06-11",
+      "abstract": "An elusive goal for systemic drug delivery is to provide both spatial and temporal control of drug release. Liposomes have been evaluated as drug delivery vehicles for decades, but their clinical significance has been limited by slow release or poor availability of the encapsulated drug. Here we show that near-complete liposome release can be initiated within seconds by irradiating hollow gold nanoshells (HGNs) with a near-infrared (NIR) pulsed laser. Our findings reveal that different coupling methods such as having the HGNs tethered to, encapsulated within, or suspended freely outside the liposomes, all triggered liposome release but with different levels of efficiency. For the underlying content release mechanism, our experiments suggest that the microbubble formation and collapse due to the rapid temperature increase of the HGN is responsible for liposome disruption, as evidenced by the formation of solid gold particles after the NIR irradiation and the coincidence of a laser power threshold for both triggered release and pressure fluctuations in the solution associated with cavitation. These effects are similar to those induced by ultrasound and our approach is conceptually analogous to the use of optically triggered nano-\"sonicators\" deep inside the body for drug delivery. We expect HGNs can be coupled with any nanocarriers to promote spatially and temporally controlled drug release. In addition, the capability of external HGNs to permeabilize lipid membranes can facilitate the cellular uptake of macromolecules including proteins and DNA and allow for promising applications in gene therapy.",
+      "cited_by_count": 497,
+      "type": "article",
+      "source": {
+        "name": "Journal of the American Chemical Society",
+        "type": "journal",
+        "issn": [
+          "0002-7863",
+          "1520-5126",
+          "1943-2984"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://doi.org/10.1021/ja802656d"
+      },
+      "topics": [
+        "Gold and Silver Nanoparticles Synthesis and Applications",
+        "Laser-Ablation Synthesis of Nanoparticles",
+        "Nanoparticle-Based Drug Delivery"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W2001942810"
+    },
+    {
+      "openalex_id": "W2063517221",
+      "doi": "10.1016/j.jhazmat.2008.10.118",
+      "title": "Source identification of heavy metals in pastureland by multivariate analysis in NW Spain",
+      "authors": [
+        {
+          "name": "Amaya Franco\u2010Ur\u00eda",
+          "openalex_id": "A5067162768",
+          "orcid": "https://orcid.org/0000-0001-9984-7065",
+          "institutions": [
+            "Universidade de Santiago de Compostela"
+          ]
+        },
+        {
+          "name": "Cristina L\u00f3pez-Mateo",
+          "openalex_id": "A5056951599",
+          "institutions": [
+            "Universidade de Santiago de Compostela"
+          ]
+        },
+        {
+          "name": "Enrique Roca",
+          "openalex_id": "A5050381392",
+          "orcid": "https://orcid.org/0000-0002-2943-4473",
+          "institutions": [
+            "Universidade de Santiago de Compostela"
+          ]
+        },
+        {
+          "name": "Mar\u00eda Luisa Fern\u00e1ndez Marcos",
+          "openalex_id": "A5078347317",
+          "orcid": "https://orcid.org/0000-0002-1168-7923",
+          "institutions": [
+            "Universidade de Santiago de Compostela"
+          ]
+        }
+      ],
+      "publication_year": 2008,
+      "publication_date": "2008-11-09",
+      "abstract": null,
+      "cited_by_count": 473,
+      "type": "article",
+      "source": {
+        "name": "Journal of Hazardous Materials",
+        "type": "journal",
+        "issn": [
+          "0304-3894",
+          "1873-3336"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Heavy metals in environment",
+        "Geochemistry and Geologic Mapping",
+        "Radioactivity and Radon Measurements"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2063517221"
+    },
+    {
+      "openalex_id": "W2999522790",
+      "doi": "10.1108/ijshe-04-2019-0152",
+      "title": "Education for sustainability",
+      "authors": [
+        {
+          "name": "Christine Wamsler",
+          "openalex_id": "A5049476075",
+          "orcid": "https://orcid.org/0000-0003-4511-1532",
+          "institutions": [
+            "Lund University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-06",
+      "abstract": "Purpose Current approaches to sustainability science and education focus on (assessing and addressing) the external world of ecosystems, wider socio-economic structures, technology and governance dynamics. A major shortcoming of such approaches is the neglect of inner dimensions and capacities (which constrains education for sustainability as an end), and a limited capacity to facilitate reflection on the cognitive and socio-emotional processes underpinning people\u2019s learning, everyday life choices and decision-taking (which constrains education for sustainability as a means). More integral approaches and pedagogies are urgently needed. The purpose of this paper is to advance related knowledge. Design/methodology/approach This paper provides a reflexive case study of the development of an innovative course on \u201cSustainability and Inner Transformation\u201d and associated interventions in the form of a practice lab and weekly councils. Findings The paper elaborates on the connections between sustainability and inner transformation in education, offers insights into the process of adapting contemplative interventions to sustainability education and concludes with some reflections on challenges, lessons learnt and future work needed to support more integral approaches. The findings show that inner dimensions and transformation can be a vehicle for critical, improved education for sustainability and how this can be achieved in practice. Originality/value It is only recently that the concept of the inner or personal (sphere of) transformation has received growing attention in sustainability science and education. Despite this interest, such new conceptualizations and heuristics have, to date, not been systematically connected to education for sustainability (neither as an end nor means). The paper presents a critical, reflexive case, which advances related knowledge. It sets a precedent, which other universities/training institutions could follow or learn from.",
+      "cited_by_count": 262,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Sustainability in Higher Education",
+        "type": "journal",
+        "issn": [
+          "1467-6370",
+          "1758-6739"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.emerald.com/insight/content/doi/10.1108/IJSHE-04-2019-0152/full/pdf?title=education-for-sustainability-fostering-a-more-conscious-society-and-transformation-towards-sustainability"
+      },
+      "topics": [
+        "Sustainability in Higher Education",
+        "Environmental Education and Sustainability",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 32,
+      "url": "https://openalex.org/W2999522790"
+    },
+    {
+      "openalex_id": "W2127166381",
+      "doi": "10.1016/j.tate.2009.10.046",
+      "title": "Effective teacher professionalization in networks?",
+      "authors": [
+        {
+          "name": "Roelande Hofman",
+          "openalex_id": "A5076803284",
+          "orcid": "https://orcid.org/0000-0002-4716-3136",
+          "institutions": [
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "B.J. Dijkstra",
+          "openalex_id": "A5028676526",
+          "institutions": [
+            "University of Groningen"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-02-09",
+      "abstract": null,
+      "cited_by_count": 137,
+      "type": "article",
+      "source": {
+        "name": "Teaching and Teacher Education",
+        "type": "journal",
+        "issn": [
+          "0742-051X",
+          "1879-2480"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.rug.nl/en/publications/cc96ac93-f557-4134-995d-46a93bb9f9c8"
+      },
+      "topics": [
+        "Innovative Teaching and Learning Methods",
+        "Teacher Education and Leadership Studies",
+        "Online and Blended Learning"
+      ],
+      "referenced_works_count": 39,
+      "url": "https://openalex.org/W2127166381"
+    },
+    {
+      "openalex_id": "W3040221110",
+      "doi": "10.1016/j.agrformet.2020.108096",
+      "title": "Grain yield prediction of rice using multi-temporal UAV-based RGB and multispectral images and model transfer \u2013 a case study of small farmlands in the South of China",
+      "authors": [
+        {
+          "name": "Liang Wan",
+          "openalex_id": "A5075066084",
+          "orcid": "https://orcid.org/0000-0001-6561-6808",
+          "institutions": [
+            "Zhejiang University",
+            "Ministry of Agriculture and Rural Affairs"
+          ]
+        },
+        {
+          "name": "Haiyan Cen",
+          "openalex_id": "A5043432611",
+          "orcid": "https://orcid.org/0000-0003-0266-2123",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University",
+            "State Key Laboratory of Modern Optical Instruments"
+          ]
+        },
+        {
+          "name": "Jiangpeng Zhu",
+          "openalex_id": "A5026950276",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Jiafei Zhang",
+          "openalex_id": "A5085469102",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Yueming Zhu",
+          "openalex_id": "A5102977765",
+          "orcid": "https://orcid.org/0000-0002-3101-6238",
+          "institutions": [
+            "Zhejiang University",
+            "Ministry of Agriculture and Rural Affairs"
+          ]
+        },
+        {
+          "name": "Dawei Sun",
+          "openalex_id": "A5071578628",
+          "orcid": "https://orcid.org/0000-0001-6925-2001",
+          "institutions": [
+            "Zhejiang University",
+            "Ministry of Agriculture and Rural Affairs"
+          ]
+        },
+        {
+          "name": "Xiaoyue Du",
+          "openalex_id": "A5104316458",
+          "orcid": "https://orcid.org/0009-0005-8945-0976",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Li Zhai",
+          "openalex_id": "A5103125815",
+          "orcid": "https://orcid.org/0000-0001-6220-7064",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Haiyong Weng",
+          "openalex_id": "A5045362189",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Yijian Li",
+          "openalex_id": "A5101800261",
+          "orcid": "https://orcid.org/0000-0002-3361-1786",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Xiaoran Li",
+          "openalex_id": "A5100697540",
+          "orcid": "https://orcid.org/0000-0001-9366-0822",
+          "institutions": [
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        },
+        {
+          "name": "Yidan Bao",
+          "openalex_id": "A5102100861",
+          "institutions": [
+            "Zhejiang University",
+            "Ministry of Agriculture and Rural Affairs"
+          ]
+        },
+        {
+          "name": "Jianyao Shou",
+          "openalex_id": "A5066810808"
+        },
+        {
+          "name": "Yong He",
+          "openalex_id": "A5100342968",
+          "orcid": "https://orcid.org/0000-0001-6752-1757",
+          "institutions": [
+            "State Key Laboratory of Modern Optical Instruments",
+            "Ministry of Agriculture and Rural Affairs",
+            "Zhejiang University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-02",
+      "abstract": null,
+      "cited_by_count": 267,
+      "type": "article",
+      "source": {
+        "name": "Agricultural and Forest Meteorology",
+        "type": "journal",
+        "issn": [
+          "0168-1923",
+          "1873-2240"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Remote Sensing in Agriculture",
+        "Remote Sensing and LiDAR Applications",
+        "Smart Agriculture and AI"
+      ],
+      "referenced_works_count": 79,
+      "url": "https://openalex.org/W3040221110"
+    },
+    {
+      "openalex_id": "W2007792320",
+      "doi": "10.1108/09600031111118549",
+      "title": "The impacts of product design changes on supply chain risk: a case study",
+      "authors": [
+        {
+          "name": "Yong Lin",
+          "openalex_id": "A5011876459",
+          "orcid": "https://orcid.org/0000-0001-7118-2946",
+          "institutions": [
+            "University of Greenwich"
+          ]
+        },
+        {
+          "name": "Li Zhou",
+          "openalex_id": "A5046743454",
+          "orcid": "https://orcid.org/0000-0001-7132-5935",
+          "institutions": [
+            "University of Greenwich"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-03-05",
+      "abstract": "Purpose The main purpose of this paper is to address the impact of product design changes on supply chain risk, and to identify the supply chain risk dimensions in the Chinese special\u2010purpose vehicle (SPV) industry in the context of product design change. Design/methodology/approach Case study methodology is adopted to describe the current situation of supply chain risk management in the Chinese SPV industry. Data are mainly collected from in\u2010depth semi\u2010structured interviews, and a cause\u2010effect diagram is used to identify and summarize the internal and external risk dimensions of supply chain risk. Findings This paper identifies both the internal and external supply chain risk from the perspective of the focal manufacturer in the SPV supply chain. At the level of the external supply chain, customer\u2010required design change normally leads to risk in supply, delivery, and policy. Internally for the manufacturer, the risk dimensions are R&amp;D, production, planning, information, and organization. All of these risk dimensions have their respective causes. Research limitations/implications The risk identification of product design change in this paper is only meant to lay a foundation; further case studies should focus on the best practices and approaches of risk management and extend them to other industries. Practical implications The current identification of the risk dimensions and their respective causes will help both practitioners and researchers to better understand supply chain risk in the context of product design change. The identified risk dimensions and cause\u2010effect diagram provide practitioners with a risk framework and useful tools to recognize and identify their potential supply chain risks. Originality/value This paper shows the \u201cbig picture\u201d of supply chain risk from product design changes in the Chinese SPV industry.",
+      "cited_by_count": 132,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Physical Distribution & Logistics Management",
+        "type": "journal",
+        "issn": [
+          "0960-0035",
+          "1758-664X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research.birmingham.ac.uk/en/publications/28e275a0-5f82-4771-9c13-23c2244bee41"
+      },
+      "topics": [
+        "Supply Chain Resilience and Risk Management",
+        "Quality and Supply Management",
+        "Sustainable Supply Chain Management"
+      ],
+      "referenced_works_count": 80,
+      "url": "https://openalex.org/W2007792320"
+    },
+    {
+      "openalex_id": "W2039731841",
+      "doi": "10.1080/00016470152846673",
+      "title": "Increases in callus formation and mechanical strength of healing fractures in old rats treated with parathyroid hormone",
+      "authors": [
+        {
+          "name": "Troels T. Andreassen",
+          "openalex_id": "A5111917469",
+          "institutions": [
+            "Novo Nordisk (Denmark)",
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Christian Fledelius",
+          "openalex_id": "A5039769087",
+          "institutions": [
+            "Novo Nordisk (Denmark)"
+          ]
+        },
+        {
+          "name": "Charlotte Ejersted",
+          "openalex_id": "A5086800175",
+          "orcid": "https://orcid.org/0000-0002-3162-0793",
+          "institutions": [
+            "Novo Nordisk (Denmark)"
+          ]
+        },
+        {
+          "name": "H. Oxlund",
+          "openalex_id": "A5074602648",
+          "institutions": [
+            "Novo Nordisk (Denmark)"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-01-01",
+      "abstract": "We studied the effects of intermittent administration of parathyroid hormone (PTH(1-34)) on callus formation and mechanical strength of tibial fractures in 27-month-old rats after 3 and 8 weeks of healing. 200 microg PTH(1-34)/kg was administered daily during both periods of healing, and control animals with fractures were given vehicle. At 3 weeks, PTH treatment increased maximum load and external callus volume by 160% and 208%; at 8 weeks, by 270% and 135%. It also enhanced callus bone mineral content (BMC) by 190% and 388% (3 and 8 weeks). From week 3 to week 8, callus BMC increased by 60% in the vehicle-injected animals, and by 169% in the PTH-treated animals. In the contralateral intact tibia, PTH treatment increased BMC by 18% and 21% (3 and 8 weeks). No differences in body weight were found between the vehicle-injected and the PTH-treated animals during the experiment. In conclusion, PTH treatment enhances fracture strength, callus volume and callus BMC after 3 and 8 weeks of healing.",
+      "cited_by_count": 130,
+      "type": "article",
+      "source": {
+        "name": "Acta Orthopaedica Scandinavica",
+        "type": "journal",
+        "issn": [
+          "0001-6470"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Mesenchymal stem cell research",
+        "Muscle Physiology and Disorders",
+        "Bone health and osteoporosis research"
+      ],
+      "referenced_works_count": 16,
+      "url": "https://openalex.org/W2039731841"
+    },
+    {
+      "openalex_id": "W2492047896",
+      "doi": "10.1093/acprof:oso/9780199289769.003.0012",
+      "title": "Experience without the Head",
+      "authors": [
+        {
+          "name": "Alva No\u00eb",
+          "openalex_id": "A5016010192",
+          "orcid": "https://orcid.org/0000-0002-3168-2708"
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-01-19",
+      "abstract": "This chapter argues that there are no theoretical obstacles to extending active externalism to perceptual consciousness. In opposition to the claim that the vehicles of perceptual experience are solely in the head, the case is made that qualities are available in experience as possibilities rather than complete givens. On this view, there is no basis in phenomenology for thinking that what is merely present in consciousness is enough to account for the entire character of conscious experience. In particular, the content of perceptual experience may depend on the possession and exercise of sensorimotor skill. It is an open empirical possibility that perceptual experience depends not only on what is represented in our brains, but on dynamic interaction between brain, body, and environment.",
+      "cited_by_count": 109,
+      "type": "book-chapter",
+      "source": {
+        "name": "Oxford University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W2492047896"
+    },
+    {
+      "openalex_id": "W2090904233",
+      "doi": "10.1039/c3tb00026e",
+      "title": "A new type of pH-responsive coordination polymer sphere as a vehicle for targeted anticancer drug delivery and sustained release",
+      "authors": [
+        {
+          "name": "Peng Fei Gao",
+          "openalex_id": "A5041155921",
+          "orcid": "https://orcid.org/0000-0001-6878-6597",
+          "institutions": [
+            "Southwest University"
+          ]
+        },
+        {
+          "name": "Lin Ling Zheng",
+          "openalex_id": "A5075901147",
+          "orcid": "https://orcid.org/0000-0001-9978-4594",
+          "institutions": [
+            "Southwest University"
+          ]
+        },
+        {
+          "name": "Li Jiao Liang",
+          "openalex_id": "A5103514236",
+          "orcid": "https://orcid.org/0000-0003-1378-0993",
+          "institutions": [
+            "Southwest University"
+          ]
+        },
+        {
+          "name": "Xiao Xi Yang",
+          "openalex_id": "A5103597748",
+          "institutions": [
+            "Southwest University"
+          ]
+        },
+        {
+          "name": "Yuan Fang Li",
+          "openalex_id": "A5112747084",
+          "institutions": [
+            "Southwest University"
+          ]
+        },
+        {
+          "name": "Cheng Zhi Huang",
+          "openalex_id": "A5100678432",
+          "orcid": "https://orcid.org/0000-0002-1260-5934",
+          "institutions": [
+            "Southwest University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "A new type of coordination polymer sphere prepared by combining 1,1'-(1,4-butanediyl)bis(imidazole) (bbi) and ferrous ions has been demonstrated as a targeted delivery system for in situ encapsulating anticancer drugs. These stable coordination polymer spheres can be fabricated simply by a deposition method. Drugs, doxorubicin hydrochloride (DOX\u00b7HCl) for example, can be easily in situ encapsulated by simply mixing the drug with bbi ligand through the deposition method and results in a high drug loading efficiency up to 98% and a drug loading content of nearly 40%, which is remarkably high for not only metal-organic but also other materials. A noticeable feature of the drug loaded coordination polymer spheres is that they show sustainable drug release for several days due to their superior stability, and are sensitive to external pH owing to the coordination bonds. The drug can be released faster in mild acidic conditions in comparison to physiological acidity. By conjugating folic acid to the surface of the coordination polymer spheres, the vehicles can be taken up selectively by cancer cells through cell surface receptor-mediated mechanisms. Cell viability experiments with HeLla cells demonstrated the low toxicity of the delivery vehicles and the good anticancer efficacy of the drug-loaded coordination polymer spheres.",
+      "cited_by_count": 142,
+      "type": "article",
+      "source": {
+        "name": "Journal of Materials Chemistry B",
+        "type": "journal",
+        "issn": [
+          "2050-750X",
+          "2050-7518"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Nanoparticle-Based Drug Delivery",
+        "Nanoplatforms for cancer theranostics",
+        "Metal-Organic Frameworks: Synthesis and Applications"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W2090904233"
+    },
+    {
+      "openalex_id": "W2970450457",
+      "doi": "10.1007/978-3-030-26250-1_26",
+      "title": "A Safety Standard Approach for Fully Autonomous Vehicles",
+      "authors": [
+        {
+          "name": "Philip Koopman",
+          "openalex_id": "A5036158209",
+          "orcid": "https://orcid.org/0000-0003-1658-2386",
+          "institutions": [
+            "Carnegie Mellon University",
+            "Edge Case Research (United States)"
+          ]
+        },
+        {
+          "name": "Uma D. Ferrell",
+          "openalex_id": "A5012390779",
+          "institutions": [
+            "Mitre (United States)"
+          ]
+        },
+        {
+          "name": "Frank Fratrik",
+          "openalex_id": "A5044486826",
+          "institutions": [
+            "Edge Case Research (United States)"
+          ]
+        },
+        {
+          "name": "Michael Wagner",
+          "openalex_id": "A5013993834",
+          "orcid": "https://orcid.org/0000-0002-9778-7684",
+          "institutions": [
+            "Edge Case Research (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": null,
+      "cited_by_count": 85,
+      "type": "book-chapter",
+      "source": {
+        "name": "Lecture notes in computer science",
+        "type": "book series",
+        "issn": [
+          "0302-9743",
+          "1611-3349"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Autonomous Vehicle Technology and Safety",
+        "Safety Systems Engineering in Autonomy",
+        "Traffic and Road Safety"
+      ],
+      "referenced_works_count": 3,
+      "url": "https://openalex.org/W2970450457"
+    },
+    {
+      "openalex_id": "W3203005489",
+      "doi": "10.1109/tits.2021.3114199",
+      "title": "Intelligent Content Caching Strategy in Autonomous Driving Toward 6G",
+      "authors": [
+        {
+          "name": "Liang Zhao",
+          "openalex_id": "A5061568038",
+          "orcid": "https://orcid.org/0000-0001-5829-6850",
+          "institutions": [
+            "Shenyang Aerospace University"
+          ]
+        },
+        {
+          "name": "Hongxuan Li",
+          "openalex_id": "A5102920218",
+          "orcid": "https://orcid.org/0000-0003-4760-2909",
+          "institutions": [
+            "Shenyang Aerospace University"
+          ]
+        },
+        {
+          "name": "Na Lin",
+          "openalex_id": "A5026362558",
+          "orcid": "https://orcid.org/0000-0003-4941-1727",
+          "institutions": [
+            "Shenyang Aerospace University"
+          ]
+        },
+        {
+          "name": "Ming\u2010Wei Lin",
+          "openalex_id": "A5101851003",
+          "orcid": "https://orcid.org/0000-0003-2026-7178",
+          "institutions": [
+            "Fujian Normal University"
+          ]
+        },
+        {
+          "name": "Chunlong Fan",
+          "openalex_id": "A5100661116",
+          "orcid": "https://orcid.org/0000-0001-8127-6292",
+          "institutions": [
+            "Shenyang Aerospace University"
+          ]
+        },
+        {
+          "name": "Junling Shi",
+          "openalex_id": "A5034888075",
+          "institutions": [
+            "Shenyang Aerospace University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-29",
+      "abstract": "The rapid development of 6G can help to bring autonomous driving closed to the reality. Drivers and passengers will have more time for work and leisure spending in the vehicles, further generating a lot of data requirements. However, edge resources from small base stations are insufficient to match the wide variety of services of the future vehicular networks. Besides, due to the high-speed nature of the vehicles, users have to switch the connections among different base stations, whereas such way will cause external latency during the data request. Therefore, it is vital to enable the local cache of vehicle users to realize the reliable autonomous driving. In this paper, we consider caching the contents in the local cache, small base station, and edge server. In practice, the request preference of some single users may be different from a whole region. To maximize the efficiency of content cache, we design a strategy that uses reinforcement learning algorithm to optimize cache schemes on different devices. The experimental results demonstrate that our strategy can enhance the cache hit ratio by 10%-20% compared with the well-known counterparts.",
+      "cited_by_count": 81,
+      "type": "article",
+      "source": {
+        "name": "IEEE Transactions on Intelligent Transportation Systems",
+        "type": "journal",
+        "issn": [
+          "1524-9050",
+          "1558-0016"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Caching and Content Delivery",
+        "IoT and Edge/Fog Computing",
+        "Opportunistic and Delay-Tolerant Networks"
+      ],
+      "referenced_works_count": 39,
+      "url": "https://openalex.org/W3203005489"
+    },
+    {
+      "openalex_id": "W1988718678",
+      "doi": "10.1108/09574090910954837",
+      "title": "Assessing interfirm collaboration/technology investment tradeoffs",
+      "authors": [
+        {
+          "name": "R. Glenn Richey",
+          "openalex_id": "A5085194606",
+          "orcid": "https://orcid.org/0000-0002-7620-4435",
+          "institutions": [
+            "University of Alabama"
+          ]
+        },
+        {
+          "name": "Chad W. Autry",
+          "openalex_id": "A5035362910",
+          "institutions": [
+            "Oklahoma City University"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-05-22",
+      "abstract": "Purpose The current research considers the possibility that when firms are faced with a challenging supply chain task or opportunity for supply chain operational improvement, they choose varying degrees of technology and/or collaboration as the primary vehicle(s) with which to forge a solution. This choice is suggested herein to depend largely on technological readiness, i.e. the extent to which the firm embraces available technological solutions. Furthermore, the learning capability of the firm moderates the inverse relationship between interfirm collaboration and technological readiness, such that firms having strong organizational learning capabilities are less likely to choose a collaboration\u2010intensive solution than those with weak learning capabilities. This paper aims to address these issues. Design/methodology/approach A sample of retail supply chain managers drawn from the Council of Supply Chain Management Professionals membership database is surveyed related to their firms' levels of interfirm collaboration, organizational learning capabilities, and technological readiness. Two multiple moderated regression variants are used to test the hypotheses. Findings Results of this research support the hypothesized logic, and implications for practice are presented in light of a revealed inverse relationship between technological readiness and interfirm collaboration that is exacerbated when the firm has a strong learning orientation. Originality/value This paper is among the first known to examine potential internal/external tradeoffs between collaboration and technology as problem\u2010solving vehicles. Both managers and researchers should find it interesting that collaboration is neither wholly desirable nor necessary (and therefore the associated risks mitigated) in technologically ready and/or high learning capability environments.",
+      "cited_by_count": 113,
+      "type": "article",
+      "source": {
+        "name": "The International Journal of Logistics Management",
+        "type": "journal",
+        "issn": [
+          "0957-4093",
+          "1758-6550"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Sustainable Supply Chain Management",
+        "Innovation and Knowledge Management",
+        "Quality and Supply Management"
+      ],
+      "referenced_works_count": 127,
+      "url": "https://openalex.org/W1988718678"
+    },
+    {
+      "openalex_id": "W2169167721",
+      "doi": "10.1002/marc.201300866",
+      "title": "Smart Nanocontainers: Progress on Novel Stimuli\u2010Responsive Polymer Vesicles",
+      "authors": [
+        {
+          "name": "Anchao Feng",
+          "openalex_id": "A5066778377",
+          "orcid": "https://orcid.org/0000-0002-8755-4772",
+          "institutions": [
+            "Tsinghua University"
+          ]
+        },
+        {
+          "name": "Jinying Yuan",
+          "openalex_id": "A5035709701",
+          "orcid": "https://orcid.org/0000-0002-1667-9252",
+          "institutions": [
+            "Tsinghua University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-02-13",
+      "abstract": "In the past decade, polymer vesicles prepared by self\u2010assembly techniques have attracted increasing scientific interest based on their unique features highlighted with tunable membrane properties, versatility, stability, and capacity of transporting hydrophilic as well as hydrophobic species. Polymersomes exhibit intriguing potential applications such as cell mimicking dimensions and functions, tunable delivery vehicles, for the templating of biomineralization, nanoreactors, and as scaffolds for biological conjugation. In this Feature Article, an overview of the preparation and application of recently developed \u201csmart\u201d polymer vesicles, which can respond to the novel external stimuli, including carbon dioxide (CO 2 ), electrochemical potential, ultrasound, enzyme, near\u2010infrared light, and magnetic field is given. The response mechanism and morphology change are explored with specific focus on the functionalization of various domains of the polymer vesicles. In addition, the current limitations are explored as well as the challenges facing the development of these nanostructures toward real\u2010world applications. image",
+      "cited_by_count": 122,
+      "type": "review",
+      "source": {
+        "name": "Macromolecular Rapid Communications",
+        "type": "journal",
+        "issn": [
+          "1022-1336",
+          "1521-3927"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Covalent Organic Framework Applications",
+        "Supramolecular Self-Assembly in Materials",
+        "Conducting polymers and applications"
+      ],
+      "referenced_works_count": 130,
+      "url": "https://openalex.org/W2169167721"
+    },
+    {
+      "openalex_id": "W2554009589",
+      "doi": "10.1002/anie.201608338",
+      "title": "Magneto\u2010Plasmonic Janus Vesicles for Magnetic Field\u2010Enhanced Photoacoustic and Magnetic Resonance Imaging of Tumors",
+      "authors": [
+        {
+          "name": "Yijing Liu",
+          "openalex_id": "A5028088794",
+          "orcid": "https://orcid.org/0000-0002-7503-3910",
+          "institutions": [
+            "National Institutes of Health",
+            "National Institute of Biomedical Imaging and Bioengineering",
+            "University of Maryland, College Park"
+          ]
+        },
+        {
+          "name": "Xiangyu Yang",
+          "openalex_id": "A5100651646",
+          "orcid": "https://orcid.org/0000-0002-1541-667X",
+          "institutions": [
+            "National Institute of Biomedical Imaging and Bioengineering",
+            "National Institutes of Health"
+          ]
+        },
+        {
+          "name": "Zhiqi Huang",
+          "openalex_id": "A5103191012",
+          "orcid": "https://orcid.org/0000-0002-8317-0966",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        },
+        {
+          "name": "Peng Huang",
+          "openalex_id": "A5042734796",
+          "orcid": "https://orcid.org/0000-0003-3651-7813",
+          "institutions": [
+            "Shenzhen University Health Science Center",
+            "Shenzhen University"
+          ]
+        },
+        {
+          "name": "Yang Zhang",
+          "openalex_id": "A5100354674",
+          "orcid": "https://orcid.org/0000-0002-3476-8937",
+          "institutions": [
+            "King Abdullah University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Lin Deng",
+          "openalex_id": "A5057019913",
+          "orcid": "https://orcid.org/0000-0001-8954-5610",
+          "institutions": [
+            "King Abdullah University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Zhantong Wang",
+          "openalex_id": "A5060993342",
+          "institutions": [
+            "National Institute of Biomedical Imaging and Bioengineering",
+            "National Institutes of Health"
+          ]
+        },
+        {
+          "name": "Zijian Zhou",
+          "openalex_id": "A5022031408",
+          "orcid": "https://orcid.org/0000-0003-2383-8490",
+          "institutions": [
+            "National Institutes of Health",
+            "National Institute of Biomedical Imaging and Bioengineering"
+          ]
+        },
+        {
+          "name": "Yi Liu",
+          "openalex_id": "A5100330603",
+          "orcid": "https://orcid.org/0009-0000-2491-6273",
+          "institutions": [
+            "National Institute of Biomedical Imaging and Bioengineering",
+            "University of Maryland, College Park"
+          ]
+        },
+        {
+          "name": "Heather Kalish",
+          "openalex_id": "A5057123536",
+          "orcid": "https://orcid.org/0000-0002-4848-2067",
+          "institutions": [
+            "National Institute of Biomedical Imaging and Bioengineering",
+            "National Institutes of Health"
+          ]
+        },
+        {
+          "name": "Niveen M. Khachab",
+          "openalex_id": "A5113790763",
+          "institutions": [
+            "King Abdullah University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Xiaohong Chen",
+          "openalex_id": "A5100373745",
+          "orcid": "https://orcid.org/0000-0002-9797-8384",
+          "institutions": [
+            "National Institutes of Health",
+            "National Institute of Biomedical Imaging and Bioengineering"
+          ]
+        },
+        {
+          "name": "Zhihong Nie",
+          "openalex_id": "A5038561945",
+          "orcid": "https://orcid.org/0000-0001-9639-905X",
+          "institutions": [
+            "University of Maryland, College Park"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-11-09",
+      "abstract": "Abstract Magneto\u2010plasmonic Janus vesicles (JVs) integrated with gold nanoparticles (AuNPs) and magnetic NPs (MNPs) were prepared asymmetrically in the membrane for in vivo cancer imaging. The hybrid JVs were produced by coassembling a mixture of hydrophobic MNPs, free amphiphilic block copolymers (BCPs), and AuNPs tethered with amphiphilic BCPs. Depending on the size and content of NPs, the JVs acquired spherical or hemispherical shapes. Among them, hemispherical JVs containing 50 nm AuNPs and 15 nm MNPs showed a strong absorption in the near\u2010infrared (NIR) window and enhanced the transverse relaxation ( T 2 ) contrast effect, as a result of the ordering and dense packing of AuNPs and MNPs in the membrane. The magneto\u2010plasmonic JVs were used as drug delivery vehicles, from which the release of a payload can be triggered by NIR light and the release rate can be modulated by a magnetic field. Moreover, the JVs were applied as imaging agents for in vivo bimodal photoacoustic (PA) and magnetic resonance (MR) imaging of tumors by intravenous injection. With an external magnetic field, the accumulation of the JVs in tumors was significantly increased, leading to a signal enhancement of approximately 2\u20133 times in the PA and MR imaging, compared with control groups without a magnetic field.",
+      "cited_by_count": 118,
+      "type": "article",
+      "source": {
+        "name": "Angewandte Chemie International Edition",
+        "type": "journal",
+        "issn": [
+          "1433-7851",
+          "1521-3773"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Nanoplatforms for cancer theranostics",
+        "Extracellular vesicles in disease",
+        "Nanoparticle-Based Drug Delivery"
+      ],
+      "referenced_works_count": 47,
+      "url": "https://openalex.org/W2554009589"
+    },
+    {
+      "openalex_id": "W643473774",
+      "doi": null,
+      "title": "Automotive Engineering: Powertrain, Chassis System and Vehicle Body",
+      "authors": [
+        {
+          "name": "D.A. Crolla",
+          "openalex_id": "A5111742980"
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "abstract": "A one-stop reference for automotive and other engineers involved in vehicle and automotive technologies. The book provides essential information on each of the main automotive systems (engines; powertrain and chassis; bodies; electrical systems) plus critical external factors that engineers need to engage with, such as hybrid technologies, vehicle efficiency, emissions control and performance optimization. * Definitive content by the leading authors in the field * A thorough resource, providing all the essential material needed by automotive and mechanical engineers on a day-to-day basis * Fundamentals, key techniques, engineering best practice and know-how together in one quick-reference sourcebook * Focuses on what engineers need to know: engineering fundaments, key associated technologies, environmental and efficiency engineering, and sustainability, as well as market-driven requirements such as reliability, safety, and comfort * Accompanied by multi-body dynamics and tire dynamic modeling software",
+      "cited_by_count": 65,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Vehicle Dynamics and Control Systems",
+        "Electric and Hybrid Vehicle Technologies",
+        "Mechanical Engineering and Vibrations Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W643473774"
+    },
+    {
+      "openalex_id": "W1978097392",
+      "doi": "10.1007/s002239900646",
+      "title": "Stimulation of Bone Formation by Recombinant Fibroblast Growth Factor-2 in Callotasis Bone Lengthening of Rabbits",
+      "authors": [
+        {
+          "name": "H. Okazaki",
+          "openalex_id": "A5083693873"
+        },
+        {
+          "name": "T. Kurokawa",
+          "openalex_id": "A5083386014",
+          "orcid": "https://orcid.org/0000-0002-6702-7940",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Kentaro Nakamura",
+          "openalex_id": "A5073995085",
+          "orcid": "https://orcid.org/0000-0001-9115-589X",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Takashi Matsushita",
+          "openalex_id": "A5084931452",
+          "orcid": "https://orcid.org/0000-0002-1617-086X",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Kazuhiro Mamada",
+          "openalex_id": "A5048965607",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        },
+        {
+          "name": "Hiroshi Kawaguchi",
+          "openalex_id": "A5047079133",
+          "orcid": "https://orcid.org/0000-0001-7091-4324",
+          "institutions": [
+            "The University of Tokyo"
+          ]
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-06-01",
+      "abstract": null,
+      "cited_by_count": 103,
+      "type": "article",
+      "source": {
+        "name": "Calcified Tissue International",
+        "type": "journal",
+        "issn": [
+          "0171-967X",
+          "1432-0827"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Bone fractures and treatments",
+        "Connective tissue disorders research",
+        "Fibroblast Growth Factor Research"
+      ],
+      "referenced_works_count": 34,
+      "url": "https://openalex.org/W1978097392"
+    },
+    {
+      "openalex_id": "W3210332717",
+      "doi": "10.1016/j.spc.2021.10.012",
+      "title": "Supply chain resilience in a Covid-19 scenario: Mapping capabilities in a systemic framework",
+      "authors": [
+        {
+          "name": "M\u00e1rcio Lopes Pimenta",
+          "openalex_id": "A5011244945",
+          "orcid": "https://orcid.org/0000-0003-3899-3274",
+          "institutions": [
+            "Universidade Federal de Uberl\u00e2ndia"
+          ]
+        },
+        {
+          "name": "Luciana Oranges Cezarino",
+          "openalex_id": "A5009220510",
+          "orcid": "https://orcid.org/0000-0001-5556-8275"
+        },
+        {
+          "name": "\u00c9derson Luiz Piato",
+          "openalex_id": "A5078870209",
+          "orcid": "https://orcid.org/0000-0002-6403-3288",
+          "institutions": [
+            "Universidade Federal de S\u00e3o Carlos"
+          ]
+        },
+        {
+          "name": "Cl\u00e1udio Heleno Pinto da Silva",
+          "openalex_id": "A5072790533",
+          "institutions": [
+            "Universidade Federal de Uberl\u00e2ndia"
+          ]
+        },
+        {
+          "name": "Bruno Garcia de Oliveira",
+          "openalex_id": "A5006489888",
+          "orcid": "https://orcid.org/0000-0003-4257-5542",
+          "institutions": [
+            "Universidade Federal de Goi\u00e1s"
+          ]
+        },
+        {
+          "name": "Lara Bartocci Liboni",
+          "openalex_id": "A5004818565",
+          "orcid": "https://orcid.org/0000-0002-4729-7943",
+          "institutions": [
+            "Universidade de S\u00e3o Paulo"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-10-31",
+      "abstract": null,
+      "cited_by_count": 84,
+      "type": "article",
+      "source": {
+        "name": "Sustainable Production and Consumption",
+        "type": "journal",
+        "issn": [
+          "2352-5509"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10225302/pdf/main.pdf"
+      },
+      "topics": [
+        "Supply Chain Resilience and Risk Management",
+        "Sustainable Supply Chain Management",
+        "Quality and Supply Management"
+      ],
+      "referenced_works_count": 46,
+      "url": "https://openalex.org/W3210332717"
+    },
+    {
+      "openalex_id": "W2012721678",
+      "doi": "10.2139/ssrn.2169725",
+      "title": "Environmental Tax Reform: Principles from Theory and Practice to Date",
+      "authors": [
+        {
+          "name": "Dirk Heine",
+          "openalex_id": "A5086964435",
+          "institutions": [
+            "Universit\u00e4t Hamburg",
+            "University of Bologna",
+            "Erasmus University Rotterdam",
+            "World Bank",
+            "Institute of Law"
+          ]
+        },
+        {
+          "name": "John Norregaard",
+          "openalex_id": "A5108621683",
+          "institutions": [
+            "International Monetary Fund"
+          ]
+        },
+        {
+          "name": "Ian Parry",
+          "openalex_id": "A5072940877",
+          "institutions": [
+            "International Monetary Fund"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": null,
+      "cited_by_count": 40,
+      "type": "article",
+      "source": {
+        "name": "SSRN Electronic Journal",
+        "type": "repository",
+        "issn": [
+          "1556-5068"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.2139/ssrn.2169725"
+      },
+      "topics": [
+        "Energy, Environment, and Transportation Policies",
+        "Climate Change Policy and Economics",
+        "Fiscal Policy and Economic Growth"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W2012721678"
+    },
+    {
+      "openalex_id": "W2585062906",
+      "doi": "10.1108/imds-01-2016-0038",
+      "title": "How transformational leadership facilitates e-business adoption",
+      "authors": [
+        {
+          "name": "Lirios Al\u00f3s-Sim\u00f3",
+          "openalex_id": "A5074135490",
+          "orcid": "https://orcid.org/0000-0001-6949-7973",
+          "institutions": [
+            "Universitat de Miguel Hern\u00e1ndez d'Elx"
+          ]
+        },
+        {
+          "name": "Antonio Jos\u00e9 Verd\u00fa Jover",
+          "openalex_id": "A5077116650",
+          "orcid": "https://orcid.org/0000-0002-6201-7196",
+          "institutions": [
+            "Universitat de Miguel Hern\u00e1ndez d'Elx"
+          ]
+        },
+        {
+          "name": "Jos\u00e9\u2010Mar\u00eda G\u00f3mez\u2010Gras",
+          "openalex_id": "A5018504669",
+          "institutions": [
+            "Universitat de Miguel Hern\u00e1ndez d'Elx"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-03-06",
+      "abstract": "Purpose The purpose of this paper is to examine theoretically and empirically what type of leadership facilitates e-business adoption in large manufacturing firms. The digital transformation of firms requires leadership that can promote the adaptive quality of organizational culture. Design/methodology/approach The authors conducted an empirical study using two key informants from a sample of 181 incumbent firms. Findings The authors find significant evidence that adaptive culture is the vehicle by which transformational leaders positively influence e-business adoption. Originality/value Given the digital economy\u2019s external pressures, many e-business adoption processes fail due to organizational factors originating in leadership and its capability to change followers\u2019 values, norms, and motivations. To solve this problem, the authors propose a model that explains how transformational leadership first plays a key role in changing characteristics of culture and then facilitates e-business adoption.",
+      "cited_by_count": 80,
+      "type": "article",
+      "source": {
+        "name": "Industrial Management & Data Systems",
+        "type": "journal",
+        "issn": [
+          "0263-5577",
+          "1758-5783"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Technology Adoption and User Behaviour",
+        "Innovation Diffusion and Forecasting",
+        "Organizational Leadership and Management Strategies"
+      ],
+      "referenced_works_count": 105,
+      "url": "https://openalex.org/W2585062906"
+    },
+    {
+      "openalex_id": "W1972403135",
+      "doi": "10.1161/hc4601.099405",
+      "title": "Adenovirus-Mediated Gene Transfer of a Secreted Transforming Growth Factor-\u03b2 Type II Receptor Inhibits Luminal Loss and Constrictive Remodeling After Coronary Angioplasty and Enhances Adventitial Collagen Deposition",
+      "authors": [
+        {
+          "name": "Paul A. Kingston",
+          "openalex_id": "A5029855122"
+        },
+        {
+          "name": "Sanjay Sinha",
+          "openalex_id": "A5048692866",
+          "orcid": "https://orcid.org/0000-0001-5900-1209"
+        },
+        {
+          "name": "Anne David",
+          "openalex_id": "A5108268208"
+        },
+        {
+          "name": "Mar\u00eda G. Castro",
+          "openalex_id": "A5082380342",
+          "orcid": "https://orcid.org/0000-0003-2237-2756"
+        },
+        {
+          "name": "Pedro R. L\u00f6wenstein",
+          "openalex_id": "A5080277287",
+          "orcid": "https://orcid.org/0000-0002-8427-4409"
+        },
+        {
+          "name": "Anthony M. Heagerty",
+          "openalex_id": "A5013970531",
+          "orcid": "https://orcid.org/0000-0002-9043-2119"
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-11-20",
+      "abstract": "Background Extracellular matrix (ECM) remodeling is central to the development of restenosis after coronary angioplasty (PTCA). As a regulator of ECM deposition by vascular cells, substantial evidence implicates transforming growth factor-\u03b21 (TGF-\u03b21) in the pathogenesis of restenosis. We investigated the effects of intracoronary expression of a transgenic antagonist of TGF-\u03b21 on luminal loss after PTCA. Methods and Results Porcine coronary arteries were randomized to receive a recombinant adenovirus expressing a secreted form of TGF-\u03b2 type II receptor (Ad5-RIIs), an adenovirus expressing \u03b2-galactosidase (Ad5- lacZ ), or vehicle only by intramural injection at the site of PTCA. Computerized morphometry 28 days after angioplasty revealed a greater minimum luminal area in Ad5-RIIs\u2013injected arteries (1.71\u00b10.12 mm 2 ) than in the Ad5- lacZ (1.33\u00b10.13 mm 2 ) or vehicle-only (1.08\u00b10.17 mm 2 ; P =0.010 by ANOVA) groups. This was accompanied by greater areas within the internal ( P =0.013) and external ( P =0.031) elastic laminae in Ad5-RIIs\u2013treated vessels. Adventitial collagen content at the site of injury was increased in the Ad5-RIIs group, in contrast to decreases in the Ad5- lacZ and vehicle-only groups ( P =0.004). Conclusions Adenovirus-mediated antagonism of TGF-\u03b21 at the site of PTCA reduces luminal loss after PTCA by inhibiting constrictive remodeling. Antagonism of TGF-\u03b21 stimulates the formation of a dense collagenous adventitia, which prevents constrictive remodeling by acting as an external scaffold. These findings demonstrate the potential of gene therapy\u2013mediated antagonism of TGF-\u03b21 as prophylactic therapy for restenosis.",
+      "cited_by_count": 78,
+      "type": "article",
+      "source": {
+        "name": "Circulation",
+        "type": "journal",
+        "issn": [
+          "0009-7322",
+          "1524-4539"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.ahajournals.org/doi/pdf/10.1161/hc4601.099405"
+      },
+      "topics": [
+        "Coronary Interventions and Diagnostics",
+        "Cardiac and Coronary Surgery Techniques",
+        "Cell Adhesion Molecules Research"
+      ],
+      "referenced_works_count": 35,
+      "url": "https://openalex.org/W1972403135"
+    },
+    {
+      "openalex_id": "W2653854731",
+      "doi": "10.1111/1365-2435.12930",
+      "title": "Detecting elusive aspects of wildlife ecology using drones: New insights on the mating dynamics and operational sex ratios of sea turtles",
+      "authors": [
+        {
+          "name": "Gail Schofield",
+          "openalex_id": "A5002387254",
+          "orcid": "https://orcid.org/0000-0002-8438-4181",
+          "institutions": [
+            "Deakin University"
+          ]
+        },
+        {
+          "name": "Kostas A. Katselidis",
+          "openalex_id": "A5086917284",
+          "orcid": "https://orcid.org/0000-0001-9845-7444"
+        },
+        {
+          "name": "Martin K. S. Lilley",
+          "openalex_id": "A5063922764",
+          "orcid": "https://orcid.org/0000-0002-5870-3898",
+          "institutions": [
+            "Queen Mary University of London"
+          ]
+        },
+        {
+          "name": "Richard D. Reina",
+          "openalex_id": "A5081719588",
+          "orcid": "https://orcid.org/0000-0002-6221-1300",
+          "institutions": [
+            "Monash University"
+          ]
+        },
+        {
+          "name": "Graeme C. Hays",
+          "openalex_id": "A5015744219",
+          "orcid": "https://orcid.org/0000-0002-3314-8189",
+          "institutions": [
+            "Deakin University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-24",
+      "abstract": "Abstract Offspring and breeding (operational) sex ratios ( OSR ) are a key component of demographic studies. While offspring sex ratios are often relatively easy to measure, measuring OSR s is often far more problematic. Yet, highly skewed OSR s, and a lack of male\u2013female encounters, may be an important extinction driver. Using loggerhead sea turtles ( Caretta caretta ) as a case study, we showed the utility of drones, i.e. unmanned aerial vehicles ( UAV s), to distinguish adult males and females in a marine breeding area, using a combination of morphological characteristics (tail length) and behavioural differences (active mating, courting and searching by males versus resting by females). Through repeated surveys, we documented seasonal changes in the OSR . While the number, and ratio, of males and females on the breeding grounds changed massively, the ratio of receptive females (derived from the rate of influx of new individuals to the area) to breeding males remained close to 1:1 for much of the period before nesting commenced. Hence, we show how large imbalances in the number of adult males and females may translate into relatively balanced OSR s. Our results suggest that the departure of males from the breeding grounds is linked to a decline in female receptivity, with female sea turtles being known to store sperm to ensure high clutch fertility throughout the nesting season. In conclusion, while we detected up to three times more females than males at the breeding ground, at present, OSR s appear stable. However, because most males breed annually (vs. biannually by females), there might only be c . 100 males in the adult population (i.e. adult sex ratio of 1:7.5), which might become further skewed under expected climate change scenarios; thus, we need to identify the minimum number of males required to prevent extinction. Finally, we highlight the use of UAV s for assessing the mating dynamics of other marine, terrestrial or avian species, in which adults might exhibit visually detectable differences, such as sexual dimorphism, external body characteristics or grouping tendencies. A plain language summary is available for this article.",
+      "cited_by_count": 135,
+      "type": "article",
+      "source": {
+        "name": "Functional Ecology",
+        "type": "journal",
+        "issn": [
+          "0269-8463",
+          "1365-2435"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Turtle Biology and Conservation",
+        "Avian ecology and behavior",
+        "Animal Behavior and Reproduction"
+      ],
+      "referenced_works_count": 66,
+      "url": "https://openalex.org/W2653854731"
+    },
+    {
+      "openalex_id": "W2166869256",
+      "doi": "10.1146/annurev-resource-110811-114509",
+      "title": "Environmental Tax Reform: Principles from Theory and Practice",
+      "authors": [
+        {
+          "name": "Ian Parry",
+          "openalex_id": "A5072940877",
+          "institutions": [
+            "International Monetary Fund"
+          ]
+        },
+        {
+          "name": "John Norregaard",
+          "openalex_id": "A5108621683",
+          "institutions": [
+            "International Monetary Fund"
+          ]
+        },
+        {
+          "name": "Dirk Heine",
+          "openalex_id": "A5086964435"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-06-16",
+      "abstract": "On the basis of the environmental tax literature, this article recommends a system of upstream taxes on fossil fuels, combined with refunds for downstream emissions capture, to reduce carbon and local pollution emissions. Motor fuel taxes should also account for congestion and other externalities associated with vehicle use, at least until mileage-based taxes are widely introduced. An examination of existing energy/environmental tax systems in Germany, Sweden, Turkey, and Vietnam suggests that there is substantial scope for policy reform. Policy options include harmonizing taxes for pollution content across different fuels and end users, better aligning tax rates with (albeit crude) values for externalities, and scaling back excise taxes on vehicle ownership and electricity use that are redundant (on environmental grounds) in the presence of more targeted taxes.",
+      "cited_by_count": 37,
+      "type": "article",
+      "source": {
+        "name": "Annual Review of Resource Economics",
+        "type": "journal",
+        "issn": [
+          "1941-1340",
+          "1941-1359"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Energy, Environment, and Transportation Policies",
+        "Climate Change Policy and Economics",
+        "Fiscal Policy and Economic Growth"
+      ],
+      "referenced_works_count": 99,
+      "url": "https://openalex.org/W2166869256"
+    },
+    {
+      "openalex_id": "W4214910768",
+      "doi": "10.1002/aoc.6660",
+      "title": "Metal\u2013organic frameworks encapsulated with an anticancer compound as drug delivery system: Synthesis, characterization, antioxidant, anticancer, antibacterial, and molecular docking investigation",
+      "authors": [
+        {
+          "name": "Mohamed A. El\u2010Bindary",
+          "openalex_id": "A5017548976",
+          "orcid": "https://orcid.org/0000-0001-5977-1465",
+          "institutions": [
+            "Higher Institute of Engineering"
+          ]
+        },
+        {
+          "name": "Mohamed G. El\u2010Desouky",
+          "openalex_id": "A5040919440",
+          "orcid": "https://orcid.org/0000-0001-6060-463X"
+        },
+        {
+          "name": "A.A. El-Bindary",
+          "openalex_id": "A5016917468",
+          "orcid": "https://orcid.org/0000-0002-4494-3436",
+          "institutions": [
+            "Damietta University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-03-04",
+      "abstract": "Abstract Metal organic framework (MOF) hybrid materials could be one of the answers in this investigation. We describe a simple and effective encapsulation of doxorubicin (DOX), an anticancer drug, inside Zr\u2010MOF, which have been little studied as drug delivery organizations. We investigated the measured release of the drug from Zr\u2010MOF in response to external incentives such as pH changes and interaction with biomimetic schemes. Zr\u2010MOF with encapsulated doxorubicin (DOX@Zr\u2010MOF) can be manufactured in one pot by addition the anticancer medication DOX to the reaction combination. They demonstrated pH\u2010responsive medication release and cancer cell killing capability. MOFs can be designed as multifunctional distribution vehicles for a diversity of loads, including medicinal and imaging agents, using our simple one\u2010pot approach. Fourier transform infrared (FTIR), X\u2010ray diffraction, scanning electron microscopy, and N 2 sorption isotherm were used to analyze MOF and the developed drug delivery (DOX@Zr\u2010MOF) scheme. It investigated the effects of MOF and a bespoke drug delivery system on the feasibility of patient breast as well as liver tumor cell lines. At pH 5, the trapped drug can be released more quickly than at pH 7.4. Zr\u2010MOF nanoparticles had modest cytotoxicity; however, DOX@Zr\u2010MOF has higher cytotoxicity in MCF\u20107 and HepG\u20102 cells than DOX at concentrations greater than 31.25 \u03bcg ml \u22121 . These results were discovered that DOX@Zr\u2010MOF could be a promising technique for delivering medicines to cancer cells. Furthermore, using the agar well dispersion technique, Zr\u2010MOF, DOX, and captured DOX@Zr\u2010MOF samples were assessed for their potential antibacterial activity against pathogenic bacteria in comparison to traditional antibiotics. In compared to the reference medication Gentamycin, the DOX@Zr\u2010MOF exhibits a large inhibitory zone against Gram negative organisms ( Escherichia coli ). The docking active place interactions were assessed to see if DOX might bind to the breast cancer 3hb5\u2010oxidoreductase receptor, prostate cancer protein 2q7k, and SARS\u2010CoV\u20102 protease 6YB7 for anticancer and anticovid\u201019 activities.",
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Applied Organometallic Chemistry",
+        "type": "journal",
+        "issn": [
+          "0268-2605",
+          "1099-0739"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Metal-Organic Frameworks: Synthesis and Applications",
+        "X-ray Diffraction in Crystallography",
+        "Metal complexes synthesis and properties"
+      ],
+      "referenced_works_count": 36,
+      "url": "https://openalex.org/W4214910768"
+    },
+    {
+      "openalex_id": "W2170082409",
+      "doi": "10.3141/1694-02",
+      "title": "Sensory and Cognitive Factors Affecting Automotive Head-Up Display Effectiveness",
+      "authors": [
+        {
+          "name": "Kenneth W. Gish",
+          "openalex_id": "A5091222322"
+        },
+        {
+          "name": "Loren Staplin",
+          "openalex_id": "A5007770921"
+        },
+        {
+          "name": "Joseph L. Stewart",
+          "openalex_id": "A5072938320",
+          "orcid": "https://orcid.org/0009-0008-6595-7985"
+        },
+        {
+          "name": "Michael Perel",
+          "openalex_id": "A5085138695",
+          "institutions": [
+            "National Highway Traffic Safety Administration"
+          ]
+        }
+      ],
+      "publication_year": 1999,
+      "publication_date": "1999-01-01",
+      "abstract": "Automotive head-up displays (HUDs) present virtual images that are focused beyond the standard instrument panel distance and that appear to be superimposed on the driver\u2019s view of the road environment. The study assessed HUD benefits and interference potential with respect to performance of in-vehicle driving tasks and response to safety-critical roadway events under various ambient light levels by older versus younger drivers. The primary baseline against which HUD performance was evaluated was a head-down display with the same message format, content, brightness, and angular size. Performance with both visual displays was compared with auditory display (AD) performance to assess channel interference. Safety-critical road events were captured on video and were presented to observers seated in a fixed-base, part-task driving simulator. Single- and dual-task trials were presented randomly within a block of trials. Measures of response accuracy and time were obtained for in-vehicle and external targets. Eye and head movements were videotaped to assess changes in scanning behavior caused by the in-vehicle displays and external targets. The analyses revealed that performances with the HUD and the head-down display were similar, whereas performance with AD was typically more accurate and faster for both in-vehicle and external responses. HUD benefits were obtained for overall response times to external targets and responses to collision avoidance warnings. Evidence for contrast interference and \u201ccognitive capture\u201d with HUDs and \u201cresponse capture\u201d with AD was also obtained. Implications for HUD safety and design are discussed.",
+      "cited_by_count": 33,
+      "type": "article",
+      "source": {
+        "name": "Transportation Research Record Journal of the Transportation Research Board",
+        "type": "journal",
+        "issn": [
+          "0361-1981",
+          "2169-4052"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Human-Automation Interaction and Safety",
+        "Older Adults Driving Studies",
+        "Traffic and Road Safety"
+      ],
+      "referenced_works_count": 11,
+      "url": "https://openalex.org/W2170082409"
+    },
+    {
+      "openalex_id": "W3046021284",
+      "doi": "10.1108/ijlm-11-2018-0294",
+      "title": "An information management approach for supply chain disruption recovery",
+      "authors": [
+        {
+          "name": "Dario Messina",
+          "openalex_id": "A5018387475",
+          "orcid": "https://orcid.org/0000-0003-1093-8396",
+          "institutions": [
+            "Universidade do Porto",
+            "INESC TEC"
+          ]
+        },
+        {
+          "name": "Ana Cristina Barros",
+          "openalex_id": "A5044747402",
+          "orcid": "https://orcid.org/0000-0003-2867-9644",
+          "institutions": [
+            "INESC TEC"
+          ]
+        },
+        {
+          "name": "Ant\u00f3nio Lucas Soares",
+          "openalex_id": "A5014400101",
+          "orcid": "https://orcid.org/0000-0001-5853-5137",
+          "institutions": [
+            "Universidade do Porto",
+            "INESC TEC"
+          ]
+        },
+        {
+          "name": "Aristides Matopoulos",
+          "openalex_id": "A5042515542",
+          "orcid": "https://orcid.org/0000-0002-5083-0534",
+          "institutions": [
+            "Aston University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-06",
+      "abstract": "Purpose To study how supply chain decision makers gather, process and use the available internal and external information when facing supply chain disruptions. Design/methodology/approach The paper reviews relevant supply chain literature to build an information management model for disruption management. Afterwards, three case studies in the vehicle assembly sector, namely cars, trucks and aircraft wings, bring the empirical insights to the information management model. Findings This research characterises the phases of disruption management and identifies the information companies use to recover from a variety of disruptive events. It presents an information management model to enhance supply chain visibility and support disruption management at the operational level. Moreover, it arrives at two design propositions to help companies in the redesign of their disruption discovery and recovery processes. Originality/value This research studies how companies manage operational disruptions. The proposed information management model allows to provide visibility to support the disruption management process. Also, based on the analysis of the disruptions occurring at the operational level we propose a conceptual model to support decision makers in the recovery from daily disruptive events.",
+      "cited_by_count": 75,
+      "type": "article",
+      "source": {
+        "name": "The International Journal of Logistics Management",
+        "type": "journal",
+        "issn": [
+          "0957-4093",
+          "1758-6550"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Supply Chain Resilience and Risk Management",
+        "Quality and Supply Management",
+        "Sustainable Supply Chain Management"
+      ],
+      "referenced_works_count": 55,
+      "url": "https://openalex.org/W3046021284"
+    },
+    {
+      "openalex_id": "W2081595985",
+      "doi": "10.1016/j.bpj.2008.10.057",
+      "title": "Oleoylethanolamide-Based Lyotropic Liquid Crystals as Vehicles for Delivery of Amino Acids in Aqueous Environment",
+      "authors": [
+        {
+          "name": "Sayed Z. Mohammady",
+          "openalex_id": "A5074733747",
+          "orcid": "https://orcid.org/0000-0002-3815-3825",
+          "institutions": [
+            "Cairo University"
+          ]
+        },
+        {
+          "name": "Matthieu Pouzot",
+          "openalex_id": "A5023126849",
+          "institutions": [
+            "Nestl\u00e9 (Switzerland)"
+          ]
+        },
+        {
+          "name": "Raffaele Mezzenga",
+          "openalex_id": "A5016207882",
+          "orcid": "https://orcid.org/0000-0002-5739-2610",
+          "institutions": [
+            "Nestl\u00e9 (Switzerland)",
+            "University of Fribourg"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-02-01",
+      "abstract": null,
+      "cited_by_count": 63,
+      "type": "article",
+      "source": {
+        "name": "Biophysical Journal",
+        "type": "journal",
+        "issn": [
+          "0006-3495",
+          "1542-0086"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.cell.com/article/S000634950803227X/pdf"
+      },
+      "topics": [
+        "Lipid Membrane Structure and Behavior",
+        "Surfactants and Colloidal Systems",
+        "Analytical Chemistry and Chromatography"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W2081595985"
+    },
+    {
+      "openalex_id": "W2402702445",
+      "doi": "10.1108/ijopm-03-2015-0179",
+      "title": "Exploring the influence of big data on city transport operations: a Markovian approach",
+      "authors": [
+        {
+          "name": "Rashid Mehmood",
+          "openalex_id": "A5077619272",
+          "orcid": "https://orcid.org/0000-0002-4997-5322",
+          "institutions": [
+            "King Abdulaziz University"
+          ]
+        },
+        {
+          "name": "Royston Meriton",
+          "openalex_id": "A5060301811",
+          "orcid": "https://orcid.org/0000-0002-3112-7894",
+          "institutions": [
+            "University of Leeds"
+          ]
+        },
+        {
+          "name": "Gary Graham",
+          "openalex_id": "A5006442255",
+          "orcid": "https://orcid.org/0000-0002-9908-4974",
+          "institutions": [
+            "University of Leeds"
+          ]
+        },
+        {
+          "name": "Patrick Hennelly",
+          "openalex_id": "A5061543501",
+          "orcid": "https://orcid.org/0000-0002-0442-448X",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Mukesh Kumar",
+          "openalex_id": "A5082958320",
+          "orcid": "https://orcid.org/0000-0002-1961-5078",
+          "institutions": [
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-03",
+      "abstract": "Purpose The purpose of this paper is to advance knowledge of the transformative potential of big data on city-based transport models. The central question guiding this paper is: how could big data transform smart city transport operations? In answering this question the authors present initial results from a Markov study. However the authors also suggest caution in the transformation potential of big data and highlight the risks of city and organizational adoption. A theoretical framework is presented together with an associated scenario which guides the development of a Markov model. Design/methodology/approach A model with several scenarios is developed to explore a theoretical framework focussed on matching the transport demands (of people and freight mobility) with city transport service provision using big data. This model was designed to illustrate how sharing transport load (and capacity) in a smart city can improve efficiencies in meeting demand for city services. Findings This modelling study is an initial preliminary stage of the investigation in how big data could be used to redefine and enable new operational models. The study provides new understanding about load sharing and optimization in a smart city context. Basically the authors demonstrate how big data could be used to improve transport efficiency and lower externalities in a smart city. Further how improvement could take place by having a car free city environment, autonomous vehicles and shared resource capacity among providers. Research limitations/implications The research relied on a Markov model and the numerical solution of its steady state probabilities vector to illustrate the transformation of transport operations management (OM) in the future city context. More in depth analysis and more discrete modelling are clearly needed to assist in the implementation of big data initiatives and facilitate new innovations in OM. The work complements and extends that of Setia and Patel (2013), who theoretically link together information system design to operation absorptive capacity capabilities. Practical implications The study implies that transport operations would actually need to be re-organized so as to deal with lowering CO 2 footprint. The logistic aspects could be seen as a move from individual firms optimizing their own transportation supply to a shared collaborative load and resourced system. Such ideas are radical changes driven by, or leading to more decentralized rather than having centralized transport solutions (Caplice, 2013). Social implications The growth of cities and urban areas in the twenty-first century has put more pressure on resources and conditions of urban life. This paper is an initial first step in building theory, knowledge and critical understanding of the social implications being posed by the growth in cities and the role that big data and smart cities could play in developing a resilient and sustainable transport city system. Originality/value Despite the importance of OM to big data implementation, for both practitioners and researchers, we have yet to see a systematic analysis of its implementation and its absorptive capacity contribution to building capabilities, at either city system or organizational levels. As such the Markov model makes a preliminary contribution to the literature integrating big data capabilities with OM capabilities and the resulting improvements in system absorptive capacity.",
+      "cited_by_count": 153,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Operations & Production Management",
+        "type": "journal",
+        "issn": [
+          "0144-3577",
+          "1758-6593"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dspace.lboro.ac.uk/2134/24964"
+      },
+      "topics": [
+        "Transportation Planning and Optimization",
+        "Transportation and Mobility Innovations",
+        "Traffic Prediction and Management Techniques"
+      ],
+      "referenced_works_count": 84,
+      "url": "https://openalex.org/W2402702445"
+    },
+    {
+      "openalex_id": "W2031158103",
+      "doi": "10.1107/s0021889810022120",
+      "title": "<i>publCIF</i>: software for editing, validating and formatting crystallographic information files",
+      "authors": [
+        {
+          "name": "Simon P. Westrip",
+          "openalex_id": "A5059459496",
+          "orcid": "https://orcid.org/0000-0002-1287-9548"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-06-24",
+      "abstract": "publCIF is an application designed for creating, editing and validating crystallographic information files (CIFs) that are used in journal publication. It validates syntax and dictionary-defined data attributes through internal routines, and also provides a web interface to the checkCIF service of the International Union of Crystallography (IUCr), which provides a full crystallographic analysis of the structural data. The graphical interface allows users to edit the CIF either in its `raw' ASCII form (using a text editor with context-sensitive data validation and input facilities) or as a formatted representation of a structure report (using a word-processing environment), as well as via a number of convenience tools ( e.g. spreadsheet representations of looped data). Beyond file and data validation, publCIF provides access to resources to facilitate preparation of a structure report ( e.g. databases of author details, experimental data, standard references etc ., either distributed with the program or collected during its use), along with tools for reference parsing, spell checking, structure visualization and image management. publCIF was commissioned by the IUCr, both as free software for authors and as a tool for in-house journal production; the tool for authors is described here. Binary distributions for Linux, MacOS and Windows operating systems are available.",
+      "cited_by_count": 5359,
+      "type": "article",
+      "source": {
+        "name": "Journal of Applied Crystallography",
+        "type": "journal",
+        "issn": [
+          "0021-8898",
+          "1600-5767"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://journals.iucr.org/j/issues/2010/04/00/ce5089/ce5089.pdf"
+      },
+      "topics": [
+        "Enzyme Structure and Function",
+        "Crystallization and Solubility Studies",
+        "Hydrocarbon exploration and reservoir analysis"
+      ],
+      "referenced_works_count": 5,
+      "url": "https://openalex.org/W2031158103"
+    },
+    {
+      "openalex_id": "W2945466105",
+      "doi": "10.1098/rsta.2018.0101",
+      "title": "Understanding the ionosphere thermosphere response to solar and magnetospheric drivers: status, challenges and open issues",
+      "authors": [
+        {
+          "name": "T. E. Sarris",
+          "openalex_id": "A5087810394",
+          "orcid": "https://orcid.org/0000-0002-0336-2678",
+          "institutions": [
+            "Democritus University of Thrace"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-13",
+      "abstract": "The ionosphere and thermosphere (IT) constitutes a coupled, complex and dynamical electromagnetic and photochemical system, which is sensitive to a combination of external factors: particle precipitation and electrical currents from the Earth's magnetosphere and incoming solar radiation produce dramatic effects in the IT and significantly alter its energetics, dynamics and chemistry in a way that is not well understood. This sensitivity of the IT to external factors results in large, yet often unpredictable changes in many of the variables in the IT, such as in its density, temperature, neutral and ion winds, total electron content, neutral and ion composition, electric fields, currents and conductivities. External forcing of the IT system varies over different time-scales, such as solar cycle (11-year), inter-annual (e.g. quasi-biennial), seasonal and diurnal; on top of these, geomagnetic disturbances caused by solar storms and substorms can lead to abrupt reconfigurations of the magnetospheric field-aligned and horizontal currents, setting a number of electrodynamics processes in motion. The overlapping physical and chemical phenomena occur at a range of temporal and spatial scales that are highly difficult to understand as a whole. The importance of the behaviour of this region to multiple issues related to aerospace technology, such as orbital calculations, vehicle re-entry, space debris lifetime, etc., and its potential threats to modern, technology-dependent society via geomagnetically induced currents and ionospheric scintillation of Global Navigation Satellite System signals, dictate that a more detailed understanding and accurate modelling are urgently needed. In this paper, we review the status of characterization and some of the key open issues and challenges of the IT, focusing on measurement gaps in this region as well as areas of largest discrepancies between models and data. This article is part of the theme issue \u2018Solar eruptions and their space weather impact\u2019.",
+      "cited_by_count": 52,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+        "type": "journal",
+        "issn": [
+          "1364-503X",
+          "1471-2962"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Ionosphere and magnetosphere dynamics",
+        "Solar and Space Plasma Dynamics",
+        "Earthquake Detection and Analysis"
+      ],
+      "referenced_works_count": 50,
+      "url": "https://openalex.org/W2945466105"
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

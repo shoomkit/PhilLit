@@ -1,0 +1,1041 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "complementarity hypothesis offloading",
+  "results": [
+    {
+      "openalex_id": "W4380446133",
+      "doi": "10.7551/mitpress/8535.003.0009",
+      "title": "Exograms and Interdisciplinarity: History, the Extended Mind, and the Civilizing Process",
+      "authors": [
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-05-21",
+      "abstract": null,
+      "cited_by_count": 123,
+      "type": "book-chapter",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Interdisciplinary Research and Collaboration"
+      ],
+      "referenced_works_count": 119,
+      "url": "https://openalex.org/W4380446133"
+    },
+    {
+      "openalex_id": "W2107951500",
+      "doi": "10.1016/j.cogsys.2013.06.002",
+      "title": "The dialogically extended mind: Language as skilful intersubjective engagement",
+      "authors": [
+        {
+          "name": "Riccardo Fusaroli",
+          "openalex_id": "A5018733566",
+          "orcid": "https://orcid.org/0000-0003-4775-5219",
+          "institutions": [
+            "Aarhus University"
+          ]
+        },
+        {
+          "name": "Nivedita Gangopadhyay",
+          "openalex_id": "A5026693206",
+          "orcid": "https://orcid.org/0000-0002-5051-0186",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        },
+        {
+          "name": "Kristian Tyl\u00e9n",
+          "openalex_id": "A5023034161",
+          "orcid": "https://orcid.org/0000-0001-7492-0078",
+          "institutions": [
+            "Aarhus University"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-06-30",
+      "abstract": null,
+      "cited_by_count": 59,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Systems Research",
+        "type": "journal",
+        "issn": [
+          "1389-0417",
+          "2214-4366"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S138904171300034X"
+      },
+      "topics": [
+        "Language, Metaphor, and Cognition",
+        "Action Observation and Synchronization",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 114,
+      "url": "https://openalex.org/W2107951500"
+    },
+    {
+      "openalex_id": "W2966502239",
+      "doi": "10.3389/fpsyg.2019.01856",
+      "title": "Economic Reasoning and Interaction in Socially Extended Market Institutions",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Wollongong"
+          ]
+        },
+        {
+          "name": "Antonio Mastrogiorgio",
+          "openalex_id": "A5069992136",
+          "orcid": "https://orcid.org/0000-0002-0835-5557",
+          "institutions": [
+            "University of Chieti-Pescara"
+          ]
+        },
+        {
+          "name": "Enrico Petracca",
+          "openalex_id": "A5006405932",
+          "orcid": "https://orcid.org/0000-0001-7572-8117",
+          "institutions": [
+            "University of Bologna"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-19",
+      "abstract": "An important part of what it means for agents to be situated in the everyday world of human affairs includes their engagement with economic practices. In this paper, we employ the concept of cognitive institutions in order to provide an enactive and interactive interpretation of market and economic reasoning. We challenge traditional views that understand markets in terms of market structures or as processors of distributed information. The alternative conception builds upon the notion of the market as a \"scaffolding institution.\" Introducing the concept of market as a \"socially extended\" cognitive institution we go beyond the notion of scaffolding to provide an enactive view of economic reasoning that understands the market participant in terms of social interactive processes and relational autonomy. Markets are more than inert devices for information processing; they can be viewed as \"highly scaffolded,\" where strong constraints and incentives predictably direct agents' behavior. Building on this idea we argue that markets emerge from (a) the economic interaction of both supply and demand sides, in continual and mutual interplay, and (b) more basic social interactions. Consumer behavior in the marketplace is complex, not only contributing to determine the market price, but also extending the consumer's cognitive processes to reliably attain a correct evaluation of the good. Moreover, this economic reasoning is socially situated and not something done in isolation from other consumers. From a socially situated, interactive point of view buying or not buying a good is something that enacts the market. This shifts the status of markets from external institutions that merely causally affect participants' cognitive processes to social institutions that constitutively extend these cognitive processes. On this view the constraints imposed by social interactions, as well as the possibilities enabled by such interactions, are such that economic reasoning is never just an individual process carried out by an autonomous individual, classically understood. In this regard, understanding the concept of relational autonomy allows us to see how economic reasoning is always embodied, embedded in, and scaffolded by intersubjective interactions, and how such interactions make the market what it is.",
+      "cited_by_count": 39,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01856/pdf"
+      },
+      "topics": [
+        "Economic Theory and Institutions",
+        "Experimental Behavioral Economics Studies",
+        "Management and Organizational Studies"
+      ],
+      "referenced_works_count": 115,
+      "url": "https://openalex.org/W2966502239"
+    },
+    {
+      "openalex_id": "W4214869332",
+      "doi": "10.1109/comst.2022.3156207",
+      "title": "A Tutorial on Mathematical Modeling of 5G/6G Millimeter Wave and Terahertz Cellular Systems",
+      "authors": [
+        {
+          "name": "Dmitri Moltchanov",
+          "openalex_id": "A5088224958",
+          "orcid": "https://orcid.org/0000-0003-4007-7187",
+          "institutions": [
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "Eduard Sopin",
+          "openalex_id": "A5091411374",
+          "orcid": "https://orcid.org/0000-0001-9082-2152",
+          "institutions": [
+            "Peoples' Friendship University of Russia",
+            "Institute of Informatics Problems",
+            "Russian Academy of Sciences"
+          ]
+        },
+        {
+          "name": "Vyacheslav Begishev",
+          "openalex_id": "A5031412779",
+          "orcid": "https://orcid.org/0000-0002-7232-4157",
+          "institutions": [
+            "Peoples' Friendship University of Russia"
+          ]
+        },
+        {
+          "name": "Andrey Samuylov",
+          "openalex_id": "A5046152323",
+          "orcid": "https://orcid.org/0000-0002-2087-769X",
+          "institutions": [
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "Yevgeni Koucheryavy",
+          "openalex_id": "A5015032841",
+          "orcid": "https://orcid.org/0000-0003-3976-297X",
+          "institutions": [
+            "National Research University Higher School of Economics",
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "Konstantin Samouylov",
+          "openalex_id": "A5090121708",
+          "orcid": "https://orcid.org/0000-0002-6368-9680",
+          "institutions": [
+            "Russian Academy of Sciences",
+            "Institute of Informatics Problems",
+            "Peoples' Friendship University of Russia"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Millimeter wave (mmWave) and terahertz (THz) radio access technologies (RAT) are expected to become a critical part of the future cellular ecosystem providing an abundant amount of bandwidth in areas with high traffic demands. However, extremely directional antenna radiation patterns that need to be utilized at both transmit and receive sides of a link to overcome severe path losses, dynamic blockage of propagation paths by large static and small dynamic objects, macro- and micromobility of user equipment (UE) makes provisioning of reliable service over THz/mmWave RATs an extremely complex task. This challenge is further complicated by the type of applications envisioned for these systems inherently requiring guaranteed bitrates at the air interface. This tutorial aims to introduce a versatile mathematical methodology for assessing performance reliability improvement algorithms for mmWave and THz systems. Our methodology accounts for both radio interface specifics as well as service process of sessions at mmWave/THz base stations (BS) and is capable of evaluating the performance of systems with multiconnectivity operation, resource reservation mechanisms, priorities between multiple traffic types having different service requirements. The framework is logically separated into two parts: (i) parameterization part that abstracts the specifics of deployment and radio mechanisms, and (ii) queuing part, accounting for details of the service process at mmWave/THz BSs. The modular decoupled structure of the framework allows for further extensions to advanced service mechanisms in prospective mmWave/THz cellular deployments while keeping the complexity manageable and thus making it attractive for system analysts.",
+      "cited_by_count": 127,
+      "type": "article",
+      "source": {
+        "name": "IEEE Communications Surveys & Tutorials",
+        "type": "journal",
+        "issn": [
+          "1553-877X",
+          "2373-745X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/9739/9779264/09726709.pdf"
+      },
+      "topics": [
+        "Millimeter-Wave Propagation and Modeling",
+        "Advanced MIMO Systems Optimization",
+        "Power Line Communications and Noise"
+      ],
+      "referenced_works_count": 239,
+      "url": "https://openalex.org/W4214869332"
+    },
+    {
+      "openalex_id": "W4383742778",
+      "doi": "10.1017/9781009209793",
+      "title": "Embodied and Enactive Approaches to Cognition",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929",
+          "institutions": [
+            "University of Memphis",
+            "University of Wollongong"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-11",
+      "abstract": "This Element discusses contemporary theories of embodied cognition, including what has been termed the '4Es' (embodied, embedded, extended and enactive cognition). It examines diverse approaches to questions about the nature of the mind, the mind's relation to the brain, perceptual experience, mental representation, sense making, the role of the environment, and social cognition, and it considers the strengths and weaknesses of the theories in question. It contrasts embodied and enactive views with classic cognitivism, and discusses major criticisms and their possible resolutions. This element also provides a strong focus on enactive theory and the prospects for integrating enactive approaches with other embodied and extended theories, mediated through recent developments in predictive processing and the free energy principle. It concludes with a brief discussion of the practical applications of embodied cognition. This title is also available as Open Access on Cambridge Core.",
+      "cited_by_count": 135,
+      "type": "book",
+      "source": {
+        "name": "Cambridge University Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FFAB4E136E12255CD3139A87ECB2DCAD/9781009209809AR.pdf/embodied-and-enactive-approaches-to-cognition.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 267,
+      "url": "https://openalex.org/W4383742778"
+    },
+    {
+      "openalex_id": "W3009654890",
+      "doi": "10.1007/s11187-019-00309-8",
+      "title": "Global drivers of cryptocurrency infrastructure adoption",
+      "authors": [
+        {
+          "name": "Ed Saiedi",
+          "openalex_id": "A5074740414",
+          "orcid": "https://orcid.org/0000-0003-3679-1222",
+          "institutions": [
+            "Universidad Polit\u00e9cnica de Madrid",
+            "KTH Royal Institute of Technology"
+          ]
+        },
+        {
+          "name": "Anders Brostr\u00f6m",
+          "openalex_id": "A5071032628",
+          "orcid": "https://orcid.org/0000-0003-0820-2769",
+          "institutions": [
+            "KTH Royal Institute of Technology"
+          ]
+        },
+        {
+          "name": "Felipe Ruiz\u2010Moreno",
+          "openalex_id": "A5102886665",
+          "orcid": "https://orcid.org/0000-0002-1848-2701",
+          "institutions": [
+            "Universidad Polit\u00e9cnica de Madrid"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-03-02",
+      "abstract": "Abstract A vast digital ecosystem of entrepreneurship and exchange has sprung up with Bitcoin\u2019s digital infrastructure at its core. We explore the worldwide spread of infrastructure necessary to maintain and grow Bitcoin as a system (Bitcoin nodes) and infrastructure enabling the use of bitcoins for everyday economic transactions (Bitcoin merchants). Specifically, we investigate the role of legal, criminal, financial, and social determinants of the adoption of Bitcoin infrastructure. We offer some support for the view that the adoption of cryptocurrency infrastructure is driven by perceived failings of traditional financial systems, in that the spread of Bitcoin infrastructure is associated with low trust in banks and the financial system among inhabitants of a region, and with the occurrence of country-level inflation crises. On the other hand, our findings also suggest that active support for Bitcoin is higher in locations with well-developed banking services. Finally, we find support for the view that bitcoin adoption is also partly driven by cryptocurrencies\u2019 usefulness in engaging in illicit trade.",
+      "cited_by_count": 146,
+      "type": "article",
+      "source": {
+        "name": "Small Business Economics",
+        "type": "journal",
+        "issn": [
+          "0921-898X",
+          "1573-0913"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11187-019-00309-8.pdf"
+      },
+      "topics": [
+        "Blockchain Technology Applications and Security",
+        "FinTech, Crowdfunding, Digital Finance",
+        "Crime, Illicit Activities, and Governance"
+      ],
+      "referenced_works_count": 158,
+      "url": "https://openalex.org/W3009654890"
+    },
+    {
+      "openalex_id": "W3131414727",
+      "doi": "10.1007/s10539-021-09782-6",
+      "title": "Limiting the explanatory scope of extended active inference: the implications of a causal pattern analysis of selective niche construction, developmental niche construction, and organism-niche coordination dynamics",
+      "authors": [
+        {
+          "name": "Regina E. Fabry",
+          "openalex_id": "A5009657680",
+          "orcid": "https://orcid.org/0000-0003-1078-1499",
+          "institutions": [
+            "Ruhr University Bochum"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-02-01",
+      "abstract": "Abstract Research in evolutionary biology and philosophy of biology and cognition strongly suggests that human organisms modify their environment through active processes of niche construction. Recently, proponents of the free-energy principle and variational active inference have argued that their approach can deepen our understanding of the reciprocal causal relationship between organisms and their niche on various scales. This paper examines the feasibility and scope of variational formalisations and conceptualisations of the organism-niche nexus with a particular focus on the extended active inference account. I will draw a conceptual distinction between selective niche construction, developmental niche construction, and organism-niche coordination dynamics and argue that these notions capture different causal patterns, each of which with a distinct scope. Against this background, I will analyse and discuss the extended active inference account and its strategy to integrate variational active inference with work on extended cognition. The proponents of extended active inference assume that their account can provide an explanation of selective niche construction, developmental niche construction, and organism-niche coordination dynamics. However, my key claim will be that this account has the potential to elucidate the workings of organism-niche coordination dynamics, but does not adequately capture the causal patterns of selective niche construction and developmental niche construction.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "Biology & Philosophy",
+        "type": "journal",
+        "issn": [
+          "0169-3867",
+          "1572-8404"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10539-021-09782-6.pdf"
+      },
+      "topics": [
+        "Philosophy and History of Science",
+        "Embodied and Extended Cognition",
+        "Evolutionary Game Theory and Cooperation"
+      ],
+      "referenced_works_count": 76,
+      "url": "https://openalex.org/W3131414727"
+    },
+    {
+      "openalex_id": "W3159812139",
+      "doi": "10.1016/j.jmoneco.2022.04.001",
+      "title": "The importance of technology in banking during a crisis",
+      "authors": [
+        {
+          "name": "Nicola Pierri",
+          "openalex_id": "A5083942747",
+          "orcid": "https://orcid.org/0000-0002-3120-9670",
+          "institutions": [
+            "International Monetary Fund"
+          ]
+        },
+        {
+          "name": "Yannick Timmer",
+          "openalex_id": "A5029659048",
+          "orcid": "https://orcid.org/0000-0001-8343-4418",
+          "institutions": [
+            "Federal Reserve Board of Governors"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-04-12",
+      "abstract": null,
+      "cited_by_count": 72,
+      "type": "article",
+      "source": {
+        "name": "Journal of Monetary Economics",
+        "type": "journal",
+        "issn": [
+          "0304-3932",
+          "1873-1295"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Banking stability, regulation, efficiency",
+        "Housing Market and Economics",
+        "Islamic Finance and Banking Studies"
+      ],
+      "referenced_works_count": 67,
+      "url": "https://openalex.org/W3159812139"
+    },
+    {
+      "openalex_id": "W3038594299",
+      "doi": "10.4102/jtscm.v14i0.488",
+      "title": "Determinants of effective high-risk cargo logistics at sea ports: A case study",
+      "authors": [
+        {
+          "name": "Fanny Saruchera",
+          "openalex_id": "A5030786996",
+          "orcid": "https://orcid.org/0000-0002-2139-1966",
+          "institutions": [
+            "University of the Witwatersrand"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-06-30",
+      "abstract": "Background: In recent decades, accidents involving hazardous goods at seaports have become a major concern worldwide resulting in international conventions and interventions to minimise the impact of such accidents. Despite the improvements in safety measures and the enhancement of cargo handlers\u2019 knowledge over the years, port accidents involving dangerous substances still continue to occur. Objectives: The study explores the determinants of effective high-risk cargo (HRC) handling at seaports, focusing on Namibian seaports. The study was aimed at establishing the elements of HRC logistics processes and to determine factors influencing the effectiveness of HRC handling procedures followed by the seaports. Method: An integrated research strategy was adopted, backed by the employment of mixed research methods, through seven key informant interviews and a quantitative survey involving 81 port employees. Results: The results of the study confirmed the totality of HRC logistics activities at Namibian seaports. It emerged from the study that there were factors that facilitated and that hindered the effectiveness of HRC logistics activities at Namibian seaports. The study confirmed the association between HRC training and the level of knowledge of risk mitigation and emergency procedures, documentation understanding and regulations adherence. This guided in proposing a new theory for the determinants of HRC logistics in developing economies. Conclusion: The study\u2019s findings provided sufficient evidence to suggest that HRC logistics safety processes at seaports can be improved through the proposed framework. The study\u2019s findings have important repercussions for re-shaping public policy, especially as coastal economies worldwide compete towards becoming preferred logistics hubs.",
+      "cited_by_count": 20,
+      "type": "article",
+      "source": {
+        "name": "Journal of Transport and Supply Chain Management",
+        "type": "journal",
+        "issn": [
+          "1995-5235",
+          "2310-8789"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://jtscm.co.za/index.php/jtscm/article/download/488/908"
+      },
+      "topics": [
+        "Maritime Ports and Logistics",
+        "Maritime Navigation and Safety",
+        "Supply Chain Resilience and Risk Management"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W3038594299"
+    },
+    {
+      "openalex_id": "W4378907001",
+      "doi": "10.1049/qtc2.12060",
+      "title": "Quantum for 6G communication: A perspective",
+      "authors": [
+        {
+          "name": "Muhammad Zulfiqar Ali",
+          "openalex_id": "A5019312922",
+          "orcid": "https://orcid.org/0000-0002-8293-0046",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        },
+        {
+          "name": "Abdoalbaset Abohmra",
+          "openalex_id": "A5053509594",
+          "orcid": "https://orcid.org/0000-0003-4598-9193",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        },
+        {
+          "name": "Muhammad Usman",
+          "openalex_id": "A5083405389",
+          "institutions": [
+            "University of Glasgow",
+            "Glasgow Caledonian University"
+          ]
+        },
+        {
+          "name": "Adnan Zahid",
+          "openalex_id": "A5019462442",
+          "orcid": "https://orcid.org/0000-0001-5364-6057",
+          "institutions": [
+            "Heriot-Watt University",
+            "University of Glasgow"
+          ]
+        },
+        {
+          "name": "Hadi Heidari",
+          "openalex_id": "A5100700922",
+          "orcid": "https://orcid.org/0000-0001-8412-8164",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        },
+        {
+          "name": "Muhammad Ali Imran",
+          "openalex_id": "A5100331811",
+          "orcid": "https://orcid.org/0000-0003-4743-9136",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        },
+        {
+          "name": "Qammer H. Abbasi",
+          "openalex_id": "A5047892843",
+          "orcid": "https://orcid.org/0000-0002-7097-9969",
+          "institutions": [
+            "University of Glasgow"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-05-31",
+      "abstract": "Abstract In the technologically changing world, the demand for ultra\u2010reliable, faster, low power, and secure communication has significantly risen in recent years. Researchers have shown immense interest in emerging quantum computing (QC) due to its potentials of solving the computing complexity in the robust and efficient manner. It is envisioned that QC can act as critical enablers and strong catalysts to considerably reduce the computing complexities and boost the future of sixth generation (6G) and beyond communication systems in terms of their security. In this study, the fundamentals of QC, the evolution of quantum communication that encompasses a wide spectrum of technologies and applications and quantum key distribution, which is one of the most promising applications of quantum security, have been presented. Furthermore, various parameters and important techniques are also investigated to optimise the performance of 6G communication in terms of their security, computing, and communication efficiency. Towards the end, potential challenges that QC and quantum communication may face in 6G have been highlighted along with future directions.",
+      "cited_by_count": 48,
+      "type": "article",
+      "source": {
+        "name": "IET Quantum Communication",
+        "type": "journal",
+        "issn": [
+          "2632-8925"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/qtc2.12060"
+      },
+      "topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum Information and Cryptography",
+        "Molecular Communication and Nanonetworks"
+      ],
+      "referenced_works_count": 119,
+      "url": "https://openalex.org/W4378907001"
+    },
+    {
+      "openalex_id": "W4385282502",
+      "doi": "10.1007/s40626-023-00281-5",
+      "title": "Extended plant cognition: a critical consideration of the concept",
+      "authors": [
+        {
+          "name": "Andr\u00e9 Geremia Parise",
+          "openalex_id": "A5024461988",
+          "orcid": "https://orcid.org/0000-0002-2500-6455",
+          "institutions": [
+            "University of Reading"
+          ]
+        },
+        {
+          "name": "Michael Marder",
+          "openalex_id": "A5074635123",
+          "orcid": "https://orcid.org/0000-0002-2511-3402",
+          "institutions": [
+            "University of the Basque Country",
+            "Ikerbasque"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-26",
+      "abstract": "Abstract Within the framework of studies of plants as cognitive organisms, there is a hypothesis that plant cognitive processes are not enclosed within their bodies but extend to the environment. The extended plant cognition (EPC) hypothesis suggests that when plants modify the environment around them through the release of volatile organic compounds (VOCs), root exudates, and the sustenance of mycorrhizal networks, they extend their sensorial apparatus and externalize a part of their information-processing system. As a result, a plant can no longer be seen as an isolated organism easily distinguishable from its milieu. In this article, we discuss the implications of understanding plants as extended cognitive organisms and assess four test cases that corroborate the EPC hypothesis, one for each possible channel of extended plant cognition discussed here. We conclude that this new approach can redefine how we understand plants and their environment. EPC may also be a fruitful source of inspiration to develop new techniques in agriculture by enhancing the external elements of plant cognition.",
+      "cited_by_count": 16,
+      "type": "article",
+      "source": {
+        "name": "Theoretical and Experimental Plant Physiology",
+        "type": "journal",
+        "issn": [
+          "2197-0025"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s40626-023-00281-5.pdf"
+      },
+      "topics": [
+        "Plant and Biological Electrophysiology Studies",
+        "Plant and animal studies",
+        "Olfactory and Sensory Function Studies"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W4385282502"
+    },
+    {
+      "openalex_id": "W3159709978",
+      "doi": "10.1007/s11191-021-00232-z",
+      "title": "A Growing Body of Knowledge",
+      "authors": [
+        {
+          "name": "Magdalena Kersting",
+          "openalex_id": "A5032911689",
+          "orcid": "https://orcid.org/0000-0003-3568-8397",
+          "institutions": [
+            "University of Oslo"
+          ]
+        },
+        {
+          "name": "Jesper Haglund",
+          "openalex_id": "A5052694908",
+          "orcid": "https://orcid.org/0000-0003-4997-2938",
+          "institutions": [
+            "Karlstad University"
+          ]
+        },
+        {
+          "name": "Rolf Steier",
+          "openalex_id": "A5039906332",
+          "orcid": "https://orcid.org/0000-0001-9809-3169",
+          "institutions": [
+            "OsloMet \u2013 Oslo Metropolitan University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-28",
+      "abstract": null,
+      "cited_by_count": 31,
+      "type": "article",
+      "source": {
+        "name": "Science & Education",
+        "type": "journal",
+        "issn": [
+          "0926-7220",
+          "1573-1901"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11191-021-00232-z.pdf"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 95,
+      "url": "https://openalex.org/W3159709978"
+    },
+    {
+      "openalex_id": "W2403371956",
+      "doi": "10.2741/4259",
+      "title": "The transition from constraint to regulation at the origin of life",
+      "authors": [
+        {
+          "name": "W. Deacon Terrence",
+          "openalex_id": "A5098555553",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "The origin of living dynamics required a local evasion of thermodynamic degradation by maintaining critical dynamical and structural constraints. Scenarios for life`s origin that fail to distinguish between constrained chemistry and regulated metabolism do not address the question of how living processes first emerge from simpler constraints on molecular interactions. We describe a molecular model system consisting of coupled reciprocal catalysis and self-assembly in which one of the catalytic bi-products tends to spontaneously self-assemble into a containing shell (analogous to a viral capsule). In this process, which we call autogenesis, self-repair/reconstitution and reproduction are made possible by the fact that each of these linked self-organizing processes generates boundary constraints that promote and limit the other, and because this synergy thereby becomes embodied as a persistent rate-independent substrate-transferrable constraint on the synergy of its component constraint-generating processes. It is proposed that this higher-order formal constraint is necessary and sufficient to constitute regulation as opposed to mere physico-chemical constraint. Two minor elaborations of this model system demonstrate how cybernetic and template-based regulation could emerge from this basic process.",
+      "cited_by_count": 21,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in bioscience",
+        "type": "journal",
+        "issn": [
+          "1093-4715",
+          "1093-9946",
+          "1094-3935"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.imrpress.com/journal/FBL/19/6/10.2741/4259/pdf"
+      },
+      "topics": [
+        "Origins and Evolution of Life",
+        "Plant and Biological Electrophysiology Studies",
+        "Sustainability and Ecological Systems Analysis"
+      ],
+      "referenced_works_count": 33,
+      "url": "https://openalex.org/W2403371956"
+    },
+    {
+      "openalex_id": "W3200142276",
+      "doi": "10.3389/fpsyg.2021.710607",
+      "title": "Embodying Bounded Rationality: From Embodied Bounded Rationality to Embodied Rationality",
+      "authors": [
+        {
+          "name": "Enrico Petracca",
+          "openalex_id": "A5006405932",
+          "orcid": "https://orcid.org/0000-0001-7572-8117",
+          "institutions": [
+            "University of Bologna"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-09-09",
+      "abstract": "Views of embodied cognition vary in degree of radicalism. The goal of this article is to explore how the range of moderate and radical views of embodied cognition can inform new approaches to rationality. In this exploration, Herbert Simon's bounded rationality is taken for its complete disembodiedness as a reference base against which to measure the increasing embodied content of new approaches to rationality. We use the label \u201cembodied bounded rationality\u201d to explore how moderate embodiment can reform Simon's bounded rationality while, on the opposite side of the embodied spectrum, the label \u201cembodied rationality\u201d is employed to explore how radical embodiment can more deeply transform the idea of what is rational. In between the two poles, the labels \u201cbody rationality\u201d and \u201cextended rationality\u201d are introduced to explore how also intermediate embodiment can fruitfully inform the research on rationality.",
+      "cited_by_count": 27,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.710607/pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 95,
+      "url": "https://openalex.org/W3200142276"
+    },
+    {
+      "openalex_id": "W3136874763",
+      "doi": "10.1007/s10648-021-09607-8",
+      "title": "What If We Look at the Body? An Embodied Perspective of Collaborative Learning",
+      "authors": [
+        {
+          "name": "Juliene Madureira Ferreira",
+          "openalex_id": "A5070337432",
+          "orcid": "https://orcid.org/0000-0002-8977-5982",
+          "institutions": [
+            "Tampere University"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-03-19",
+      "abstract": "Abstract The bodily experiences and implications of understanding the functioning of the human brain\u2013body mechanism has been a center of attention in the field of cognitive neurosciences for over two decades. Research in this field has enlarged the theories of learning and development, and contributed to changes in educational practices involving language processing, mathematics, and spatial thinking; however, these changes have not yet been applied to the analysis of transversal competencies such as collaborative learning. The aim of this paper is to bridge the theoretical and applied advances in the field of embodied cognition, specifically collaborative learning. The definitions, theoretical frameworks, and current methodological approaches in the field of collaborative learning are reviewed, with a particular focus on those studies that have investigated interactive dynamics in collaborative situations. The need to take the field further by exploring the theoretical perspective of embodied cognition as a possibility that can open the field is also presented. The relevance of investigating learning in groups by analyzing bodily engagements and intersubjectivity is demonstrated and methodological considerations are raised.",
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "Educational Psychology Review",
+        "type": "journal",
+        "issn": [
+          "1040-726X",
+          "1573-336X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10648-021-09607-8.pdf"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Language, Metaphor, and Cognition",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 127,
+      "url": "https://openalex.org/W3136874763"
+    },
+    {
+      "openalex_id": "W4387730739",
+      "doi": "10.1186/s13677-023-00524-5",
+      "title": "An edge server deployment method based on optimal benefit and genetic algorithm",
+      "authors": [
+        {
+          "name": "Hongfan Ye",
+          "openalex_id": "A5021400206",
+          "institutions": [
+            "Hunan University of Science and Technology",
+            "Huaihua University"
+          ]
+        },
+        {
+          "name": "Buqing Cao",
+          "openalex_id": "A5045361791",
+          "orcid": "https://orcid.org/0000-0003-0009-8020",
+          "institutions": [
+            "Hunan University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Jianxun Liu",
+          "openalex_id": "A5100744755",
+          "orcid": "https://orcid.org/0000-0003-0722-152X",
+          "institutions": [
+            "Hunan University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Pei Li",
+          "openalex_id": "A5100707706",
+          "orcid": "https://orcid.org/0000-0002-6050-6519",
+          "institutions": [
+            "Hunan University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Bing Tang",
+          "openalex_id": "A5035343654",
+          "orcid": "https://orcid.org/0000-0003-1584-7186",
+          "institutions": [
+            "Hunan University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Zhenlian Peng",
+          "openalex_id": "A5066722829",
+          "institutions": [
+            "Hunan University of Science and Technology"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-18",
+      "abstract": "Abstract With the speedy advancement and accelerated popularization of 5G networks, the provision and request of services through mobile smart terminals have become a hot topic in the development of mobile service computing. In this scenario, an efficient and reasonable edge server deployment solution can effectively reduce the deployment cost and communication latency of mobile smart terminals, while significantly improving investment efficiency and resource utilization. Focusing on the issue of edge server placement in mobile service computing environment, this paper proposes an edge server deployment method based on optimal benefit quantity and genetic algorithm. This method is firstly, based on a channel selection strategy for optimal communication impact benefits, it calculates the quantity of edge servers which can achieve optimal benefit. Then, the issue of edge server deployment is converted to a dual-objective optimization problem under three constraints to find the best locations to deploy edge servers, according to balancing the workload of edge servers and minimizing the communication delay among clients and edge servers. Finally, the genetic algorithm is utilized to iteratively optimize for finding the optimal resolution of edge server deployment. A series of experiments are performed on the Mobile Communication Base Station Data Set of Shanghai Telecom, and the experimental results verify that beneath the limit of the optimal benefit quantity of edge servers, the proposed method outperforms MIP, K-means, ESPHA, Top-K, and Random in terms of effectively reducing communication delays and balancing workloads.",
+      "cited_by_count": 13,
+      "type": "article",
+      "source": {
+        "name": "Journal of Cloud Computing Advances Systems and Applications",
+        "type": "journal",
+        "issn": [
+          "2192-113X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journalofcloudcomputing.springeropen.com/counter/pdf/10.1186/s13677-023-00524-5"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "IoT Networks and Protocols",
+        "Age of Information Optimization"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W4387730739"
+    },
+    {
+      "openalex_id": "W4250181286",
+      "doi": "10.4324/9781315684871-61",
+      "title": "\u201cWorld cities under conditions of financialized globalization: towards an augmented world city hypothesis\u201d",
+      "authors": [
+        {
+          "name": "David Bassens",
+          "openalex_id": "A5053855635",
+          "orcid": "https://orcid.org/0000-0002-5368-7884",
+          "institutions": [
+            "Vrije Universiteit Brussel"
+          ]
+        },
+        {
+          "name": "Michiel van Meeteren",
+          "openalex_id": "A5008737855",
+          "orcid": "https://orcid.org/0000-0001-8188-1660",
+          "institutions": [
+            "Ghent University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-10-12",
+      "abstract": "David Bassens is Assistant Professor of Economic Geography at the Free University of Brussels and Associate Director of Cosmopolis, an interdisciplinary urban research team on city, culture, and society. Geographically, Bassens and Michiel van Meeteren point out that the world city archipelago extends far beyond international financial centers, as the advanced producer service sector has expanded its global reach. The defining feature of world cities \u2013 at least from its political-economy perspective \u2013 is their role as 'basing points' for global capital from which 'command and control' is exercised over capitalist accumulation. The workings of financial space itself have profoundly changed by the globalization and virtualization of financial markets and the growing proliferation and trading of debt products and derivatives. 'Emerging markets' are arguably the best-documented example showing the growth of dedicated funds or similar in-house activities at investment banks since the 1990s at least.",
+      "cited_by_count": 33,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781315684871-61&type=chapterpdf"
+      },
+      "topics": [
+        "Global Urban Networks and Dynamics",
+        "Urbanization and City Planning"
+      ],
+      "referenced_works_count": 1,
+      "url": "https://openalex.org/W4250181286"
+    },
+    {
+      "openalex_id": "W1500598906",
+      "doi": "10.1007/s11606-015-3311-9",
+      "title": "Disentangling the Linkage of Primary Care Features to Patient Outcomes: A Review of Current Literature, Data Sources, and Measurement Needs",
+      "authors": [
+        {
+          "name": "Ann S. O\u2019Malley",
+          "openalex_id": "A5066418949",
+          "orcid": "https://orcid.org/0000-0002-0454-9602",
+          "institutions": [
+            "Mathematica Policy Research"
+          ]
+        },
+        {
+          "name": "Eugene C. Rich",
+          "openalex_id": "A5021233149",
+          "orcid": "https://orcid.org/0000-0003-4973-8607",
+          "institutions": [
+            "Mathematica Policy Research"
+          ]
+        },
+        {
+          "name": "Alyssa Maccarone",
+          "openalex_id": "A5011499540",
+          "institutions": [
+            "Mathematica Policy Research"
+          ]
+        },
+        {
+          "name": "Catherine M. DesRoches",
+          "openalex_id": "A5018598333",
+          "orcid": "https://orcid.org/0000-0001-5373-855X",
+          "institutions": [
+            "Mathematica Policy Research"
+          ]
+        },
+        {
+          "name": "Robert J. Reid",
+          "openalex_id": "A5070307714",
+          "orcid": "https://orcid.org/0000-0002-9008-6375",
+          "institutions": [
+            "Kaiser Permanente Washington Health Research Institute"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-06-23",
+      "abstract": null,
+      "cited_by_count": 48,
+      "type": "review",
+      "source": {
+        "name": "Journal of General Internal Medicine",
+        "type": "journal",
+        "issn": [
+          "0884-8734",
+          "1525-1497"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11606-015-3311-9.pdf"
+      },
+      "topics": [
+        "Primary Care and Health Outcomes",
+        "Healthcare Policy and Management",
+        "Patient Satisfaction in Healthcare"
+      ],
+      "referenced_works_count": 127,
+      "url": "https://openalex.org/W1500598906"
+    },
+    {
+      "openalex_id": "W4367053854",
+      "doi": "10.1007/s10648-023-09769-7",
+      "title": "Making Sense of Generative Learning",
+      "authors": [
+        {
+          "name": "Logan Fiorella",
+          "openalex_id": "A5018951844",
+          "orcid": "https://orcid.org/0000-0002-1672-325X",
+          "institutions": [
+            "University of Georgia"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-04-26",
+      "abstract": "Abstract How do learners make sense of what they are learning? In this article, I present a new framework of sense-making based on research investigating the benefits and boundaries of generative learning activities (GLAs). The generative sense-making framework distinguishes among three primary sense-making modes\u2014explaining, visualizing, and enacting\u2014that each serve unique and complementary cognitive functions. Specifically, the framework assumes learners mentally organize and simulate the learning material (via the visualizing and enacting modes) to facilitate their ability to generalize the learning material (via the explaining mode). I present evidence from research on GLAs illustrating how visualizations and enactments (instructor-provided and/or learner-generated) can facilitate higher quality learner explanations and subsequent learning outcomes. I also discuss several barriers to sense-making that help explain when GLAs are not effective and describe possible ways to overcome these barriers by appropriately guiding and timing GLAs. Finally, I discuss implications of the generative sense-making framework for theory and practice and provide recommendations for future research.",
+      "cited_by_count": 81,
+      "type": "article",
+      "source": {
+        "name": "Educational Psychology Review",
+        "type": "journal",
+        "issn": [
+          "1040-726X",
+          "1573-336X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10648-023-09769-7.pdf"
+      },
+      "topics": [
+        "Innovative Teaching and Learning Methods",
+        "Visual and Cognitive Learning Processes",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 212,
+      "url": "https://openalex.org/W4367053854"
+    },
+    {
+      "openalex_id": "W4391278536",
+      "doi": "10.1007/s13347-024-00701-7",
+      "title": "ChatGPT and the Technology-Education Tension: Applying Contextual Virtue Epistemology to a Cognitive Artifact",
+      "authors": [
+        {
+          "name": "Guido Cassinadri",
+          "openalex_id": "A5016557937",
+          "orcid": "https://orcid.org/0000-0002-1084-4421",
+          "institutions": [
+            "Scuola Superiore Sant'Anna"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-01-27",
+      "abstract": "Abstract According to virtue epistemology, the main aim of education is the development of the cognitive character of students (Pritchard, 2014, 2016). Given the proliferation of technological tools such as ChatGPT and other LLMs for solving cognitive tasks, how should educational practices incorporate the use of such tools without undermining the cognitive character of students? Pritchard (2014, 2016) argues that it is possible to properly solve this \u2018technology-education tension\u2019 (TET) by combining the virtue epistemology framework with the theory of extended cognition (EXT) (Clark and Chalmers, 1998). He argues that EXT enables us to consider tools as constitutive parts of the students\u2019 cognitive system, thus preserving their cognitive character from technologically induced cognitive diminishment. The first aim of this paper is to show that this solution is not sufficient to solve the TET. Second, I aim to offer a complementary and more encompassing framework of tool-use to address the TET. Then, I apply it to the educational uses of ChatGPT as the most notable example of LLM, although my arguments can be extended to other generative AI systems. To do so, in Sect. 1.1, I present Pritchard\u2019s framework of cognitive character and virtue epistemology applied in education, to which I am committed in this treatment. In Sects. 2 and 3, I respectively illustrate Pritchard\u2019s (2014) solution to the TET, and I highlight the general limitations of his proposal. Thus, in Sect. 4.1 I characterize ChatGPT as a computational cognitive artifact using Fasoli\u2019s (Fasoli, 2017, 2018) taxonomy of cognitive artifacts. In Sect. 4.2, I introduce my proposal, which combines Pritchard\u2019s account of virtue epistemology with Fasoli\u2019s (2017, 2018) taxonomy of cognitive artifacts to address the TET. Finally, in Sect. 5.1, I present some epistemically virtuous uses of ChatGPT in educational contexts. To conclude, I argue in favor of a multidisciplinary approach for analyzing educational activities involving AI technologies such as ChatGPT.",
+      "cited_by_count": 28,
+      "type": "article",
+      "source": {
+        "name": "Philosophy & Technology",
+        "type": "journal",
+        "issn": [
+          "2210-5433",
+          "2210-5441"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13347-024-00701-7.pdf"
+      },
+      "topics": [
+        "Epistemology, Ethics, and Metaphysics",
+        "Embodied and Extended Cognition",
+        "Ethics and Social Impacts of AI"
+      ],
+      "referenced_works_count": 105,
+      "url": "https://openalex.org/W4391278536"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

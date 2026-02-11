@@ -1,0 +1,757 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "extended mind criticism Adams Aizawa",
+  "results": [
+    {
+      "paperId": "2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "title": "The Mark of the Cognitive and the Coupling-Constitution Fallacy: A Defense of the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "authorId": "2053496114"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Clark and Chalmers (1998) introduced the extended mind hypothesis, according to which some mental states can be realized by non-biological external resources. A lively debate has flourished around this hypothesis, connected with the issues of embodiment, embeddedness, situatedness and enaction (cf. Clark, 2008; Menary, 2010; Shapiro, 2011). Two of the main criticisms addressed to the functionalist version of the extended mind thesis have been the so-called \u201ccoupling-constitution fallacy\u201d and the alleged lack of a mark of the cognitive (Adams and Aizawa, 2001, 2005, 2009, 2010a,b). According to Adams and Aizawa, extended cognition is a logical possibility, but is not instantiated in our world. Following this view, they defend a \u201ccontingent intracranialism,\u201d based on a specific mark of the cognitive that they propose. In this paper I intend to show that neither criticism is effective against the extended cognition thesis. In particular: the mark of the cognitive proposed by Adams and Aizawa does not secure contingent intracranialism; the coupling-constitution fallacy criticizes extended cognition on precisely the point the theory was intended to defend: namely, that the best way to individuate cognitive systems, given a minimal mark of the cognitive, is to rely on coupling relations between agents and environmental resources.",
+      "citationCount": 15,
+      "doi": "10.3389/fpsyg.2017.02061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "9aa19efb63449036b6ec7ba473c4ff7a6cc3741a",
+      "title": "Where Syllogistic Reasoning Happens: An Argument for the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "authorId": "1828654"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9aa19efb63449036b6ec7ba473c4ff7a6cc3741a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": "29"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "72e3a35c8eb2a2cde082979cc3f6e646ce03fce0",
+      "title": "Reviewing the Extended Mind Theory: Theoretical Insights and the Role of Experimental Philosophy in Understanding Cognitive Boundaries",
+      "authors": [
+        {
+          "name": "Necm\u0131ye Yuksel",
+          "authorId": "2372318407"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This study proposes a theoretical account of the evolution of the extended mind hypothesis by using experimental philosophy (x-phi) in the study of the concept of intrinsic content. Building on Clark's (1998) argument on behalf of extended cognition and Adams and Aizawa's (2001) neural-centric process argument, it considers how cognitive boundary judgments relying on intuition can illuminate the use of external devices, such as notebooks or mobile phones, in mental processes. The study concludes that x-phi's methods, which explore folk intuitions, offer a practical means of figuring out whether intrinsic content is contained in the brain or distributed across external systems. By considering factors like socioeconomic status that may affect intuitions, it highlights x-phi's ability to provide empirical insights to discussions in philosophy of mind (Knobe & Nichols, 2008). Drawing on inter-disciplinary methods across several disciplines (Y\u00fcksel, 2021), this research links philosophy and cognitive science and offers an addition to debates around 4E cognition (embodied, embedded, extended, enactive). The proposed method is aimed at making the theoretical and intuitive components of extended mind theory more transparent and providing a gateway towards future empirical investigations.",
+      "citationCount": 0,
+      "doi": "10.51404/metazihin.1692629",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/72e3a35c8eb2a2cde082979cc3f6e646ce03fce0",
+      "venue": "Metazihin: yapay zeka ve zihin felsefesi dergisi",
+      "journal": {
+        "name": "MetaZihin: Yapay Zeka ve Zihin Felsefesi Dergisi"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "3b2c94822a8d261ef4319fe92f3ced2db84fbe67",
+      "title": "Embodied Cognition and the Extended Mind",
+      "authors": [
+        {
+          "name": "F. Adams",
+          "authorId": "145928144"
+        },
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.4324/9780429244629-13",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3b2c94822a8d261ef4319fe92f3ced2db84fbe67",
+      "venue": "The Routledge Companion to Philosophy of Psychology",
+      "journal": {
+        "name": "The Routledge Companion to Philosophy of Psychology"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "cf164e5b12606c1b3c9530c4682e4ff4adfb0bd1",
+      "title": "How, and How Far, is the Mind to Be Extended?: Clark-Chalmers vs. Adams-Aizawa Debate",
+      "authors": [
+        {
+          "name": "\uace0\uc778\uc11d",
+          "authorId": "87536498"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.17325/sgjp.2012.31..91",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cf164e5b12606c1b3c9530c4682e4ff4adfb0bd1",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "326d247ad7a951da9f0fd45e341816a18fd6d86d",
+      "title": "Running head : THE BOUNDS OF SELFHOOD 1 The Bounds of Selfhood : Extended Cognition , Extended Mind , and Extended Selfhood",
+      "authors": [
+        {
+          "name": "Justin Luo",
+          "authorId": "145941042"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/326d247ad7a951da9f0fd45e341816a18fd6d86d",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "040122b68b4dd807a615628ac3e1e8e351c496d8",
+      "title": "Intrinsic content, active memory and the extended mind",
+      "authors": [
+        {
+          "name": "A. Clark",
+          "authorId": "37700983"
+        }
+      ],
+      "year": 2005,
+      "abstract": null,
+      "citationCount": 164,
+      "doi": "10.1093/ANALYS/65.1.1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/040122b68b4dd807a615628ac3e1e8e351c496d8",
+      "venue": "",
+      "journal": {
+        "name": "Analysis",
+        "pages": "1-11",
+        "volume": "65"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "title": "Richard Menary (ed): The Extended Mind",
+      "authors": [
+        {
+          "name": "D. Cole",
+          "authorId": "2055148531"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1007/s11023-011-9252-0",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "47-51",
+        "volume": "22"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "997485091dc707908eacbc45771199f73d25f0d9",
+      "title": "Mark Rowlands, The new science of the mind: from extended mind to embodied phenomenology",
+      "authors": [
+        {
+          "name": "Victor Loughlin",
+          "authorId": "2095318273"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.1007/s11097-012-9274-y",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/997485091dc707908eacbc45771199f73d25f0d9",
+      "venue": "Phenomenology and the Cognitive Sciences",
+      "journal": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "pages": "891 - 897",
+        "volume": "12"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "838d73fdf821f021a16811c6e667a6ccb0fa924e",
+      "title": "Systems, functions, and intrinsic natures: On Adams and Aizawa's The Bounds of Cognition",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1080/09515080903538867",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/838d73fdf821f021a16811c6e667a6ccb0fa924e",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "113 - 123",
+        "volume": "23"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "ea4c3a5dc7ec91f04182696633454026c5b0125c",
+      "title": "The Extended Mind",
+      "authors": [
+        {
+          "name": "J. Ladyman",
+          "authorId": "104382240"
+        },
+        {
+          "name": "D. Ross",
+          "authorId": "145890681"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 116,
+      "doi": "10.7551/mitpress/9780262014038.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ea4c3a5dc7ec91f04182696633454026c5b0125c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7c2047079b4f78ae76ed9fb158ad6076e54aa0fc",
+      "title": "A review of Frederick Adams and Kenneth Aizawa, The Bounds of Cognition",
+      "authors": [
+        {
+          "name": "Lawrence A. Shapiro",
+          "authorId": "40092895"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 9,
+      "doi": "10.1007/S11097-009-9120-Z",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7c2047079b4f78ae76ed9fb158ad6076e54aa0fc",
+      "venue": "",
+      "journal": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "pages": "267-273",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "8e534cbcd1c789c7fbf831d724c290cdb8cec647",
+      "title": "Book Notes: Adams, Frederick and Kenneth Aizawa, The Bounds of Cognition, Oxford: Blackwell Publishing, 2008, pp. xiii + 197, AU$120.00 / NZ$130.00 (cloth)",
+      "authors": [
+        {
+          "name": "W. Fish",
+          "authorId": "118190201"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1080/00048400802636502",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8e534cbcd1c789c7fbf831d724c290cdb8cec647",
+      "venue": "",
+      "journal": {
+        "name": "Australasian Journal of Philosophy",
+        "pages": "355 - 356",
+        "volume": "87"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9ead2ecea44d7d59b1dfde1e8e69c5446cfc387d",
+      "title": "Why the mind is still in the head",
+      "authors": [
+        {
+          "name": "F. Adams",
+          "authorId": "145928144"
+        },
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 111,
+      "doi": "10.1017/CBO9780511816826.005",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9ead2ecea44d7d59b1dfde1e8e69c5446cfc387d",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "cfe4cfad85bd3c7438925f465819342cd04458fc",
+      "title": "Cognitive Spread: Under What Conditions Does the Mind Extend Beyond the Body?",
+      "authors": [
+        {
+          "name": "Zed Adams",
+          "authorId": "117475777"
+        },
+        {
+          "name": "Chauncey Maher",
+          "authorId": "47967745"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1111/J.1468-0378.2012.00543.X",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cfe4cfad85bd3c7438925f465819342cd04458fc",
+      "venue": "",
+      "journal": {
+        "name": "European Journal of Philosophy",
+        "pages": "420-438",
+        "volume": "23"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "title": "In Defense of Extended Functionalism",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 131,
+      "doi": "10.7551/mitpress/9780262014038.003.0011",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9fcfcbb9e18b0ea8f520567a748ad2fc469cf41c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "245-270",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c0ae130cf632ca2e144dbbf0ce01982e7dd056d9",
+      "title": "Extended Cognition and Functionalism",
+      "authors": [
+        {
+          "name": "Mark D. Sprevak",
+          "authorId": "3075367"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 156,
+      "doi": "10.5840/JPHIL2009106937",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c0ae130cf632ca2e144dbbf0ce01982e7dd056d9",
+      "venue": "",
+      "journal": {
+        "name": "The Journal of Philosophy",
+        "pages": "503-527",
+        "volume": "106"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "74c77b3181b2ef572aa371bdd0e50b90b59be877",
+      "title": "Defending the bounds of cognition",
+      "authors": [
+        {
+          "name": "F. Adams",
+          "authorId": "145928144"
+        },
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 220,
+      "doi": "10.7551/mitpress/9780262014038.003.0004",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/74c77b3181b2ef572aa371bdd0e50b90b59be877",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6e8abce4c4ba574af85e94a5ba87ecf29c727afa",
+      "title": "Causal Parity and Externalisms: Extensions in Life and Mind",
+      "authors": [
+        {
+          "name": "P. Huneman",
+          "authorId": "2827831"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.1007/s11023-013-9309-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6e8abce4c4ba574af85e94a5ba87ecf29c727afa",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "377 - 404",
+        "volume": "23"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "ad7659238c04ae76b19c7895f0f8ddb887014874",
+      "title": "Cognitive systems and the changing brain",
+      "authors": [
+        {
+          "name": "F. Brigard",
+          "authorId": "35578875"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 23,
+      "doi": "10.1080/13869795.2017.1312503",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ad7659238c04ae76b19c7895f0f8ddb887014874",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Explorations",
+        "pages": "224-241",
+        "volume": "20"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "3556ceaa234ed184bdc944e4f3b9213a7bbc8680",
+      "title": "Does the mind leak",
+      "authors": [
+        {
+          "name": "U. Peters",
+          "authorId": "48458022"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3556ceaa234ed184bdc944e4f3b9213a7bbc8680",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6a5df240d2d385219c14b15469b9bd577a202efc",
+      "title": "Cognitive systems and the changing brain",
+      "authors": [
+        {
+          "name": "Felipe De Brigard",
+          "authorId": "2408963"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1080/13869795.2017.1312503",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6a5df240d2d385219c14b15469b9bd577a202efc",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Explorations",
+        "pages": "224 - 241",
+        "volume": "20"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "9e1bb0d9727705a5a0dd810eb725e693b8d6a747",
+      "title": "Extended cognition and epistemology",
+      "authors": [
+        {
+          "name": "A. Clark",
+          "authorId": "37700983"
+        },
+        {
+          "name": "D. Pritchard",
+          "authorId": "144174483"
+        },
+        {
+          "name": "K. Vaesen",
+          "authorId": "2924881"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 11,
+      "doi": "10.1080/13869795.2012.679294",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9e1bb0d9727705a5a0dd810eb725e693b8d6a747",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Explorations",
+        "pages": "87 - 90",
+        "volume": "15"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "56069fb56dbd331e203f374cf1af03914994c577",
+      "title": "Review of THE INNOCENT EYE: WHY VISION IS NOT A COGNITIVE PROCESS, by NICO ORLANDI (Oxford University Press, 2014)",
+      "authors": [
+        {
+          "name": "Ken Pepper",
+          "authorId": "26712405"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11097-016-9454-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/56069fb56dbd331e203f374cf1af03914994c577",
+      "venue": "Phenomenology and the Cognitive Sciences",
+      "journal": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "pages": "483 - 488",
+        "volume": "15"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "3d1d10c982851a0d52da0ef8d0b5110771552c8b",
+      "title": "The Peripheral Mind: Philosophy of Mind and the Peripheral Nervous System",
+      "authors": [
+        {
+          "name": "M. Madary",
+          "authorId": "3401810"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3d1d10c982851a0d52da0ef8d0b5110771552c8b",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6248eb616d2ac2a057b53cbc27c302af1ec40dcb",
+      "title": "Cognitive Processes and Asymmetrical Dependencies, or How Thinking is Like Swimming",
+      "authors": [
+        {
+          "name": "Andrew M. Winters",
+          "authorId": "40197651"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.7710/1526-0569.1555",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6248eb616d2ac2a057b53cbc27c302af1ec40dcb",
+      "venue": "",
+      "journal": {
+        "name": "Essays in Philosophy",
+        "pages": "8-37",
+        "volume": "17"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "23d7202ec4e3fb8342930450f9d6e49b8ac861c2",
+      "title": "Supersizing the Mind",
+      "authors": [
+        {
+          "name": "Miriam Kyselo",
+          "authorId": "5453562"
+        },
+        {
+          "name": "S. Walter",
+          "authorId": "2049380571"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1080/09515080903432798",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/23d7202ec4e3fb8342930450f9d6e49b8ac861c2",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "803 - 807",
+        "volume": "22"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "81bd611bbaa66ff554d60d9150d4c7cb6e03a0aa",
+      "title": "Defending Cognitive Integration",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1057/9780230592889_4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/81bd611bbaa66ff554d60d9150d4c7cb6e03a0aa",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "61-76",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "e85b1c5ab11a583fb64f5476672d49807aa711dc",
+      "title": "On the use and misuse of externalist approaches in psychiatry",
+      "authors": [
+        {
+          "name": "Gerhard C. Bukow",
+          "authorId": "2084072531"
+        }
+      ],
+      "year": 2013,
+      "abstract": "Walter (2013) argues in that a bunch of externalist approaches examined in the theory of mind is interesting for psychiatry\u2014especially for biological psychiatry. The externalist approaches state that mental states are not only constituted by internal but also by external factors. He subsumes them under the so-called 4E-thesis: embodied, embedded, extended, enacted. His example is concerned with ADHD such that ADHD is only existent \u201cin an environment that favors attentional distraction and punishes hyperactivity.\u201d \n \nFirst, using the 4E-thesis seems to be explanatorily attractive: There are factors of the disorder that can be grouped as external constituents and these constituents are not named by internalist vocabulary. For example, punishment is for sure not part of internalist vocabulary. \n \nBut there is a figure of a principal argument against using the 4E-thesis in psychiatry. Consider this cookbook theory of the 4E-thesis: \n \n \nCookbook theory for the 4E-thesis in accord with Henrik Walter's multilevel-approach: \n \n \nThere is the phenomenon of a psychiatric disorder instanced in the form of multilevel-complexes. \n \n \nThere are embodied, embedded, extended, or enacted (4E) constituents of cognition that realize the cognitive systems. \n \n \nThere are individuation criteria for the 4E-constituents. \n \n \nCoupled systems of individuated 4E-constituents individuate a multilevel-complex. \n \n \nThere are individuation criteria for systems of constituents C that realize multilevel-complexes. \n \n \n \n \n \n \nFor example, with respect to extended cognition, the cookbook theory is the following: \n \n \nCookbook theory of extended cognition: \n \n \nThere is the phenomenon of cognition of a group of patients in psychiatry instanced in the form of cognitive systems of a specific structure. \n \n \nThere are vehicles of cognition that realize the cognitive systems named in 1. \n \n \nThere are individuation criteria for vehicles named in 2. \n \n \nCoupled systems of individuated vehicles individuate a cognitive system. \n \n \nThere are individuation criteria for systems of vehicles of cognition that realize cognitive systems named in 1. \n \n \n \n \n \n \nAs one can see, every attempt of the 4E-thesis needs criteria marking where to stop adding externalist constituents to the constituent base of the psychiatric disorder. For example, extended cognition-constituents should not include the whole world to make the thesis an interesting thesis\u2014otherwise every phenomenon to be explained by extended cognition is constituted by the same constituents (i.e., the whole world). But what kind of criterion can the 4E-externalist provide us with? \n \nFirst, the 4E-externalist could give a criterion based on intrinsic properties of systems realizing disorders. But as a detailed analysis of criteria of this kind by Adams and Aizawa (2001, 2010) shows, these criteria are regularly based on finding a mark of the cognitive\u2014which seems to be a hopeless endeavor without being a fundamentalist who just adds axiomatically this criterion to the cookbook theory. \n \nBut second, the 4E-externalist could maybe give a criterion based on extrinsic properties of systems realizing psychiatric disorders. For example, one could use reliability as a stop-criterion for delineating what is coupled (with respect to point 4 in the cookbook theories). What is reliably coupled builds a constituent base of a system realizing a psychiatric disorder. But as a detailed analysis shows, this is not the case (Bukow and Will, in press). With respect to different criteria of reliability, there are very different reliable systems. This is not trivial, because in accord with the cookbook theory-approach, Bukow and Will argue: \n \n \nArgument for the arbitrariness of the reliability-predicate: \n \n \nAssume the cookbook theory of extended cognition. \n \n \nGive a definition of reliability with an operationalization (e.g., reproducibility as an operationalization). \n \n \nChoose an experimental procedure to test for reliability based on interaction between systems (because reliability is relative to this experimental procedure). \n \n \nChoose a value X%, i.e., that the experimental procedure is reproducible in X% of all series of experiments. \n \n \n \n \n \n \nThere is no established decision procedure for the needed choices in points 3 and 4. And whatever procedure you choose, you may get different values for X% which will lead the psychiatrist to different constituent bases of the psychiatric disorder to be explained. Bukow and Will analyze in detail other candidates for criteria based on extrinsic properties, for example functional roles, causal roles, or heuristics. \n \n \nNow, there are two horns for the 4E-externalist: \n \nHorn 1: Use a stop-criterion based on intrinsic properties. The critics of Adam and Aizawa bite the proponent of this kind of criterion. If you add the criterion axiomatically, then you are a fundamentalist and not a scientist. \n \nHorn 2: Use a stop-criterion based on extrinsic properties. Then, there is the need to show in detail how to use such a criterion\u2014which seems to be hopeless in accord with the investigation above. If you add the criterion without detailed analysis, then you are using just so-stories, without guarantee that the criterion fulfills its job. \n \n \n \n \nFor these reasons, using the 4E-thesis is tempting but dangerous\u2014there is no well-founded stop-criterion in philosophy of mind that a psychiatrist could use\u2014not in a detailed way and not in a rough way. It is arbitrary what type and what token the psychiatrist may use with respect to the selection of constituents of a disorder. In a principal debate, the 4E-proponent may excuse these deficits because nobody may give in principal such stop-criteria. But in psychiatry, principal deficits are no excuse for misuse. Arbitrariness can smooth the way for use\u2014but also for misuse in psychiatry, which is a dangerous zone with respect to rights and needs of patients of psychiatry. And if a psychiatrist can only give arbitrary constituent bases to a patient's disorder, then disorder and treatment will only arbitrarily be defined. This is, as far as I can see, an objection against Henrik Walter's argument for a mature \u201cthird wave\u201d biological psychiatry.",
+      "citationCount": 3,
+      "doi": "10.3389/fpsyg.2013.00785",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e85b1c5ab11a583fb64f5476672d49807aa711dc",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "4"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d012c097ccf4f8709bad97f45cd64a43d9d861f8",
+      "title": "Joint Meeting of the Indiana Philosophical Association and the Kentucky Philosophical Association",
+      "authors": [
+        {
+          "name": "Kate Abramson",
+          "authorId": "83201930"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d012c097ccf4f8709bad97f45cd64a43d9d861f8",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "baaf580153ba660473fae3e5ccf6a60e1ea5d85f",
+      "title": "The Coupling\u2010Constitution Fallacy",
+      "authors": [
+        {
+          "name": "F. Adams",
+          "authorId": "145928144"
+        },
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1002/9781444391718.CH6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/baaf580153ba660473fae3e5ccf6a60e1ea5d85f",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "88-105",
+        "volume": ""
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 31,
+  "errors": []
+}

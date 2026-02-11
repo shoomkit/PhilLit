@@ -1,0 +1,967 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "coupling constitution extended mind",
+  "results": [
+    {
+      "paperId": "2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "title": "The Mark of the Cognitive and the Coupling-Constitution Fallacy: A Defense of the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Giulia Piredda",
+          "authorId": "2053496114"
+        }
+      ],
+      "year": 2017,
+      "abstract": "Clark and Chalmers (1998) introduced the extended mind hypothesis, according to which some mental states can be realized by non-biological external resources. A lively debate has flourished around this hypothesis, connected with the issues of embodiment, embeddedness, situatedness and enaction (cf. Clark, 2008; Menary, 2010; Shapiro, 2011). Two of the main criticisms addressed to the functionalist version of the extended mind thesis have been the so-called \u201ccoupling-constitution fallacy\u201d and the alleged lack of a mark of the cognitive (Adams and Aizawa, 2001, 2005, 2009, 2010a,b). According to Adams and Aizawa, extended cognition is a logical possibility, but is not instantiated in our world. Following this view, they defend a \u201ccontingent intracranialism,\u201d based on a specific mark of the cognitive that they propose. In this paper I intend to show that neither criticism is effective against the extended cognition thesis. In particular: the mark of the cognitive proposed by Adams and Aizawa does not secure contingent intracranialism; the coupling-constitution fallacy criticizes extended cognition on precisely the point the theory was intended to defend: namely, that the best way to individuate cognitive systems, given a minimal mark of the cognitive, is to rely on coupling relations between agents and environmental resources.",
+      "citationCount": 15,
+      "doi": "10.3389/fpsyg.2017.02061",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2d5d1f597bb39748be7662280beb96e1a5a2f573",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "8"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "e547c4cb772711fb7dd81ccfb40463d678b5eb48",
+      "title": "Commentary: The Alleged Coupling-Constitution Fallacy and the Mature Sciences",
+      "authors": [
+        {
+          "name": "L. Kersten",
+          "authorId": "23679636"
+        }
+      ],
+      "year": 2016,
+      "abstract": "The extended mind thesis holds that the mind can leak out into the world have offered a novel critique of this view by arguing that the question of cognitive extension is largely terminological or semantic, that it is a product of an immature science employing unhelpful metaphors about containment. They write, for instance: \" We do not believe there is any basis for a general fact of the mater about what is and what isn't a cognitive system. Modelers will and should draw system boundaries in whichever ways maximize efficient capture of local phenomena \" (Ross and Ladyman, 2010, p. 156). There is no matter of fact as to whether cognitive systems are extended or not, as such descriptions are drawn from too early a stage of scientific investigation. In this commentary, I offer one response to Ross and Laydman's terminological or semantic objection to the extended mind. Ross and Laydman's challenge can be framed as follows. If it turns out that calling cognitive systems extended or not is a matter of choice, then cognitive science can continue business-as-usual. However, if the extended mind thesis turns out to offer principled grounds for talking about cognitive systems, then some of the most basic assumptions of cognitive science might require revision\u2014for example, that the brain is the seat of cognition (Wilson and Clark, 2009). Thus, in order to evaluate the merits of the extended mind thesis, it first needs to be shown that there is a substantive issue at stake. To gain traction on the challenge, consider how an issue is normally identified as semantic rather than substantive. Consider, for example, the simple case of how to pronounce the word for the red fruit-berry of the nightshade plant Solanum lycopersicum, commonly referred to as a tomato. Those in North America might say \" toma/to \" [t e \"meI \" to ], while those in the United Kingdom might say \" to/ma/to \" [t e \"m\u03b1:t e ]. Under normal circumstances, it seems wrongheaded to ask whether one or the other pronunciation is correct, even though the intension and extension are the same. Contrast this with whether the basic subatomic elements in physics are particles or waves. Here, the choice of terms seems more principled. There seems to be something about the world that determines which term is more suitable, even though the current state of the science is undecided. What accounts for \u2026",
+      "citationCount": 2,
+      "doi": "10.3389/fpsyg.2016.02033",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e547c4cb772711fb7dd81ccfb40463d678b5eb48",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "12c69edaccbfec1256f028087178ff4af54e9ec6",
+      "title": "The Cognitive Complexity Thesis: Refuting Multiple Objections to the Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "M. V. D. Broek",
+          "authorId": "2189148045"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/12c69edaccbfec1256f028087178ff4af54e9ec6",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7961712b404dad62f8e93847f5e73d98c9088810",
+      "title": "The Extended Mind and It's Revisions",
+      "authors": [
+        {
+          "name": "Li De-ming",
+          "authorId": "73832977"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7961712b404dad62f8e93847f5e73d98c9088810",
+      "venue": "",
+      "journal": {
+        "name": "Studies in Philosophy of Science and Technology",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9aa19efb63449036b6ec7ba473c4ff7a6cc3741a",
+      "title": "Where Syllogistic Reasoning Happens: An Argument for the Extended Mind Hypothesis",
+      "authors": [
+        {
+          "name": "Georg Theiner",
+          "authorId": "1828654"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9aa19efb63449036b6ec7ba473c4ff7a6cc3741a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": "29"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "cfe4cfad85bd3c7438925f465819342cd04458fc",
+      "title": "Cognitive Spread: Under What Conditions Does the Mind Extend Beyond the Body?",
+      "authors": [
+        {
+          "name": "Zed Adams",
+          "authorId": "117475777"
+        },
+        {
+          "name": "Chauncey Maher",
+          "authorId": "47967745"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1111/J.1468-0378.2012.00543.X",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cfe4cfad85bd3c7438925f465819342cd04458fc",
+      "venue": "",
+      "journal": {
+        "name": "European Journal of Philosophy",
+        "pages": "420-438",
+        "volume": "23"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6e8abce4c4ba574af85e94a5ba87ecf29c727afa",
+      "title": "Causal Parity and Externalisms: Extensions in Life and Mind",
+      "authors": [
+        {
+          "name": "P. Huneman",
+          "authorId": "2827831"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.1007/s11023-013-9309-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6e8abce4c4ba574af85e94a5ba87ecf29c727afa",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "377 - 404",
+        "volume": "23"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "0b769a1fb796df2da93e5ecf8ce2699d088958dd",
+      "title": "Extended cognition and intrinsic properties",
+      "authors": [
+        {
+          "name": "T. Rockwell",
+          "authorId": "32607016"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 13,
+      "doi": "10.1080/09515089.2010.529044",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0b769a1fb796df2da93e5ecf8ce2699d088958dd",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "741 - 757",
+        "volume": "23"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "dbb0cbebb0d25f215f26e878a0b4d11311fbeb21",
+      "title": "FROM INSTRUMENTAL TO CONSTITUTIVE",
+      "authors": [
+        {
+          "name": "Vicente Raja",
+          "authorId": "28208237"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/dbb0cbebb0d25f215f26e878a0b4d11311fbeb21",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "465907dec42a5ed7cef39ce958d17372062399ab",
+      "title": "Contingent transcranialism and deep functional cognitive integration: The case of human emotional ontogenesis",
+      "authors": [
+        {
+          "name": "J. Greenwood",
+          "authorId": "20617726"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 11,
+      "doi": "10.1080/09515089.2011.633752",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/465907dec42a5ed7cef39ce958d17372062399ab",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "420 - 436",
+        "volume": "26"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "df065c93cff5635524611120c07c6d12c6f1301c",
+      "title": "Gdzie przebiegaj\u0105 procesy poznawcze? Teza umys\u0142u rozszerzonego i jej internalistyczna krytyka",
+      "authors": [
+        {
+          "name": "B. Trybulec",
+          "authorId": "102433029"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/df065c93cff5635524611120c07c6d12c6f1301c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "5-19",
+        "volume": "23"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1c01dafd934678dbfaafff02c1e65e5e5f4c845e",
+      "title": "Hayek's extended mind: on the (im)possibility of Austrian behavioural economics",
+      "authors": [
+        {
+          "name": "Erwin Dekker",
+          "authorId": "2244312644"
+        },
+        {
+          "name": "Bla\u017e Remic",
+          "authorId": "112861911"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Abstract Recent work has argued for a Hayekian behavioural economics, which combines Austrian economics with behavioural economics as developed by Kahneman, Thaler, Sunstein, and others. We suggest that this hybrid is misguided because it relies on individual cognitivism. This view of cognition is incompatible with the Hayekian view of cognition which treats rationality as an emergent phenomenon of social interaction in an institutional environment. This Hayekian view, which we call epistemic institutionalism, is compatible with an alternative prominent perspective in psychology, that of the extended mind, sometimes known as 4E cognition. We demonstrate how the Hayekian perspective on individualism, the price system, and the evolution of rules can be connected to the extended mind programme, through concepts such as the coupling of the individual and their environment, cognitive off-loading, and affordances. We suggest that this alternative combination of Austrian economics and psychology provides a more fruitful way forward, especially because it foregrounds the processes of learning, error-correction, and institutional orders, rather than choice, bias, and individual rationality. To explain why Austrian economists have been receptive to behavioural economics, we distinguish epistemic institutionalism from the (radical) subjectivist approach, which shares key assumptions of individual cognitivism.",
+      "citationCount": 8,
+      "doi": "10.1017/S1744137424000055",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1c01dafd934678dbfaafff02c1e65e5e5f4c845e",
+      "venue": "Journal of Institutional Economics",
+      "journal": {
+        "name": "Journal of Institutional Economics",
+        "volume": "20"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "569773ac5405668221ad108b55c086cca2ef680c",
+      "title": "Attuning to the World: The Diachronic Constitution of the Extended Conscious Mind",
+      "authors": [
+        {
+          "name": "Michael D. Kirchhoff",
+          "authorId": "40222333"
+        },
+        {
+          "name": "J. Kiverstein",
+          "authorId": "2645405"
+        }
+      ],
+      "year": 2020,
+      "abstract": "It is a near consensus among materialist philosophers of mind that consciousness must somehow be constituted by internal neural processes, even if we remain unsure quite how this works. Even friends of the extended mind theory have argued that when it comes to the material substrate of conscious experience, the boundary of skin and skull is likely to prove somehow to be privileged. Such arguments have, however, typically conceived of the constitution of consciousness in synchronic terms, making a firm separation between proximate mechanisms and their ultimate causes. We argue that the processes involved in the constitution of some conscious experiences are diachronic, not synchronic. We focus on what we call phenomenal attunement in this paper\u2014the feeling of being at home in a familiar, culturally constructed environment. Such a feeling is missing in cases of culture shock. Phenomenal attunement is a structure of our conscious experience of the world that is ubiquitous and taken for granted. We will argue that it is constituted by cycles of embodied and world-involving engagement whose dynamics are constrained by cultural practices. Thus, it follows that an essential structure of the conscious mind, the absence of which profoundly transforms conscious experience, is extended.",
+      "citationCount": 17,
+      "doi": "10.3389/fpsyg.2020.01966",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/569773ac5405668221ad108b55c086cca2ef680c",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "11"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "fd0a5f3eec14f213c75b0f36e3e639bf554a69e8",
+      "title": "4E\u2019s Are Too Many Why Enactive World-Making Does Not Need The Extended Mind Thesis",
+      "authors": [
+        {
+          "name": "A. Scarinzi",
+          "authorId": "1846515"
+        }
+      ],
+      "year": 2020,
+      "abstract": "4E\u2019s cognition\u00a0\u2013\u00a0embodied, embedded, enacted, extended\u00a0\u2013\u00a0replaces the cognitivist notion of world-mirroring with an active process of world-making: cognition needs no mental representation and is distributed over body, brain and environment. In recent years, the remark that extended cognition is not enactive and that the embodied approach to cognition fails to provide a definition of body raise the question of whether a postcognitivist approach to experience needs 4E\u2019s. This contribution suggests that it does not. The enactive body as a moving sense-making-system informed by phenomenology and pragmatism and its role in the constitution of the distinctive quality of an experience are discussed.",
+      "citationCount": 2,
+      "doi": "10.30687/jolma/2723-9640/2020/02/005",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fd0a5f3eec14f213c75b0f36e3e639bf554a69e8",
+      "venue": "1 | 2 | 2020 4E Cognition: Aesthetics, Ecology and Beyond",
+      "journal": {
+        "name": "1 | 2 | 2020 4E Cognition: Aesthetics, Ecology and Beyond"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "439dbe9b7aa44b51757c75f797e4342713b599e1",
+      "title": "Whose (Extended) Mind Is It, Anyway?",
+      "authors": [
+        {
+          "name": "K. Harris",
+          "authorId": "2055588253"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 9,
+      "doi": "10.1007/s10670-019-00172-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/439dbe9b7aa44b51757c75f797e4342713b599e1",
+      "venue": "Erkenntnis: An International Journal of Scientific Philosophy",
+      "journal": {
+        "name": "Erkenntnis",
+        "pages": "1599-1613",
+        "volume": "86"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "17764f5769a06048ed3b8da50b65c3fdf7110679",
+      "title": "The extended mind hypothesis: an anti-metaphysical vaccine",
+      "authors": [
+        {
+          "name": "Giorgio Airoldi",
+          "authorId": "4442513"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Discussions about the extended mind have \u2018extended\u2019 in various directions in the last decades. While applied to other aspects of human cognition and even consciousness, the extended-mind hypothesis has also been criticized, as it questions fundamental ideas such as the image of a dual world, divided between an external and an internal domain by the border of \u2018skin and skull\u2019, the idea of a localized and constant decision center, and the role of internal representations. We suggest that the main virtue of the hypothesis is not as a theory per se, but as a vaccine against persistent metaphysical prejudices about the mind\u2019s structure, functions and borders. Being an hypothesis about the most efficient ways to combine resources and problems, and not a theory about the mind\u2019s a-priori constitution, the extended mind view moves the focus from ontology to pragmatics and helps purify philosophy of mind from metaphysical remainders.",
+      "citationCount": 1,
+      "doi": "10.47456/sofia.v8i1.23751",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/17764f5769a06048ed3b8da50b65c3fdf7110679",
+      "venue": "Sofia",
+      "journal": {
+        "name": "Sofia"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "137c02729dc8b1ea23aeecfdee56cd29b5a8e7b0",
+      "title": "Whose (Extended) Mind Is It, Anyway?",
+      "authors": [
+        {
+          "name": "K. Harris",
+          "authorId": "2055588253"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s10670-019-00172-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/137c02729dc8b1ea23aeecfdee56cd29b5a8e7b0",
+      "venue": "Erkenntnis: An International Journal of Scientific Philosophy",
+      "journal": {
+        "name": "Erkenntnis",
+        "pages": "1599 - 1613",
+        "volume": "86"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "99a1f2424229da9647287696450589e3dfeeddc1",
+      "title": "Freedom of Thought for the Extended Mind: Cognitive Enhancement and the Constitution",
+      "authors": [
+        {
+          "name": "M. Blitz",
+          "authorId": "67167594"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 38,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/99a1f2424229da9647287696450589e3dfeeddc1",
+      "venue": "",
+      "journal": {
+        "name": "Wisconsin Law Review",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "de7a3e6649876246f8375c9dcd8af8cf5dba2980",
+      "title": "The Over-Extended Mind? Pink Noise and the Ethics of Interaction-Dominant Systems",
+      "authors": [
+        {
+          "name": "Darian Meacham",
+          "authorId": "66159736"
+        },
+        {
+          "name": "Miguel Prado Casanova",
+          "authorId": "52156626"
+        }
+      ],
+      "year": 2018,
+      "abstract": "There is a growing recognition within cognitive enhancement and neuroethics debates of the need for greater emphasis on cognitive artefacts. This paper aims to contribute to this broadening and expansion of the cognitive-enhancement and neuroethics debates by focusing on a particular form of relation or coupling between humans and cognitive artefacts: interaction-dominance. We argue that interaction-dominance as an emergent property of some human-cognitive artefact relations has important implications for understanding the attribution and distribution of causal and other forms of responsibility as well as agency relating to the actions of human-cognitive artefact couplings. Interaction-dominance is both indicated and constituted by the phenomenon of \u201cpink noise\u201d. Understanding the role of noise in this regard will establish a necessary theoretical groundwork for approaching the ethical and political dimensions of relations between human cognition and digital cognitive artefacts. We argue that pink noise in this context plays a salient role in the practical, ethical, and political evaluation of coupling relations between humans and cognitive artefacts, and subsequently in the responsible innovation of cognitive artefacts and human-artefact interfaces.",
+      "citationCount": 3,
+      "doi": "10.1007/s11569-018-0325-x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/de7a3e6649876246f8375c9dcd8af8cf5dba2980",
+      "venue": "NanoEthics",
+      "journal": {
+        "name": "Nanoethics",
+        "pages": "269 - 281",
+        "volume": "12"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "db4951e8dbf51863bc9b18cf17c1e89c6d6896c7",
+      "title": "The Extended Mind: Coupling Environment and Brain",
+      "authors": [
+        {
+          "name": "Susie Vrobel",
+          "authorId": "6442680"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.1063/1.3527164",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/db4951e8dbf51863bc9b18cf17c1e89c6d6896c7",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "277-282",
+        "volume": "1303"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "55a24b28c91f865deba12772d4dad9c1b9d1500a",
+      "title": "The extracted mind",
+      "authors": [
+        {
+          "name": "Louis Loock",
+          "authorId": "2350077449"
+        }
+      ],
+      "year": 2025,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.1007/s11229-025-04962-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/55a24b28c91f865deba12772d4dad9c1b9d1500a",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "205"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "b823da1c17025e25e0533e10e78e0a529460db8d",
+      "title": "The coupling-constitution fallacy: Much ado about nothing",
+      "authors": [
+        {
+          "name": "A. Kagan",
+          "authorId": "2067860029"
+        },
+        {
+          "name": "C. Lassiter",
+          "authorId": "46210124"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 12,
+      "doi": "10.1075/PC.21.1.08KAG",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b823da1c17025e25e0533e10e78e0a529460db8d",
+      "venue": "",
+      "journal": {
+        "name": "Pragmatics & Cognition",
+        "pages": "178-192",
+        "volume": "21"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "12f365d2cb8c61c5230b97f364f584dc40334b97",
+      "title": "What is the extension of the extended mind?",
+      "authors": [
+        {
+          "name": "Hajo Greif",
+          "authorId": "22851126"
+        }
+      ],
+      "year": 2015,
+      "abstract": "Two aspects of cognitive coupling, as brought forward in the Extended Mind Hypothesis, are discussed in this paper: (1) how shall the functional coupling between the organism and some entity in his environment be spelled out in detail? (2) What are the paradigmatic external entities to enter into that coupling? These two related questions are best answered in the light of an aetiological variety of functionalist argument that adds historical depth to the \u201cactive externalism\u201d promoted by Clark and Chalmers and helps to counter some of the core criticisms levelled against this view. Under additional reference to conceptual parallels between the Extended Mind Hypothesis and a set of heterodox theories in biology\u2014environmental constructivism, niche construction, developmental systems theory\u2014an argument for the grounding of environmentally extended cognitive traits in evolved biological functions is developed. In a spirit that seeks to integrate extended functionalism with views from cognitive integration and complementarity, it is argued (ad 1) that instances of environmental coupling should be understood as being constitutive to cognitive functions in either of two distinct ways. It is further argued (ad 2) that the historically and systematically prior environmental counterparts in that coupling are features of the natural environment. Language and linguistically imbued artefacts are likely to have descended from more basic relations that have an extension over the environment.",
+      "citationCount": 14,
+      "doi": "10.1007/s11229-015-0799-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/12f365d2cb8c61c5230b97f364f584dc40334b97",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "4311 - 4336",
+        "volume": "194"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "a6b6661121c98f78b0f1a22a5ea0f53867e795c8",
+      "title": "What is the extension of the extended mind?",
+      "authors": [
+        {
+          "name": "Hajo Greif",
+          "authorId": "22851126"
+        }
+      ],
+      "year": 2015,
+      "abstract": "Two aspects of cognitive coupling, as brought forward in the Extended Mind Hypothesis, are discussed in this paper: (1) how shall the functional coupling between the organism and some entity in his environment be spelled out in detail? (2) What are the paradigmatic external entities to enter into that coupling? These two related questions are best answered in the light of an aetiological variety of functionalist argument that adds historical depth to the \u201cactive externalism\u201d promoted by Clark and Chalmers and helps to counter some of the core criticisms levelled against this view. Under additional reference to conceptual parallels between the Extended Mind Hypothesis and a set of heterodox theories in biology\u2014environmental constructivism, niche construction, developmental systems theory\u2014an argument for the grounding of environmentally extended cognitive traits in evolved biological functions is developed. In a spirit that seeks to integrate extended functionalism with views from cognitive integration and complementarity, it is argued (ad 1) that instances of environmental coupling should be understood as being constitutive to cognitive functions in either of two distinct ways. It is further argued (ad 2) that the historically and systematically prior environmental counterparts in that coupling are features of the natural environment. Language and linguistically imbued artefacts are likely to have descended from more basic relations that have an extension over the environment.",
+      "citationCount": 0,
+      "doi": "10.1007/s11229-015-0799-9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a6b6661121c98f78b0f1a22a5ea0f53867e795c8",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "4311 - 4336",
+        "volume": "194"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "4b7dea5d25b8a6aa9acbc0f392cb344aa22bfe92",
+      "title": "When Is a Mind Extended?",
+      "authors": [
+        {
+          "name": "D. Kirsh",
+          "authorId": "145891494"
+        }
+      ],
+      "year": 2019,
+      "abstract": "This chapter explores four conditions for operationalizing the concept of cognitive extension. (1) Temporal tightness of the coupling\u2014interaction between inner and outer processes must be fast, tight, and fluid, interacting at the speed of thought. (2) External mind parts must be transparent extensions of ourselves like glasses or prosthetic limbs that are psychologically absorbed into the subject\u2019s body sense. We act through these parts or processes rather than on them. (3) Cognitive extensions are \u201cowned\u201d; they are not independent functioning units that could be a source of cognition themselves; inner processes confer cognitive status on the outer. (4) Extended parts or processes interact bidirectionally; causation is reciprocal, though controlled from the biological side. The chapter concludes that extension does exist. Through interaction we create an extended cognitive envelope. The parts of this envelope are episodic processes enacting external thinking rather than being an enduring assemblage of parts. To make the final leap to durable mind parts\u2014external assemblages that are parts of a person even when not in use\u2014requires reasoning of the sort lawyers and judges do best, not scientists.",
+      "citationCount": 9,
+      "doi": "10.1093/OSO/9780190662813.003.0011",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4b7dea5d25b8a6aa9acbc0f392cb344aa22bfe92",
+      "venue": "Andy Clark and His Critics",
+      "journal": {
+        "name": "Andy Clark and His Critics"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d65f68e19e7fa56756281cfb050eea7150a4ffb1",
+      "title": "The New Science of the Mind: From Extended Mind to Embodied Phenomenology",
+      "authors": [
+        {
+          "name": "Andreas Elpidorou",
+          "authorId": "2015562"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 73,
+      "doi": "10.1080/09515089.2011.633697",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d65f68e19e7fa56756281cfb050eea7150a4ffb1",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "771 - 774",
+        "volume": "25"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "8a75199cdff1579cfb38c28c5c2887ef761c5071",
+      "title": "\u201cI Is Someone Else\u201d: Constituting the Extended Mind\u2019s Fourth Wave, with Hegel",
+      "authors": [
+        {
+          "name": "J. .. Fritzman",
+          "authorId": "65779506"
+        },
+        {
+          "name": "Kristin Thornburg",
+          "authorId": "103355627"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.7710/1526-0569.1560",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8a75199cdff1579cfb38c28c5c2887ef761c5071",
+      "venue": "",
+      "journal": {
+        "name": "Essays in Philosophy",
+        "pages": "156-190",
+        "volume": "17"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7b6029d5e88e4abeb314f48dd9e89558f1b57e0b",
+      "title": "Extended Mind: Is There Anything at All to Be Externalised?",
+      "authors": [
+        {
+          "name": "Eva Z\u00e1ckov\u00e1",
+          "authorId": "2421163"
+        },
+        {
+          "name": "Jan Romportl",
+          "authorId": "1727154"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1007/978-3-642-34422-0_15",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7b6029d5e88e4abeb314f48dd9e89558f1b57e0b",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "213-221",
+        "volume": "4"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7e2e8704eb18c361cd3da9c43a772af76ff50ba1",
+      "title": "Externalism, Dynamics and the Extended Mind",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1057/9780230592889_3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7e2e8704eb18c361cd3da9c43a772af76ff50ba1",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "38-60",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "baaf580153ba660473fae3e5ccf6a60e1ea5d85f",
+      "title": "The Coupling\u2010Constitution Fallacy",
+      "authors": [
+        {
+          "name": "F. Adams",
+          "authorId": "145928144"
+        },
+        {
+          "name": "K. Aizawa",
+          "authorId": "2605316"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1002/9781444391718.CH6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/baaf580153ba660473fae3e5ccf6a60e1ea5d85f",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "88-105",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "08c267731400bd25959f7be209b24f803b739e8b",
+      "title": "Extended cognition & constitution: Re-evaluating the constitutive claim of extended cognition",
+      "authors": [
+        {
+          "name": "Michael D. Kirchhoff",
+          "authorId": "40222333"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 24,
+      "doi": "10.1080/09515089.2012.724394",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/08c267731400bd25959f7be209b24f803b739e8b",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "258 - 283",
+        "volume": "27"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "be4a3d248af227193872b910677712a23efbd669",
+      "title": "PERSONS AND THE EXTENDED\u2010MIND THESIS",
+      "authors": [
+        {
+          "name": "L. Baker",
+          "authorId": "4685178"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 39,
+      "doi": "10.1111/J.1467-9744.2009.01022.X",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/be4a3d248af227193872b910677712a23efbd669",
+      "venue": "",
+      "journal": {
+        "name": "Zygon",
+        "pages": "642-658",
+        "volume": "44"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ea4c3a5dc7ec91f04182696633454026c5b0125c",
+      "title": "The Extended Mind",
+      "authors": [
+        {
+          "name": "J. Ladyman",
+          "authorId": "104382240"
+        },
+        {
+          "name": "D. Ross",
+          "authorId": "145890681"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 116,
+      "doi": "10.7551/mitpress/9780262014038.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ea4c3a5dc7ec91f04182696633454026c5b0125c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "f31aa7698a06dfc706adfbabcc3f2a5c82f3b548",
+      "title": "Zygon: Journal of Religion and Science, forthcoming Persons and the Extended-Mind Thesis",
+      "authors": [
+        {
+          "name": "L. Baker",
+          "authorId": "4685178"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f31aa7698a06dfc706adfbabcc3f2a5c82f3b548",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2f43a22bd2edd3b559d7063d47d9c4b76010910a",
+      "title": "Autopoiesis, enactivism, and the extended mind",
+      "authors": [
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 4,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2f43a22bd2edd3b559d7063d47d9c4b76010910a",
+      "venue": "IEEE Symposium on Artificial Life",
+      "journal": {
+        "pages": "819"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "b2c4a197560d1e451408775077227e8f06769914",
+      "title": "Supersizing the Mind",
+      "authors": [
+        {
+          "name": "A. Clark",
+          "authorId": "37700983"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 1634,
+      "doi": "10.1093/acprof:oso/9780195333213.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b2c4a197560d1e451408775077227e8f06769914",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2c5c58f11a36c126a397e401ba6b0bfef4411012",
+      "title": "From Selfhood to Social Solidarity; From a Mind towards the Collective Thinking and Working Bodies: A Marxist Approach",
+      "authors": [
+        {
+          "name": "Jose Mario De Vega",
+          "authorId": "2187615912"
+        }
+      ],
+      "year": 2022,
+      "abstract": "What our minds and conceive, our bodies can achieve. I will argue that \u201cthe mind is not then an autonomous substance, capable of forming its own states without recourse to what lies beyond it: it states arrive by courtesy of a specific external environment.\u201d It means that, our minds appropriates the contents of the material world and this act in turn forms the other contents of our minds and its various categories. Hence, it is not a \u201csurprising thesis that the very constitution of mind is logically bound up with environment. The geography of the mind depends upon actual geography. Undeniably the content of our minds is influenced by society and the world in general, for the former arises because of the existence of the latter. \nThis conscious mind, Selfhood must lead to a collective thinking or collective minds that is utterly necessary for the development of the body and this development from further extend to the development of the body politic (Social Solidarity). \n\u00a0 \nReferences \n\u00a0 \nAciman, Andre, (Editor) The New Nomads from Letters of Transit Reflections on Exile, Identity, Language, and Loss Andre Aciman, Eva Hoffman Bharati Mukherjee Edward Said Charles Simic, Edited by Andre Aciman, published in collaboration with The New York Public Library, 1999 \nBakhurst, David and Sypnowich, Christine (Editors) The Social Self Inquiries in Social Construction, Sage Publications, London, 1995 \nBarnes, Jonathan, Early Greek Philosophy, Penguin Classics, translated and edited by Jonathan Barnes, Second Revised Edition, 2001 \nBrown, Dan, The Vinci Code, Doubleday, 2003 \nCollier, Andrew, Marx, Oneworld Publication, Oxford, 2004 \nCondorcet, de Antoine Nicolas, Sketch for a Historical Picture of the Progress of the Human Mind (1793) \nCopleston, Frederick, S. J., Contemporary Philosophy Studies of Logical Positivism and Existentialism, Burns and Oates, London, Third Edition, 1963 \nDescartes, Rene, Meditations on First Philosophy, (1641) \nEngels, Friedrich, Ludwig Feuerbach and the End of Classical German Philosophy, Progress Publishers edition, translated by Progress Publishers, 1946 \nEngle, W. Gale and Taylor, Gabriele, (Editors) Berkeley\u2019s Principles of Human Knowledge, Critical Studies, Wadsworth Publishing Company, Inc., 1968 \nFiero, K. Gloria, The Humanistic Tradition The Early Modern World to the Present, Sixth Edition, Volume II, Mcgraw-Hill, New York, 2011 \nFischer, Ernst, The Necessity of Art, translated by Anna Bostock, Penguin Books, 1959 \nGuthrie, W. K. C., The Greek Philosophers From Thales to Aristotle, Methuen & Company, London, 1950 \nHume, David, A Treatise of Human Nature, Book I, Part IV, Section VI (1739) \nJones-Lloyd, Hugh, (editor), The Greeks and their Philosophy in The Greek World, Penguin Books, England, 1965 \nMarx, Karl, Thesis on Feuerbach (1845) \n--- with Engels, Friedrich, (co-author), The German Ideology, edited by R. Pascal , International Publishers, New York, 1963 \n--- The Economic and Philosophic Manuscripts of 1844, the Foreign Languages Publishing House (now Progress Publishers), Moscow, translated by Martin Milligan, 1959. First published in 1932. \n--- The German Ideology (co-authored with Friedrich Engels), (1846) \n--- The Communist Manifesto (co-authored with Friedrich Engels), (1848) \n--- Grundrisee, 1858-59 (1939) \n--- A Contribution to the Critique of Political Economy, (1859) \n--- Das Kapital (1867) \n--- Critique of the Gotha Programme, (1875) \nMarx/Engels Selected Works, Volume One, Progress Publishers, Moscow, USSR, 1969 \nMcginn, Colinn, The Character of the Mind, Oxford University Press, 1996 \nMclellan, David, The Thought of Karl Marx An Introduction, New York: Harper & Row Publishers, 1971 \nMcIntyre, Alasdair, After Virtue A Study in Moral Theory Third Edition, University of Notre Dame Press, Indiana, 2010 \nOsborne, Richard, Philosophy for Beginners, Illustrated by Ralph Edney, Writers and Readers Publishing, Inc., New York, 1991 \nProudhon, Joseph Pierre, \u201cWhat is Property? Or, an Inquiry into the Principle of Right and Government\u201d (1840) \nRousseau, Jean Jacques, \u201cDiscourse on the Origin and Basis of Inequality Among Men\u201d (1755) \nTurbayne, M. C., Berkeley\u2019s Two Concepts of Mind, in Berkeley\u2019s Principles of Human Knowledge, Critical Studies, Wadsworth Publishing Company, Inc., 1968 \nWeissman, David, Intuition and Ideality, State University of New York Press, Chapter Two: The Dialectical Cycles of Intuitionist Method, 1987",
+      "citationCount": 0,
+      "doi": "10.57106/scientia.v11i1.12",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2c5c58f11a36c126a397e401ba6b0bfef4411012",
+      "venue": "Scientia",
+      "journal": {
+        "name": "Scientia - The International Journal on the Liberal Arts"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "38b3affcbb0d7c74ea7b435ef6e3a3224cf96c4a",
+      "title": "The Finite Mind: A Phenomenological Study of Samuel Taylor Coleridge",
+      "authors": [
+        {
+          "name": "Tomoko Marshall",
+          "authorId": "123692744"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/38b3affcbb0d7c74ea7b435ef6e3a3224cf96c4a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c3410b9bc18fe93609a77744306674bfbb1d7928",
+      "title": "ROLE OF ARTIFICIAL INTELLIGENCE IN FIELD OF AYURVEDA",
+      "authors": [
+        {
+          "name": "Lanjewar M.",
+          "authorId": "2382790835"
+        },
+        {
+          "name": "Pawar P.",
+          "authorId": "2382789011"
+        },
+        {
+          "name": "Charde A.",
+          "authorId": "2382790133"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Artificial Intelligence (AI) is rapidly transforming the landscape of healthcare, and its influence is now extending to traditional systems such as Ayurveda. Ayurveda, the ancient Indian system of medicine, is based on holistic healing and emphasizes the maintenance of health through balance in the body, mind, and environment. Its core principles revolve around Tridosha theory (Vata, Pitta, and Kapha) and Prakriti (the unique body constitution of each individual). These concepts guide both diagnosis and treatment, making Ayurveda deeply personalized. Despite its richness, Ayurvedic diagnosis and treatment planning often rely heavily on the practitioner\u2019s personal experience, intuition, and interpretation of symptoms. This subjectivity can make it challenging to achieve standardization across practitioners, leading to variations in diagnosis and treatment outcomes. Here, AI offers significant potential. By applying machine learning algorithms, natural language processing, and data analytics, Similarly, AI-driven platforms can support practitioners in suggesting personalized herbal formulations, lifestyle modifications, or dietary recommendations by integrating patient history with classical Ayurvedic guidelines. Moreover, AI can contribute to clinical research in Ayurveda by ensuring evidence-based validation of therapies and providing tools for comparative studies with modern medical practices.Thus, AI holds the promise of bridging the gap between traditional wisdom and modern technology, making Ayurveda more accessible, standardized, and globally relevant without compromising its holistic essence.",
+      "citationCount": 0,
+      "doi": "10.55552/ijim.2025.6808",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c3410b9bc18fe93609a77744306674bfbb1d7928",
+      "venue": "International journal of Indian medicine",
+      "journal": {
+        "name": "International journal of Indian medicine"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "8d93fe7980a0fe0d89bb209fc6a07d82467df766",
+      "title": "Ferrara\u2019s Principles of Constitutional Legitimacy: From Plato to Rawls, and Backwards?",
+      "authors": [
+        {
+          "name": "Greta Favara",
+          "authorId": "2338304319"
+        },
+        {
+          "name": "Roberta Sala",
+          "authorId": "2369934216"
+        }
+      ],
+      "year": 2025,
+      "abstract": "In his latest book, Sovereignty Across Generations: Constituent Power and Political Liberalism, Alessandro Ferrara explores the grounds, norms and scope of liberal constitutions\u2019 legitimacy. Specifically, Ferrara develops Rawls\u2019s political liberalism by exploring liberal legitimacy in a constitutional direction. Indeed, while the grounds of constitutions\u2019 legitimacy were not the primary focus of Rawls\u2019s own investigations, Ferrara believes that political liberalism must now be extended in this direction \u2013 for both theoretical and political reasons. In this review, we examine Ferrara\u2019s proposal, bearing in mind his project\u2019s Rawlsian roots. Specifically, we examine the relationship between reasonableness and constitutional legitimacy; we suggest that some of Ferrara\u2019s conclusions \u2013 especially his intergenerational conception of the people as sovereign \u2013 might stand in tension with the Rawlsian framework within which he has drawn them.",
+      "citationCount": 0,
+      "doi": "10.17473/2240-7987-2025-1-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8d93fe7980a0fe0d89bb209fc6a07d82467df766",
+      "venue": "Filosofia e questioni pubbliche",
+      "journal": {
+        "name": "Filosofia e questioni pubbliche"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

@@ -1,0 +1,165 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Google effect memory Sparrow",
+  "results": [
+    {
+      "paperId": "d64b9115b71d5257105b8ef3e5bf75743fecfa0c",
+      "title": "The Internet, Cognitive Enhancement, and the Values of Cognition",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "authorId": "1861130"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 62,
+      "doi": "10.1007/s11023-016-9404-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d64b9115b71d5257105b8ef3e5bf75743fecfa0c",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "389-407",
+        "volume": "26"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "efd5c24d066e235ab4a6f2028df99eb776a56821",
+      "title": "Analysis of Cognitive Science and Learning Environments in Educational Institutions",
+      "authors": [
+        {
+          "name": "N. Ashokkumar",
+          "authorId": "2329934297"
+        },
+        {
+          "name": "D. Neelamegam",
+          "authorId": "2343328341"
+        },
+        {
+          "name": "M. Bharathi",
+          "authorId": "2343325738"
+        },
+        {
+          "name": "V. Arun",
+          "authorId": "2343328767"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Abstract: Cognitive science enhances learning outcomes and teaching practices in educational institutions. Also, it influences the vital process of the human mind, such as perception, memory, reasoning, and learning are briefed. Cognitive science has many applications in education, as it can help teachers and learners understand how the brain works and how to optimize learning and teaching strategies. It draws on insights from psychology, neuroscience, linguistics, philosophy, and computer science. It also shows how this concept improves the attention level of students. Aim: The purpose of this study is to examine the various roles of cognitive science in education and its effects on learning environments. Literature reviews: This section provides information about the concept of cognitive science and its role and impact on education. It also discusses the challenges faced during the implementation of this concept and how they were overcome through effective collaboration, training and technologies. The cognitive principles of learning and memory include the spacing effect, the testing effect, and the multimedia effect. The cognitive theories of learning and instruction, include constructivism, cognitive load theory, and selfregulated learning. The cognitive tools and technologies that support learning and teaching, Methodology: A primary research method was used where Google Form was used to collect data. A total of 55 educational professionals who are professors from different institutes participated in the survey and provided their valuable information. Findings and analysis: Statistical analysis was used to obtain the results for different hypotheses and to interpret the data. Discussion: The cognitive approach offers practical teaching and learning practices that enhance student engagement and attention in the learning outcomes. Conclusion: In conclusion, cognitive science in education brings positive changes that improve the academic performance of students.\n\nKeywords: Cognitive Science, Artificial intelligence, Neuroscience, psychology, Critical thinking and Collaboration etc.",
+      "citationCount": 0,
+      "doi": "10.16920/jeet/2024/v38i3/24247",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/efd5c24d066e235ab4a6f2028df99eb776a56821",
+      "venue": "Journal of Engineering Education Transformations",
+      "journal": {
+        "name": "Journal of Engineering Education Transformations"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "5788f9f5a6918817f00434c7d043e75e6512f49b",
+      "title": "The Internet, Cognitive Enhancement, and the Values of Cognition",
+      "authors": [
+        {
+          "name": "Richard Heersmink",
+          "authorId": "1861130"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.1007/s11023-016-9404-3",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5788f9f5a6918817f00434c7d043e75e6512f49b",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "389 - 407",
+        "volume": "26"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1c74b8ba17050919e8c1168d6549d6da87388929",
+      "title": "Samuel Butler\u2019s Life and Habit and the Modernist Literary Character: Rethinking the Subject through the Everyday",
+      "authors": [
+        {
+          "name": "F. Bellini",
+          "authorId": "30539261"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1353/COM.2016.0006",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1c74b8ba17050919e8c1168d6549d6da87388929",
+      "venue": "",
+      "journal": {
+        "name": "The Comparatist",
+        "pages": "111 - 127",
+        "volume": "40"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "67c8a73c7ad388af60b70e45103eea064b932ac1",
+      "title": "The Darwinian revolution as a knowledge reorganization",
+      "authors": [
+        {
+          "name": "S. Zacharias",
+          "authorId": "92085566"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.18452/17145",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/67c8a73c7ad388af60b70e45103eea064b932ac1",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "0d2a5c4e7244cbcd02edb2af801d97d9985016e5",
+      "title": "The Heart of the Great Alone: Scott, Shackleton and Antarctic Photography",
+      "authors": [
+        {
+          "name": "R. Dixon",
+          "authorId": "144327902"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1080/03087298.2012.638128",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0d2a5c4e7244cbcd02edb2af801d97d9985016e5",
+      "venue": "",
+      "journal": {
+        "name": "History of Photography",
+        "pages": "128 - 130",
+        "volume": "36"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    }
+  ],
+  "count": 6,
+  "errors": []
+}

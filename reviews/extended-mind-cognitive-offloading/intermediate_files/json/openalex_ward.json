@@ -1,0 +1,2873 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "smartphone brain drain Ward",
+  "results": [
+    {
+      "openalex_id": "W4292672367",
+      "doi": "10.1016/j.actpsy.2022.103717",
+      "title": "Reexamining the \u201cbrain drain\u201d effect: A replication of Ward et al. (2017)",
+      "authors": [
+        {
+          "name": "Ana C. Ruiz Pardo",
+          "openalex_id": "A5001592793",
+          "orcid": "https://orcid.org/0000-0003-3652-0254",
+          "institutions": [
+            "Western University"
+          ]
+        },
+        {
+          "name": "John Paul Minda",
+          "openalex_id": "A5032762418",
+          "orcid": "https://orcid.org/0000-0002-4081-010X",
+          "institutions": [
+            "Western University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-08-22",
+      "abstract": "The present study was a pre-registered direct replication of Ward et al.'s (2017) second experiment (OSF pre-registration found at: https://osf.io/5fq4r). This replication assigned both smartphone location (on desk, in pocket/bag, or outside of the testing room) and smartphone power (on, or off) for a total of six conditions. Participants completed an automated operation span (OSpan) task, a Cue-Dependent Go/No-Go task, and the smartphone attachment and dependency inventory. It was hypothesized that performance on an attention-demanding task (i.e., the OSpan task) would be worse for those in closer proximity to their smartphone (on desk) and that those with greater smartphone attachment and dependency would have a larger \"brain drain\" effect. Using the same tasks and conditions as in Ward et al.'s (2017) second experiment, the present study found that the \"brain drain\" effect did not replicate: there was no difference between smartphone location conditions on performance on either the o-span task or the go/no-go task. These findings demonstrate that the mere presence of one's smartphone may not be enough to affect cognitive performance. Understanding these effects is crucial in a time where smartphones are a basic necessity.",
+      "cited_by_count": 15,
+      "type": "article",
+      "source": {
+        "name": "Acta Psychologica",
+        "type": "journal",
+        "issn": [
+          "0001-6918",
+          "1873-6297"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.actpsy.2022.103717"
+      },
+      "topics": [
+        "Traumatic Brain Injury Research",
+        "Functional Brain Connectivity Studies",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 23,
+      "url": "https://openalex.org/W4292672367"
+    },
+    {
+      "openalex_id": "W4386608124",
+      "doi": "10.3390/bs13090751",
+      "title": "Does the Brain Drain Effect Really Exist? A Meta-Analysis",
+      "authors": [
+        {
+          "name": "Tobias B\u00f6ttger",
+          "openalex_id": "A5046801094",
+          "orcid": "https://orcid.org/0000-0002-9936-6277",
+          "institutions": [
+            "University of Augsburg"
+          ]
+        },
+        {
+          "name": "Michael Poschik",
+          "openalex_id": "A5092846551",
+          "institutions": [
+            "University of Augsburg"
+          ]
+        },
+        {
+          "name": "Klaus Zierer",
+          "openalex_id": "A5032269187",
+          "institutions": [
+            "University of Augsburg"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-11",
+      "abstract": "Smartphones have become an indispensable part of everyday life. Given the current debate about the use of smartphones in classrooms and schools, it seems appropriate to examine their effects on aspects of cognitive performance in more detail. Ward and colleagues not only demonstrated the negative effect of smartphones on cognitive performance but also showed that the mere presence of these devices can have this effect\u2014this is known as the Brain Drain effect. In the present article, a meta-analytic approach was adopted in order to verify these findings. Here we show a significant overall negative effect of smartphone use and presence. In a database search we identified 22 studies with a total of 43 relevant effects that could be assigned to the categories \u201cmemory\u201d, \u201cattention\u201d, and \u201cgeneral cognitive performance\u201d. A subgroup analysis suggests that not all cognitive domains are equally affected by the negative effect of smartphones. The heterogeneity of the effects reinforces this finding. The nationality of the test subjects or the origin of the studies was identified as a further key variable. Our findings also indicate that the distracting effect of smartphones varies on the area studies and further research is necessary. In view of the present research results, it seems important that people in general, and especially children and adolescents in schools and classrooms, learn how to deal with the distracting potential of smartphones.",
+      "cited_by_count": 16,
+      "type": "review",
+      "source": {
+        "name": "Behavioral Sciences",
+        "type": "journal",
+        "issn": [
+          "2076-328X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2076-328X/13/9/751/pdf?version=1694427397"
+      },
+      "topics": [
+        "Child Development and Digital Technology",
+        "Impact of Technology on Adolescents",
+        "Mobile Learning in Education"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W4386608124"
+    },
+    {
+      "openalex_id": "W2414114959",
+      "doi": "10.1002/spe.2509",
+      "title": "iFogSim: A toolkit for modeling and simulation of resource management techniques in the Internet of Things, Edge and Fog computing environments",
+      "authors": [
+        {
+          "name": "Harshit Gupta",
+          "openalex_id": "A5101454782",
+          "orcid": "https://orcid.org/0000-0003-2850-0851",
+          "institutions": [
+            "Cloud Computing Center",
+            "University of Melbourne",
+            "Georgia Institute of Technology"
+          ]
+        },
+        {
+          "name": "Amir Vahid Dastjerdi",
+          "openalex_id": "A5037492592",
+          "institutions": [
+            "University of Melbourne",
+            "Cloud Computing Center"
+          ]
+        },
+        {
+          "name": "Soumya K. Ghosh",
+          "openalex_id": "A5030936455",
+          "orcid": "https://orcid.org/0000-0001-8359-581X",
+          "institutions": [
+            "Indian Institute of Technology Kharagpur"
+          ]
+        },
+        {
+          "name": "Rajkumar Buyya",
+          "openalex_id": "A5014716105",
+          "orcid": "https://orcid.org/0000-0001-9754-6496",
+          "institutions": [
+            "Cloud Computing Center",
+            "University of Melbourne"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-06-21",
+      "abstract": "Summary Internet of Things (IoT) aims to bring every object (eg, smart cameras, wearable, environmental sensors, home appliances, and vehicles) online, hence generating massive volume of data that can overwhelm storage systems and data analytics applications. Cloud computing offers services at the infrastructure level that can scale to IoT storage and processing requirements. However, there are applications such as health monitoring and emergency response that require low latency, and delay that is caused by transferring data to the cloud and then back to the application can seriously impact their performances. To overcome this limitation, Fog computing paradigm has been proposed, where cloud services are extended to the edge of the network to decrease the latency and network congestion. To realize the full potential of Fog and IoT paradigms for real\u2010time analytics, several challenges need to be addressed. The first and most critical problem is designing resource management techniques that determine which modules of analytics applications are pushed to each edge device to minimize the latency and maximize the throughput. To this end, we need an evaluation platform that enables the quantification of performance of resource management policies on an IoT or Fog computing infrastructure in a repeatable manner. In this paper we propose a simulator, called iFogSim , to model IoT and Fog environments and measure the impact of resource management techniques in latency, network congestion, energy consumption, and cost. We describe two case studies to demonstrate modeling of an IoT environment and comparison of resource management policies. Moreover, scalability of the simulation toolkit of RAM consumption and execution time is verified under different circumstances.",
+      "cited_by_count": 1559,
+      "type": "article",
+      "source": {
+        "name": "Software Practice and Experience",
+        "type": "journal",
+        "issn": [
+          "0038-0644",
+          "1097-024X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/spe.2509"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Cloud Computing and Resource Management",
+        "Context-Aware Activity Recognition Systems"
+      ],
+      "referenced_works_count": 21,
+      "url": "https://openalex.org/W2414114959"
+    },
+    {
+      "openalex_id": "W3047833576",
+      "doi": "10.1136/bmj.m3026",
+      "title": "Management of post-acute covid-19 in primary care",
+      "authors": [
+        {
+          "name": "Trisha Greenhalgh",
+          "openalex_id": "A5059176055",
+          "orcid": "https://orcid.org/0000-0003-2369-8088",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Matthew Knight",
+          "openalex_id": "A5039977539",
+          "orcid": "https://orcid.org/0000-0003-1761-0115",
+          "institutions": [
+            "West Hertfordshire Hospitals NHS Trust"
+          ]
+        },
+        {
+          "name": "Christine A\u2019Court",
+          "openalex_id": "A5066102523",
+          "orcid": "https://orcid.org/0000-0003-1829-3860",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Maria Buxton",
+          "openalex_id": "A5011724632",
+          "institutions": [
+            "Central London Community Healthcare NHS Trust"
+          ]
+        },
+        {
+          "name": "Laiba Husain",
+          "openalex_id": "A5038379855",
+          "orcid": "https://orcid.org/0000-0001-9889-0889",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-11",
+      "abstract": "What you need to know\u2022 Management of covid-19 after the first three weeks is currently based on limited evidence \u2022 Approximately 10% of people experience prolonged illness after covid-19 \u2022 Many such patients recover spontaneously (if slowly) with holistic support, rest, symptomatic treatment, and gradual increase in activity \u2022 Home pulse oximetry can be helpful in monitoring breathlessness \u2022 Indications for specialist assessment include clinical concern along with respiratory, cardiac, or neurological symptoms that are new, persistent, or progressive the",
+      "cited_by_count": 1746,
+      "type": "article",
+      "source": {
+        "name": "BMJ",
+        "type": "journal",
+        "issn": [
+          "1756-1833"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.bmj.com/content/bmj/370/bmj.m3026.full.pdf"
+      },
+      "topics": [
+        "Long-Term Effects of COVID-19",
+        "COVID-19 Clinical Research Studies",
+        "COVID-19 and Mental Health"
+      ],
+      "referenced_works_count": 58,
+      "url": "https://openalex.org/W3047833576"
+    },
+    {
+      "openalex_id": "W3005199011",
+      "doi": "10.1503/cmaj.190434",
+      "title": "Smartphones, social media use and youth mental health",
+      "authors": [
+        {
+          "name": "Elia Abi\u2010Jaoude",
+          "openalex_id": "A5072567712",
+          "orcid": "https://orcid.org/0000-0002-2448-9758",
+          "institutions": [
+            "University Health Network",
+            "Toronto Western Hospital",
+            "Great Ormond Street Hospital",
+            "SickKids Foundation",
+            "University College London",
+            "University of Toronto",
+            "Hospital for Sick Children"
+          ]
+        },
+        {
+          "name": "Karline Treurnicht Naylor",
+          "openalex_id": "A5017419102",
+          "institutions": [
+            "University of Toronto",
+            "University College London",
+            "Hospital for Sick Children",
+            "SickKids Foundation",
+            "University Health Network",
+            "Great Ormond Street Hospital",
+            "Toronto Western Hospital"
+          ]
+        },
+        {
+          "name": "Antonio Pignatiello",
+          "openalex_id": "A5051537645",
+          "institutions": [
+            "Toronto Western Hospital",
+            "University Health Network",
+            "SickKids Foundation",
+            "University of Toronto",
+            "University College London",
+            "Great Ormond Street Hospital",
+            "Hospital for Sick Children"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-02-09",
+      "abstract": "KEY POINTS In the last decade, increasing mental distress and treatment for mental health conditions among youth in North America has paralleled a steep rise in the use of smartphones and social media by children and adolescents. In Ontario, the proportion of teenagers reporting moderate to serious",
+      "cited_by_count": 588,
+      "type": "review",
+      "source": {
+        "name": "Canadian Medical Association Journal",
+        "type": "journal",
+        "issn": [
+          "0820-3946",
+          "1488-2329"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.cmaj.ca/content/cmaj/192/6/E136.full.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Digital Mental Health Interventions"
+      ],
+      "referenced_works_count": 59,
+      "url": "https://openalex.org/W3005199011"
+    },
+    {
+      "openalex_id": "W2988200200",
+      "doi": "10.1556/2006.8.2019.59",
+      "title": "How to overcome taxonomical problems in the study of Internet use disorders and what to do with \u201csmartphone addiction\u201d?",
+      "authors": [
+        {
+          "name": "Christian Montag",
+          "openalex_id": "A5022713595",
+          "orcid": "https://orcid.org/0000-0001-8112-0837",
+          "institutions": [
+            "Universit\u00e4t Ulm",
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Elisa Wegmann",
+          "openalex_id": "A5030485602",
+          "orcid": "https://orcid.org/0000-0002-9373-979X",
+          "institutions": [
+            "University of Duisburg-Essen"
+          ]
+        },
+        {
+          "name": "Rayna Sariyska",
+          "openalex_id": "A5025545139",
+          "orcid": "https://orcid.org/0000-0002-4895-4271",
+          "institutions": [
+            "Universit\u00e4t Ulm"
+          ]
+        },
+        {
+          "name": "Zsolt Demetrovics",
+          "openalex_id": "A5024527571",
+          "orcid": "https://orcid.org/0000-0001-5604-7551",
+          "institutions": [
+            "E\u00f6tv\u00f6s Lor\u00e1nd University"
+          ]
+        },
+        {
+          "name": "Matthias Brand",
+          "openalex_id": "A5013898044",
+          "orcid": "https://orcid.org/0000-0002-4831-9542",
+          "institutions": [
+            "University of Duisburg-Essen",
+            "Erwin L. Hahn Institute for Magnetic Resonance Imaging"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-10-31",
+      "abstract": "Aims : The present theoretical paper introduces the smartphone technology as a challenge for diagnostics in the study of Internet use disorders and reflects on the term \u201csmartphone addiction.\u201d Methods : Such a reflection is carried out against the background of a literature review and the inclusion of Gaming Disorder in ICD-11. Results : We believe that it is necessary to divide research on Internet use disorder (IUD) into a mobile and non-mobile IUD branch. This is important because certain applications such as the messenger application WhatsApp have originally been developed for smartphones and enfold their power and attractiveness mainly on mobile devices. Discussion and conclusions : Going beyond the argumentation for distinguishing between mobile and non-mobile IUD, it is of high relevance for scientists to better describe and understand what persons are actually (over-)using. This is stressed by a number of examples, explicitly targeting not only the diverse contents used in the online world, but also the exact behavior on each platform. Among others, it matters if a person is more of an active producer of content or passive consumer of social media.",
+      "cited_by_count": 369,
+      "type": "article",
+      "source": {
+        "name": "Journal of Behavioral Addictions",
+        "type": "journal",
+        "issn": [
+          "2062-5871",
+          "2063-5303"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://akjournals.com/downloadpdf/journals/2006/9/4/article-p908.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Digital Marketing and Social Media"
+      ],
+      "referenced_works_count": 56,
+      "url": "https://openalex.org/W2988200200"
+    },
+    {
+      "openalex_id": "W2964135621",
+      "doi": "10.3390/ijerph16142612",
+      "title": "Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories",
+      "authors": [
+        {
+          "name": "Christian Montag",
+          "openalex_id": "A5022713595",
+          "orcid": "https://orcid.org/0000-0001-8112-0837",
+          "institutions": [
+            "Universit\u00e4t Ulm"
+          ]
+        },
+        {
+          "name": "Bernd Lachmann",
+          "openalex_id": "A5045893358",
+          "orcid": "https://orcid.org/0000-0002-3232-6334",
+          "institutions": [
+            "Universit\u00e4t Ulm"
+          ]
+        },
+        {
+          "name": "Marc Herrlich",
+          "openalex_id": "A5083772449",
+          "orcid": "https://orcid.org/0000-0002-9484-9309",
+          "institutions": [
+            "University of Kaiserslautern"
+          ]
+        },
+        {
+          "name": "Katharina A. Zweig",
+          "openalex_id": "A5018655950",
+          "orcid": "https://orcid.org/0000-0002-4294-9017",
+          "institutions": [
+            "University of Kaiserslautern"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-07-23",
+      "abstract": "Currently about 2.71 billion humans use a smartphone worldwide. Although smartphone technology has brought many advances, a growing number of scientists discuss potential detrimental effects due to excessive smartphone use. Of importance, the likely culprit to understand over-usage is not the smartphone itself, but the excessive use of applications installed on smartphones. As the current business model of many app-developers foresees an exchange of personal data for allowance to use an app, it is not surprising that many design elements can be found in social media apps and Freemium games prolonging app usage. It is the aim of the present work to analyze several prominent smartphone apps to carve out such elements. As a result of the analysis, a total of six different mechanisms are highlighted to illustrate the prevailing business model in smartphone app development. First, these app-elements are described and second linked to classic psychological/economic theories such as the mere-exposure effect, endowment effect, and Zeigarnik effect, but also to psychological mechanisms triggering social comparison. It is concluded that many of the here presented app-elements on smartphones are able to prolong usage time, but it is very hard to understand such an effect on the level of a single element. A systematic analysis would require insights into app data usually only being available for the app-designers, but not for independent scientists. Nevertheless, the present work supports the notion that it is time to critically reflect on the prevailing business model of \u2018user data in exchange for app-use allowance\u2019. Instead of using a service in exchange for data, it ultimately might be better to ban or regulate certain design elements in apps to come up with less addictive products. Instead, users could pay a reasonable fee for an app service.",
+      "cited_by_count": 308,
+      "type": "review",
+      "source": {
+        "name": "International Journal of Environmental Research and Public Health",
+        "type": "journal",
+        "issn": [
+          "1660-4601",
+          "1661-7827"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1660-4601/16/14/2612/pdf?version=1563870268"
+      },
+      "topics": [
+        "Digital Marketing and Social Media",
+        "Impact of Technology on Adolescents",
+        "Technology Adoption and User Behaviour"
+      ],
+      "referenced_works_count": 112,
+      "url": "https://openalex.org/W2964135621"
+    },
+    {
+      "openalex_id": "W4388974320",
+      "doi": "10.3389/fcogn.2023.1203077",
+      "title": "The impact of digital technology, social media, and artificial intelligence on cognitive functions: a review",
+      "authors": [
+        {
+          "name": "Mathura Shanmugasundaram",
+          "openalex_id": "A5053435683",
+          "orcid": "https://orcid.org/0000-0003-0226-5830",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Arunkumar Tamilarasu",
+          "openalex_id": "A5093331876",
+          "institutions": [
+            "Film Independent"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-11-24",
+      "abstract": "In our modern society, digital devices, social media platforms, and artificial intelligence (AI) tools have become integral components of our daily lives, profoundly intertwined with our daily activities. These technologies have undoubtedly brought convenience, connectivity, and speed, making our lives easier and more efficient. However, their influence on our brain function and cognitive abilities cannot be ignored. This review aims to explore both the positive and negative impacts of these technologies on crucial cognitive functions, including attention, memory, addiction, novelty-seeking and perception, decision-making, and critical thinking, as well as learning abilities. The review also discusses the differential influence of digital technology across different age groups and the unique challenges and benefits experienced by children, adolescents, adults, and the elderly. Strategies to maximize the benefits of the digital world while mitigating its potential drawbacks are also discussed. This review aims to provide a comprehensive overview of the intricate relationship between humans and technology. It underscores the need for further research in this rapidly evolving field and the importance of informed decision-making regarding our digital engagement to support optimal cognitive function and wellbeing in the digital era.",
+      "cited_by_count": 171,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Cognition",
+        "type": "journal",
+        "issn": [
+          "2813-4532"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fcogn.2023.1203077/pdf?isPublishedV2=False"
+      },
+      "topics": [
+        "Cognitive Functions and Memory",
+        "Digital Mental Health Interventions",
+        "Technology Use by Older Adults"
+      ],
+      "referenced_works_count": 116,
+      "url": "https://openalex.org/W4388974320"
+    },
+    {
+      "openalex_id": "W3091837505",
+      "doi": "10.1017/beq.2020.32",
+      "title": "Ethics of the Attention Economy: The Problem of Social Media Addiction",
+      "authors": [
+        {
+          "name": "Vikram R. Bhargava",
+          "openalex_id": "A5042416148",
+          "orcid": "https://orcid.org/0000-0002-8476-8249",
+          "institutions": [
+            "Santa Clara University"
+          ]
+        },
+        {
+          "name": "Manuel Vel\u00e1squez",
+          "openalex_id": "A5034037200",
+          "institutions": [
+            "Santa Clara University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-06",
+      "abstract": "Social media companies commonly design their platforms in a way that renders them addictive. Some governments have declared internet addiction a major public health concern, and the World Health Organization has characterized excessive internet use as a growing problem. Our article shows why scholars, policy makers, and the managers of social media companies should treat social media addiction as a serious moral problem. While the benefits of social media are not negligible, we argue that social media addiction raises unique ethical concerns not raised by other, more familiar addictive products, such as alcohol and cigarettes. In particular, we argue that addicting users to social media is impermissible because it unjustifiably harms users in a way that is both demeaning and objectionably exploitative. Importantly, the attention-economy business model of social media companies strongly incentivizes them to perpetrate this wrongdoing.",
+      "cited_by_count": 240,
+      "type": "article",
+      "source": {
+        "name": "Business Ethics Quarterly",
+        "type": "journal",
+        "issn": [
+          "1052-150X",
+          "2153-3326"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1CC67609A12E9A912BB8A291FDFFE799/S1052150X20000329a.pdf/div-class-title-ethics-of-the-attention-economy-the-problem-of-social-media-addiction-div.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Digital Marketing and Social Media",
+        "Cyberloafing and Workplace Behavior"
+      ],
+      "referenced_works_count": 275,
+      "url": "https://openalex.org/W3091837505"
+    },
+    {
+      "openalex_id": "W3106327490",
+      "doi": "10.3390/s20216396",
+      "title": "The Importance of Respiratory Rate Monitoring: From Healthcare to Sport and Exercise",
+      "authors": [
+        {
+          "name": "Andrea Nicol\u00f2",
+          "openalex_id": "A5074142445",
+          "orcid": "https://orcid.org/0000-0002-4716-1667",
+          "institutions": [
+            "Foro Italico University of Rome"
+          ]
+        },
+        {
+          "name": "Carlo Massaroni",
+          "openalex_id": "A5048168670",
+          "orcid": "https://orcid.org/0000-0002-3090-5623",
+          "institutions": [
+            "Universit\u00e0 Campus Bio-Medico"
+          ]
+        },
+        {
+          "name": "Emiliano Schena",
+          "openalex_id": "A5026033118",
+          "orcid": "https://orcid.org/0000-0002-9696-1265",
+          "institutions": [
+            "Universit\u00e0 Campus Bio-Medico"
+          ]
+        },
+        {
+          "name": "Massimo Sacchetti",
+          "openalex_id": "A5040925170",
+          "orcid": "https://orcid.org/0000-0002-5365-5161",
+          "institutions": [
+            "Foro Italico University of Rome"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-11-09",
+      "abstract": "Respiratory rate is a fundamental vital sign that is sensitive to different pathological conditions (e.g., adverse cardiac events, pneumonia, and clinical deterioration) and stressors, including emotional stress, cognitive load, heat, cold, physical effort, and exercise-induced fatigue. The sensitivity of respiratory rate to these conditions is superior compared to that of most of the other vital signs, and the abundance of suitable technological solutions measuring respiratory rate has important implications for healthcare, occupational settings, and sport. However, respiratory rate is still too often not routinely monitored in these fields of use. This review presents a multidisciplinary approach to respiratory monitoring, with the aim to improve the development and efficacy of respiratory monitoring services. We have identified thirteen monitoring goals where the use of the respiratory rate is invaluable, and for each of them we have described suitable sensors and techniques to monitor respiratory rate in specific measurement scenarios. We have also provided a physiological rationale corroborating the importance of respiratory rate monitoring and an original multidisciplinary framework for the development of respiratory monitoring services. This review is expected to advance the field of respiratory monitoring and favor synergies between different disciplines to accomplish this goal.",
+      "cited_by_count": 388,
+      "type": "review",
+      "source": {
+        "name": "Sensors",
+        "type": "journal",
+        "issn": [
+          "1424-8220"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1424-8220/20/21/6396/pdf"
+      },
+      "topics": [
+        "Non-Invasive Vital Sign Monitoring",
+        "Chronic Obstructive Pulmonary Disease (COPD) Research",
+        "Asthma and respiratory diseases"
+      ],
+      "referenced_works_count": 311,
+      "url": "https://openalex.org/W3106327490"
+    },
+    {
+      "openalex_id": "W4387445706",
+      "doi": "10.1016/s1474-4422(23)00277-6",
+      "title": "Pragmatic solutions to reduce the global burden of stroke: a World Stroke Organization\u2013Lancet Neurology Commission",
+      "authors": [
+        {
+          "name": "Valery L. Feigin",
+          "openalex_id": "A5052615582",
+          "orcid": "https://orcid.org/0000-0002-6372-1740",
+          "institutions": [
+            "Auckland University of Technology"
+          ]
+        },
+        {
+          "name": "Mayowa Owolabi",
+          "openalex_id": "A5031904244",
+          "orcid": "https://orcid.org/0000-0003-1146-3070",
+          "institutions": [
+            "University of Ibadan",
+            "University College Hospital, Ibadan"
+          ]
+        },
+        {
+          "name": "Valery L. Feigin",
+          "openalex_id": "A5052615582",
+          "orcid": "https://orcid.org/0000-0002-6372-1740",
+          "institutions": [
+            "Auckland University of Technology"
+          ]
+        },
+        {
+          "name": "Foad Abd-Allah",
+          "openalex_id": "A5081409858",
+          "orcid": "https://orcid.org/0000-0001-8308-5756"
+        },
+        {
+          "name": "Rufus Akinyemi",
+          "openalex_id": "A5022954543",
+          "orcid": "https://orcid.org/0000-0001-5286-428X"
+        },
+        {
+          "name": "Natalia V. Bhattacharjee",
+          "openalex_id": "A5089108855"
+        },
+        {
+          "name": "Michael Brainin",
+          "openalex_id": "A5024693840",
+          "orcid": "https://orcid.org/0000-0001-8363-4962"
+        },
+        {
+          "name": "Jackie Cao",
+          "openalex_id": "A5073670331"
+        },
+        {
+          "name": "Valeria Caso",
+          "openalex_id": "A5022665738",
+          "orcid": "https://orcid.org/0000-0002-2020-8891"
+        },
+        {
+          "name": "Bronte Dalton",
+          "openalex_id": "A5080481523"
+        },
+        {
+          "name": "Alan Davis",
+          "openalex_id": "A5068076383",
+          "orcid": "https://orcid.org/0000-0002-2077-8464"
+        },
+        {
+          "name": "Robert J. Dempsey",
+          "openalex_id": "A5061022602",
+          "orcid": "https://orcid.org/0000-0002-1636-5456"
+        },
+        {
+          "name": "Joseph Duprey",
+          "openalex_id": "A5113018799"
+        },
+        {
+          "name": "Wuwei Feng",
+          "openalex_id": "A5081593449",
+          "orcid": "https://orcid.org/0000-0001-6230-4905"
+        },
+        {
+          "name": "Gary A. Ford",
+          "openalex_id": "A5064918196",
+          "orcid": "https://orcid.org/0000-0001-8719-4968",
+          "institutions": [
+            "Universidad del Desarrollo",
+            "Osun State University",
+            "Auckland University of Technology",
+            "Astana Medical University",
+            "University of Chile",
+            "Mohammed V University",
+            "Nairobi Hospital",
+            "University of Tasmania",
+            "Duke University",
+            "Heart and Stroke Foundation",
+            "Research Center of Neurology",
+            "Riga East University Hospital",
+            "World Health Organization",
+            "Perron Institute for Neurological and Translational Science",
+            "Florey Institute of Neuroscience and Mental Health",
+            "University of Wisconsin\u2013Madison",
+            "John Radcliffe Hospital",
+            "Loma Linda University",
+            "University Kebangsaan Malaysia Medical Centre",
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Seana Gall",
+          "openalex_id": "A5062067103",
+          "orcid": "https://orcid.org/0000-0002-5138-2526"
+        },
+        {
+          "name": "Dorcas B.C. Gandhi",
+          "openalex_id": "A5066458790",
+          "orcid": "https://orcid.org/0000-0002-9616-7870"
+        },
+        {
+          "name": "David C. Good",
+          "openalex_id": "A5110003700"
+        },
+        {
+          "name": "Vladimir Hachinski",
+          "openalex_id": "A5082852366",
+          "orcid": "https://orcid.org/0000-0002-0487-734X"
+        },
+        {
+          "name": "Werner Hacke",
+          "openalex_id": "A5059994888"
+        },
+        {
+          "name": "Graeme J. Hankey",
+          "openalex_id": "A5014800121",
+          "orcid": "https://orcid.org/0000-0002-6044-7328"
+        },
+        {
+          "name": "Marie Ishida",
+          "openalex_id": "A5070871242",
+          "orcid": "https://orcid.org/0000-0003-1212-9330"
+        },
+        {
+          "name": "Walter D. Johnson",
+          "openalex_id": "A5032807718",
+          "orcid": "https://orcid.org/0000-0003-2815-2754"
+        },
+        {
+          "name": "Julie Kim",
+          "openalex_id": "A5046688742",
+          "orcid": "https://orcid.org/0000-0001-9834-8213"
+        },
+        {
+          "name": "Pablo M. Lavados",
+          "openalex_id": "A5026830827",
+          "orcid": "https://orcid.org/0000-0002-9118-9093"
+        },
+        {
+          "name": "Patrice Lindsay",
+          "openalex_id": "A5110245492"
+        },
+        {
+          "name": "Ajay Mahal",
+          "openalex_id": "A5023264598",
+          "orcid": "https://orcid.org/0000-0002-7246-3261"
+        },
+        {
+          "name": "Sheila Martins",
+          "openalex_id": "A5109703618",
+          "orcid": "https://orcid.org/0000-0003-1824-9544"
+        },
+        {
+          "name": "Christopher J L Murray",
+          "openalex_id": "A5102733391",
+          "orcid": "https://orcid.org/0000-0002-4930-9450"
+        },
+        {
+          "name": "Thuy Phuong Nguyen",
+          "openalex_id": "A5020334623",
+          "orcid": "https://orcid.org/0000-0002-0558-8662"
+        },
+        {
+          "name": "Bo Norrving",
+          "openalex_id": "A5067654386",
+          "orcid": "https://orcid.org/0000-0002-8024-5096"
+        },
+        {
+          "name": "Muideen T. Olaiya",
+          "openalex_id": "A5040537577",
+          "orcid": "https://orcid.org/0000-0002-4070-0533"
+        },
+        {
+          "name": "Oladotun Olalusi",
+          "openalex_id": "A5021323255",
+          "orcid": "https://orcid.org/0000-0002-2842-3545"
+        },
+        {
+          "name": "Jeyaraj Pandian",
+          "openalex_id": "A5074548376",
+          "orcid": "https://orcid.org/0000-0003-0028-1968"
+        },
+        {
+          "name": "Hoang Phan",
+          "openalex_id": "A5030496319",
+          "orcid": "https://orcid.org/0000-0003-0506-2924"
+        },
+        {
+          "name": "Thomas Platz",
+          "openalex_id": "A5041066568",
+          "orcid": "https://orcid.org/0000-0003-2629-9744"
+        },
+        {
+          "name": "Annemarei Ranta",
+          "openalex_id": "A5053823041",
+          "orcid": "https://orcid.org/0000-0002-3223-3330"
+        },
+        {
+          "name": "Sabah Rehman",
+          "openalex_id": "A5024642307",
+          "orcid": "https://orcid.org/0000-0003-0056-719X"
+        },
+        {
+          "name": "Greg Roth",
+          "openalex_id": "A5113489869"
+        },
+        {
+          "name": "Ivy Sebastian",
+          "openalex_id": "A5072590796",
+          "orcid": "https://orcid.org/0000-0002-9196-3130"
+        },
+        {
+          "name": "Amanda Smith",
+          "openalex_id": "A5020972596",
+          "orcid": "https://orcid.org/0000-0001-5891-9384"
+        },
+        {
+          "name": "Nijasri C. Suwanwela",
+          "openalex_id": "A5108157082",
+          "institutions": [
+            "Semmelweis University",
+            "University of Milano-Bicocca",
+            "Azienda Ospedaliera San Gerardo",
+            "University of California, San Francisco"
+          ]
+        },
+        {
+          "name": "PN Sylaja",
+          "openalex_id": "A5077577777",
+          "orcid": "https://orcid.org/0000-0003-4896-8275"
+        },
+        {
+          "name": "Rajshree Thapa",
+          "openalex_id": "A5003967327",
+          "orcid": "https://orcid.org/0000-0003-1442-793X"
+        },
+        {
+          "name": "Amanda G. Thrift",
+          "openalex_id": "A5039090799",
+          "orcid": "https://orcid.org/0000-0001-8533-4170"
+        },
+        {
+          "name": "Ezinne Uvere",
+          "openalex_id": "A5011128357",
+          "orcid": "https://orcid.org/0000-0003-3290-6483"
+        },
+        {
+          "name": "Dan J. Stein",
+          "openalex_id": "A5073216705",
+          "orcid": "https://orcid.org/0000-0001-7218-7810"
+        },
+        {
+          "name": "Dileep R. Yavagal",
+          "openalex_id": "A5010097647",
+          "orcid": "https://orcid.org/0000-0003-4739-0133"
+        },
+        {
+          "name": "Joseph Yaria",
+          "openalex_id": "A5021105758"
+        },
+        {
+          "name": "Mayowa Owolabi",
+          "openalex_id": "A5031904244",
+          "orcid": "https://orcid.org/0000-0003-1146-3070",
+          "institutions": [
+            "University of Ibadan",
+            "University College Hospital, Ibadan"
+          ]
+        },
+        {
+          "name": "Mayowa Owolabi",
+          "openalex_id": "A5031904244",
+          "orcid": "https://orcid.org/0000-0003-1146-3070",
+          "institutions": [
+            "University College Hospital, Ibadan",
+            "University of Ibadan"
+          ]
+        },
+        {
+          "name": "Valery L. Feigin",
+          "openalex_id": "A5052615582",
+          "orcid": "https://orcid.org/0000-0002-6372-1740",
+          "institutions": [
+            "Auckland University of Technology"
+          ]
+        },
+        {
+          "name": "Foad Abd-Allah",
+          "openalex_id": "A5081409858",
+          "orcid": "https://orcid.org/0000-0001-8308-5756"
+        },
+        {
+          "name": "Semaw Ferede Abera",
+          "openalex_id": "A5012390350",
+          "orcid": "https://orcid.org/0000-0002-9284-1231"
+        },
+        {
+          "name": "Rufus Akinyemi",
+          "openalex_id": "A5022954543",
+          "orcid": "https://orcid.org/0000-0001-5286-428X"
+        },
+        {
+          "name": "Michael Brainin",
+          "openalex_id": "A5024693840",
+          "orcid": "https://orcid.org/0000-0001-8363-4962"
+        },
+        {
+          "name": "Valeria Caso",
+          "openalex_id": "A5022665738",
+          "orcid": "https://orcid.org/0000-0002-2020-8891"
+        },
+        {
+          "name": "Robert J. Dempsey",
+          "openalex_id": "A5061022602",
+          "orcid": "https://orcid.org/0000-0002-1636-5456"
+        },
+        {
+          "name": "Gary A. Ford",
+          "openalex_id": "A5064918196",
+          "orcid": "https://orcid.org/0000-0001-8719-4968",
+          "institutions": [
+            "University of Chile",
+            "World Health Organization",
+            "Astana Medical University",
+            "Perron Institute for Neurological and Translational Science",
+            "Heart and Stroke Foundation",
+            "University of Tasmania",
+            "Mohammed V University",
+            "University Kebangsaan Malaysia Medical Centre",
+            "University of Wisconsin\u2013Madison",
+            "John Radcliffe Hospital",
+            "Research Center of Neurology",
+            "University of Oxford",
+            "Duke University",
+            "Florey Institute of Neuroscience and Mental Health",
+            "Osun State University",
+            "Nairobi Hospital",
+            "Auckland University of Technology",
+            "Loma Linda University",
+            "Riga East University Hospital",
+            "Universidad del Desarrollo"
+          ]
+        },
+        {
+          "name": "Seana Gall",
+          "openalex_id": "A5062067103",
+          "orcid": "https://orcid.org/0000-0002-5138-2526"
+        },
+        {
+          "name": "Dorcas B.C. Gandhi",
+          "openalex_id": "A5066458790",
+          "orcid": "https://orcid.org/0000-0002-9616-7870"
+        },
+        {
+          "name": "Vladimir Hachinski",
+          "openalex_id": "A5082852366",
+          "orcid": "https://orcid.org/0000-0002-0487-734X"
+        },
+        {
+          "name": "Werner Hacke",
+          "openalex_id": "A5059994888"
+        },
+        {
+          "name": "Graeme J. Hankey",
+          "openalex_id": "A5014800121",
+          "orcid": "https://orcid.org/0000-0002-6044-7328"
+        },
+        {
+          "name": "Norlinah Mohamed Ibrahim",
+          "openalex_id": "A5043698430",
+          "orcid": "https://orcid.org/0000-0002-6684-7488"
+        },
+        {
+          "name": "Walter D. Johnson",
+          "openalex_id": "A5032807718",
+          "orcid": "https://orcid.org/0000-0003-2815-2754"
+        },
+        {
+          "name": "Pablo M. Lavados",
+          "openalex_id": "A5026830827",
+          "orcid": "https://orcid.org/0000-0002-9118-9093"
+        },
+        {
+          "name": "Liping Liu",
+          "openalex_id": "A5100352454",
+          "orcid": "https://orcid.org/0000-0003-2943-055X"
+        },
+        {
+          "name": "Patrice Lindsay",
+          "openalex_id": "A5110245492"
+        },
+        {
+          "name": "Sheila Martins",
+          "openalex_id": "A5109703618",
+          "orcid": "https://orcid.org/0000-0003-1824-9544"
+        },
+        {
+          "name": "Bo Norrving",
+          "openalex_id": "A5067654386",
+          "orcid": "https://orcid.org/0000-0002-8024-5096"
+        },
+        {
+          "name": "Muideen T. Olaiya",
+          "openalex_id": "A5040537577",
+          "orcid": "https://orcid.org/0000-0002-4070-0533"
+        },
+        {
+          "name": "Bruce Ovbiagele",
+          "openalex_id": "A5103095993",
+          "orcid": "https://orcid.org/0000-0003-3527-8857"
+        },
+        {
+          "name": "Jeyaraj Pandian",
+          "openalex_id": "A5074548376",
+          "orcid": "https://orcid.org/0000-0003-0028-1968"
+        },
+        {
+          "name": "Hoang Phan",
+          "openalex_id": "A5030496319",
+          "orcid": "https://orcid.org/0000-0003-0506-2924"
+        },
+        {
+          "name": "\u041c. \u0410. \u041f\u0438\u0440\u0430\u0434\u043e\u0432",
+          "openalex_id": "A5072132777",
+          "orcid": "https://orcid.org/0000-0002-6338-0392"
+        },
+        {
+          "name": "Thomas Platz",
+          "openalex_id": "A5041066568",
+          "orcid": "https://orcid.org/0000-0003-2629-9744"
+        },
+        {
+          "name": "Annemarei Ranta",
+          "openalex_id": "A5053823041",
+          "orcid": "https://orcid.org/0000-0002-3223-3330"
+        },
+        {
+          "name": "Greg Roth",
+          "openalex_id": "A5113489869"
+        },
+        {
+          "name": "Ivy Sebastian",
+          "openalex_id": "A5072590796",
+          "orcid": "https://orcid.org/0000-0002-9196-3130"
+        },
+        {
+          "name": "Nijasri C. Suwanwela",
+          "openalex_id": "A5108157082"
+        },
+        {
+          "name": "PN Sylaja",
+          "openalex_id": "A5077577777",
+          "orcid": "https://orcid.org/0000-0003-4896-8275"
+        },
+        {
+          "name": "Amanda G. Thrift",
+          "openalex_id": "A5039090799",
+          "orcid": "https://orcid.org/0000-0001-8533-4170"
+        },
+        {
+          "name": "Ezinne Uvere",
+          "openalex_id": "A5011128357",
+          "orcid": "https://orcid.org/0000-0003-3290-6483"
+        },
+        {
+          "name": "Joseph Yaria",
+          "openalex_id": "A5021105758"
+        },
+        {
+          "name": "Carlos Abanto",
+          "openalex_id": "A5091127181",
+          "orcid": "https://orcid.org/0000-0002-6419-4591"
+        },
+        {
+          "name": "Adamu Addissie",
+          "openalex_id": "A5066074957",
+          "orcid": "https://orcid.org/0000-0003-4709-3606"
+        },
+        {
+          "name": "Amos O. Adeleye",
+          "openalex_id": "A5017405395",
+          "orcid": "https://orcid.org/0000-0002-5966-1431"
+        },
+        {
+          "name": "Yerzhan Adilbekov",
+          "openalex_id": "A5080693788",
+          "orcid": "https://orcid.org/0000-0002-9166-3859"
+        },
+        {
+          "name": "B. Adilbekova",
+          "openalex_id": "A5064629393",
+          "orcid": "https://orcid.org/0000-0002-0156-3687"
+        },
+        {
+          "name": "Thierry Adoukonou",
+          "openalex_id": "A5080395512",
+          "orcid": "https://orcid.org/0000-0002-3236-3063"
+        },
+        {
+          "name": "Diana Aguiar de Sousa",
+          "openalex_id": "A5068220828",
+          "orcid": "https://orcid.org/0000-0002-6702-7924"
+        },
+        {
+          "name": "\u0417 \u0411 \u0410\u0445\u043c\u0435\u0442\u0436\u0430\u043d\u043e\u0432\u0430",
+          "openalex_id": "A5058464858",
+          "orcid": "https://orcid.org/0000-0002-6638-361X"
+        },
+        {
+          "name": "Albert Akpalu",
+          "openalex_id": "A5068714429",
+          "orcid": "https://orcid.org/0000-0002-4802-9852"
+        },
+        {
+          "name": "Mustapha El Alaoui-Faris",
+          "openalex_id": "A5055502396"
+        },
+        {
+          "name": "Sebasti\u00e1n F. Ameriso",
+          "openalex_id": "A5051881130",
+          "orcid": "https://orcid.org/0000-0001-8933-0847"
+        },
+        {
+          "name": "Silva Andonova",
+          "openalex_id": "A5070962296",
+          "orcid": "https://orcid.org/0000-0002-1156-9724"
+        },
+        {
+          "name": "Anita Arsovska",
+          "openalex_id": "A5032826666",
+          "orcid": "https://orcid.org/0000-0003-1927-9614"
+        },
+        {
+          "name": "Folorunso E Awoniyi",
+          "openalex_id": "A5093026360"
+        },
+        {
+          "name": "Moiz Bakhiet",
+          "openalex_id": "A5018715958",
+          "orcid": "https://orcid.org/0000-0002-5148-8849"
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-09",
+      "abstract": null,
+      "cited_by_count": 534,
+      "type": "review",
+      "source": {
+        "name": "The Lancet Neurology",
+        "type": "journal",
+        "issn": [
+          "1474-4422",
+          "1474-4465"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.thelancet.com/article/S1474442223002776/pdf"
+      },
+      "topics": [
+        "Acute Ischemic Stroke Management",
+        "Health Systems, Economic Evaluations, Quality of Life",
+        "Healthcare Systems and Practices"
+      ],
+      "referenced_works_count": 288,
+      "url": "https://openalex.org/W4387445706"
+    },
+    {
+      "openalex_id": "W2790457412",
+      "doi": "10.1038/s41598-018-19904-y",
+      "title": "Internet Communication Disorder and the structure of the human brain: initial insights on WeChat addiction",
+      "authors": [
+        {
+          "name": "Christian Montag",
+          "openalex_id": "A5022713595",
+          "orcid": "https://orcid.org/0000-0001-8112-0837",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Zhiying Zhao",
+          "openalex_id": "A5009529692",
+          "orcid": "https://orcid.org/0000-0002-0369-1308",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Cornelia Sindermann",
+          "openalex_id": "A5053370052",
+          "orcid": "https://orcid.org/0000-0003-1064-8866"
+        },
+        {
+          "name": "Lei Xu",
+          "openalex_id": "A5007226779",
+          "orcid": "https://orcid.org/0000-0001-9942-0117",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Meina Fu",
+          "openalex_id": "A5009879798",
+          "orcid": "https://orcid.org/0000-0002-7283-1984",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Jia\u2010Lin Li",
+          "openalex_id": "A5100329078",
+          "orcid": "https://orcid.org/0000-0002-0409-4097",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Xiaoxiao Zheng",
+          "openalex_id": "A5027835607",
+          "orcid": "https://orcid.org/0000-0003-3335-975X",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Keshuang Li",
+          "openalex_id": "A5091509770",
+          "orcid": "https://orcid.org/0000-0002-8338-899X",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Keith M. Kendrick",
+          "openalex_id": "A5000445902",
+          "orcid": "https://orcid.org/0000-0002-0371-5904",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        },
+        {
+          "name": "Jing Dai",
+          "openalex_id": "A5101723562",
+          "orcid": "https://orcid.org/0000-0003-2807-0644",
+          "institutions": [
+            "University of Electronic Science and Technology of China",
+            "Public Health Clinical Center of Chengdu"
+          ]
+        },
+        {
+          "name": "Benjamin Becker",
+          "openalex_id": "A5044395226",
+          "orcid": "https://orcid.org/0000-0002-9014-9671",
+          "institutions": [
+            "University of Electronic Science and Technology of China"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-26",
+      "abstract": null,
+      "cited_by_count": 102,
+      "type": "article",
+      "source": {
+        "name": "Scientific Reports",
+        "type": "journal",
+        "issn": [
+          "2045-2322"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-018-19904-y.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Digital Mental Health Interventions"
+      ],
+      "referenced_works_count": 87,
+      "url": "https://openalex.org/W2790457412"
+    },
+    {
+      "openalex_id": "W4379932060",
+      "doi": "10.1038/s41598-023-36256-4",
+      "title": "The mere presence of a smartphone reduces basal attentional performance",
+      "authors": [
+        {
+          "name": "Jeanette Skowronek",
+          "openalex_id": "A5110988353",
+          "institutions": [
+            "Paderborn University"
+          ]
+        },
+        {
+          "name": "Andreas Seifert",
+          "openalex_id": "A5004535666",
+          "orcid": "https://orcid.org/0000-0002-1673-8451",
+          "institutions": [
+            "Paderborn University"
+          ]
+        },
+        {
+          "name": "Staffan I. Lindberg",
+          "openalex_id": "A5082109923",
+          "orcid": "https://orcid.org/0000-0003-0386-7390",
+          "institutions": [
+            "Paderborn University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-08",
+      "abstract": null,
+      "cited_by_count": 61,
+      "type": "article",
+      "source": {
+        "name": "Scientific Reports",
+        "type": "journal",
+        "issn": [
+          "2045-2322"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-023-36256-4.pdf"
+      },
+      "topics": [
+        "Mind wandering and attention",
+        "Impact of Technology on Adolescents",
+        "Virtual Reality Applications and Impacts"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W4379932060"
+    },
+    {
+      "openalex_id": "W3117109798",
+      "doi": "10.1109/access.2020.3047960",
+      "title": "A Comprehensive Survey of the Internet of Things (IoT) and AI-Based Smart Healthcare",
+      "authors": [
+        {
+          "name": "Fatima Alshehri",
+          "openalex_id": "A5058999643",
+          "orcid": "https://orcid.org/0009-0007-9300-1326",
+          "institutions": [
+            "King Saud University"
+          ]
+        },
+        {
+          "name": "Ghulam Muhammad",
+          "openalex_id": "A5080711681",
+          "orcid": "https://orcid.org/0000-0002-9781-3969",
+          "institutions": [
+            "King Saud University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-12-30",
+      "abstract": "Smart health care is an important aspect of connected living. Health care is one of the basic pillars of human need, and smart health care is projected to produce several billion dollars in revenue in the near future. There are several components of smart health care, including the Internet of Things (IoT), the Internet of Medical Things (IoMT), medical sensors, artificial intelligence (AI), edge computing, cloud computing, and next-generation wireless communication technology. Many papers in the literature deal with smart health care or health care in general. Here, we present a comprehensive survey of IoT- and IoMT-based edge-intelligent smart health care, mainly focusing on journal articles published between 2014 and 2020. We survey this literature by answering several research areas on IoT and IoMT, AI, edge and cloud computing, security, and medical signals fusion. We also address current research challenges and offer some future research directions.",
+      "cited_by_count": 324,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/9312710/09311140.pdf"
+      },
+      "topics": [
+        "Non-Invasive Vital Sign Monitoring",
+        "EEG and Brain-Computer Interfaces",
+        "IoT and Edge/Fog Computing"
+      ],
+      "referenced_works_count": 126,
+      "url": "https://openalex.org/W3117109798"
+    },
+    {
+      "openalex_id": "W4210792459",
+      "doi": "10.31083/j.jin2101028",
+      "title": "Digital dementia in the internet generation: excessive screen time during brain development will increase the risk of Alzheimer's disease and related dementias in adulthood",
+      "authors": [
+        {
+          "name": "Laurie Manwell",
+          "openalex_id": "A5024594711",
+          "orcid": "https://orcid.org/0000-0002-0528-6365",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        },
+        {
+          "name": "Merelle Tadros",
+          "openalex_id": "A5078256872",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        },
+        {
+          "name": "Tiana M. Ciccarelli",
+          "openalex_id": "A5042641819",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        },
+        {
+          "name": "Roelof Eikelboom",
+          "openalex_id": "A5008663350",
+          "orcid": "https://orcid.org/0000-0003-4490-707X",
+          "institutions": [
+            "Wilfrid Laurier University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-28",
+      "abstract": "Converging evidence from biopsychosocial research in humans and animals demonstrates that chronic sensory stimulation (via excessive screen exposure) affects brain development increasing the risk of cognitive, emotional, and behavioural disorders in adolescents and young adults. Emerging evidence suggests that some of these effects are similar to those seen in adults with symptoms of mild cognitive impairment (MCI) in the early stages of dementia, including impaired concentration, orientation, acquisition of recent memories (anterograde amnesia), recall of past memories (retrograde amnesia), social functioning, and self-care. Excessive screen time is known to alter gray matter and white volumes in the brain, increase the risk of mental disorders, and impair acquisition of memories and learning which are known risk factors for dementia. Chronic sensory overstimulation (i.e., excessive screen time) during brain development increases the risk of accelerated neurodegeneration in adulthood (i.e., amnesia, early onset dementia). This relationship is affected by several mediating/moderating factors (e.g., IQ decline, learning impairments and mental illness). We hypothesize that excessive screen exposure during critical periods of development in Generation Z will lead to mild cognitive impairments in early to middle adulthood resulting in substantially increased rates of early onset dementia in later adulthood. We predict that from 2060 to 2100, the rates of Alzheimer\u2019s disease and related dementias (ADRD) will increase significantly, far above the Centres for Disease Control (CDC) projected estimates of a two-fold increase, to upwards of a four-to-six-fold increase. The CDC estimates are based entirely on factors related to the age, sex, race and ethnicity of individuals born before 1950 who did not have access to mobile digital technology during critical periods of brain development. Compared to previous generations, the average 17\u201319-year-old spends approximately 6 hours a day on mobile digital devices (MDD) (smartphones, tablets, and laptop computers) whereas individuals born before 1950 at the same age spent zero. Our estimates include the documented effects of excessive screen time on individuals born after 1980, Millennials and Generation Z, who will be the majority of individuals \u226565 years old. An estimated 4-to-6-fold increase in rates of ADRD post-2060 will result in widespread societal and economic distress and the complete collapse of already overburdened healthcare systems in developed countries. Preventative measures must be set in place immediately including investments and interventions in public education, social policy, laws, and healthcare.",
+      "cited_by_count": 89,
+      "type": "review",
+      "source": {
+        "name": "Journal of Integrative Neuroscience",
+        "type": "journal",
+        "issn": [
+          "0219-6352",
+          "1757-448X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.imrpress.com/journal/JIN/21/1/10.31083/j.jin2101028/pdf"
+      },
+      "topics": [
+        "Technology Use by Older Adults",
+        "Cognitive Functions and Memory"
+      ],
+      "referenced_works_count": 130,
+      "url": "https://openalex.org/W4210792459"
+    },
+    {
+      "openalex_id": "W2889638154",
+      "doi": "10.1007/s11023-018-9479-0",
+      "title": "An Analysis of the Interaction Between Intelligent Software Agents and Human Users",
+      "authors": [
+        {
+          "name": "Christopher Burr",
+          "openalex_id": "A5087933417",
+          "orcid": "https://orcid.org/0000-0003-0386-8182",
+          "institutions": [
+            "University of Bristol"
+          ]
+        },
+        {
+          "name": "Nello Cristianini",
+          "openalex_id": "A5103231149",
+          "orcid": "https://orcid.org/0000-0001-8740-1488",
+          "institutions": [
+            "University of Bristol"
+          ]
+        },
+        {
+          "name": "James Ladyman",
+          "openalex_id": "A5006377725",
+          "institutions": [
+            "University of Bristol"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-09-25",
+      "abstract": "Interactions between an intelligent software agent (ISA) and a human user are ubiquitous in everyday situations such as access to information, entertainment, and purchases. In such interactions, the ISA mediates the user's access to the content, or controls some other aspect of the user experience, and is not designed to be neutral about outcomes of user choices. Like human users, ISAs are driven by goals, make autonomous decisions, and can learn from experience. Using ideas from bounded rationality (and deploying concepts from artificial intelligence, behavioural economics, control theory, and game theory), we frame these interactions as instances of an ISA whose reward depends on actions performed by the user. Such agents benefit by steering the user's behaviour towards outcomes that maximise the ISA's utility, which may or may not be aligned with that of the user. Video games, news recommendation aggregation engines, and fitness trackers can all be instances of this general case. Our analysis facilitates distinguishing various subcases of interaction (i.e. deception, coercion, trading, and nudging), as well as second-order effects that might include the possibility for adaptive interfaces to induce behavioural addiction, and/or change in user belief. We present these types of interaction within a conceptual framework, and review current examples of persuasive technologies and the issues that arise from their use. We argue that the nature of the feedback commonly used by learning agents to update their models and subsequent decisions could steer the behaviour of human users away from what benefits them, and in a direction that can undermine autonomy and cause further disparity between actions and goals as exemplified by addictive and compulsive behaviour. We discuss some of the ethical, social and legal implications of this technology and argue that it can sometimes exploit and reinforce weaknesses in human beings.",
+      "cited_by_count": 159,
+      "type": "article",
+      "source": {
+        "name": "Minds and Machines",
+        "type": "journal",
+        "issn": [
+          "0924-6495",
+          "1572-8641"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007%2Fs11023-018-9479-0.pdf"
+      },
+      "topics": [
+        "Multi-Agent Systems and Negotiation",
+        "Recommender Systems and Techniques",
+        "Sentiment Analysis and Opinion Mining"
+      ],
+      "referenced_works_count": 127,
+      "url": "https://openalex.org/W2889638154"
+    },
+    {
+      "openalex_id": "W4383374327",
+      "doi": "10.3390/healthcare11131887",
+      "title": "Retaining Healthcare Workers: A Systematic Review of Strategies for Sustaining Power in the Workplace",
+      "authors": [
+        {
+          "name": "Neeltje de Vries",
+          "openalex_id": "A5082827626",
+          "orcid": "https://orcid.org/0000-0001-9779-9055",
+          "institutions": [
+            "Spaarne Ziekenhuis",
+            "Spaarne Gasthuis"
+          ]
+        },
+        {
+          "name": "Olivia Lavreysen",
+          "openalex_id": "A5010139066",
+          "orcid": "https://orcid.org/0000-0001-6524-8144",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Anke Boone",
+          "openalex_id": "A5057596213",
+          "orcid": "https://orcid.org/0000-0002-4075-3571",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Jos\u00e9 Bouman",
+          "openalex_id": "A5104140028",
+          "institutions": [
+            "Spaarne Gasthuis",
+            "Spaarne Ziekenhuis"
+          ]
+        },
+        {
+          "name": "Szymon Szemik",
+          "openalex_id": "A5059303015",
+          "orcid": "https://orcid.org/0000-0001-5819-8927",
+          "institutions": [
+            "Medical University of Silesia"
+          ]
+        },
+        {
+          "name": "Kamil Bara\u0144ski",
+          "openalex_id": "A5015820568",
+          "orcid": "https://orcid.org/0000-0002-0106-9662",
+          "institutions": [
+            "Medical University of Silesia"
+          ]
+        },
+        {
+          "name": "Lode Godderis",
+          "openalex_id": "A5016108657",
+          "orcid": "https://orcid.org/0000-0003-4764-8835",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Peter de Winter",
+          "openalex_id": "A5030281855",
+          "orcid": "https://orcid.org/0000-0002-8476-5312",
+          "institutions": [
+            "Spaarne Gasthuis",
+            "KU Leuven",
+            "Spaarne Ziekenhuis"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-06-29",
+      "abstract": "The shortage of healthcare workers is a growing concern. The COVID-19 pandemic and retirement wave have accelerated turnover rates. This systematic review aimed to identify and analyse the existing interventions for job retention of healthcare workers, in terms of nurses and physicians, in a hospital setting. A comprehensive search was conducted within three electronic databases, guided by the preferred reporting items for systematic review and meta-analyses (PRISMA) and synthesis without meta-analysis (SWiM) guidelines, this resulted in 55 records that met the inclusion criteria. The intervention outcomes are categorized into substantial themes: onboarding, transition program to a different unit, stress coping, social support, extra staffing, coping with the demands of patient care, work relationships, development opportunities and department resources, job environment, work organization, recruitment approach, and technological innovations. Considering the literature, onboarding programs and mentoring for nurses and physicians are recommended. Additionally, other interventions described in this review could positively affect the retention of nurses and physicians. When selecting an intervention for implementation, managers and human resources should consider the intervention that matches the determinant of intention to leave of their healthcare workers and the hospital\u2019s mission, vision, and values. Sharing the success stories of implemented interventions may benefit healthcare organizations.",
+      "cited_by_count": 117,
+      "type": "review",
+      "source": {
+        "name": "Healthcare",
+        "type": "journal",
+        "issn": [
+          "2227-9032"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-9032/11/13/1887/pdf?version=1688034375"
+      },
+      "topics": [
+        "Healthcare Quality and Management",
+        "Healthcare professionals\u2019 stress and burnout",
+        "Nursing education and management"
+      ],
+      "referenced_works_count": 96,
+      "url": "https://openalex.org/W4383374327"
+    },
+    {
+      "openalex_id": "W2916583179",
+      "doi": "10.1145/3290607.3298998",
+      "title": "Designing for Digital Wellbeing",
+      "authors": [
+        {
+          "name": "Marta E. Cecchinato",
+          "openalex_id": "A5015385005",
+          "orcid": "https://orcid.org/0000-0002-0627-8658",
+          "institutions": [
+            "Northumbria University"
+          ]
+        },
+        {
+          "name": "John Rooksby",
+          "openalex_id": "A5068582955",
+          "orcid": "https://orcid.org/0000-0002-4719-4389",
+          "institutions": [
+            "Northumbria University"
+          ]
+        },
+        {
+          "name": "Alexis Hiniker",
+          "openalex_id": "A5074077266",
+          "orcid": "https://orcid.org/0000-0003-1607-0778",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Sean A. Munson",
+          "openalex_id": "A5068504623",
+          "orcid": "https://orcid.org/0000-0002-0472-6138",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Kai Lukoff",
+          "openalex_id": "A5089513619",
+          "orcid": "https://orcid.org/0000-0001-5069-6817",
+          "institutions": [
+            "University of Washington"
+          ]
+        },
+        {
+          "name": "Luigina Ciolfi",
+          "openalex_id": "A5078261806",
+          "orcid": "https://orcid.org/0000-0003-4637-8239",
+          "institutions": [
+            "Sheffield Hallam University"
+          ]
+        },
+        {
+          "name": "Anja Thieme",
+          "openalex_id": "A5015598933",
+          "orcid": "https://orcid.org/0000-0002-9639-5531",
+          "institutions": [
+            "Microsoft Research (United Kingdom)"
+          ]
+        },
+        {
+          "name": "Daniel Harrison",
+          "openalex_id": "A5075520995",
+          "orcid": "https://orcid.org/0000-0002-5710-7349",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-30",
+      "abstract": "Traditionally, many consumer-focused technologies have been designed to maximize user engagement with their products and services. More recently, many technology companies have begun to introduce digital wellbeing features, such as for managing time spent and for encouraging breaks in use. These are in the context of, and likely in response to, renewed concerns in the media about technology dependency and even addiction. The promotion of technology abstinence is also increasingly widespread, e.g., via digital detoxes. Given that digital technologies are an important and valuable feature of many people\u2019s lives, digital wellbeing features are arguably preferable to abstinence.",
+      "cited_by_count": 73,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://nrl.northumbria.ac.uk/id/eprint/37560/1/Cecchinato%20et%20al%20-%20Designing%20for%20Digital%20Wellbeing.pdf"
+      },
+      "topics": [
+        "Innovative Human-Technology Interaction",
+        "Impact of Technology on Adolescents",
+        "Technology Use by Older Adults"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W2916583179"
+    },
+    {
+      "openalex_id": "W4220845119",
+      "doi": "10.1016/s0140-6736(21)02488-0",
+      "title": "The Lancet Nigeria Commission: investing in health and the future of the nation",
+      "authors": [
+        {
+          "name": "Ibrahim Abubakar",
+          "openalex_id": "A5006158640",
+          "orcid": "https://orcid.org/0000-0002-0370-1430",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Sarah L Dalglish",
+          "openalex_id": "A5078457382",
+          "orcid": "https://orcid.org/0000-0002-7218-5193",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Blake Angell",
+          "openalex_id": "A5040797906",
+          "orcid": "https://orcid.org/0000-0002-7188-7740",
+          "institutions": [
+            "The George Institute for Global Health",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Olutobi Adekunle Sanuade",
+          "openalex_id": "A5065231310",
+          "orcid": "https://orcid.org/0000-0003-4972-1098",
+          "institutions": [
+            "University College London",
+            "Northwestern University"
+          ]
+        },
+        {
+          "name": "\u1e62\u1eb9\u0300y\u1eb9 Ab\u00edmb\u1ecd\u0301l\u00e1",
+          "openalex_id": "A5065499691",
+          "orcid": "https://orcid.org/0000-0003-1294-3850",
+          "institutions": [
+            "University of Sydney"
+          ]
+        },
+        {
+          "name": "Aishatu L. Adamu",
+          "openalex_id": "A5022357996",
+          "orcid": "https://orcid.org/0000-0002-6330-1033",
+          "institutions": [
+            "Bayero University Kano",
+            "Kenya Medical Research Institute",
+            "London School of Hygiene & Tropical Medicine",
+            "Aminu Kano Teaching Hospital"
+          ]
+        },
+        {
+          "name": "Ifedayo Adetifa",
+          "openalex_id": "A5085848358",
+          "orcid": "https://orcid.org/0000-0003-2556-9407",
+          "institutions": [
+            "London School of Hygiene & Tropical Medicine",
+            "Kenya Medical Research Institute",
+            "University of Lagos"
+          ]
+        },
+        {
+          "name": "Tim Colbourn",
+          "openalex_id": "A5089769038",
+          "orcid": "https://orcid.org/0000-0002-6917-6552",
+          "institutions": [
+            "University College London"
+          ]
+        },
+        {
+          "name": "Afolabi Olaniyi Ogunlesi",
+          "openalex_id": "A5076250517",
+          "institutions": [
+            "Centre for Healthy Start Initiative"
+          ]
+        },
+        {
+          "name": "Obinna Onwujekwe",
+          "openalex_id": "A5086867664",
+          "orcid": "https://orcid.org/0000-0002-1214-4285",
+          "institutions": [
+            "University of Nigeria"
+          ]
+        },
+        {
+          "name": "Eme Owoaje",
+          "openalex_id": "A5074321737",
+          "orcid": "https://orcid.org/0000-0002-0491-6732",
+          "institutions": [
+            "University of Ibadan"
+          ]
+        },
+        {
+          "name": "Iruka N. Okeke",
+          "openalex_id": "A5027478593",
+          "orcid": "https://orcid.org/0000-0002-1694-7587",
+          "institutions": [
+            "University of Ibadan"
+          ]
+        },
+        {
+          "name": "Adebowale Adeyemo",
+          "openalex_id": "A5072089289",
+          "orcid": "https://orcid.org/0000-0002-3105-3231",
+          "institutions": [
+            "National Institutes of Health",
+            "National Human Genome Research Institute"
+          ]
+        },
+        {
+          "name": "Gambo Aliyu",
+          "openalex_id": "A5071290223",
+          "orcid": "https://orcid.org/0000-0002-9661-3463",
+          "institutions": [
+            "National Agency for the Control of AIDS"
+          ]
+        },
+        {
+          "name": "Muktar H. Aliyu",
+          "openalex_id": "A5046211458",
+          "orcid": "https://orcid.org/0000-0001-9504-4679",
+          "institutions": [
+            "Vanderbilt University Medical Center"
+          ]
+        },
+        {
+          "name": "Sani Aliyu",
+          "openalex_id": "A5043245285",
+          "orcid": "https://orcid.org/0000-0002-5571-2940",
+          "institutions": [
+            "Addenbrooke's Hospital",
+            "Cambridge University Hospitals NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Emmanuel A. Ameh",
+          "openalex_id": "A5027335214",
+          "orcid": "https://orcid.org/0000-0003-2386-3039",
+          "institutions": [
+            "National Hospital Abuja"
+          ]
+        },
+        {
+          "name": "Belinda Archibong",
+          "openalex_id": "A5068091692",
+          "orcid": "https://orcid.org/0000-0003-1904-9237",
+          "institutions": [
+            "Barnard College",
+            "Columbia University"
+          ]
+        },
+        {
+          "name": "Alex Ezeh",
+          "openalex_id": "A5078245614",
+          "orcid": "https://orcid.org/0000-0002-1309-4697",
+          "institutions": [
+            "Drexel University"
+          ]
+        },
+        {
+          "name": "Muktar A Gadanya",
+          "openalex_id": "A5012699850",
+          "orcid": "https://orcid.org/0000-0003-0061-5219",
+          "institutions": [
+            "Aminu Kano Teaching Hospital",
+            "Bayero University Kano"
+          ]
+        },
+        {
+          "name": "Chikwe Ihekweazu",
+          "openalex_id": "A5036727204",
+          "orcid": "https://orcid.org/0000-0003-0659-0833",
+          "institutions": [
+            "Nigeria Centre for Disease Control"
+          ]
+        },
+        {
+          "name": "Vivianne Ihekweazu",
+          "openalex_id": "A5038330521",
+          "orcid": "https://orcid.org/0000-0003-1300-5161",
+          "institutions": [
+            "World Health Organization - Nigeria"
+          ]
+        },
+        {
+          "name": "Zubairu Iliyasu",
+          "openalex_id": "A5084301256",
+          "orcid": "https://orcid.org/0000-0002-8669-1863",
+          "institutions": [
+            "Bayero University Kano",
+            "Aminu Kano Teaching Hospital"
+          ]
+        },
+        {
+          "name": "Aminatu Kwaku Chiroma",
+          "openalex_id": "A5076925076",
+          "institutions": [
+            "Bayero University Kano",
+            "Aminu Kano Teaching Hospital"
+          ]
+        },
+        {
+          "name": "Diana Mabayoje",
+          "openalex_id": "A5045207448",
+          "orcid": "https://orcid.org/0000-0002-5963-2366",
+          "institutions": [
+            "University College London Hospitals NHS Foundation Trust",
+            "Hospital for Tropical Diseases",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Mohammed Nasir Sambo",
+          "openalex_id": "A5113838546"
+        },
+        {
+          "name": "Stephen Obaro",
+          "openalex_id": "A5032214552",
+          "orcid": "https://orcid.org/0000-0002-7526-1075",
+          "institutions": [
+            "University of Nebraska Medical Center"
+          ]
+        },
+        {
+          "name": "Adesola Yinka-Ogunleye",
+          "openalex_id": "A5005112496",
+          "orcid": "https://orcid.org/0000-0003-0900-4772",
+          "institutions": [
+            "Nigeria Centre for Disease Control"
+          ]
+        },
+        {
+          "name": "Friday Okonofua",
+          "openalex_id": "A5108525087",
+          "institutions": [
+            "University of Benin",
+            "University of Medical Sciences, Ondo",
+            "Ondo State University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Tolu Oni",
+          "openalex_id": "A5043505490",
+          "orcid": "https://orcid.org/0000-0003-4499-1910",
+          "institutions": [
+            "MRC Epidemiology Unit",
+            "University of Cambridge",
+            "University of Cape Town"
+          ]
+        },
+        {
+          "name": "Olu Onyimadu",
+          "openalex_id": "A5054066646",
+          "orcid": "https://orcid.org/0000-0002-1724-3485",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Muhammad Ali Pate",
+          "openalex_id": "A5068730474",
+          "orcid": "https://orcid.org/0000-0001-5295-9844",
+          "institutions": [
+            "Global Environment Facility",
+            "Harvard University",
+            "World Bank"
+          ]
+        },
+        {
+          "name": "Babatunde Lawal Salako",
+          "openalex_id": "A5077699808",
+          "orcid": "https://orcid.org/0000-0002-0963-7302",
+          "institutions": [
+            "Nigerian Institute of Medical Research"
+          ]
+        },
+        {
+          "name": "Faisal Shuaib",
+          "openalex_id": "A5047837079",
+          "orcid": "https://orcid.org/0000-0003-1818-3776",
+          "institutions": [
+            "National Primary Health Care Development Agency"
+          ]
+        },
+        {
+          "name": "Fatimah I. Tsiga-Ahmed",
+          "openalex_id": "A5059662837",
+          "orcid": "https://orcid.org/0000-0003-4207-7981",
+          "institutions": [
+            "Aminu Kano Teaching Hospital",
+            "Bayero University Kano"
+          ]
+        },
+        {
+          "name": "Fatima H Zanna",
+          "openalex_id": "A5033979738",
+          "institutions": [
+            "National Agency for the Control of AIDS"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-03-01",
+      "abstract": "Health is central to the development of any country. Nigeria\u2019s gross domestic product is the largest in Africa, but its per capita income of about \u20a6770 000 (US$2000) is low with a highly inequitable distribution of income, wealth, and therefore, health. It is a picture of poverty amidst plenty. Nigeria is both a wealthy country and a very poor one. About 40% of Nigerians live in poverty, in social conditions that create ill health, and with the ever-present risk of catastrophic expenditures from high out-of-pocket spending for health. Even compared with countries of similar income levels in Africa, Nigeria\u2019s population health outcomes are poor, with national statistics masking drastic differences between rich and poor, urban and rural populations, and different regions.",
+      "cited_by_count": 310,
+      "type": "letter",
+      "source": {
+        "name": "The Lancet",
+        "type": "journal",
+        "issn": [
+          "0140-6736",
+          "1474-547X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://www.thelancet.com/article/S0140673621024880/pdf"
+      },
+      "topics": [
+        "Global Maternal and Child Health",
+        "Global Health Care Issues",
+        "Healthcare Systems and Reforms"
+      ],
+      "referenced_works_count": 191,
+      "url": "https://openalex.org/W4220845119"
+    },
+    {
+      "openalex_id": "W3049723110",
+      "doi": "10.1371/journal.pone.0219233",
+      "title": "Mobile phones: The effect of its presence on learning and memory",
+      "authors": [
+        {
+          "name": "Clarissa Theodora Tanil",
+          "openalex_id": "A5070076906",
+          "institutions": [
+            "Sunway University"
+          ]
+        },
+        {
+          "name": "Min Hooi Yong",
+          "openalex_id": "A5069073860",
+          "orcid": "https://orcid.org/0000-0002-4669-7013",
+          "institutions": [
+            "Sunway University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-08-13",
+      "abstract": "Our aim was to examine the effect of a smartphone's presence on learning and memory among undergraduates. A total of 119 undergraduates completed a memory task and the Smartphone Addiction Scale (SAS). As predicted, those without smartphones had higher recall accuracy compared to those with smartphones. Results showed a significant negative relationship between phone conscious thought, \"how often did you think about your phone\", and memory recall but not for SAS and memory recall. Phone conscious thought significantly predicted memory accuracy. We found that the presence of a smartphone and high phone conscious thought affects one's memory learning and recall, indicating the negative effect of a smartphone proximity to our learning and memory.",
+      "cited_by_count": 80,
+      "type": "article",
+      "source": {
+        "name": "PLoS ONE",
+        "type": "journal",
+        "issn": [
+          "1932-6203"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0219233&type=printable"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Mobile Learning in Education"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W3049723110"
+    },
+    {
+      "openalex_id": "W2794296445",
+      "doi": "10.5688/ajpe6862",
+      "title": "It\u2019s Time to Confront Student Mental Health Issues Associated with Smartphones and Social Media",
+      "authors": [
+        {
+          "name": "Jeff Cain",
+          "openalex_id": "A5026549188",
+          "orcid": "https://orcid.org/0000-0002-0018-0588",
+          "institutions": [
+            "University of Kentucky"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-02-20",
+      "abstract": "An increased focus on overall student health and wellness is one of the more recent evolutions in higher education. Pharmacy and other health professions colleges in particular have recognized that well-being is important for students preparing for high-stress health care careers. This awareness has",
+      "cited_by_count": 58,
+      "type": "article",
+      "source": {
+        "name": "American Journal of Pharmaceutical Education",
+        "type": "journal",
+        "issn": [
+          "0002-9459",
+          "1553-6467"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.ajpe.org/content/ajpe/82/7/6862.full.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Digital Mental Health Interventions",
+        "Social Media in Health Education"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W2794296445"
+    },
+    {
+      "openalex_id": "W4280543706",
+      "doi": "10.1007/s11469-022-00826-w",
+      "title": "A Nudge-Based Intervention to Reduce Problematic Smartphone Use: Randomised Controlled Trial",
+      "authors": [
+        {
+          "name": "Jay A. Olson",
+          "openalex_id": "A5056188883",
+          "orcid": "https://orcid.org/0000-0002-1161-5209",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Dasha A. Sandra",
+          "openalex_id": "A5036972950",
+          "orcid": "https://orcid.org/0000-0001-9930-2807",
+          "institutions": [
+            "McGill University Health Centre",
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Denis Chmoulevitch",
+          "openalex_id": "A5087467945",
+          "orcid": "https://orcid.org/0000-0002-5080-941X",
+          "institutions": [
+            "McGill University"
+          ]
+        },
+        {
+          "name": "Amir Raz",
+          "openalex_id": "A5101849806",
+          "orcid": "https://orcid.org/0000-0001-9794-5470",
+          "institutions": [
+            "McGill University",
+            "Chapman University"
+          ]
+        },
+        {
+          "name": "Samuel P. L. Veissi\u00e8re",
+          "openalex_id": "A5017587005",
+          "orcid": "https://orcid.org/0000-0002-1158-2347",
+          "institutions": [
+            "McGill University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-05-17",
+      "abstract": null,
+      "cited_by_count": 65,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Mental Health and Addiction",
+        "type": "journal",
+        "issn": [
+          "1557-1874",
+          "1557-1882"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11469-022-00826-w.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Technology Adoption and User Behaviour"
+      ],
+      "referenced_works_count": 81,
+      "url": "https://openalex.org/W4280543706"
+    },
+    {
+      "openalex_id": "W4285677486",
+      "doi": "10.1155/2022/7218113",
+      "title": "Internet of Medical Things (IoMT)-Based Smart Healthcare System: Trends and Progress",
+      "authors": [
+        {
+          "name": "Jyoti Srivastava",
+          "openalex_id": "A5047691321",
+          "orcid": "https://orcid.org/0000-0002-9177-0005",
+          "institutions": [
+            "Indrashil University"
+          ]
+        },
+        {
+          "name": "Sidheswar Routray",
+          "openalex_id": "A5051562711",
+          "orcid": "https://orcid.org/0000-0002-3658-3514",
+          "institutions": [
+            "Indrashil University"
+          ]
+        },
+        {
+          "name": "Sultan Ahmad",
+          "openalex_id": "A5035299588",
+          "orcid": "https://orcid.org/0000-0002-3198-7974",
+          "institutions": [
+            "Prince Sattam Bin Abdulaziz University"
+          ]
+        },
+        {
+          "name": "Mohammad Maqbool Waris",
+          "openalex_id": "A5087430183",
+          "orcid": "https://orcid.org/0000-0003-0471-4177",
+          "institutions": [
+            "Adama Science and Technology University"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-07-16",
+      "abstract": "Internet of Medical Thing (IoMT) is the most emerging era of the Internet of Thing (IoT), which is exponentially gaining researchers\u2019 attention with every passing day because of its wide applicability in Smart Healthcare systems (SHS). Because of the current pandemic situation, it is highly risky for an individual to visit the doctor for every small problem. Hence, using IoMT devices, we can easily monitor our day-to-day health records, and thereby initial precautions can be taken on our own. IoMT is playing a crucial role within the healthcare industry to increase the accuracy, reliability, and productivity of electronic devices. This research work provides an overview of IoMT with emphasis on various enabling techniques used in smart healthcare systems (SHS), such as radio frequency identification (RFID), artificial intelligence (AI), and blockchain. We are providing a comparative analysis of various IoMT architectures proposed by several researchers. Also, we have defined various health domains of IoMT, including the analysis of different sensors with their application environment, merits, and demerits. In addition, we have figured out key protocol design challenges, which are to be considered during the implementation of an IoMT network-based smart healthcare system. Considering these challenges, we prepared a comparative study for different data collection techniques that can be used to maintain the accuracy of collected data. In addition, this research work also provides a comprehensive study for maintaining the energy efficiency of an AI-based IoMT framework based on various parameters, such as the amount of energy consumed, packet delivery ratio, battery lifetime, quality of service, power drain, network throughput, delay, and transmission rate. Finally, we have provided different correlation equations for finding the accuracy and efficiency within the IoMT-based healthcare system using artificial intelligence. We have compared different data collection algorithms graphically based on their accuracy and error rate. Similarly, different energy efficiency algorithms are also graphically compared based on their energy consumption and packet loss percentage. We have analyzed our references used in this study, which are graphically represented based on their distribution of publication year and publication avenue.",
+      "cited_by_count": 130,
+      "type": "review",
+      "source": {
+        "name": "Computational Intelligence and Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1687-5265",
+          "1687-5273"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://downloads.hindawi.com/journals/cin/2022/7218113.pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Internet of Things and AI",
+        "Blockchain Technology Applications and Security"
+      ],
+      "referenced_works_count": 101,
+      "url": "https://openalex.org/W4285677486"
+    },
+    {
+      "openalex_id": "W3131809790",
+      "doi": "10.1007/s11160-021-09643-1",
+      "title": "Technological innovations in the recreational fishing sector: implications for fisheries management and policy",
+      "authors": [
+        {
+          "name": "Steven J. Cooke",
+          "openalex_id": "A5022488779",
+          "orcid": "https://orcid.org/0000-0002-5407-0659",
+          "institutions": [
+            "Carleton University"
+          ]
+        },
+        {
+          "name": "Paul Venturelli",
+          "openalex_id": "A5042268618",
+          "orcid": "https://orcid.org/0000-0002-7329-7517",
+          "institutions": [
+            "Ball State University"
+          ]
+        },
+        {
+          "name": "William M. Twardek",
+          "openalex_id": "A5018233889",
+          "orcid": "https://orcid.org/0000-0002-8286-021X",
+          "institutions": [
+            "Carleton University"
+          ]
+        },
+        {
+          "name": "Robert J. Lennox",
+          "openalex_id": "A5043562606",
+          "orcid": "https://orcid.org/0000-0003-1010-0577",
+          "institutions": [
+            "NORCE Norwegian Research Centre"
+          ]
+        },
+        {
+          "name": "Jacob W. Brownscombe",
+          "openalex_id": "A5054773201",
+          "orcid": "https://orcid.org/0000-0003-2496-8764",
+          "institutions": [
+            "Fisheries and Oceans Canada"
+          ]
+        },
+        {
+          "name": "Christian Skov",
+          "openalex_id": "A5031139746",
+          "orcid": "https://orcid.org/0000-0002-8547-6520",
+          "institutions": [
+            "Technical University of Denmark"
+          ]
+        },
+        {
+          "name": "Kieran Hyder",
+          "openalex_id": "A5037643516",
+          "orcid": "https://orcid.org/0000-0003-1428-5679",
+          "institutions": [
+            "Centre for Environment, Fisheries and Aquaculture Science"
+          ]
+        },
+        {
+          "name": "Cory D. Suski",
+          "openalex_id": "A5035172433",
+          "orcid": "https://orcid.org/0000-0001-8280-873X",
+          "institutions": [
+            "Illinois Department of Natural Resources",
+            "University of Illinois Urbana-Champaign"
+          ]
+        },
+        {
+          "name": "Ben K. Diggles",
+          "openalex_id": "A5034965376",
+          "orcid": "https://orcid.org/0000-0002-9377-080X",
+          "institutions": [
+            "DigsFish Services (Australia)"
+          ]
+        },
+        {
+          "name": "Robert Arlinghaus",
+          "openalex_id": "A5064047566",
+          "orcid": "https://orcid.org/0000-0003-2861-527X",
+          "institutions": [
+            "Leibniz Institute of Freshwater Ecology and Inland Fisheries"
+          ]
+        },
+        {
+          "name": "Andy J. Danylchuk",
+          "openalex_id": "A5052731822",
+          "orcid": "https://orcid.org/0000-0002-8363-0782",
+          "institutions": [
+            "University of Massachusetts Amherst"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-02-23",
+      "abstract": null,
+      "cited_by_count": 125,
+      "type": "review",
+      "source": {
+        "name": "Reviews in Fish Biology and Fisheries",
+        "type": "journal",
+        "issn": [
+          "0960-3166",
+          "1573-5184"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11160-021-09643-1.pdf"
+      },
+      "topics": [
+        "Fish Ecology and Management Studies",
+        "Sharing Economy and Platforms",
+        "Digital Marketing and Social Media"
+      ],
+      "referenced_works_count": 204,
+      "url": "https://openalex.org/W3131809790"
+    },
+    {
+      "openalex_id": "W2888497182",
+      "doi": "10.1145/3229434.3229468",
+      "title": "Toward \"JOMO\"",
+      "authors": [
+        {
+          "name": "Julie H. Aranda",
+          "openalex_id": "A5047240701",
+          "institutions": [
+            "Google (United States)"
+          ]
+        },
+        {
+          "name": "Safia Baig",
+          "openalex_id": "A5083932544",
+          "institutions": [
+            "Google (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-08-24",
+      "abstract": "We took an ethnographic approach to explore the continuum between excessive smartphone use and healthy disconnection. We conducted a qualitative mixed-methods study in Switzerland and the United States to understand the nature of the problem, how it evolves, the workarounds that users employ to disconnect, and their experience of smartphone disconnection. We discussed two negative behavioral cycles: an internal experience of habit and excessive use, and an externally reinforced cycle of social obligation. We presented a taxonomy of non-use based on the dimensions of time and user level of control. We highlighted 3 potential areas for solutions around short-term voluntary disconnection and describe recommendations for how the mobile industry and app developers can address this issue.",
+      "cited_by_count": 63,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3229434.3229468"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Privacy, Security, and Data Protection",
+        "Green IT and Sustainability"
+      ],
+      "referenced_works_count": 41,
+      "url": "https://openalex.org/W2888497182"
+    },
+    {
+      "openalex_id": "W3157986414",
+      "doi": "10.2196/28236",
+      "title": "Research Trends in Artificial Intelligence Applications in Human Factors Health Care: Mapping Review",
+      "authors": [
+        {
+          "name": "Onur Asan",
+          "openalex_id": "A5035132179",
+          "orcid": "https://orcid.org/0000-0002-9239-3723",
+          "institutions": [
+            "Stevens Institute of Technology"
+          ]
+        },
+        {
+          "name": "Avishek Choudhury",
+          "openalex_id": "A5002116815",
+          "orcid": "https://orcid.org/0000-0002-5342-0709",
+          "institutions": [
+            "Stevens Institute of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-05-03",
+      "abstract": "Background Despite advancements in artificial intelligence (AI) to develop prediction and classification models, little research has been devoted to real-world translations with a user-centered design approach. AI development studies in the health care context have often ignored two critical factors of ecological validity and human cognition, creating challenges at the interface with clinicians and the clinical environment. Objective The aim of this literature review was to investigate the contributions made by major human factors communities in health care AI applications. This review also discusses emerging research gaps, and provides future research directions to facilitate a safer and user-centered integration of AI into the clinical workflow. Methods We performed an extensive mapping review to capture all relevant articles published within the last 10 years in the major human factors journals and conference proceedings listed in the \u201cHuman Factors and Ergonomics\u201d category of the Scopus Master List. In each published volume, we searched for studies reporting qualitative or quantitative findings in the context of AI in health care. Studies are discussed based on the key principles such as evaluating workload, usability, trust in technology, perception, and user-centered design. Results Forty-eight articles were included in the final review. Most of the studies emphasized user perception, the usability of AI-based devices or technologies, cognitive workload, and user\u2019s trust in AI. The review revealed a nascent but growing body of literature focusing on augmenting health care AI; however, little effort has been made to ensure ecological validity with user-centered design approaches. Moreover, few studies (n=5 against clinical/baseline standards, n=5 against clinicians) compared their AI models against a standard measure. Conclusions Human factors researchers should actively be part of efforts in AI design and implementation, as well as dynamic assessments of AI systems\u2019 effects on interaction, workflow, and patient outcomes. An AI system is part of a greater sociotechnical system. Investigators with human factors and ergonomics expertise are essential when defining the dynamic interaction of AI within each element, process, and result of the work system.",
+      "cited_by_count": 89,
+      "type": "review",
+      "source": {
+        "name": "JMIR Human Factors",
+        "type": "journal",
+        "issn": [
+          "2292-9495"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://humanfactors.jmir.org/2021/2/e28236/PDF"
+      },
+      "topics": [
+        "Artificial Intelligence in Healthcare and Education",
+        "Electronic Health Records Systems",
+        "Healthcare Technology and Patient Monitoring"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W3157986414"
+    },
+    {
+      "openalex_id": "W4212943061",
+      "doi": "10.1007/s11747-022-00839-w",
+      "title": "How consumer digital signals are reshaping the customer journey",
+      "authors": [
+        {
+          "name": "David A. Schweidel",
+          "openalex_id": "A5040636710",
+          "orcid": "https://orcid.org/0000-0003-2665-3272",
+          "institutions": [
+            "Emory University"
+          ]
+        },
+        {
+          "name": "Yakov Bart",
+          "openalex_id": "A5073502448",
+          "orcid": "https://orcid.org/0000-0002-4094-9873",
+          "institutions": [
+            "Northeastern University"
+          ]
+        },
+        {
+          "name": "J. Jeffrey Inman",
+          "openalex_id": "A5018222090",
+          "orcid": "https://orcid.org/0000-0003-0410-2242",
+          "institutions": [
+            "University of Pittsburgh"
+          ]
+        },
+        {
+          "name": "Andrew T. Stephen",
+          "openalex_id": "A5112940094",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Barak Libai",
+          "openalex_id": "A5080377850",
+          "institutions": [
+            "Reichman University"
+          ]
+        },
+        {
+          "name": "Michelle Andrews",
+          "openalex_id": "A5108859643",
+          "institutions": [
+            "Emory University"
+          ]
+        },
+        {
+          "name": "Ana Babi\u0107 Rosario",
+          "openalex_id": "A5010606686",
+          "orcid": "https://orcid.org/0000-0001-8390-8599",
+          "institutions": [
+            "University of Denver"
+          ]
+        },
+        {
+          "name": "Inyoung Chae",
+          "openalex_id": "A5006809419",
+          "orcid": "https://orcid.org/0000-0002-7652-6899",
+          "institutions": [
+            "Emory University"
+          ]
+        },
+        {
+          "name": "Zoey Chen",
+          "openalex_id": "A5074803193",
+          "orcid": "https://orcid.org/0000-0001-8020-0704",
+          "institutions": [
+            "University of Miami"
+          ]
+        },
+        {
+          "name": "Daniella Kupor",
+          "openalex_id": "A5050383155",
+          "orcid": "https://orcid.org/0000-0003-4747-7343",
+          "institutions": [
+            "Boston University"
+          ]
+        },
+        {
+          "name": "Chiara Longoni",
+          "openalex_id": "A5051832390",
+          "orcid": "https://orcid.org/0000-0002-4945-4957",
+          "institutions": [
+            "Boston University"
+          ]
+        },
+        {
+          "name": "Felipe Thomaz",
+          "openalex_id": "A5042087488",
+          "orcid": "https://orcid.org/0000-0002-2223-3791",
+          "institutions": [
+            "University of Oxford"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-02-19",
+      "abstract": null,
+      "cited_by_count": 108,
+      "type": "article",
+      "source": {
+        "name": "Journal of the Academy of Marketing Science",
+        "type": "journal",
+        "issn": [
+          "0092-0703",
+          "1552-7824"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11747-022-00839-w.pdf"
+      },
+      "topics": [
+        "Digital Marketing and Social Media",
+        "Consumer Retail Behavior Studies",
+        "Consumer Behavior in Brand Consumption and Identification"
+      ],
+      "referenced_works_count": 111,
+      "url": "https://openalex.org/W4212943061"
+    },
+    {
+      "openalex_id": "W3040528508",
+      "doi": "10.3390/ijerph17134842",
+      "title": "Mind over Matter: Testing the Efficacy of an Online Randomized Controlled Trial to Reduce Distraction from Smartphone Use",
+      "authors": [
+        {
+          "name": "Melina A. Throuvala",
+          "openalex_id": "A5060385919",
+          "orcid": "https://orcid.org/0000-0003-4617-5263",
+          "institutions": [
+            "Nottingham Trent University"
+          ]
+        },
+        {
+          "name": "Mark D. Griffiths",
+          "openalex_id": "A5008372095",
+          "orcid": "https://orcid.org/0000-0001-8880-6524",
+          "institutions": [
+            "Nottingham Trent University"
+          ]
+        },
+        {
+          "name": "Mike Rennoldson",
+          "openalex_id": "A5055573153",
+          "orcid": "https://orcid.org/0000-0002-7131-8740",
+          "institutions": [
+            "Nottingham Trent University"
+          ]
+        },
+        {
+          "name": "Daria J. Kuss",
+          "openalex_id": "A5005992442",
+          "orcid": "https://orcid.org/0000-0001-8917-782X",
+          "institutions": [
+            "Nottingham Trent University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-07-05",
+      "abstract": "Evidence suggests a growing call for the prevention of excessive smartphone and social media use and the ensuing distraction that arises affecting academic achievement and productivity. A ten-day online randomized controlled trial with the use of smartphone apps, engaging participants in mindfulness exercises, self-monitoring and mood tracking, was implemented amongst UK university students (n = 143). Participants were asked to complete online pre- and post-intervention assessments. Results indicated high effect sizes in reduction of smartphone distraction and improvement scores on a number of self-reported secondary psychological outcomes. The intervention was not effective in reducing habitual behaviours, nomophobia, or time spent on social media. Mediation analyses demonstrated that: (i) emotional self-awareness but not mindful attention mediated the relationship between intervention effects and smartphone distraction, and (ii) online vigilance mediated the relationship between smartphone distraction and problematic social media use. The present study provides preliminary evidence of the efficacy of an intervention for decreased smartphone distraction and highlights psychological processes involved in this emergent phenomenon in the smartphone literature. Online interventions may serve as complementary strategies to reduce distraction levels and promote insight into online engagement. More research is required to elucidate the mechanisms of digital distraction and assess its implications in problematic use.",
+      "cited_by_count": 92,
+      "type": "article",
+      "source": {
+        "name": "International Journal of Environmental Research and Public Health",
+        "type": "journal",
+        "issn": [
+          "1660-4601",
+          "1661-7827"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1660-4601/17/13/4842/pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Digital Mental Health Interventions",
+        "Child Development and Digital Technology"
+      ],
+      "referenced_works_count": 246,
+      "url": "https://openalex.org/W3040528508"
+    },
+    {
+      "openalex_id": "W2993629947",
+      "doi": "10.1038/s41598-019-54911-7",
+      "title": "Emotion-related impulsivity moderates the cognitive interference effect of smartphone availability on working memory",
+      "authors": [
+        {
+          "name": "Natale Canale",
+          "openalex_id": "A5075543619",
+          "orcid": "https://orcid.org/0000-0002-6032-0490",
+          "institutions": [
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Alessio Vieno",
+          "openalex_id": "A5073998186",
+          "orcid": "https://orcid.org/0000-0003-4417-4822",
+          "institutions": [
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Mattia Doro",
+          "openalex_id": "A5010904692",
+          "orcid": "https://orcid.org/0000-0003-2574-4308",
+          "institutions": [
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Erika Rosa Mineo",
+          "openalex_id": "A5056386577",
+          "institutions": [
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Claudia Marino",
+          "openalex_id": "A5053206843",
+          "orcid": "https://orcid.org/0000-0002-1127-3907",
+          "institutions": [
+            "University of Padua"
+          ]
+        },
+        {
+          "name": "Jo\u00ebl Billieux",
+          "openalex_id": "A5068894986",
+          "orcid": "https://orcid.org/0000-0002-7388-6194",
+          "institutions": [
+            "University of Lausanne",
+            "University of Luxembourg"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-12-06",
+      "abstract": "Abstract Although recent studies suggest that the mere presence of a smartphone might negatively impact on working memory capacity, fluid intelligence, and attentional processes, less is known about the individual differences that are liable to moderate this cognitive interference effect. This study tested whether individual differences in emotion-related impulsivity traits (positive urgency and negative urgency) moderate the effect of smartphone availability on cognitive performance. We designed an experiment in which 132 college students (age 18\u201325 years) completed a laboratory task that assessed visual working memory capacity in three different conditions: two conditions differing in terms of smartphone availability (smartphone turned off and visible, smartphone in silent mode and visible) and a condition in which the smartphone was not available and was replaced by a calculator (control condition). Participants also completed self-reports that assessed their thoughts after the task performance, positive/negative urgency, and problematic smartphone use. The results showed that participants with higher positive urgency presented increased cognitive interference (reflected by poorer task performance) in the \u201csilent-mode smartphone\u201d condition compared with participants in the \u201cturned-off smartphone\u201d condition. The present study provides new insights into the psychological factors that explain how smartphone availability is liable to interfere with high-level cognitive processes.",
+      "cited_by_count": 54,
+      "type": "article",
+      "source": {
+        "name": "Scientific Reports",
+        "type": "journal",
+        "issn": [
+          "2045-2322"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-019-54911-7.pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Psychological and Temporal Perspectives Research",
+        "Behavioral Health and Interventions"
+      ],
+      "referenced_works_count": 84,
+      "url": "https://openalex.org/W2993629947"
+    },
+    {
+      "openalex_id": "W2973073524",
+      "doi": "10.3390/jcm8091422",
+      "title": "The Evolution of the Role of External Ventricular Drainage in Traumatic Brain Injury",
+      "authors": [
+        {
+          "name": "Charlene Yat Che Chau",
+          "openalex_id": "A5070250920",
+          "orcid": "https://orcid.org/0000-0002-6114-9058",
+          "institutions": [
+            "University of Cambridge",
+            "Addenbrooke's Hospital"
+          ]
+        },
+        {
+          "name": "Claudia Craven",
+          "openalex_id": "A5048123010",
+          "orcid": "https://orcid.org/0000-0002-6199-0090",
+          "institutions": [
+            "National Hospital for Neurology and Neurosurgery",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Andr\u00e9s M. Rubiano",
+          "openalex_id": "A5027234861",
+          "orcid": "https://orcid.org/0000-0001-8931-3254",
+          "institutions": [
+            "Universidad El Bosque",
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Hadie Adams",
+          "openalex_id": "A5013262254",
+          "orcid": "https://orcid.org/0000-0001-8160-9026",
+          "institutions": [
+            "Addenbrooke's Hospital",
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Selma T\u00fcl\u00fc",
+          "openalex_id": "A5026154184",
+          "institutions": [
+            "Innsbruck Medical University",
+            "University of Cambridge",
+            "Addenbrooke's Hospital"
+          ]
+        },
+        {
+          "name": "Marek Czosnyka",
+          "openalex_id": "A5086027330",
+          "orcid": "https://orcid.org/0000-0003-2446-8006",
+          "institutions": [
+            "University of Cambridge",
+            "Addenbrooke's Hospital"
+          ]
+        },
+        {
+          "name": "Franco Servadei",
+          "openalex_id": "A5087562694",
+          "orcid": "https://orcid.org/0000-0002-3595-3464",
+          "institutions": [
+            "Humanitas University"
+          ]
+        },
+        {
+          "name": "Ari Ercole",
+          "openalex_id": "A5027793258",
+          "orcid": "https://orcid.org/0000-0001-8350-8093",
+          "institutions": [
+            "Addenbrooke's Hospital",
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Peter J. Hutchinson",
+          "openalex_id": "A5064523646",
+          "orcid": "https://orcid.org/0000-0002-2796-1835",
+          "institutions": [
+            "Addenbrooke's Hospital",
+            "University of Cambridge"
+          ]
+        },
+        {
+          "name": "Angelos G. Kolias",
+          "openalex_id": "A5087202422",
+          "orcid": "https://orcid.org/0000-0003-3992-0587",
+          "institutions": [
+            "Addenbrooke's Hospital",
+            "University of Cambridge"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-09-10",
+      "abstract": "External ventricular drains (EVDs) are commonly used in neurosurgery in different conditions but frequently in the management of traumatic brain injury (TBI) to monitor and/or control intracranial pressure (ICP) by diverting cerebrospinal fluid (CSF). Their clinical effectiveness, when used as a therapeutic ICP-lowering procedure in contemporary practice, remains unclear. No consensus has been reached regarding the drainage strategy and optimal timing of insertion. We review the literature on EVDs in the setting of TBI, discussing its clinical indications, surgical technique, complications, clinical outcomes, and economic considerations.",
+      "cited_by_count": 66,
+      "type": "review",
+      "source": {
+        "name": "Journal of Clinical Medicine",
+        "type": "journal",
+        "issn": [
+          "2077-0383"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-0383/8/9/1422/pdf?version=1568088240"
+      },
+      "topics": [
+        "Traumatic Brain Injury and Neurovascular Disturbances",
+        "Cerebrospinal fluid and hydrocephalus",
+        "Neurosurgical Procedures and Complications"
+      ],
+      "referenced_works_count": 161,
+      "url": "https://openalex.org/W2973073524"
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

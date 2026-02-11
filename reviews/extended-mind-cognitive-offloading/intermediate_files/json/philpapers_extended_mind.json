@@ -1,0 +1,14 @@
+{
+  "status": "error",
+  "source": "philpapers_via_brave",
+  "query": "extended mind",
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "config_error",
+      "message": "BRAVE_API_KEY not set",
+      "recoverable": false
+    }
+  ]
+}

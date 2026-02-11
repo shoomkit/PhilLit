@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1037/xap0000515"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1037/xap0000515",
+      "title": "Metacognition guides intention offloading and fulfillment of real-world plans.",
+      "authors": [
+        {
+          "family": "Scott",
+          "given": "Ava E."
+        },
+        {
+          "family": "Gilbert",
+          "given": "Sam J."
+        }
+      ],
+      "editors": [],
+      "year": 2024,
+      "container_title": "Journal of Experimental Psychology: Applied",
+      "volume": "30",
+      "issue": "4",
+      "page": "539-553",
+      "publisher": "American Psychological Association (APA)",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1037/xap0000515"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

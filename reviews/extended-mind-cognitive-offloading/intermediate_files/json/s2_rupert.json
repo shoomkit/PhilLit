@@ -1,0 +1,753 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Rupert cognitive systems hypothesis",
+  "results": [
+    {
+      "paperId": "ca60b8eb6f88d894364c82be56457cf174e8a745",
+      "title": "Keeping HEC in CHEC : On the Priority of Cognitive Systems",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ca60b8eb6f88d894364c82be56457cf174e8a745",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "0a4fecd519630276d74caf6d0e441785fc97fb35",
+      "title": "From Cognitive Agents to Cognitive Systems: Theoretical, Methodological, and Empirical Developments of van Gelder's (1998) \"Dynamical Hypothesis\".",
+      "authors": [
+        {
+          "name": "Tri Nguyen",
+          "authorId": "2189276182"
+        },
+        {
+          "name": "Corey M. Magaldino",
+          "authorId": "115609299"
+        },
+        {
+          "name": "Jayci T. Landfair",
+          "authorId": "2140310616"
+        },
+        {
+          "name": "P. Amazeen",
+          "authorId": "2181554"
+        },
+        {
+          "name": "E. Amazeen",
+          "authorId": "2253953"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Over two decades have passed since the publication of van Gelder's (1998) \"dynamical hypothesis.\" In that paper, van Gelder proposed that cognitive agents were not digital computers-per the representational computational approach-but dynamical systems. The evolution of the dynamical hypothesis was driven by parallel advances in three areas. Theoretically, a deeper understanding of genetics, biology, neuroscience, and cognitive science inspired questions about how systems within each domain dynamically interact and extend their effects across spatiotemporal scales. Methodologically, more sophisticated and domain-general tools allowed researchers to discover, model, and quantify system dynamics, structure, and patterns across multiple scales to generate a more comprehensive system-level understanding of behaviors. Empirically, we can analyze a system's behavior while preserving its natural dynamics, revealing evidence that the reductionist approach leads to an incomplete understanding of the components and the overall system. Researchers have traditionally reduced a complex system into its component processes and assumed that the parts can be recombined to explain the whole. These three advances fundamentally altered our understanding of a \"cognitive agent:\" How their behaviors are driven by long-range coordination across multiple processes, how the interdependent and nested structure of interacting variables produces behaviors that are greater than the sum of its parts, and how environmental constraints shape adaptive yet stable behavioral patterns.",
+      "citationCount": 4,
+      "doi": "10.1111/tops.12725",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0a4fecd519630276d74caf6d0e441785fc97fb35",
+      "venue": "Topics in Cognitive Science",
+      "journal": {
+        "name": "Topics in cognitive science"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "015ba9a3cbb82883fccbdaf6f110a2bbcb5ca721",
+      "title": "Robert D. Rupert: Cognitive Systems and the Extended Mind",
+      "authors": [
+        {
+          "name": "Andreas Elpidorou",
+          "authorId": "2015562"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11023-011-9226-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/015ba9a3cbb82883fccbdaf6f110a2bbcb5ca721",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "107-113",
+        "volume": "21"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "ee2d67b4f47b7dab046a421eb846c7622c2e311a",
+      "title": "Rethinking the Physical Symbol Systems Hypothesis",
+      "authors": [
+        {
+          "name": "P. Rosenbloom",
+          "authorId": "1749322"
+        }
+      ],
+      "year": 2023,
+      "abstract": "It is now more than a half-century since the Physical Symbol Systems Hypothesis (PSSH) was first articulated as an empirical hypothesis. More recent evidence from work with neural networks and cognitive architectures has weakened it, but it has not yet been replaced in any satisfactory manner. Based on a rethinking of the nature of computational symbols -- as atoms or placeholders -- and thus also of the systems in which they participate, a hybrid approach is introduced that responds to these challenges while also helping to bridge the gap between symbolic and neural approaches, resulting in two new hypotheses, one that is to replace the PSSH and other focused more directly on cognitive architectures.",
+      "citationCount": 1,
+      "doi": "10.1007/978-3-031-33469-6_21",
+      "arxivId": "2306.13150",
+      "url": "https://www.semanticscholar.org/paper/ee2d67b4f47b7dab046a421eb846c7622c2e311a",
+      "venue": "Artificial General Intelligence",
+      "journal": {
+        "pages": "207-216"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "4c2ca62e8f4c2ebc398a655d13f88f2f11bb6101",
+      "title": "Cognitive Systems, Predictive Processing, and the Self",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 3,
+      "doi": "10.1007/s13164-021-00577-y",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4c2ca62e8f4c2ebc398a655d13f88f2f11bb6101",
+      "venue": "Review of Philosophy and Psychology",
+      "journal": {
+        "name": "Review of Philosophy and Psychology"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "67b0e7c5aafa59cf5c691928657947e6bdd71bda",
+      "title": "Simultaneous Hypotheses in Cognitive Agents: Commentary on Paxton, Necaise et\u00a0al., and the Dynamical Hypothesis in Cognitive Science.",
+      "authors": [
+        {
+          "name": "Jamie C. Gorman",
+          "authorId": "2330297931"
+        }
+      ],
+      "year": 2024,
+      "abstract": "The 1998 article by van Gelder proposed a Dynamical Hypothesis (DH) in cognitive science consisting of Nature (cognitive agents are dynamical systems) and Knowledge (cognitive agents should be understood dynamically) hypotheses in contrast to the Computational Hypothesis (CH) that cognitive agents are computers. My commentary focuses on the contributions of Paxton and Necaise et\u00a0al. in interpersonal motor coordination and radicalization across social media. I do not think that either contribution supports the Nature hypothesis but does conform with the Knowledge hypothesis. I conclude by describing cognitive agents as living systems (or nonliving systems that mimic aspects of living systems) that can be alternately viewed to support the DH or CH or both at the same time.",
+      "citationCount": 0,
+      "doi": "10.1111/tops.12772",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/67b0e7c5aafa59cf5c691928657947e6bdd71bda",
+      "venue": "Topics in Cognitive Science",
+      "journal": {
+        "name": "Topics in cognitive science"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "5fdd53d4cae921e83ed4a45f53b45ba8a157acbb",
+      "title": "Cognitive Systems and the Extended Mind // Reviews // Notre Dame Philosophical Reviews // University of Notre Dame",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        },
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5fdd53d4cae921e83ed4a45f53b45ba8a157acbb",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "9d7117fc1758b7afab8685a3dd58dbbff227e253",
+      "title": "Cognitive Systems and the Extended Mind",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 151,
+      "doi": "10.1093/acprof:oso/9780195379457.001.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9d7117fc1758b7afab8685a3dd58dbbff227e253",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "dc841dd1144d2b02fa73bb195a809a6969fdc6e2",
+      "title": "Minding One's Cognitive Systems: When Does a Group of Minds Constitute a Single Cognitive Unit?",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2005,
+      "abstract": null,
+      "citationCount": 51,
+      "doi": "10.3366/epi.2004.1.3.177",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/dc841dd1144d2b02fa73bb195a809a6969fdc6e2",
+      "venue": "Episteme",
+      "journal": {
+        "name": "Episteme",
+        "pages": "177 - 188",
+        "volume": "1"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "148da7a0ee2ab03d903ba3a2f9fc7bb1cdea2be9",
+      "title": "The AI Ethical Resonance Hypothesis: The Possibility of Discovering Moral Meta-Patterns in AI Systems",
+      "authors": [
+        {
+          "name": "Tomasz Zgliczy'nski-Cuber",
+          "authorId": "2372249073"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This paper presents a theoretical framework for the AI ethical resonance hypothesis, which proposes that advanced AI systems with purposefully designed cognitive structures (\"ethical resonators\") may emerge with the ability to identify subtle moral patterns that are invisible to the human mind. The paper explores the possibility that by processing and synthesizing large amounts of ethical contexts, AI systems may discover moral meta-patterns that transcend cultural, historical, and individual biases, potentially leading to a deeper understanding of universal ethical foundations. The paper also examines a paradoxical aspect of the hypothesis, in which AI systems could potentially deepen our understanding of what we traditionally consider essentially human - our capacity for ethical reflection.",
+      "citationCount": 0,
+      "doi": "10.48550/arXiv.2507.11552",
+      "arxivId": "2507.11552",
+      "url": "https://www.semanticscholar.org/paper/148da7a0ee2ab03d903ba3a2f9fc7bb1cdea2be9",
+      "venue": "arXiv.org",
+      "journal": {
+        "name": "ArXiv",
+        "volume": "abs/2507.11552"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f89b5a02a675871636d12d78ed59de2d09ef7062",
+      "title": "Cognitive systems and the supersized mind",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 12,
+      "doi": "10.1007/S11098-010-9600-6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f89b5a02a675871636d12d78ed59de2d09ef7062",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Studies",
+        "pages": "427-436",
+        "volume": "152"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b79a7bce5e055f2e375afbda013c79fb2874f1df",
+      "title": "Extended cognition and the priority of cognitive systems",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "authorId": "2961334"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 48,
+      "doi": "10.1016/j.cogsys.2010.04.002",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b79a7bce5e055f2e375afbda013c79fb2874f1df",
+      "venue": "Cognitive Systems Research",
+      "journal": {
+        "name": "Cognitive Systems Research",
+        "pages": "343-356",
+        "volume": "11"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "fe3a2c3a843be1b9f241fd3baed5b8b6ac9a3325",
+      "title": "The two visual systems hypothesis and contrastive underdetermination",
+      "authors": [
+        {
+          "name": "Thor Gr\u00fcnbaum",
+          "authorId": "2486828"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.1007/s11229-018-01984-y",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fe3a2c3a843be1b9f241fd3baed5b8b6ac9a3325",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "4045 - 4068",
+        "volume": "198"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "52ab80b154f261bbf2e05393f87b6d1531147c78",
+      "title": "Cognitive Systems and the Extended Mind - Robert D. Rupert",
+      "authors": [
+        {
+          "name": "Mirko Farina",
+          "authorId": "34240308"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/52ab80b154f261bbf2e05393f87b6d1531147c78",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1c53f772c57db5cd7c9ce1cd312dc3c4a0de4ada",
+      "title": "[Review of the book Cognitive Systems and the Extended Mind, by Rupert]",
+      "authors": [
+        {
+          "name": "Robert A. Wilson",
+          "authorId": "144910421"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.7939/R3251G07R",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1c53f772c57db5cd7c9ce1cd312dc3c4a0de4ada",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "87dd21bed5d135c509384ec78c2791e084d0e0de",
+      "title": "Cognitive Systems and the Extended MindBy Robert D. Rupert",
+      "authors": [
+        {
+          "name": "J. Preston",
+          "authorId": "87499107"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1093/ANALYS/ANQ089",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/87dd21bed5d135c509384ec78c2791e084d0e0de",
+      "venue": "",
+      "journal": {
+        "name": "Analysis",
+        "pages": "798-800",
+        "volume": "70"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b1e7699a851c87cd95fe0ca1d9252ef014741a4b",
+      "title": "Cognitive Systems And The Extended Mind",
+      "authors": [
+        {
+          "name": "Doreen Meier",
+          "authorId": "39512543"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 155,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b1e7699a851c87cd95fe0ca1d9252ef014741a4b",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "cd2c10892dee150d0af160cdc52efd88dd711236",
+      "title": "Engineering Better Ethics into Human and Artificial Cognitive Systems",
+      "authors": [
+        {
+          "name": "John N. Celona",
+          "authorId": "50223267"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/978-3-030-11051-2_9",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cd2c10892dee150d0af160cdc52efd88dd711236",
+      "venue": "International Conference on Intelligent Human Systems Integration",
+      "journal": {
+        "pages": "56-62"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "ad7659238c04ae76b19c7895f0f8ddb887014874",
+      "title": "Cognitive systems and the changing brain",
+      "authors": [
+        {
+          "name": "F. Brigard",
+          "authorId": "35578875"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 23,
+      "doi": "10.1080/13869795.2017.1312503",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ad7659238c04ae76b19c7895f0f8ddb887014874",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Explorations",
+        "pages": "224-241",
+        "volume": "20"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6a5df240d2d385219c14b15469b9bd577a202efc",
+      "title": "Cognitive systems and the changing brain",
+      "authors": [
+        {
+          "name": "Felipe De Brigard",
+          "authorId": "2408963"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.1080/13869795.2017.1312503",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6a5df240d2d385219c14b15469b9bd577a202efc",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Explorations",
+        "pages": "224 - 241",
+        "volume": "20"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "b5dd85f6b903e2ecbadf9419bc96d4f1dd3fcccd",
+      "title": "Cognitive approach to the learning sign systems. Part 1: pre-alchemical and alchemical periods",
+      "authors": [
+        {
+          "name": "Natalya V. Barabanova",
+          "authorId": "2262360021"
+        },
+        {
+          "name": "Vladimir S. Barabanov",
+          "authorId": "2262356863"
+        }
+      ],
+      "year": 2023,
+      "abstract": "The dependence of the process of cognition and understanding in any field of knowledge on the quality of semiotization, the detailed naming of cognition objects has always been a cognitive problem, although not always a realized one. The purpose of this work is to consider the relationship between the the semiotic system development and the cognition process in one of the natural sciences, namely, in chemistry. As a working hypothesis, we assume that there is a direct relationship between the processes of cognition and the study of reality from in terms of chemistry and semiotic coding of knowledge about the interaction of substances. At the same time, the processes of cognition and the ways of encoding information, resulted from the cognitive process, mutually affect each other. The semiotic system development, reflecting the knowledge level, is determined by the work on cognition objects, and also the way of coding knowledge stimulates new hypotheses or even conclusions about the object of research in chemistry. In the first part of this article, we consider the features of reflection in the signs of chemistry knowledge in the earlier times, including the alchemical period. The research method consists of the diachronic semiotic analyzing the concepts of chemistry language and signs from the Ancient till the New time. The study results confirm the hypothesis put forward.",
+      "citationCount": 0,
+      "doi": "10.18287/2782-2966-2023-3-3-22-29",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b5dd85f6b903e2ecbadf9419bc96d4f1dd3fcccd",
+      "venue": "Semiotic studies",
+      "journal": {
+        "name": "Semiotic studies"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d96eed961d6870984441b2898cea143647e5709e",
+      "title": "System 0: Transforming Artificial Intelligence into a Cognitive Extension",
+      "authors": [
+        {
+          "name": "Massimo Chiriatti",
+          "authorId": "2327190201"
+        },
+        {
+          "name": "Marianna Bergamaschi Ganapini",
+          "authorId": "2388428878"
+        },
+        {
+          "name": "Enrico Panai",
+          "authorId": "2359737034"
+        },
+        {
+          "name": "B. Wiederhold",
+          "authorId": "1686405"
+        },
+        {
+          "name": "Giuseppe Riva",
+          "authorId": "2282027941"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This paper introduces \u201cSystem 0,\u201d a conceptual framework for understanding how artificial intelligence functions as a cognitive extension preceding both intuitive (System 1) and deliberative (System 2) thinking processes. As AI systems increasingly shape the informational substrate upon which human cognition operates, they transform from passive tools into active cognitive partners. Building on the Extended Mind hypothesis and Heersmink\u2019s criteria for cognitive extension, we argue that AI systems satisfy key conditions for cognitive integration. These include reliability, trust, transparency, individualization, and the ability to enhance and transform human mental functions. However, AI integration creates a paradox: while expanding cognitive capabilities, it may simultaneously constrain thinking through sycophancy and bias amplification. To address these challenges, we propose seven evidence-based frameworks for effective human-AI cognitive integration: Enhanced Cognitive Scaffolding, which promotes progressive autonomy; Symbiotic Division of Cognitive Labor, strategically allocating tasks based on comparative strengths; Dialectical Cognitive Enhancement, countering AI sycophancy through productive epistemic tension; Agentic Transparency and Control, ensuring users understand and direct AI influence; Expertise Democratization, breaking down knowledge silos; Social-Emotional Augmentation, addressing affective dimensions of cognitive work; and Duration-Optimized Integration, managing the evolving human-AI relationship over time. Together, these frameworks provide a comprehensive approach for harnessing AI as a genuine cognitive extension while preserving human agency, critical thinking, and intellectual growth, transforming AI from a replacement for human cognition into a catalyst for enhanced thinking.",
+      "citationCount": 7,
+      "doi": "10.1089/cyber.2025.0201",
+      "arxivId": "2506.14376",
+      "url": "https://www.semanticscholar.org/paper/d96eed961d6870984441b2898cea143647e5709e",
+      "venue": "Cyberpsychology, Behavior, and Social Networking",
+      "journal": {
+        "name": "Cyberpsychology, Behavior, and Social Networking",
+        "pages": "534 - 542",
+        "volume": "28"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Editorial"
+      ]
+    },
+    {
+      "paperId": "72e3a35c8eb2a2cde082979cc3f6e646ce03fce0",
+      "title": "Reviewing the Extended Mind Theory: Theoretical Insights and the Role of Experimental Philosophy in Understanding Cognitive Boundaries",
+      "authors": [
+        {
+          "name": "Necm\u0131ye Yuksel",
+          "authorId": "2372318407"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This study proposes a theoretical account of the evolution of the extended mind hypothesis by using experimental philosophy (x-phi) in the study of the concept of intrinsic content. Building on Clark's (1998) argument on behalf of extended cognition and Adams and Aizawa's (2001) neural-centric process argument, it considers how cognitive boundary judgments relying on intuition can illuminate the use of external devices, such as notebooks or mobile phones, in mental processes. The study concludes that x-phi's methods, which explore folk intuitions, offer a practical means of figuring out whether intrinsic content is contained in the brain or distributed across external systems. By considering factors like socioeconomic status that may affect intuitions, it highlights x-phi's ability to provide empirical insights to discussions in philosophy of mind (Knobe & Nichols, 2008). Drawing on inter-disciplinary methods across several disciplines (Y\u00fcksel, 2021), this research links philosophy and cognitive science and offers an addition to debates around 4E cognition (embodied, embedded, extended, enactive). The proposed method is aimed at making the theoretical and intuitive components of extended mind theory more transparent and providing a gateway towards future empirical investigations.",
+      "citationCount": 0,
+      "doi": "10.51404/metazihin.1692629",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/72e3a35c8eb2a2cde082979cc3f6e646ce03fce0",
+      "venue": "Metazihin: yapay zeka ve zihin felsefesi dergisi",
+      "journal": {
+        "name": "MetaZihin: Yapay Zeka ve Zihin Felsefesi Dergisi"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "92756b44b0d1e641263f4e42f07e2b7e0f03f0c5",
+      "title": "Rethinking Lawson and McCauley: The return of beliefs into Ritual Form Hypothesis",
+      "authors": [
+        {
+          "name": "Anastasiia Shabalina",
+          "authorId": "2396265400"
+        },
+        {
+          "name": "Andrzej Klawiter",
+          "authorId": "2396264730"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This article presents a critical revision of Lawson and McCauley\u2019s theory of ritual forms as outlined in Rethinking Religion, focusing on the role of belief in a cognitive model of religious ritual. While this theory effectively formalizes ritual structure, it fails to account for the role of belief in guiding ritual behavior. We argue that this omission weakens its explanatory power and propose an extension that incorporates two mediating systems: a concept selection system that extracts religious concepts, and a belief selection system that determines the beliefs that motivate ritual performance. By integrating beliefs into the cognitive model, this revision restores human agency in ritual and challenges the assumption that rituals are determined solely by conceptual structures and superhuman agency.",
+      "citationCount": 0,
+      "doi": "10.4467/20844077sr.25.001.22145",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/92756b44b0d1e641263f4e42f07e2b7e0f03f0c5",
+      "venue": "Studia Religiologica",
+      "journal": {
+        "name": "Studia Religiologica"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "296d0df174b08489d9acc2372ab2aeb2a54eabe0",
+      "title": "Dynamical systems theory in cognitive science and neuroscience",
+      "authors": [
+        {
+          "name": "Luis H. Favela",
+          "authorId": "3366350"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Correspondence Luis H. Favela, Department of Philosophy and Cognitive Sciences Program, University of Central Florida, 4111 Pictor Lane, Suite 220, Orlando, FL 32816-1352. Email: luis.favela@ucf.edu Abstract Dynamical systems theory (DST) is a branch of mathematics that assesses abstract or physical systems that change over time. It has a quantitative part (mathematical equations) and a related qualitative part (plotting equations in a state space). Nonlinear dynamical systems theory applies the same tools in research involving phenomena such as chaos and hysteresis. These approaches have provided different ways of investigating and understanding cognitive systems in cognitive science and neuroscience. The \u2018dynamical hypothesis\u2019 claims that cognition is and can be understood as dynamical systems. Common consequences for such an approach include rejecting understanding cognition as information processing in nature, including eschewing explanatory roles for computation or representation. Contemporary applications of DST include mouse-tracking studies in cognitive science and nonrepresentational perspectives on motor control in neuroscience. Such work has philosophical implications concerning the boundaries of cognition, explanation, and representations. DST offers powerful methodology and theories that raise many topics of philosophical significance.",
+      "citationCount": 36,
+      "doi": "10.1111/phc3.12695",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/296d0df174b08489d9acc2372ab2aeb2a54eabe0",
+      "venue": "",
+      "journal": {
+        "name": "Philosophy Compass",
+        "volume": "15"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "89d7070c7067f737c7b39dee9179ef88f9a9095e",
+      "title": "Trans-Belief: Developing Artificial Intelligence NLP Model Capable of Religious-Belief-like Cognitive Processes for Expected Enhanced Cognitive Ability",
+      "authors": [
+        {
+          "name": "Ido Dagan",
+          "authorId": "7465342"
+        }
+      ],
+      "year": 2024,
+      "abstract": "This paper investigates the possibility of developing artificial intelligence (AI) systems capable of exhibiting limited cognitive processes analogous to aspects of human religious belief. The literature review pertains to the most essential cognitive mechanisms of belief and the most relevant models for AI with belief. Accordingly, and as a result of the theoretical review, drawing inspiration from belief cognition to endow AI with enhanced cognitive capacities, the core objective is to try to build a theoretical model that simulates cognitive processes of belief, equipping AI agents with abilities to recognize subtle divine synchronistic patterns and form provisional convictions computationally modeled on belief cognitive mechanisms. The hypothesis is that this could hopefully unlock a higher level of cognitive function and could enhance capacities for nuanced, context-sensitive reasoning and prediction for these AI models. The method is a novel \u201cTrans-Belief\u201d theoretical model that will be considered, integrating fuzzy and doxastic logic models to trace synchronistic divine patterns, in the results section. Finally, in the discussion, additional moral aspects and the nature of the data set of the model will be examined, and directions for future research will be proposed. While not implying AI can or should fully replicate complex human spirituality, tentative artificial belief could impart beneficial qualities like contextual awareness. However, developing belief-inspired algorithms requires grappling with profound philosophical questions regarding singularity and implementing strong ethical safeguards on any AI-granted agency over human affairs. This represents an early exploration of belief\u2019s implications for machine learning, necessitating future research and discussion.",
+      "citationCount": 2,
+      "doi": "10.3390/rel15060655",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/89d7070c7067f737c7b39dee9179ef88f9a9095e",
+      "venue": "Religions",
+      "journal": {
+        "name": "Religions"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "7948f95f8da241ec5ad438e04472b9cbc271441c",
+      "title": "The evolution of human-type consciousness \u2013 a by-product of mammalian innovation mechanism \u2013 a preliminary hypothesis",
+      "authors": [
+        {
+          "name": "Uzi Ben Zvi",
+          "authorId": "2356118818"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Human consciousness is often viewed as one of the pinnacles of evolution, with most theories positioning it as an upgrade of pre-existing cognitive skills. However, conscious perception, memory, action, and in some situations even decision-making, are often inferior\u2014less complex, slower, and less accurate\u2014than their nonconscious (subliminal) counterparts. The interface hypothesis challenges this perspective, proposing that human-type consciousness is not an advanced version of earlier cognitive capacities but a novel function that entered the arena of cognitive and operational processes and fundamentally changed its rules. According to this hypothesis, the neocortex emerged as part of an advanced innovation mechanism, where its unpredictable, chaotic activity is used to generate alternative patterns. The process of cropping these alternatives from the chaotic neocortex and mediating them to the constrained, goal-oriented, linear control system requires a serially functioning interface. Consciousness, it is suggested, arose as a byproduct or a side effect of this interface, eventually expanding its influence to a wide range of cognitive and operational functions. This perspective has significant implications for our understanding of human cognition, creativity, and the distinctive capacities of human consciousness, potentially bridging the gap between neuroscientific findings and phenomenological experiences of consciousness.",
+      "citationCount": 1,
+      "doi": "10.3389/fpsyg.2025.1514077",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7948f95f8da241ec5ad438e04472b9cbc271441c",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "16"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d08613a86c025f717429d6f8ad4f2457cbf9c31b",
+      "title": "Towards Narrative-Based Knowledge Representation in Cognitive Systems",
+      "authors": [
+        {
+          "name": "N. Szilas",
+          "authorId": "1691377"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 23,
+      "doi": "10.4230/OASIcs.CMN.2015.133",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d08613a86c025f717429d6f8ad4f2457cbf9c31b",
+      "venue": "Workshop on Computational Models of Narrative",
+      "journal": {
+        "pages": "133-141"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "38e4ba22d4ff441203a6babcaeae22014781499c",
+      "title": "From Stanislavsky\u2019s System to Ecosystem: Biophilic Pattern Analysis as Eco-Cognitive Performance Practice",
+      "authors": [
+        {
+          "name": "Alys Daroy",
+          "authorId": "2312847258"
+        }
+      ],
+      "year": 2025,
+      "abstract": "ABSTRACT Konstantin Stanislavsky\u2019s System of acting training emphasizes the interplay between experience, embodiment, and the actor\u2019s connection to \u201cnature,\u201d which he considered a better guide to a living organism. Grounded in the laws of organic nature, Stanislavsky\u2019s holistic approach integrates the actor\u2019s mind, body, and environment in a complementary manner to that of ecological and postcognitive approaches. Alongside this interconnected vision, however, Stanislavsky demanded precision and actionable steps, rejecting emotional generalities. Without concrete tools, key Stanislavskian principles such as \u201cnature,\u201d \u201clife,\u201d and \u201cdynamism\u201d risk becoming abstract or unattainable. This article addresses this gap by introducing biophilic pattern analysis, a rehearsal room methodology inspired by E.O. Wilson\u2019s biophilia hypothesis, which identifies nature-derived patterns that foster cognitive and affective engagement. Using a process of \u201clandscape mapping,\u201d the article applies biophilic design principles to textual analysis to support actors\u2019 connections to internal and external landscapes. Discussion situates biophilia within existing critical frameworks, introduces biophilic patterns with examples of ecological metaphors in Shakespeare\u2019s Othello and Stanislavsky\u2019s An Actor\u2019s Work, and offers rehearsal room exercises. By linking ecological principles to actionable practices, this preliminary foray investigates how biophilic patterns might foster dynamic performances and forge deeper ecological connections.",
+      "citationCount": 1,
+      "doi": "10.1080/20567790.2025.2461511",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/38e4ba22d4ff441203a6babcaeae22014781499c",
+      "venue": "Stanislavski Studies",
+      "journal": {
+        "name": "Stanislavski Studies",
+        "pages": "17 - 37",
+        "volume": "13"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f6aec90082d87f2f40d91aa45e35f915d571bb91",
+      "title": "The Synergistic Mind-Body Hypothesis: A Daoist Approach to Consciousness from the Perspective of Traditional Chinese Medicine",
+      "authors": [
+        {
+          "name": "Darin Lei",
+          "authorId": "2396807103"
+        },
+        {
+          "name": "Alex Prof. Alex Djedovic",
+          "authorId": "2396821607"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This paper formulates a possible embodied account of consciousness by integrating the vantages of ancient Chinese philosophy and medicine and predictive processing theories in cognitive science. It draws on robust empirical evidence from across the cognitive sciences, including contemporaneous work in philosophy of mind, neuropsychiatry, clinical psychology, and cognitive neuroscience to build on an overarching proposal that consciousness is ultimately the product of a synergistic and exaptive relationship between mind and body. I call this formulation the synergistically affectively interoceptively synchronizing mind-body hypothesis (SAIS). This system is characterized by highly adaptive interoceptive active inference that is realized through the dynamic coordination of allostatic affective control and exteroception. Emerging research underscores parallels between the allostatic paradigm of predictive processing and the system of Qi in traditional Chinese medicine and Daoist conceptions of consciousness, supporting the notion that there lies much to be explored within the realm of the mind-body connection. Leveraging these insights, it is highly plausible that the key to understanding consciousness may lie in a revisit of the fundamental processes that govern cognition \u2013 allostasis, homeostasis, and autopoiesis.",
+      "citationCount": 0,
+      "doi": "10.21810/cujcs.v8i1.7230",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f6aec90082d87f2f40d91aa45e35f915d571bb91",
+      "venue": "Canadian undergraduate journal of cognitive science",
+      "journal": {
+        "name": "Canadian Undergraduate Journal of Cognitive Science"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "status": "error",
+  "source": "crossref",
+  "query": {
+    "title": "Transactive memory A contemporary analysis",
+    "author": "Wegner",
+    "year": 1991
+  },
+  "results": [],
+  "count": 0,
+  "errors": [
+    {
+      "type": "not_found",
+      "message": "Best match score (27.6) below threshold (30)",
+      "recoverable": false
+    }
+  ]
+}

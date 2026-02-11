@@ -1,0 +1,342 @@
+{
+  "status": "success",
+  "source": "arxiv",
+  "query": "all:cognitive offloading memory AND cat:cs.AI",
+  "results": [
+    {
+      "arxiv_id": "0808.3569",
+      "title": "Offloading Cognition onto Cognitive Technology",
+      "authors": [
+        "Itiel Dror",
+        "Stevan Harnad"
+      ],
+      "abstract": "\"Cognizing\" (e.g., thinking, understanding, and knowing) is a mental state. Systems without mental states, such as cognitive technology, can sometimes contribute to human cognition, but that does not make them cognizers. Cognizers can offload some of their cognitive functions onto cognitive technology, thereby extending their performance capacity beyond the limits of their own brain power. Language itself is a form of cognitive technology that allows cognizers to offload some of their cognitive functions onto the brains of other cognizers. Language also extends cognizers' individual and joint performance powers, distributing the load through interactive and collaborative cognition. Reading, writing, print, telecommunications and computing further extend cognizers' capacities. And now the web, with its network of cognizers, digital databases and software agents, all accessible anytime, anywhere, has become our 'Cognitive Commons,' in which distributed cognizers and cognitive technology can interoperate globally with a speed, scope and degree of interactivity inconceivable through local individual cognition alone. And as with language, the cognitive tool par excellence, such technological changes are not merely instrumental and quantitative: they can have profound effects on how we think and encode information, on how we communicate with one another, on our mental states, and on our very nature.",
+      "published": "2008-08-26",
+      "updated": "2008-09-01",
+      "primary_category": "cs.MA",
+      "categories": [
+        "cs.MA",
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/0808.3569v3",
+      "url": "https://arxiv.org/abs/0808.3569"
+    },
+    {
+      "arxiv_id": "1002.3035",
+      "title": "Cognition and Emotion: Perspectives of a Closing Gap",
+      "authors": [
+        "Claudius Gros"
+      ],
+      "abstract": "The primary tasks of a cognitive system is to survive and to maximize a life-long utility function, like the number of offsprings. A direct computational maximization of life-long utility is however not possible in complex environments, especially in the context, of real-world time constraints. The central role of emotions is to serve as an intermediate layer in the space of policies available to agents and animals, leading to a large dimensional reduction of complexity.   We review our current understanding of the functional role of emotions, stressing the role of the neuromodulators mediating emotions for the diffusive homeostatic control system of the brain. We discuss a recent proposal, that emotional diffusive control is characterized, in contrast to neutral diffusive control, by interaction effects, viz by interferences between emotional arousal and reward signaling. Several proposals for the realization of synthetic emotions are discussed in this context, together with key open issues regarding the interplay between emotional motivational drives and diffusive control.",
+      "published": "2010-02-16",
+      "updated": "2010-02-16",
+      "primary_category": "q-bio.NC",
+      "categories": [
+        "q-bio.NC"
+      ],
+      "doi": null,
+      "journal_ref": "Cognitive Computation 2, 78 (2010)",
+      "pdf_url": "https://arxiv.org/pdf/1002.3035v1",
+      "url": "https://arxiv.org/abs/1002.3035"
+    },
+    {
+      "arxiv_id": "2010.08009",
+      "title": "Study of Automatic Offloading Method in Mixed Offloading Destination Environment",
+      "authors": [
+        "Yoji Yamato"
+      ],
+      "abstract": "In recent years, utilization of heterogeneous hardware other than small core CPU such as GPU, FPGA or many core CPU is increasing. However, when using heterogeneous hardware, barriers of technical skills such as OpenMP, CUDA and OpenCL are high. Based on that, I have proposed environment-adaptive software that enables automatic conversion, configuration, and high performance operation of once written code, according to the hardware to be placed. However, including existing technologies, there has been no research to properly and automatically offload the mixed offloading destination environment such as GPU, FPGA and many core CPU. In this paper, as a new element of environment-adaptive software, I study a method for offloading applications properly and automatically in the environment where the offloading destination is mixed with GPU, FPGA and many core CPU. I evaluate the effectiveness of the proposed method in multiple applications.",
+      "published": "2020-10-15",
+      "updated": "2021-07-10",
+      "primary_category": "cs.DC",
+      "categories": [
+        "cs.DC"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2010.08009v2",
+      "url": "https://arxiv.org/abs/2010.08009"
+    },
+    {
+      "arxiv_id": "0901.3028",
+      "title": "Cognitive computation with autonomously active neural networks: an emerging field",
+      "authors": [
+        "Claudius Gros"
+      ],
+      "abstract": "The human brain is autonomously active. To understand the functional role of this self-sustained neural activity, and its interplay with the sensory data input stream, is an important question in cognitive system research and we review here the present state of theoretical modelling.   This review will start with a brief overview of the experimental efforts, together with a discussion of transient vs. self-sustained neural activity in the framework of reservoir computing. The main emphasis will be then on two paradigmal neural network architectures showing continuously ongoing transient-state dynamics: saddle point networks and networks of attractor relics.   Self-active neural networks are confronted with two seemingly contrasting demands: a stable internal dynamical state and sensitivity to incoming stimuli. We show, that this dilemma can be solved by networks of attractor relics based on competitive neural dynamics, where the attractor relics compete on one side with each other for transient dominance, and on the other side with the dynamical influence of the input signals. Unsupervised and local Hebbian-style online learning then allows the system to build up correlations between the internal dynamical transient states and the sensory input stream. An emergent cognitive capability results from this set-up. The system performs online, and on its own, a non-linear independent component analysis of the sensory data stream, all the time being continuously and autonomously active. This process maps the independent components of the sensory input onto the attractor relics, which acquire in this way a semantic meaning.",
+      "published": "2009-01-20",
+      "updated": "2009-01-20",
+      "primary_category": "q-bio.NC",
+      "categories": [
+        "q-bio.NC"
+      ],
+      "doi": null,
+      "journal_ref": "Cognitive Computation 1, 77-99 (2009)",
+      "pdf_url": "https://arxiv.org/pdf/0901.3028v1",
+      "url": "https://arxiv.org/abs/0901.3028"
+    },
+    {
+      "arxiv_id": "2510.05186",
+      "title": "OptPipe: Memory- and Scheduling-Optimized Pipeline Parallelism for LLM Training",
+      "authors": [
+        "Hongpei Li",
+        "Han Zhang",
+        "Huikang Liu",
+        "Dongdong Ge",
+        "Yinyu Ye"
+      ],
+      "abstract": "Pipeline parallelism (PP) has become a standard technique for scaling large language model (LLM) training across multiple devices. However, despite recent progress in reducing memory consumption through activation offloading, existing approaches remain largely heuristic and coarse-grained, often overlooking the fine-grained trade-offs between memory, computation, and scheduling latency. In this work, we revisit the pipeline scheduling problem from a principled optimization perspective. We observe that prevailing strategies either rely on static rules or aggressively offload activations without fully leveraging the interaction between memory constraints and scheduling efficiency. To address this, we formulate scheduling as a constrained optimization problem that jointly accounts for memory capacity, activation reuse, and pipeline bubble minimization. Solving this model yields fine-grained schedules that reduce pipeline bubbles while adhering to strict memory budgets. Our approach complements existing offloading techniques: whereas prior approaches trade memory for time in a fixed pattern, we dynamically optimize the tradeoff with respect to model structure and hardware configuration. Experimental results demonstrate that our method consistently improves both throughput and memory utilization. In particular, we reduce idle pipeline time by up to 50% under the same per-device memory limit, and in some cases, enable the training of larger models within limited memory budgets.",
+      "published": "2025-10-06",
+      "updated": "2025-10-06",
+      "primary_category": "cs.DC",
+      "categories": [
+        "cs.DC",
+        "cs.AI",
+        "math.OC"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2510.05186v1",
+      "url": "https://arxiv.org/abs/2510.05186"
+    },
+    {
+      "arxiv_id": "1801.08829",
+      "title": "Symbol Emergence in Cognitive Developmental Systems: a Survey",
+      "authors": [
+        "Tadahiro Taniguchi",
+        "Emre Ugur",
+        "Matej Hoffmann",
+        "Lorenzo Jamone",
+        "Takayuki Nagai",
+        "Benjamin Rosman",
+        "Toshihiko Matsuka",
+        "Naoto Iwahashi",
+        "Erhan Oztop",
+        "Justus Piater",
+        "Florentin W\u00f6rg\u00f6tter"
+      ],
+      "abstract": "Humans use signs, e.g., sentences in a spoken language, for communication and thought. Hence, symbol systems like language are crucial for our communication with other agents and adaptation to our real-world environment. The symbol systems we use in our human society adaptively and dynamically change over time. In the context of artificial intelligence (AI) and cognitive systems, the symbol grounding problem has been regarded as one of the central problems related to {\\it symbols}. However, the symbol grounding problem was originally posed to connect symbolic AI and sensorimotor information and did not consider many interdisciplinary phenomena in human communication and dynamic symbol systems in our society, which semiotics considered. In this paper, we focus on the symbol emergence problem, addressing not only cognitive dynamics but also the dynamics of symbol systems in society, rather than the symbol grounding problem. We first introduce the notion of a symbol in semiotics from the humanities, to leave the very narrow idea of symbols in symbolic AI. Furthermore, over the years, it became more and more clear that symbol emergence has to be regarded as a multifaceted problem. Therefore, secondly, we review the history of the symbol emergence problem in different fields, including both biological and artificial systems, showing their mutual relations. We summarize the discussion and provide an integrative viewpoint and comprehensive overview of symbol emergence in cognitive systems. Additionally, we describe the challenges facing the creation of cognitive systems that can be part of symbol emergence systems.",
+      "published": "2018-01-26",
+      "updated": "2018-07-11",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "doi": "10.1109/TCDS.2018.2867772",
+      "journal_ref": "IEEE Transactions on Cognitive and Developmental Systems, vol. 11, no. 4, pp. 494-516, 2019",
+      "pdf_url": "https://arxiv.org/pdf/1801.08829v2",
+      "url": "https://arxiv.org/abs/1801.08829"
+    },
+    {
+      "arxiv_id": "1110.6589",
+      "title": "A cognitive diversity framework for radar target classification",
+      "authors": [
+        "Amit K. Mishra",
+        "Chris Baker"
+      ],
+      "abstract": "Classification of targets by radar has proved to be notoriously difficult with the best systems still yet to attain sufficiently high levels of performance and reliability. In the current contribution we explore a new design of radar based target recognition, where angular diversity is used in a cognitive manner to attain better performance. Performance is bench- marked against conventional classification schemes. The proposed scheme can easily be extended to cognitive target recognition based on multiple diversity strategies.",
+      "published": "2011-10-30",
+      "updated": "2011-10-30",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI"
+      ],
+      "doi": null,
+      "journal_ref": "The IET COGnitive systems with Interactive Sensors 2010",
+      "pdf_url": "https://arxiv.org/pdf/1110.6589v1",
+      "url": "https://arxiv.org/abs/1110.6589"
+    },
+    {
+      "arxiv_id": "2508.13171",
+      "title": "Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context",
+      "authors": [
+        "Tao An"
+      ],
+      "abstract": "Large Language Models (LLMs) face fundamental limitations in context management despite recent advances extending context windows to millions of tokens. We propose Cognitive Workspace, a novel paradigm that transcends traditional Retrieval-Augmented Generation (RAG) by emulating human cognitive mechanisms of external memory use. Drawing from cognitive science foundations including Baddeley's working memory model, Clark's extended mind thesis, and Hutchins' distributed cognition framework, we demonstrate that current passive retrieval systems fail to capture the dynamic, task-driven nature of human memory management. Our analysis of 2024-2025 developments reveals that while techniques like Infini-attention and StreamingLLM achieve impressive context lengths, they lack the metacognitive awareness and active planning capabilities essential for true cognitive extension. Cognitive Workspace addresses these limitations through three core innovations: (1) active memory management with deliberate information curation, (2) hierarchical cognitive buffers enabling persistent working states, and (3) task-driven context optimization that dynamically adapts to cognitive demands. Empirical validation demonstrates Cognitive Workspace achieves an average 58.6% memory reuse rate (ranging from 54-60% across different tasks) compared to 0% for traditional RAG, with 17-18% net efficiency gain despite 3.3x higher operation counts. Statistical analysis confirms these advantages with p < 0.001 and Cohen's d > 23 across multiple task types, establishing the first quantitative evidence for active memory superiority in LLM systems. We present a comprehensive theoretical framework synthesizing insights from 50+ recent papers, positioning Cognitive Workspace as a fundamental shift from information retrieval to genuine cognitive augmentation.",
+      "published": "2025-08-08",
+      "updated": "2025-08-08",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2508.13171v1",
+      "url": "https://arxiv.org/abs/2508.13171"
+    },
+    {
+      "arxiv_id": "2111.12860",
+      "title": "Applied Exoskeleton Technology: A Comprehensive Review of Physical and Cognitive Human-Robot Interaction",
+      "authors": [
+        "Farhad Nazari",
+        "Navid Mohajer",
+        "Darius Nahavandi",
+        "Abbas Khosravi",
+        "Saeid Nahavandi"
+      ],
+      "abstract": "Exoskeletons and orthoses are wearable mobile systems providing mechanical benefits to the users. Despite significant improvements in the last decades, the technology is not fully mature to be adopted for strenuous and non-programmed tasks. To accommodate this insufficiency, different aspects of this technology need to be analysed and improved. Numerous studies have tried to address some aspects of exoskeletons, e.g. mechanism design, intent prediction, and control scheme. However, most works have focused on a specific element of design or application without providing a comprehensive review framework. This study aims to analyse and survey the contributing aspects to this technology's improvement and broad adoption. To address this, after introducing assistive devices and exoskeletons, the main design criteria will be investigated from both physical Human-Robot Interaction (HRI) perspectives. In order to establish an intelligent HRI strategy and enable intuitive control for users, cognitive HRI will be investigated after a brief introduction to various approaches to their control strategies. The study will be further developed by outlining several examples of known assistive devices in different categories. And some guidelines for exoskeleton selection and possible mitigation of current limitations will be discussed.",
+      "published": "2021-11-25",
+      "updated": "2023-03-22",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.HC"
+      ],
+      "doi": "10.1109/TCDS.2023.3241632",
+      "journal_ref": "IEEE Transactions on Cognitive and Developmental Systems - 02 February 2023",
+      "pdf_url": "https://arxiv.org/pdf/2111.12860v8",
+      "url": "https://arxiv.org/abs/2111.12860"
+    },
+    {
+      "arxiv_id": "2210.11731",
+      "title": "Analogical Concept Memory for Architectures Implementing the Common Model of Cognition",
+      "authors": [
+        "Shiwali Mohan",
+        "Matthew Klenk"
+      ],
+      "abstract": "Architectures that implement the Common Model of Cognition - Soar, ACT-R, and Sigma - have a prominent place in research on cognitive modeling as well as on designing complex intelligent agents. In this paper, we explore how computational models of analogical processing can be brought into these architectures to enable concept acquisition from examples obtained interactively. We propose a new analogical concept memory for Soar that augments its current system of declarative long-term memories. We frame the problem of concept learning as embedded within the larger context of interactive task learning (ITL) and embodied language processing (ELP). We demonstrate that the analogical learning methods implemented in the proposed memory can quickly learn a diverse types of novel concepts that are useful not only in recognition of a concept in the environment but also in action selection. Our approach has been instantiated in an implemented cognitive system AILEEN and evaluated on a simulated robotic domain.",
+      "published": "2022-10-21",
+      "updated": "2022-10-21",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.HC"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2210.11731v1",
+      "url": "https://arxiv.org/abs/2210.11731"
+    },
+    {
+      "arxiv_id": "1706.03661",
+      "title": "DAC-h3: A Proactive Robot Cognitive Architecture to Acquire and Express Knowledge About the World and the Self",
+      "authors": [
+        "Cl\u00e9ment Moulin-Frier",
+        "Tobias Fischer",
+        "Maxime Petit",
+        "Gr\u00e9goire Pointeau",
+        "Jordi-Ysard Puigbo",
+        "Ugo Pattacini",
+        "Sock Ching Low",
+        "Daniel Camilleri",
+        "Phuong Nguyen",
+        "Matej Hoffmann",
+        "Hyung Jin Chang",
+        "Martina Zambelli",
+        "Anne-Laure Mealier",
+        "Andreas Damianou",
+        "Giorgio Metta",
+        "Tony J. Prescott",
+        "Yiannis Demiris",
+        "Peter Ford Dominey",
+        "Paul F. M. J. Verschure"
+      ],
+      "abstract": "This paper introduces a cognitive architecture for a humanoid robot to engage in a proactive, mixed-initiative exploration and manipulation of its environment, where the initiative can originate from both the human and the robot. The framework, based on a biologically-grounded theory of the brain and mind, integrates a reactive interaction engine, a number of state-of-the-art perceptual and motor learning algorithms, as well as planning abilities and an autobiographical memory. The architecture as a whole drives the robot behavior to solve the symbol grounding problem, acquire language capabilities, execute goal-oriented behavior, and express a verbal narrative of its own experience in the world. We validate our approach in human-robot interaction experiments with the iCub humanoid robot, showing that the proposed cognitive architecture can be applied in real time within a realistic scenario and that it can be used with naive users.",
+      "published": "2017-06-12",
+      "updated": "2017-09-18",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "doi": "10.1109/TCDS.2017.2754143",
+      "journal_ref": "IEEE Transactions on Cognitive and Developmental Systems 10 (4), 1005-1022, 2018",
+      "pdf_url": "https://arxiv.org/pdf/1706.03661v2",
+      "url": "https://arxiv.org/abs/1706.03661"
+    },
+    {
+      "arxiv_id": "1606.02866",
+      "title": "Cache-enabled Device-to-Device Communications: Offloading Gain and Energy Cost",
+      "authors": [
+        "Binqiang Chen",
+        "Chenyang Yang",
+        "Andreas F. Molisch"
+      ],
+      "abstract": "By caching files at users, content delivery traffic can be offloaded via device-to-device (D2D) links if a helper user is willing to transmit the cached file to the user who requests the file. In practice, the user device has limited battery capacity, and may terminate the D2D connection when its battery has little energy left. Thus, taking the battery consumption allowed by the helper users to support D2D into account introduces a reduction in the possible amount of offloading. In this paper, we investigate the relationship between offloading gain of the system and energy cost of each helper user. To this end, we introduce a user-centric protocol to control the energy cost for a helper user to transmit the file. Then, we optimize the proactive caching policy to maximize the offloading opportunity, and optimize the transmit power at each helper to maximize the offloading probability. Finally, we evaluate the overall amount of traffic offloaded to D2D links and evaluate the average energy consumption at each helper, with the optimized caching policy and transmit power. Simulations show that a significant amount of traffic can be offloaded even when the energy cost is kept low.",
+      "published": "2016-06-09",
+      "updated": "2016-06-09",
+      "primary_category": "cs.IT",
+      "categories": [
+        "cs.IT"
+      ],
+      "doi": "10.1109/TWC.2017.2699631",
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/1606.02866v1",
+      "url": "https://arxiv.org/abs/1606.02866"
+    },
+    {
+      "arxiv_id": "2006.01962",
+      "title": "Characterizing an Analogical Concept Memory for Architectures Implementing the Common Model of Cognition",
+      "authors": [
+        "Shiwali Mohan",
+        "Matt Klenk",
+        "Matthew Shreve",
+        "Kent Evans",
+        "Aaron Ang",
+        "John Maxwell"
+      ],
+      "abstract": "Architectures that implement the Common Model of Cognition - Soar, ACT-R, and Sigma - have a prominent place in research on cognitive modeling as well as on designing complex intelligent agents. In this paper, we explore how computational models of analogical processing can be brought into these architectures to enable concept acquisition from examples obtained interactively. We propose a new analogical concept memory for Soar that augments its current system of declarative long-term memories. We frame the problem of concept learning as embedded within the larger context of interactive task learning (ITL) and embodied language processing (ELP). We demonstrate that the analogical learning methods implemented in the proposed memory can quickly learn a diverse types of novel concepts that are useful not only in recognition of a concept in the environment but also in action selection. Our approach has been instantiated in an implemented cognitive system \\textsc{Aileen} and evaluated on a simulated robotic domain.",
+      "published": "2020-06-02",
+      "updated": "2020-07-29",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.HC",
+        "cs.RO",
+        "cs.SC"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2006.01962v3",
+      "url": "https://arxiv.org/abs/2006.01962"
+    },
+    {
+      "arxiv_id": "cs/0412059",
+      "title": "Vector Symbolic Architectures answer Jackendoff's challenges for cognitive neuroscience",
+      "authors": [
+        "Ross W. Gayler"
+      ],
+      "abstract": "Jackendoff (2002) posed four challenges that linguistic combinatoriality and rules of language present to theories of brain function. The essence of these problems is the question of how to neurally instantiate the rapid construction and transformation of the compositional structures that are typically taken to be the domain of symbolic processing. He contended that typical connectionist approaches fail to meet these challenges and that the dialogue between linguistic theory and cognitive neuroscience will be relatively unproductive until the importance of these problems is widely recognised and the challenges answered by some technical innovation in connectionist modelling. This paper claims that a little-known family of connectionist models (Vector Symbolic Architectures) are able to meet Jackendoff's challenges.",
+      "published": "2004-12-13",
+      "updated": "2004-12-13",
+      "primary_category": "cs.NE",
+      "categories": [
+        "cs.NE",
+        "cs.AI"
+      ],
+      "doi": "10.48550/arXiv.cs/0412059",
+      "journal_ref": "Proceedings of the Joint International Conference on Cognitive Science (2003) 133-138",
+      "pdf_url": "https://arxiv.org/pdf/cs/0412059v1",
+      "url": "https://arxiv.org/abs/cs/0412059"
+    },
+    {
+      "arxiv_id": "2502.06963",
+      "title": "Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures",
+      "authors": [
+        "Ashab Uddin",
+        "Ahmed Hamdi Sakr",
+        "Ning Zhang"
+      ],
+      "abstract": "The increasing complexity of Intelligent Transportation Systems (ITS) has led to significant interest in computational offloading to external infrastructures such as edge servers, vehicular nodes, and UAVs. These dynamic and heterogeneous environments pose challenges for traditional offloading strategies, prompting the exploration of Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL) as adaptive decision-making frameworks. This survey presents a comprehensive review of recent advances in DRL-based offloading for vehicular edge computing (VEC). We classify and compare existing works based on learning paradigms (e.g., single-agent, multi-agent), system architectures (e.g., centralized, distributed, hierarchical), and optimization objectives (e.g., latency, energy, fairness). Furthermore, we analyze how Markov Decision Process (MDP) formulations are applied and highlight emerging trends in reward design, coordination mechanisms, and scalability. Finally, we identify open challenges and outline future research directions to guide the development of robust and intelligent offloading strategies for next-generation ITS.",
+      "published": "2025-02-10",
+      "updated": "2025-06-09",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC",
+        "cs.MA"
+      ],
+      "doi": null,
+      "journal_ref": null,
+      "pdf_url": "https://arxiv.org/pdf/2502.06963v2",
+      "url": "https://arxiv.org/abs/2502.06963"
+    }
+  ],
+  "count": 15,
+  "errors": []
+}

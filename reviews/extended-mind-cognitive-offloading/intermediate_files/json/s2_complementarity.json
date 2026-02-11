@@ -1,0 +1,715 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "complementarity principle cognition Menary",
+  "results": [
+    {
+      "paperId": "8588eb053e9601f93b698868b7f5d5db51bd7b53",
+      "title": "The principle of infinitism and the principle of simplicity: confrontation and complementarity",
+      "authors": [
+        {
+          "name": "V. N. Finogentov",
+          "authorId": "2310046078"
+        }
+      ],
+      "year": 2024,
+      "abstract": "The article analyzes the relationship between the principle of infinitism, which asserts the manifold infinity (inexhaustibility) of the universe, and the principle of simplicity, which proclaims that the universe is in some sense simple or, at least, amenable to a fairly simple description and explanation. The article shows that the ontological interpretation of the principle of simplicity, that is, the assumption that reality (the universe) is simple in one sense or another, is diametrically opposed to the principle of infinitism. It is also shown that the epistemological interpretation of the principle of simplicity consists in the assumption that a scientifically (philosophically) cognizable fragment of the universe, despite its infinite complexity, can be more or less adequately described and explained using relatively simple theoretical models. Finally, it is demonstrated that the principle of simplicity in its epistemological interpretation is ubiquitous in special scientific and philosophical cognition and is the basis of an effective cognitive strategy. Such a strategy is implemented primarily through the procedures of reduction and abstraction, the essence of which is to transform a cognizable, infinitely complex fragment of the universe into a relatively simple subject of special scientific or philosophical cognition.",
+      "citationCount": 0,
+      "doi": "10.18413/2408-932x-2024-10-2-0-1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8588eb053e9601f93b698868b7f5d5db51bd7b53",
+      "venue": "Research Result Social Studies and Humanities",
+      "journal": {
+        "name": "Research Result. Social Studies and Humanities"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "26dd0c5ec6057be61a136edb7d237b7913882112",
+      "title": "The Complementary Principle, Concept of Filter and Cognition Process",
+      "authors": [
+        {
+          "name": "Sisir Roy",
+          "authorId": "145527663"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/978-81-322-3622-1_6",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/26dd0c5ec6057be61a136edb7d237b7913882112",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "117-130",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "4ffa85f598ac392b540978da0e57863222647a7c",
+      "title": "Interpreting the Principle \u2018The Reality of Things Is Truly Existing\u2019 in the Context of Quantum Theory: A Study on al-Ghaz\u0101l\u012b and Fakhr al-D\u012bn al-R\u0101z\u012b",
+      "authors": [
+        {
+          "name": "H\u00fcnkar Durmu\u015f",
+          "authorId": "2402374122"
+        }
+      ],
+      "year": 2025,
+      "abstract": "In classical kal\u0101m literature, the principle \u201cthe reality of things is truly existing\u201d stands as one of the most fundamental premises grounding both the reality of the external world and the possibility of human knowledge. It rests on the assumption that entities and phenomena possess a stable, mind-independent ontological foundation. This provides the necessary basis for the objectivity of knowledge and for the intelligibility of existence through reason. The mutakallim\u016bn, particularly in response to the Sophists\u2019 claims that \u201ctruth does not exist\u201d or \u201cknowledge is impossible,\u201d developed this principle through logical refutations. For them, the fixity of reality is the essential criterion for truth and the foundation of human cognition\u2019s reliability; if reality were not Truly Existing, knowledge would lose both its value and its objectivity. This framework assumes that human knowledge can access a real and intelligible domain through the cooperation of the senses and reason. The senses convey data from the external world, while the intellect organizes and interprets these data to generate knowledge. Thus, the truly existing reality ensures the epistemological and ontological stability upon which valid knowledge depends. Modern quantum mechanics, however, has challenged this classical perspective by breaking with absolute determinism and redefining the relationship between observation and reality. Concepts such as Heisenberg\u2019s uncertainty principle, Bohr\u2019s complementarity, and Schr\u00f6dinger\u2019s superposition have undermined the assumption that reality exists as a truly existing essence independent of context and measurement. At the quantum level, being is no longer a static substance but a phenomenon emerging within networks of probability, relation, and observation. Accordingly, this study examines the kal\u0101m principle of truly existing reality within both historical and conceptual dimensions, reinterpreting it in light of the epistemological insights offered by modern physics. It focuses particularly on al-Ghaz\u0101l\u012b and Fakhr al-D\u012bn al-R\u0101z\u012b, whose ontological analyses reveal a layered conception of existence paralleling the contextual and probabilistic nature of quantum phenomena. Thus, the notion that \u201creality is truly existing\u201d is reconsidered not as a rigid metaphysical principle but as a dynamic framework linking being, knowledge, and perception. Ultimately, this synthesis suggests a complementary, rather than contradictory, relationship between the metaphysical constancy of kal\u0101m and the probabilistic realism of quantum mechanics\u2014revealing truth as both enduring and multifaceted.",
+      "citationCount": 0,
+      "doi": "10.18317/kaderdergi.1811440",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4ffa85f598ac392b540978da0e57863222647a7c",
+      "venue": "Kader",
+      "journal": {
+        "name": "Kader"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "6eca9bde4f8fc2b508172a823306fb1a669f447a",
+      "title": "Attacking the Bounds of Cognition",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2006,
+      "abstract": null,
+      "citationCount": 141,
+      "doi": "10.1080/09515080600690557",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6eca9bde4f8fc2b508172a823306fb1a669f447a",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "329 - 344",
+        "volume": "19"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "865a7fe428a235cf6e2d30baec64f08c35273036",
+      "title": "Responsible personality and personal responsibility: the dialectic of categorical complementarity",
+      "authors": [
+        {
+          "name": "O. Furman",
+          "authorId": "145129802"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The article analyzes the reasons for the need to develop and affirm the responsibility of the individual, which is an indispensable condition for the formation of our country; this is due to the fact that the well-being of both an individual family, group, and the state as a whole depends on it. It is found that responsibility as a property-trait of the character of the individual is manifested in all spheres of human existence. It is substantiated that the category of \u201cresponsibility\u201d in socio-humanitarian science is highlighted both in its relationship with the content of the concept of \u201cpersonality\u201d and in its interrelation with a person\u2019s cognitive states, their behavior, activities, actions, duty to others, etc. It is studied that in various scientific fields, ancient Greek thinkers (Aristotle, Democritus, Kant, Plato, Socrates) explained obligation as freedom of choice, will and means of existence, as a way for a person to realize his life role or status. In addition, it was often considered as a form of activity of a person or group of people in the process of social interaction, which involves the observance by each and all of subjective obligations to the whole (team, collective, community, humanity) and, most importantly, the personal responsibility of the person to himself for what was said, done, created, and committed. For the first time, the author\u2019s coverage of retrospective and prospective views-ideas on understanding the ontophenomenal reality of responsibility in philosophical and psychological cognition within the framework of the relationship \u201cman \u2013 society \u2013 world\u201d, the fundamental postulates of the social-cognitive direction in psychology, the fundamentals of humanistic psychology, theoretical approaches to the study of human responsibility as an active subject of life and life path, worldview principles for understanding responsibility as a social phenomenon and a manifestation of the moral maturity of the individual, the contexts of professional development, and the ideas of the principle of responsibility in the format \u201cman \u2013 technology \u2013 technological civilization\u201d. The significance and role of the multifaceted range of action-manifestation of the phenomenon of responsibility in the co-vital everyday life of an individual is described, which appears, on the one hand, as a social factor and an internal factor of its formation, on the other \u2013 as an indicator of its socio-cultural maturity. The polar strategies for the development of responsibility as a property-traits of a person as an individual are highlighted. For the first time, a methodological model of dialectical complementarity of the conceptual and categorical relationship of the theoretical constructs of responsible personality and personal responsibility has been created. The author\u2019s transition from personal obligation to personal accountability and to a responsible personality has been analyzed. Types of personal responsibility (legal, economic, civil, political, ecological, psychological, professional, moral and ethical) have been distinguished, which, when projected onto social reality, are varieties of social accountability. The internal and external structures of responsibility are argued, and it is also proven that the first is mainly interconnected with personal responsibility, and the second with a responsible personality; it is substantiated that responsibility in modern science is used as, firstly, a concept, secondly, an interdisciplinary concept, thirdly, a category of socio-humanitarian science and, fourthly, as a worldview universal. The author\u2019s formula of the action-canonical stages of the formation of a responsible personality is proposed.",
+      "citationCount": 0,
+      "doi": "10.35774/pis2025.02.022",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/865a7fe428a235cf6e2d30baec64f08c35273036",
+      "venue": "Psiholog\u00ec\u00e2 \u00ec susp\u00ecl\u02b9stvo",
+      "journal": {
+        "name": "Psiholog\u00ec\u00e2 \u00ec susp\u00ecl\u02b9stvo"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "6b58a9bb10bb709f76bd67cf55f6d2f349d055ac",
+      "title": "Extended Cognition: Feedback Loops and Coupled Systems",
+      "authors": [
+        {
+          "name": "O. Marki\u010d",
+          "authorId": "52065210"
+        }
+      ],
+      "year": 2017,
+      "abstract": "The article explores two waves of active externalism. I first introduce the distinction between passive and active externalism and analyse a proposal of active externalism based on the principle of parity proposed by Clark and Chalmers. There are two main obstacles, causal-constitution fallacy and cognitive bloat, that threaten the extended cognition hypothesis. The second wave of discussions based on the complementarity principle deals with cognitive systems with feedback loops between internal and external elements and is a more radical departure from functionalism and traditional thinking about cognition. I conclude with some remarks on potential ethical considerations of extended cognition.",
+      "citationCount": 1,
+      "doi": "10.7906/INDECS.15.4.5",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6b58a9bb10bb709f76bd67cf55f6d2f349d055ac",
+      "venue": "",
+      "journal": {
+        "name": "Interdisciplinary Description of Complex Systems",
+        "pages": "270-280",
+        "volume": "15"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ffe607fc62d59b737d906c8f3922a0fd74418db2",
+      "title": "A Phenomenological Interpretation on the Principle of\n \u2018Coincidentia Oppositorum\u2019 of Daesoon Thought",
+      "authors": [
+        {
+          "name": "B. Chung",
+          "authorId": "121352258"
+        }
+      ],
+      "year": 2019,
+      "abstract": "In pluralistic political realities that have been exposed as antagonistic relationships between self and others, the principle of \u2018Coincidentia Oppositorum\u2019 in Daesoon Thought emphasizes the complementarity between self and others and presents us with a new form of cognition and attitude which can overcome pluralistic political realities. Though solipsism that objectificates others on the basis of the self, the principle of \u2018Coincidentia Oppositorum\u2019 presents us a new form of cognition and attitude with which we can approach others. The principle of \u2018Coincidentia Oppositorum\u2019 is based on the logic that we can secure and extend ourselves only in relation between self and others. Self is not fully formed or perfected without others. Previous discussions on the principle of \u2018Coincidentia Oppositorum\u2019 as it is exists within Daesoon Thought have been limited to Eastern Philosophy. On one hand, this inclination may be due to a narrow understanding of Western Philosophy. The flow of Modern Western Philosophy can at times be a self-reflective output for solipsism. On the * \ub300\uc9c4\ub300\ud559\uad50 \uad50\uc218, E-mail: wkaki@hanmail.net 64 \uf000\ub300\uc21c\uc0ac\uc0c1\ub17c\ucd1d \uc81c33\uc9d1 / \uc5f0\uad6c\ub17c\ubb38 other hand, the understanding of the principle of \u2018Coincidentia Oppositorum in context of a dualistic contrast between Eastern Philosophy and Western Philosophy is not concordant with the principle of \u2018Coincidentia Oppositorum\u2019 which emphasizes the creation of harmony between self and others. This paper aims to investigate avenues to create harmony between Eastern Philosophy and Western Philosophy regarding the principle of \u2018Coincidentia Oppositorum\u2019 in Daesoon Thought. Specifically, attention will be paid to \u2018flesh\u2019 as used by Merleau-Ponty. In his writings, flesh is the matrix which activates the fundamental involvement between self and others. Self is a being of flesh and an ambiguous being which is formed in a double position (seeing and being seen). Flesh can secure and extend the self only through its relationship to an other or multiple others. Restoring the other that has been excluded from modern Western Philosophy, Merleau-Ponty\u2019s flesh call for contemplation into the meaning of the other and of otherness.",
+      "citationCount": 0,
+      "doi": "10.25050/jdaos.2019.33.0.63",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ffe607fc62d59b737d906c8f3922a0fd74418db2",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "63-90",
+        "volume": "33"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "136f39fb1112bf9539c2109e3ee90ba36ae53cbb",
+      "title": "ON INVARIANTISM AND CONTEXTUALISM OF COGNITIVE SCIENCE STANDARDS",
+      "authors": [
+        {
+          "name": "R. Yartsev",
+          "authorId": "71713115"
+        }
+      ],
+      "year": 2025,
+      "abstract": "The purpose of the article is to substantiate the principle of complementarity of invariantism and contex-tualism approaches in the construction of cognitive norms, which revises hypothesis about the semantic relativity of the two approaches in the field of science. At the same time, it is shown that the epistemic standards of their most famous modern versions violate the scientific norms of veritism, internalism and evidentialism, mistakenly presenting the cognitive role of radical skepticism as the destruction of existing knowledge and the involvement of subjects of knowledge in a \u201csystematic\u201d lie. For example, it is allowed to exclude from the proof those alternative hypotheses that do not meet the pseudoscientific standard of \u201crelevance\u201d, depending on the action of practical factors. As part of the criticism of well-known concepts, it is shown that the strength of scientific evidence cannot be measured using probabilities, nor established in advance without investigating the truth, and the \u201csensitivity rule\u201d in none of its editions legitimizes the rejection of skeptical hypotheses for science. In addition, modern contextualism reveals an insoluble dilemma of choosing between the comparability of contextual standards for the sake of explaining the \u201cplausibility\u201d of cognitive skepticism and the denial of such comparability in the interests of everyday cognition, as well as a steady trend towards the wider use of context-independent standards. The place of context-dependent domain standards in the structure of cognitive norms of science, implemented by the researcher as part of the prerequisite knowledge, is considered, and their additional character in relation to invariant general scientific norms is substantiated. The irrefutable skeptical alternative in science is understood as the standard of a different, autonomous subject area, and the area or context of any research is chosen by the researcher voluntarily, although the possibility of taking into account non-cognitive factors in the selection is always open. Thus, the emergence of an alternative hypothesis about parallel lines led, as is known, to the emergence of non-Euclidean geometry: similarly, the hypothesis of \u201cbeing a brain in a vat (BIV)\u201d can find application within the boundaries of non-empirical scientific philosophy.",
+      "citationCount": 0,
+      "doi": "10.47475/1994-2796-2025-495-1-88-98",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/136f39fb1112bf9539c2109e3ee90ba36ae53cbb",
+      "venue": "Bulletin of Chelyabinsk State University",
+      "journal": {
+        "name": "Bulletin of Chelyabinsk State University"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "96b59dfcfc75d2edad8d82e5ebca5368e7d8a4ee",
+      "title": "Dualism of Truth and Delusion in Context Onto-Epistemological Analysis",
+      "authors": [
+        {
+          "name": "I. Gabdullin",
+          "authorId": "1580891065"
+        },
+        {
+          "name": "E. V. Orlova",
+          "authorId": "2275148369"
+        }
+      ],
+      "year": 2024,
+      "abstract": "The aim of the present article is to investigate the most significant epistemological aspects of the concepts of truth and delusion. In this regard, particular attention is paid to comparing these concepts and analyzing them from the point of view of the principles of relativity and scientific realism. The study includes the identification of specific aspects of the interpretation of the fundamental characteristics of the concept of truth, such as absoluteness and relativity. Emphasis is placed on applying the status of relativity to both the concept of truth and the concept of delusion. The study was conducted using an activity-based approach in understanding scientific cognition, the method of dialectical complementarity, as well as etymological and formal logical analysis of terms. The principles of scientific realism and, partly, hypothetical realism are used as general methodological guidelines. The key concepts of the study are determined on the basis of the scientific and philosophical principle of relativity. The scientific and philosophical novelty of the work is the interpretation of the problem described in the text as correlated with classes of those problems that, in principle, do not have a generalized system of exact solutions in the theory of knowledge, but at the same time manifest themselves as requiring an integrated approach and denoting a multiplicity of study contexts.",
+      "citationCount": 0,
+      "doi": "10.24158/fik.2024.4.4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/96b59dfcfc75d2edad8d82e5ebca5368e7d8a4ee",
+      "venue": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+      "journal": {
+        "name": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e: \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f, \u0438\u0441\u0442\u043e\u0440\u0438\u044f, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "6a05da1a3dc27837015f91ce96695b1d46739e1e",
+      "title": "Causality and Complementarity in Kant, Hermann, and Bohr",
+      "authors": [
+        {
+          "name": "Michael E. Cuffaro",
+          "authorId": "51137367"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6a05da1a3dc27837015f91ce96695b1d46739e1e",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ff64cfd7feffe0ed358fcd5b06e743d986777aa6",
+      "title": "Niels Bohr\u2019s Principle of Complementarities in Political Economy",
+      "authors": [
+        {
+          "name": "V. S. Afanasyev",
+          "authorId": "6395136"
+        },
+        {
+          "name": "Y. M. Medvedeva",
+          "authorId": "119039869"
+        },
+        {
+          "name": "R. Abdulov",
+          "authorId": "119048117"
+        }
+      ],
+      "year": 2015,
+      "abstract": "The development of the principle of complementarity by a well-known Danish physical scientist N. Bohr was the outstanding achievement of philosophical idea, having prime value to explain quantum mechanics phenomena and biological and social (including economic) phenomena sufficiently differing from them. This principle focuses the attention of the researchers on revelation of dualistic, dialectically contradictory essence of the phenomenon studied. Such task cannot be solved using some single category whatever significant and universal it is. Three categories shall be used for this. One for designation of a basic phenomenon per se, two others to describe additional properties, revealing dualistic, dialectically contradictory essence of the phenomenon studied. Such approach allows developing the required theoretic and methodological tools to study dualistic, contradictory nature of economic phenomena and processes as a two-pole model of the economic phenomenon (ABC model), embodying the principle of complementarity in political economy. This model may be used as a tool for critical analysis of conceptual framework of economics and development of scientific novelty. The article shows that theoretic interpretation of many economic phenomena has stood the test from ABC model position, some of them could not overcome such a test. These are, for example: nominal salary, labour productivity, marketing and advertising. Analysis using ABC model revealed that their widespread theoretical interpretations ignore the essential characteristics of these phenomena. The principle of complementarity which fixed inherent dualistic dialectically contradictory structure as the required step of cognition of nature and society phenomena essence plays the most important methodological role in the analysis of economic phenomena.",
+      "citationCount": 2,
+      "doi": "10.35808/ersj/499",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ff64cfd7feffe0ed358fcd5b06e743d986777aa6",
+      "venue": "",
+      "journal": {
+        "name": "European Research Studies Journal",
+        "pages": "275-292",
+        "volume": "18"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "title": "Richard Menary (ed): The Extended Mind",
+      "authors": [
+        {
+          "name": "D. Cole",
+          "authorId": "2055148531"
+        }
+      ],
+      "year": 2012,
+      "abstract": null,
+      "citationCount": 7,
+      "doi": "10.1007/s11023-011-9252-0",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/14035ad9ea56081f530a2b04692bce6f33fb1b2b",
+      "venue": "Minds and Machines",
+      "journal": {
+        "name": "Minds and Machines",
+        "pages": "47-51",
+        "volume": "22"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "44796f036e30e90f6e6888bfa0f51b8d62ebdabe",
+      "title": "THE LAWS OF THE PSYCHE IN THEIR UNIVERSAL FUNCTIONALITY: PROFESSIONAL TRAINING OF A PRACTICAL PSYCHOLOGIST",
+      "authors": [
+        {
+          "name": "T. Yatsenko",
+          "authorId": "144168508"
+        },
+        {
+          "name": "L. Galushko",
+          "authorId": "94160028"
+        }
+      ],
+      "year": 2021,
+      "abstract": "The article presents the idea of the universality of psychic laws, based on a comparative analysis of depth cognition results as well as the laws of quantum physics. The importance of understanding the category of \u201cinformational equivalents\u201d, which unites both ideal and physical realities, is emphasized. The main idea of the article is to understand the integrity of the world, which consists in the unity of the laws of physics, philosophy, biology and psychology. The scientific achievements of quantum physics are complied functionally with depth psychology evidence and are specified in the article. The empirical evidence of the \u201cblack hole\u201d presence in the human psyche, as well as theoretical substantiation of the introduction to psychology of the \u201ccomplementarity principle\u201d is represented. The problem of the remote instruction of mental substructures, which predetermines the psyche cognition in the format of the \"invisible horizon\" is raised.",
+      "citationCount": 0,
+      "doi": "10.36074/d-oblippo.monograph-2021.03",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/44796f036e30e90f6e6888bfa0f51b8d62ebdabe",
+      "venue": "Designing an Individual Trajectory of Educator\u2019s Professional Development in the Context of the Concept of \u00abLifelong Learning\u00bb",
+      "journal": {
+        "name": "Designing an Individual Trajectory of Educator\u2019s Professional Development in the Context of the Concept of \u00abLifelong Learning\u00bb"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "8a7f780065446404482e42c171ca73bd93d9e71a",
+      "title": "The Category Of \u201cContinuity\u201d: General And Special In Its Study And Understanding",
+      "authors": [
+        {
+          "name": "Georgy Granatov",
+          "authorId": "2120892060"
+        }
+      ],
+      "year": 2021,
+      "abstract": "The article presents a study aimed at implementing the principle of continuity in the system of developing continuous education of the individual. The article substantiates that the complex, unified (cosmobiopsychosocial and cultural) nature of man itself requires a reasonable combination of the ideas of complementarity and continuity in solving the problems of the formation of \u201cthe man of the future.\u201d This discussion gives the reader incomplete, but necessary information for the successful implementation of the original multifunctional programmed exercise for the study, multilevel understanding and diagnosis of assimilation of the category of \"continuity\". The main guideline in the disclosure of the category of \"continuity\", the authors use their generalized plans for cognition of knowledge of the essence of the subject (phenomenon). An original and multifunctional \"Programmed exercise for the study, development and diagnosis of the concept of\" continuity \"in the development of the individual is presented. This exercise not only \u201cteaching develops and educates,\u201d but also, in the general case, allows you to evaluate the style of thinking, worldview, their intuitive and rational components, reflective skills, include assessment and self-esteem, i.e. to carry out control, adjustment and self-control of mastering the concept. The conclusions of this research are presented, the main guidelines and directions for further study and solution of the problem of continuity in the system of developing continuing education of the individual are shown.",
+      "citationCount": 0,
+      "doi": "10.15405/EPSBS.2021.05.02.186",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8a7f780065446404482e42c171ca73bd93d9e71a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "8a75199cdff1579cfb38c28c5c2887ef761c5071",
+      "title": "\u201cI Is Someone Else\u201d: Constituting the Extended Mind\u2019s Fourth Wave, with Hegel",
+      "authors": [
+        {
+          "name": "J. .. Fritzman",
+          "authorId": "65779506"
+        },
+        {
+          "name": "Kristin Thornburg",
+          "authorId": "103355627"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 6,
+      "doi": "10.7710/1526-0569.1560",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8a75199cdff1579cfb38c28c5c2887ef761c5071",
+      "venue": "",
+      "journal": {
+        "name": "Essays in Philosophy",
+        "pages": "156-190",
+        "volume": "17"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "39ff7903b43205cc436c6b83b3621d1285c21f7d",
+      "title": "THE LAWS OF THE PSYCHE IN THEIR UNIVERSAL FUNCTIONALITY: PROFESSIONAL TRAINING OF A PRACTICAL PSYCHOLOGIST",
+      "authors": [
+        {
+          "name": "\u042f\u0446\u0435\u043d\u043a\u043e \u0422\u0430\u043c\u0430\u0440\u0430 \u0421\u0435\u043c\u0435\u043d\u0456\u0432\u043d\u0430",
+          "authorId": "113100591"
+        },
+        {
+          "name": "Yatsenko Tamara Semenivna",
+          "authorId": "115123719"
+        }
+      ],
+      "year": 2019,
+      "abstract": "The article presents the idea of the universality of psychic laws, based on a comparative analysis of depth cognition results as well as the laws of quantum physics. The importance of understanding the category of \u201cinformational equivalents\u201d, which unites both ideal and physical realities, is emphasized. The main idea of the article is to understand the integrity of the world, which consists in the unity of the laws of physics, philosophy, biology and psychology. The scientific achievements of quantum physics are compiled functionally with depth psychology evidence and are specified in the article. The empirical evidence of the \u201cblack hole\u201d presence in the human psyche, as well as theoretical substantiation of the introduction to psychology of the \u201ccomplementarity principle\u201d is represented. The problem of the remote instruction of mental substructures, which predetermines the psyche cognition in the format of the \"invisible horizon\" is raised. Keywords: depth self-knowledge, depth psychology, professional training of a psychologist, quantum, self-knowledge, correction, diagnostics. \u041e\u0442\u0440\u0438\u043c\u0430\u043d\u043e: 26. 0 2 .2019 \u0412\u0456\u0434\u0440\u0435\u0446\u0435\u043d\u0437\u043e\u0432\u0430\u043d\u043e: 12 .0 3 .2019 \u041e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u043e: 02 .04.2019 * * * * * \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438/\u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u0438 \u0441\u0442\u0430\u0442\u0442\u044e PDF",
+      "citationCount": 2,
+      "doi": "10.31108/3.2019.3.1.4",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/39ff7903b43205cc436c6b83b3621d1285c21f7d",
+      "venue": "Tehnolog\u00ec\u00ef rozvitku \u00ecntelektu",
+      "journal": {
+        "name": "TECHNOLOGIES OF INTELLECT DEVELOPMENT"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "3f07935d00a996b96e451e0bc1662cf70e53731c",
+      "title": "The universality of psychic laws as the professional training basis of a psychologist",
+      "authors": [
+        {
+          "name": "\u0422. Yatsenko",
+          "authorId": "148628086"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3f07935d00a996b96e451e0bc1662cf70e53731c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "46-60",
+        "volume": "35"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "fe53eaaebc14e866e2d3efa4c8ab2cda633a2c50",
+      "title": "Imaginative thinking in science (based on the material of V.O. Klyuchevsky\u2019s essay \u201cThe History of Russia\u201d)",
+      "authors": [
+        {
+          "name": "O. Valentinova",
+          "authorId": "73496138"
+        }
+      ],
+      "year": 2022,
+      "abstract": "The article investigates the functions of image and figurative thinking in an academic text. The research material was the classic work by V.O. Klyuchevsky \u201cA History of Russia\u201d. The empirical material has shown that the relationship between logical and figurative thinking in an academic text is not definitively hierarchical. In V.O. Klyuchevsky\u2019s discussing of the most significant events in the Russian history, logical and figurative thinking are either in the relationship of complementarity, or figurative thinking compensates for the restrictions of logical thinking. While retaining the essential ability of expressing a complex thought, the image in an academic text performs a cognitive function, including the cases when an image or a series of images is used to explain or reconstruct the historical outlook of an era. In this latter case, the image also remains a way of knowing the abstract through the concrete. In this way the intratextual function is superimposed on the immanent function of the image. The analysis of explanatory analogies has revealed different principles of their presentation, the objective and the subjective ones,, which in turn has made it possible to reveal a varying degree of reflexivity of consciousness in creating an image in an academic text. An organic synthesis of the conscious and the unconscious underlies the historical image constructed in accordance with the principle of chronotopic homonomy. At the same time, the article establishes a criterion for distinguishing between an image as a method of cognition and an image as an element of rhetoric. The study of figurative academic thinking allows, on the one hand, to reach the supercategory of the author\u2019s persona, and, on the other hand, to get a more complete picture of the object of cognition, which means that this research is significant not only for philology, but also for the field of knowledge to which the studied academic text belongs.",
+      "citationCount": 3,
+      "doi": "10.20339/phs.4-22.048",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fe53eaaebc14e866e2d3efa4c8ab2cda633a2c50",
+      "venue": "Philological Sciences Scientific Essays of Higher Education",
+      "journal": {
+        "name": "Philological Sciences. Scientific Essays of Higher Education"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2eb49550e6288e0a70d3dc9a643713dead3e12bc",
+      "title": "Intentionality, Cognitive Integration and the Continuity Thesis",
+      "authors": [
+        {
+          "name": "Richard Menary",
+          "authorId": "34778834"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 38,
+      "doi": "10.1007/S11245-008-9044-1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2eb49550e6288e0a70d3dc9a643713dead3e12bc",
+      "venue": "",
+      "journal": {
+        "name": "Topoi",
+        "pages": "31-43",
+        "volume": "28"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "5fecba2235d5ded5d11e4e210dfae2f8838bcdc2",
+      "title": "\u0421\u043c\u044b\u0441\u043b\u043e\u0432\u044b\u0435 \u0442\u0440\u0430\u043d\u0441\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043f\u0430\u0440\u0430\u0434\u0438\u0433\u043c \u0432 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0435 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u043e\u0442 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a \u043f\u043e\u0441\u0442\u043d\u0435\u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043d\u0430\u0443\u043a\u0435",
+      "authors": [
+        {
+          "name": "\u0420\u0443\u043f\u0442\u0430\u0448 \u041e\u043b\u044c\u0433\u0430 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043d\u0430",
+          "authorId": "117514289"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5fecba2235d5ded5d11e4e210dfae2f8838bcdc2",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "cc9a456b89c346b1c65c070111a82c167d8891ac",
+      "title": "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0443\u0431\u044a\u0435\u043a\u0442 \u0432 \u0441\u0432\u0435\u0442\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0430 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+      "authors": [
+        {
+          "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447 \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432",
+          "authorId": "78672604"
+        }
+      ],
+      "year": 2013,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/cc9a456b89c346b1c65c070111a82c167d8891ac",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "6987fa1bf721fbcf183b59f6a2e87c964e03900d",
+      "title": "Diagnostic model of the city: a chronotopic approach",
+      "authors": [
+        {
+          "name": "L. Ilivitskaya",
+          "authorId": "2253578565"
+        }
+      ],
+      "year": 2021,
+      "abstract": "\n The object of this research is the city viewed as a multilayered semantic phenomenon. The needs of transdisciplinary nature determine the vector of its analysis in light of the possibility of application of diagnostic approach, which incorporates the theoretical and practical aspects, cognitive and transformative sides. The goal consists in the development of diagnostic model of the city as a cultural phenomenon. The position is defended on the limitation of classical diagnostic search applicable to the so-called city. The prospects of its research correlate with the nonclassical interpretation of diagnostics, which views it as methodology of cognition. The basic method of this research is modelling. The development of diagnostic model of the city is founded on M. M. Bakhtin\u2019s concept of chronotope. Namely chronotope is determines as the basic parameter underlying its construct. Incorporating the spatiotemporal parameters of the city and their cultural meanings, it allows recording the temporal-topos configurations in city motion, which reflect various qualitative states of its existence, set by the past, present and future. The author offers a ternary model of the city, consisting of historical-cultural, eventful, and innovative chronotopes. The formulated conclusions indicate that the proposed chronotopes can be viewed separately or following the principle of complementarity, which allows assessing the city from the perspective effective arrangement of urban space, as well as the presence of problematic fields therein.\n",
+      "citationCount": 0,
+      "doi": "10.25136/2409-8744.2021.1.33303",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/6987fa1bf721fbcf183b59f6a2e87c964e03900d",
+      "venue": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a \u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+      "journal": {
+        "name": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a \u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "922869b3aebd9f70ad0ae0aa81e33e114e41fba7",
+      "title": "AN ENTANGLED DREAM SERIES: FRAGMENTATION, WHOLENESS AND THE COLLECTIVE UNCONSCIOUS",
+      "authors": [
+        {
+          "name": "J. B. Gardiner",
+          "authorId": "113320657"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/922869b3aebd9f70ad0ae0aa81e33e114e41fba7",
+      "venue": "",
+      "journal": {
+        "name": "Cosmos and history: the journal of natural and social philosophy",
+        "pages": "28-46",
+        "volume": "11"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "2583f8fe94bab128dff919e1c8006786c5b51668",
+      "title": "\u0421\u043f\u043e\u0440 \u043e\u0431 \u0438\u0441\u0442\u0438\u043d\u0435: \u043c\u0430\u043a\u0440\u043e\u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0443\u0430\u043b\u0438\u0437\u043c \u0433\u0435\u0440\u043c\u0435\u043d\u0435\u0432\u0442\u0438\u043a\u0438 \u0438 \u0441\u0446\u0438\u0435\u043d\u0442\u0438\u0437\u043c\u0430",
+      "authors": [
+        {
+          "name": "\u0412\u0438\u043a\u0442\u043e\u0440 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447 \u041c\u0430\u0440\u0442\u044c\u044f\u043d\u043e\u0432",
+          "authorId": "108004974"
+        }
+      ],
+      "year": 2011,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2583f8fe94bab128dff919e1c8006786c5b51668",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "289ee4183d794b7c750fe59e3aca252e1882b300",
+      "title": "\u041f\u0440\u0438\u043d\u0446\u0438\u043f \u043e\u0431\u044a\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u0438 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u0443\u0447\u043d\u043e\u0433\u043e \u043f\u043e\u0437\u043d\u0430\u043d\u0438\u044f",
+      "authors": [
+        {
+          "name": "\u0412\u0438\u0442\u0430\u043b\u0438\u0439 \u042e\u0440\u044c\u0435\u0432\u0438\u0447 \u042f\u043a\u043e\u0432\u043b\u0435\u0432",
+          "authorId": "102212495"
+        }
+      ],
+      "year": 2009,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/289ee4183d794b7c750fe59e3aca252e1882b300",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "f0ed5293dbc37fd877877540f8415a15f56ef752",
+      "title": "Information and Knowledge in Biology",
+      "authors": [
+        {
+          "name": "L. Kov\u00e1\u010d",
+          "authorId": "144748472"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 30,
+      "doi": "10.4161/psb.2.2.4113",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f0ed5293dbc37fd877877540f8415a15f56ef752",
+      "venue": "Plant Signalling & Behavior",
+      "journal": {
+        "name": "Plant Signaling & Behavior",
+        "pages": "65 - 73",
+        "volume": "2"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "282ba43da60b41da7bf14e696cd136b232238f53",
+      "title": "Time for Reappraisal",
+      "authors": [
+        {
+          "name": "S. Bratislava",
+          "authorId": "1920075768"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/282ba43da60b41da7bf14e696cd136b232238f53",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ec419ab8d5376d50007058f839347f34d62a4ee5",
+      "title": "Methodological optics as a thought-deed tool",
+      "authors": [
+        {
+          "name": "Anatoliy Furman",
+          "authorId": "144657540"
+        }
+      ],
+      "year": 2022,
+      "abstract": "The proposed research constitutes a completed author\u2019s p r o j e c t of creating a complicated complex of multi-module methodological optics of multidisciplinary research of the post-non-classical mode-level of thought-activity implementation, which super-reflexively and meta-systemically complements: a) appropriate multi-parametric optics of the classical, non-classical and post-non-classical t y p e s of scientific rationality according to the logic of their categorical, criterion, attributive and thought-activity complication; b) a five-level structure-functional organization (implemented according to the philosophical categories \u201cuniversal \u2013 general \u2013 special \u2013 specific\u201d) of methodological m o d u l e s as collective tools of professional methodologization within the framework of the most culturally significant methodologies; c) the ideals, principles, strategies, and norms of the nascent p o s t \u2013 n o n \u2013 c l a s s i c a l methodology which advocates an interpenetrating type of connection between all sciences, establishes a dialogue of cultures, integrates the unity of truth and morality, rational knowledge and ethical behavior, legalizes mixed methods, paradigms, methodologems; d) foundations-postulates, categories, canons and epistemological organizations of a metamethodological optics which is currently being formed as the newest post-non-classical project of interconnected development trajectories of philosophy, science, methodology, is based on the understanding the optics as an integral mechanism or a complicated complex of selection tools and equipping the lenses-modules of interdependent understanding, thinking, activity, reflection in the canonical format of realization the a c t of metamethodologization, the subject of which is the study of existing methodological theories and systems, at the same time, it is the methodological optics that is the main synthetic objectification and paradigmatic center of the post-non-classical v e r s i o n of methodology advocated here. First of all, in connection with this, based on the principle of action, the essential quaternary subjectifications, the main causes, the instrument-categorical modules of logically perfected methodological optics, as well as the defining criteria for typological distinction of historically variable and culturally different in significance and influence i d e a l s of scientific rationality were revealed. At the same time, m o d e l s of methodological optics of classical, non-classical and post-non-classical science were created and characterized in detail for the first time, their ever-growing quantitatively and qualitatively parametric set was clearly defined, structure-functional connections were described, invariantly were accepted ideals and norms of cognitive activity and the main epistemological organizations and products. In addition, the arguments-positions of the emergence of a post-non-classical epistemology in the complementarity of epistemological and purely cognitive aspects of reflective consideration are detailed and systematized. A five-level categorical scheme of clearly organized lenses-modules of the latest methodological optics of theoretical construction and psychological cognition of modular-developmental interaction as a complex-systemic psychosocial phenomenon is argued. As a result, the methodological optics is grounded in four d i m e n s i o n s or m o d e s of its own thought-active being, namely: \u201cmetaphorical construct and categorical concept of philosophical and scientific methodologies\u201d; \u201ca special setting of the research and constructive consciousness in its essential environment \u2013 the intentionality of methodological thinking \u2013 to its own self-reflection\u201d; \u201can original reasoning instrument and an effective tool for thought-activity and competent methodologization\u201d; \u201can innovative modular complex of self-reflective lenses (mainly methods, means, mechanisms and instruments) of construction, cognition and transformation of reality which is used under specific conditions, tasks, resources, capabilities\u201d.",
+      "citationCount": 13,
+      "doi": "10.35774/pis2022.02.006",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ec419ab8d5376d50007058f839347f34d62a4ee5",
+      "venue": "Psiholog\u00ec\u00e2 \u00ec susp\u00ecl\u02b9stvo",
+      "journal": {
+        "name": "Psiholog\u00ec\u00e2 \u00ec susp\u00ecl\u02b9stvo"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "a09f81fda578e7d90a7b576554e2e8ac5ba2093c",
+      "title": "METHODOLOGY AND PSYCHOLOGY IN REFLECTIVE ARCHITECTURE OF METHODOLOGY CONCENTERS",
+      "authors": [
+        {
+          "name": "A. Furman",
+          "authorId": "2258464571"
+        }
+      ],
+      "year": 2023,
+      "abstract": "The fundamental study is dedicated to the reflexive justification of the logic-content architectonics of concenters in methodology \u2013 philosophical and philosophical-psychological, which establish the thematic-conceptual integrity of the structure and content of the final (fifth) volume of the author\u2019s anthology \u201cSystem of Modern Methodologies\u201d (2015, 2021), intended for applicants of the third (educational and scientific) level of training from the academic training of philosophy doctors in various specialties. The main idea of the mutual rational and cultural enrichment of both considered sciences is their essential dialectical interpenetration, when psychology will be able to solve its own key problems and the most difficult tasks only by using the latest achievements of philosophical methodology, instead, the latter will be able to get out of the objectified in the texts, a meaningfully distilled and personally detached state only under the conditions of using the productive possibilities of psychology as a field of humanities and, first of all, as an all-encompassing sphere of thought activity and in this way will discover its own freedom-practice \u2013 a co-vital, thought-communicative, wisdom-giving methodology. The object of scientific construction is the architectural-concentric organization of methodological works of leading thinkers of the past and present in two thematic directions: a)\u00a0fundamentals and prospects for the development of philosophical methodology and b)\u00a0innovative means and heuristic resources of professional methodology, which represent the binary complementarity of multi-circle formations with common centers. These complexly structured formations constitute a vast subject field of realized thinking-activity with inseparable poles of materiality, namely, the world of methodology as the possibility of expanded consciousness, which is justified by I. Kant\u2019s transcendental methodology, and the sphere of methodology as the reality of its living existence, which presents an exceptionally thorough methodological study of the historical significance of L.\u00a0S.\u00a0Vygotsky\u2019s psychological crisis. From the specified poles-focuses peculiar thematic-content circles (texts) of different cultural importance depart. Thus, on the one hand, six methodological centers of an increasingly expanded format of worldview action are highlighted. These are clearly categorized works: J.-P. Sartre and M. Heidegger\u2019s works about the essence of humanism, which were made in the realm of existential direction, but in different dimensions and styles of philosophizing; M.\u00a0O.\u00a0Berdyaev\u2019s works about philosophical truth and intellectual truth, but with an amendment to the paradoxical and organic nature of lies; M.\u00a0M.\u00a0Bakhtin and O.\u00a0Ye.\u00a0Samoilov\u2019s works about a single and exceptional being-event as a way of human presence in the event architecture of a real act and, accordingly, about dialogic positioning in relation to the same object of understanding in the form of posing a theoretical problem, and about the use of ideas as a means of thinking; I.\u00a0Lakatos\u2019 works on the philosophical insight into the history of science and its well-known rational reconstructions with a focus on the advantages of the authors\u2019 methodology of research programs; our works (A.\u00a0F.) on meta-theoretical mosaic of the life of consciousness and methodological reconstruction of the system-thought-activity approach to its understanding as an attributive way of human essentiality and as a quasi-objective reality of the newest methodology; and in conclusion, we presented for the first time the newly created categorical matrix of vitacultural methodology as a canonical form of methodology in general, which constitutes the newest, philosophically oriented and rational-humanitarian worldview map of the latest methodological knowledge and, in the case of its skillful application, turns into a powerful tool of professional methodology. On the other hand, the philosophical and psychological content of the six (including the thematically relevant afterword) methodology concenters, which symbolize the gradual expansion of circles of a number of fundamental works, is clarified: S.\u00a0L.\u00a0Rubinstein and M.\u00a0S.\u00a0Huseltseva\u2019s works on the essence of the principle of creative self-activity, which indicates a way to solve one radical problem \u2013 the relationship between objective existence and the subject of consciousness, and about the real achievements of the century-long development of the subject-activity approach in the succession of his (S.\u00a0L.) three periods methodological creativity: neo-Kantian, Marxist, and anthropological (existential); H.\u00a0P.\u00a0Shchedrovytskyi and A.\u00a0V.\u00a0Furman\u2019s works about intellectual sources, basic concepts, categorical means, system foundations, reproductive and activity schemes, logical principles, organizational norms and invariants of the multi-conscious positioning of the general theory of activity, as well as about the results of reflexive and practical reconstruction of this theory according to the logic of the ever-growing methodological reflection and with the help of meta-methodological optics constructed by the author, which made it possible to update the existing mosaic of ideas and themes, concepts and concepts, foundations and principles, ideas and constructs, concepts and categories, thinking schemes and models, matrices and paradigms; our development of multi-parameter models of methodological optics of classical, non-classical and post-classical scientific rationality as versatile tools of thinking; Yu.\u00a0I.\u00a0Yakovenko and O.\u00a0Ye.\u00a0Furman\u2019s works about the urgent problems of the emergence of the methodology of social and humanitarian sciences in two aspects \u2013 about the occurrence of the unpleasant fact of methodological trauma and the conditions for overcoming it, and about the methodologically expedient enrichment of the conceptual and terminological field of the relevant categories of space and time in the dialectical complementarity of induction and deduction methods based on the author\u2019s theory of innovative and psychological climate in organizations; H. P. Shchedrovytskyi and A.\u00a0V.\u00a0Furman, and O.\u00a0Ye.\u00a0Furman\u2019s works about the prospects for the co-mobilization of epistemological and reflexive-interpretive resources for the development of psychology and methodology and about an alternative to the scientific-objective understanding of psychology as a universe of human co-vitality and therefore as a special worldview based on the four-stage logic of establishing a strategy of psychological thinking; the author\u2019s work on the multi-source argumentation of the emergence in the near future of an exceptionally popular profession of a methodologist, who will have an expanded horizon of the ideal materiality of consciousness in its special environment \u2013 the uniquely self-organized reality of methodological thinking, which enables constantly renewing reflexivity and perfect methodology in thought and action. As a result, it is concluded that the advent of the methodology runs along a so far unexplored highway course of cognition, design, scripting and creation of local oases of modular-developmental space-time of motivated existence of descending, transcendentally harmonized and functionally interrelated, at least four substantial realities of the individual or team realization of life: awareness \u2013 reflection \u2013 thinking \u2013 reasoning.",
+      "citationCount": 0,
+      "doi": "10.33989/2226-4078.2023.2.288169",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a09f81fda578e7d90a7b576554e2e8ac5ba2093c",
+      "venue": "Psychology and Personality",
+      "journal": {
+        "name": "Psychology and Personality"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "0aad1d760f7b74a32fb17cfff0952c5d4c66160a",
+      "title": "Editorial: Quantum Structures in Cognitive and Social Science",
+      "authors": [
+        {
+          "name": "Diederik Aerts",
+          "authorId": "1767844"
+        },
+        {
+          "name": "J. Broekaert",
+          "authorId": "39836766"
+        },
+        {
+          "name": "L. Gabora",
+          "authorId": "1747306"
+        },
+        {
+          "name": "S. Sozzo",
+          "authorId": "1790582"
+        }
+      ],
+      "year": 2016,
+      "abstract": "A fundamental problem in cognitive and social science concerns the identification of the principles guiding human cognitive acts such as decision-making, categorization, and behavior under uncertainty. Identifying these mechanisms would have manifold implications for fields ranging from psychology to economics, finance, politics, computer science, and artificial intelligence. The predominant theoretical paradigm rests on a classical conception of logic and probability theory. According to this paradigm people make decisions by following the rules of Boole's logic, while the probabilistic aspects of these decisions can be formalized by Kolmogorov's probability theory. This classical approach was believed to provide a quite complete and accurate account of human decision-making at both a normative level (describing what people should do) and a descriptive level (describing what people actually do). However, starting from the seventies, experimental studies of conceptual categorization, human judgment and perception, and behavioral economics have revealed that this classical conception is fundamentally problematical, in the sense that the cognitive models based on these mathematical structures are not capable of capturing how humans make decisions in situations involving uncertainty. In the last decade, an alternative scientific paradigm has arisen that employs a different and more general modeling scheme; it uses the mathematical formalism of quantum theory to model situations and processes in cognitive and social science. This new approach has not only met with considerable success but is becoming increasingly accepted in the scientific community, having attracted interest from important scientists, top journals, funding institutions, and media. Prisoners' dilemmas, conjunction and disjunction fallacies, disjunction effects, violations of the Sure-Thing principle, Allais, Ellsberg and Machina paradoxes, are only some of the examples where the application of the quantum mechanical formalism has shown significant effectiveness over traditional modeling schemes of a classical type. \n \nThe Frontiers Research Topic \u201cQuantum Structures in Cognitive and Social Science\u201d present an overview of current research that applies the formalism of quantum theory to cognitive and socio-economic domains. The term \u201cquantum\u201d may be misleading. The aim here is not to investigate the microphysical processes occurring in the human brain and, as a consequence, driving human judgments. Rather, we inquire into the validity of quantum theory as a general, coherent, and unitary paradigm for human cognition. In this respect, this research benefits from studies into the axiomatic and operational foundations of quantum physics. The scope of this bold approach to human cognition is discovering general rules that associate the empirical phenomenology in these domains with states, measurements, and probabilities of outcomes in such a way that these entities are represented exactly as quantum theory in Hilbert space represents states, measurements, and probabilities of outcomes in the phenomenology of microphysics. The ensuing modeling is theory-based, not experiment-based; that is, the models are not built around a specific effect or experiment, although they are sometimes used in conjunction with empirical data to build a stronger case. The models are constructed following the general epistemological and technical constraints of quantum theory; hence the successes of this quantum theory-based modeling suggest that it might provide a general theory for human cognition. \n \nThis Research Topic develops around three main directions of research, as follows. \n \n \nThe deep reasons underlying the success of the quantum paradigm in cognitive and socio-economic domains are investigated. \n \n \nFurther empirical situations are identified in these domains where the quantum formalism presents advantages with respect to traditional modeling schemes, and new genuine quantum structures appear. \n \n \nThe application of this quantum paradigm is extended to novel and barely explored domains. \n \n \n \nThe first set of results concern knowledge representation and conceptual categorization. Aerts et al. analyze the results of a cognitive test on conjunctions and negations of natural concepts, showing that a quantum-theoretic probabilistic model in Hilbert space faithfully represents the collected data, at variance with a set-theoretic Kolmogorovian model. This result is explained by assuming the existence of two types of reasoning in human cognition, a dominant emergent reasoning, and a secondary logical reasoning. Some mathematical aspects of this quantum-theoretic model on conceptual conjunctions and negations are developed in Veloz and Desjardins through the introduction of unitary operators in Hilbert space. Aerts et al. show instead that the quantum-theoretic approach Aerts et al. can be interpreted as a suitable generalization of Rosch's prototype theory, where prototypes are context-dependent and may interfere when concepts combine. \n \nThe second set of results concern the modeling of human decision-making. Moreira and Wichert explore an alternative quantum-theoretic approach, the quantum-like Bayesian network, to describe the paradoxes related to the violation of the Sure-Thing Principle in experiments on human judgments. Their model is in a good agreement with different sets of empirical data. The opinion paper in Pothos et al. reviews some current progress on the quantum similarity model in Hilbert space recently proposed by Pothos et al. which correctly represents human similarity judgments. Decision-making errors and preference reversal are also investigated in Yukalov and Sornette within their quantum decision theory. Wang and Busemeyer analyze the notion of complementarity in human cognition, and claim that the way in which it is used in quantum physics can also be helpful in cognitive science. Human perception is the object of the study in Khrennikov, where the author develops a quantum model of the sensation-perception dynamics, illustrating it by means of the model of bistable perception of a specific ambiguous figure, the Schroder stair. Finally, Tressoldi et al. identify a significant violation of temporal Bell inequalities in a set of cognitive tests. The violation indicates, according to the authors, the presence of temporal entanglement between binary human behavioral unconscious choices at a given time and binary random outcomes at a different time. In all these approaches, the presence of quantum structures in cognition is determined by the fact that the cognitive systems under investigation share a common feature, namely contextuality. A different position with respect to the presence of contextuality in cognition is assumed in Zhang and Dzhafarov, where the authors apply a theory of (non)contextuality to analyze series-parallel (SP) mental architectures. \n \nThe third set of results concern advanced applications of the quantum-mathematical formalism to wider ranges of social science. Bisconti et al. propose an inverse Potts model, typically used in statistical quantum field theory, to reconstruct the node states in a real-world social network. Haven explores the properties of two types of potential functions, inspired by classical and quantum physics that can be potentially employed to model financial information, including preferences toward risk and uncertainty. Finally, Dalla Chiara et al. investigate different, but mutually related, aspects of parallelism within the framework of quantum computation, cognition and music, and study potential applications of quantum computational semantics in both natural and musical language. \n \nLeaving aside the specific differences between the approaches above, most of them agree in claiming that quantum structures are systematically present in cognitive and social science phenomena, and that quantum-inspired models are more efficient than traditional set-theoretic models of probability. Is \u201cquantum\u201d the end of the story? Is Hilbert space really the place where all these phenomena can be modeled? Is there any empirical deviation from quantum predictions? We do not have yet an answer to these questions. This is why we believe that the road that will lead further to possibly a generally accepted quantum theory of human decision-making will still be full of fascinating surprises.",
+      "citationCount": 9,
+      "doi": "10.3389/fpsyg.2016.00577",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0aad1d760f7b74a32fb17cfff0952c5d4c66160a",
+      "venue": "Frontiers in Psychology",
+      "journal": {
+        "name": "Frontiers in Psychology",
+        "volume": "7"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

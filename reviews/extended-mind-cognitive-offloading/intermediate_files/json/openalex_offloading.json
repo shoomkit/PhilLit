@@ -1,0 +1,2597 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "cognitive offloading extended cognition",
+  "results": [
+    {
+      "openalex_id": "W4402071689",
+      "doi": "10.1177/10711813241275506",
+      "title": "Externalized and Extended Cognition: Cognitive Offloading for Human-Machine Teaming",
+      "authors": [
+        {
+          "name": "Giovani Diaz Alfaro",
+          "openalex_id": "A5106812148",
+          "orcid": "https://orcid.org/0009-0009-2976-0242",
+          "institutions": [
+            "University of Central Florida"
+          ]
+        },
+        {
+          "name": "Stephen M. Fiore",
+          "openalex_id": "A5040965331",
+          "orcid": "https://orcid.org/0000-0003-3529-1322",
+          "institutions": [
+            "University of Central Florida"
+          ]
+        },
+        {
+          "name": "Kevin Oden",
+          "openalex_id": "A5048122623",
+          "orcid": "https://orcid.org/0000-0002-6365-5456",
+          "institutions": [
+            "Lockheed Martin (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-08-29",
+      "abstract": "Technological advances are increasing the complexity of, interactivity with, and cognitive demands on, human agents, particularly when AI is introduced. If we are to successfully reduce cognitive workload (CWL), we must adjust how we conceptualize cognition in manned-unmanned teaming environments. Towards this end, we draw from cognitive science theory, and the idea that the processes and products of cognition are extended across natural and artificial cognitive systems and embedded within a socio-technical environment. This necessitates a consideration of the system and environment as the same cognitive unit as the operator. We take a cognitive systems perspective and focus on the role of interaction and interdependence of human-machine teaming to provide insights for mitigating workload by extending cognition via scaffolding and offloading. Through this application of extended cognition theory, we offer a multi-disciplinarily informed approach, allowing us to provide a set of theoretically grounded research questions for understanding and improving workload.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+        "type": "journal",
+        "issn": [
+          "1071-1813",
+          "1541-9312",
+          "2169-5067"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Human-Automation Interaction and Safety",
+        "Systems Engineering Methodologies and Applications",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W4402071689"
+    },
+    {
+      "openalex_id": "W4402010882",
+      "doi": "10.1177/10711813241275497",
+      "title": "Externalized and Extended Cognition: Cognitive Offloading for Human-Machine Teaming",
+      "authors": [
+        {
+          "name": "Giovani Diaz Alfaro",
+          "openalex_id": "A5106812148",
+          "orcid": "https://orcid.org/0009-0009-2976-0242",
+          "institutions": [
+            "University of Central Florida"
+          ]
+        },
+        {
+          "name": "Stephen M. Fiore",
+          "openalex_id": "A5040965331",
+          "orcid": "https://orcid.org/0000-0003-3529-1322",
+          "institutions": [
+            "University of Central Florida"
+          ]
+        },
+        {
+          "name": "Kevin Oden",
+          "openalex_id": "A5048122623",
+          "orcid": "https://orcid.org/0000-0002-6365-5456",
+          "institutions": [
+            "Lockheed Martin (United States)"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-08-29",
+      "abstract": "Technological advances are increasing the complexity of, interactivity with, and cognitive demands on, human agents, particularly when AI is introduced. If we are to successfully reduce cognitive workload (CWL), we must adjust how we conceptualize cognition in manned-unmanned teaming environments. Towards this end, we draw from cognitive science theory, and the idea that the processes and products of cognition are extended across natural and artificial cognitive systems and embedded within a socio-technical environment. This necessitates a consideration of the system and environment as the same cognitive unit as the operator. We take a cognitive systems perspective and focus on the role of interaction and interdependence of human-machine teaming to provide insights for mitigating workload by extending cognition via scaffolding and offloading. Through this application of extended cognition theory, we offer a multi-disciplinarily informed approach, allowing us to provide a set of theoretically grounded research questions for understanding and improving workload.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+        "type": "journal",
+        "issn": [
+          "1071-1813",
+          "1541-9312",
+          "2169-5067"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Human-Automation Interaction and Safety",
+        "Systems Engineering Methodologies and Applications",
+        "Cognitive Science and Mapping"
+      ],
+      "referenced_works_count": 13,
+      "url": "https://openalex.org/W4402010882"
+    },
+    {
+      "openalex_id": "W2097643333",
+      "doi": "10.1111/cogs.12203",
+      "title": "Building Cognition: The Construction of Computational Representations for Scientific Discovery",
+      "authors": [
+        {
+          "name": "Sanjay Chandrasekharan",
+          "openalex_id": "A5108603006",
+          "institutions": [
+            "Tata Institute of Fundamental Research",
+            "Homi Bhabha Centre for Science Education"
+          ]
+        },
+        {
+          "name": "Nancy J. Nersessian",
+          "openalex_id": "A5073390127",
+          "orcid": "https://orcid.org/0000-0001-7164-5234",
+          "institutions": [
+            "Harvard University"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-11-29",
+      "abstract": "Abstract Novel computational representations, such as simulation models of complex systems and video games for scientific discovery (Foldit, Ete RNA etc.), are dramatically changing the way discoveries emerge in science and engineering. The cognitive roles played by such computational representations in discovery are not well understood. We present a theoretical analysis of the cognitive roles such representations play, based on an ethnographic study of the building of computational models in a systems biology laboratory. Specifically, we focus on a case of model\u2010building by an engineer that led to a remarkable discovery in basic bioscience. Accounting for such discoveries requires a distributed cognition ( DC ) analysis, as DC focuses on the roles played by external representations in cognitive processes. However, DC analyses by and large have not examined scientific discovery, and they mostly focus on memory offloading, particularly how the use of existing external representations changes the nature of cognitive tasks. In contrast, we study discovery processes and argue that discoveries emerge from the processes of building the computational representation. The building process integrates manipulations in imagination and in the representation, creating a coupled cognitive system of model and modeler, where the model is incorporated into the modeler's imagination. This account extends DC significantly, and we present some of the theoretical and application implications of this extended account.",
+      "cited_by_count": 74,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Science",
+        "type": "journal",
+        "issn": [
+          "0364-0213",
+          "1551-6709"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Neural Networks and Applications",
+        "Language and cultural evolution",
+        "Evolutionary Algorithms and Applications"
+      ],
+      "referenced_works_count": 102,
+      "url": "https://openalex.org/W2097643333"
+    },
+    {
+      "openalex_id": "W4395043937",
+      "doi": "10.1007/s11229-024-04579-y",
+      "title": "Extended animal cognition",
+      "authors": [
+        {
+          "name": "Marco Facchin",
+          "openalex_id": "A5069794986",
+          "orcid": "https://orcid.org/0000-0001-5753-9873",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        },
+        {
+          "name": "Giulia Leonetti",
+          "openalex_id": "A5091045726",
+          "orcid": "https://orcid.org/0000-0002-2422-6755",
+          "institutions": [
+            "Istituto Universitario di Studi Superiori di Pavia"
+          ]
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-04-23",
+      "abstract": null,
+      "cited_by_count": 9,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Plant and Biological Electrophysiology Studies",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 126,
+      "url": "https://openalex.org/W4395043937"
+    },
+    {
+      "openalex_id": "W2913144876",
+      "doi": "10.1007/s10648-019-09465-5",
+      "title": "Cognitive Architecture and Instructional Design: 20\u00a0Years Later",
+      "authors": [
+        {
+          "name": "John Sweller",
+          "openalex_id": "A5006640853",
+          "orcid": "https://orcid.org/0000-0001-7855-9160",
+          "institutions": [
+            "UNSW Sydney"
+          ]
+        },
+        {
+          "name": "Jeroen J. G. van Merri\u00ebnboer",
+          "openalex_id": "A5023940180",
+          "orcid": "https://orcid.org/0000-0002-5868-7031",
+          "institutions": [
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Fred Paas",
+          "openalex_id": "A5028053852",
+          "orcid": "https://orcid.org/0000-0002-1647-5305",
+          "institutions": [
+            "University of Wollongong",
+            "Erasmus University Rotterdam"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-22",
+      "abstract": "Cognitive load theory was introduced in the 1980s as an instructional design theory based on several uncontroversial aspects of human cognitive architecture. Our knowledge of many of the characteristics of working memory, long-term memory and the relations between them had been well-established for many decades prior to the introduction of the theory. Curiously, this knowledge had had a limited impact on the field of instructional design with most instructional design recommendations proceeding as though working memory and long-term memory did not exist. In contrast, cognitive load theory emphasised that all novel information first is processed by a capacity and duration limited working memory and then stored in an unlimited long-term memory for later use. Once information is stored in long-term memory, the capacity and duration limits of working memory disappear transforming our ability to function. By the late 1990s, sufficient data had been collected using the theory to warrant an extended analysis resulting in the publication of Sweller et al. (Educational Psychology Review, 10, 251-296, 1998). Extensive further theoretical and empirical work have been carried out since that time and this paper is an attempt to summarise the last 20years of cognitive load theory and to sketch directions for future research.",
+      "cited_by_count": 1652,
+      "type": "article",
+      "source": {
+        "name": "Educational Psychology Review",
+        "type": "journal",
+        "issn": [
+          "1040-726X",
+          "1573-336X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s10648-019-09465-5.pdf"
+      },
+      "topics": [
+        "Visual and Cognitive Learning Processes",
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Innovative Teaching and Learning Methods"
+      ],
+      "referenced_works_count": 129,
+      "url": "https://openalex.org/W2913144876"
+    },
+    {
+      "openalex_id": "W4406471891",
+      "doi": "10.1007/s11229-024-04887-3",
+      "title": "Cognitive offloading and the causal structure of human action",
+      "authors": [
+        {
+          "name": "George Britten-Neish",
+          "openalex_id": "A5056988587",
+          "orcid": "https://orcid.org/0000-0003-2089-8850",
+          "institutions": [
+            "University College London"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-16",
+      "abstract": "Abstract The hypothesis of extended cognition (HEC) casts human cognition as constitutively dependent on its bodily and environmental context. Drawing on recent empirical work on \u2018cognitive offloading\u2019, HEC\u2019s defenders claim that information processing offloaded onto such brain-external resources is sometimes \u2018genuinely\u2019 cognitive. But while debates about offloading have a high profile in philosophy of cognitive science, surprisingly little attention has been paid to the fact that paradigm cases of offloading are intentional actions. As a result, opposition to HEC is driven in part by unarticulated intuitions about the metaphysics of human agency. Thinking of action as a kind of interface between separately constituted intentions and bodily movements can make HEC look problematic. But while this view of agency has been popularised \u2013 most prominently by Donald Davidson \u2013 as analytic philosophy of action\u2019s \u2018standard story\u2019, it has come under pressure from philosophers influenced by Elizabeth Anscombe\u2019s very different account. According to this, actions express an agent\u2019s intention only in so far as they fit into the right kind teleologically structured worldly context. In this paper, I\u2019ll argue that HEC\u2019s supporters should adopt an Anscombean model of action. That is, they should understand cognitive offloading as a manifestation of human agency\u2019s general dependence on its bodily and environmental setting.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Synthese",
+        "type": "journal",
+        "issn": [
+          "0039-7857",
+          "1573-0964"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11229-024-04887-3.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Epistemology, Ethics, and Metaphysics"
+      ],
+      "referenced_works_count": 92,
+      "url": "https://openalex.org/W4406471891"
+    },
+    {
+      "openalex_id": "W3021951958",
+      "doi": "10.1109/access.2020.2991734",
+      "title": "An Overview on Edge Computing Research",
+      "authors": [
+        {
+          "name": "Keyan Cao",
+          "openalex_id": "A5008988216",
+          "institutions": [
+            "Shenyang Jianzhu University"
+          ]
+        },
+        {
+          "name": "Yefan Liu",
+          "openalex_id": "A5004960693",
+          "orcid": "https://orcid.org/0000-0001-5070-1305",
+          "institutions": [
+            "Shenyang Jianzhu University"
+          ]
+        },
+        {
+          "name": "Gongjie Meng",
+          "openalex_id": "A5059048360",
+          "institutions": [
+            "Shenyang Jianzhu University"
+          ]
+        },
+        {
+          "name": "Qimeng Sun",
+          "openalex_id": "A5071401456",
+          "institutions": [
+            "Shenyang Jianzhu University"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "With the rapid development of the Internet of Everything (IoE), the number of smart devices connected to the Internet is increasing, resulting in large-scale data, which has caused problems such as bandwidth load, slow response speed, poor security, and poor privacy in traditional cloud computing models. Traditional cloud computing is no longer sufficient to support the diverse needs of today's intelligent society for data processing, so edge computing technologies have emerged. It is a new computing paradigm for performing calculations at the edge of the network. Unlike cloud computing, it emphasizes closer to the user and closer to the source of the data. At the edge of the network, it is lightweight for local, small-scale data storage and processing. This article mainly reviews the related research and results of edge computing. First, it summarizes the concept of edge computing and compares it with cloud computing. Then summarize the architecture of edge computing, keyword technology, security and privacy protection, and finally summarize the applications of edge computing.",
+      "cited_by_count": 1117,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09083958.pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Cloud Data Security Solutions",
+        "Blockchain Technology Applications and Security"
+      ],
+      "referenced_works_count": 53,
+      "url": "https://openalex.org/W3021951958"
+    },
+    {
+      "openalex_id": "W2626648401",
+      "doi": null,
+      "title": "Musical Worlds and the Extended Mind",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596"
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-08",
+      "abstract": "4E cognitive science portrays minds as embodied, embedded, enacted, and even extended beyond the head. Proponents argue that we routinely \u201coffload\u201d cognitive processes onto body and world. For example, we use gestures, calculators, or pen and paper to augment mathematical reasoning, and smartphones and search engines as memory aids. These beyond-the-head targets of our offloading generate ongoing feedback loops that transform our cognitive profile in real-time and help us negotiate complex cognitive tasks. From a 4E perspective, understanding how minds work thus requires looking beyond heads. And for a 4E view called the \u201cextended mind thesis\u201d, these materially-scaffolded feedback loops are so important for driving thought and experience that they should be seen as part of the (extended) mind itself. 4E theorists have recently turned to music cognition: from work on music perception and musical emotions, to improvisation and music education. I continue this trend. I argue that music \u2014 like other tools and technologies \u2014 is a beyond-the-head resource that affords offloading. And via this offloading, music can (at least potentially) scaffold various forms of thought, experience, and behavior. To develop this idea, I consider the \u201cmaterial\u201d and \u201cworldmaking\u201d character of music, and I apply these ideas to two cases studies: music as a tool for religious worship, and music as a weapon for torture.",
+      "cited_by_count": 4,
+      "type": "article",
+      "source": {
+        "name": "Open Research Exeter (University of Exeter)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/uc/item/31g4p0dn"
+      },
+      "topics": [
+        "Musicology and Musical Analysis"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2626648401"
+    },
+    {
+      "openalex_id": "W2955897898",
+      "doi": "10.1109/access.2019.2921522",
+      "title": "Wireless Communications and Applications Above 100 GHz: Opportunities and Challenges for 6G and Beyond",
+      "authors": [
+        {
+          "name": "Theodore S. Rappaport",
+          "openalex_id": "A5058193542",
+          "orcid": "https://orcid.org/0000-0001-7449-9957",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Yunchou Xing",
+          "openalex_id": "A5090349133",
+          "orcid": "https://orcid.org/0000-0003-0378-2696",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Ojas Kanhere",
+          "openalex_id": "A5064289610",
+          "orcid": "https://orcid.org/0000-0001-6864-7247",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Shihao Ju",
+          "openalex_id": "A5024066890",
+          "orcid": "https://orcid.org/0000-0002-0661-3241",
+          "institutions": [
+            "New York University"
+          ]
+        },
+        {
+          "name": "Arjuna Madanayake",
+          "openalex_id": "A5064035420",
+          "institutions": [
+            "Florida International University"
+          ]
+        },
+        {
+          "name": "Soumyajit Mandal",
+          "openalex_id": "A5036548792",
+          "orcid": "https://orcid.org/0000-0001-9070-2337",
+          "institutions": [
+            "Case Western Reserve University"
+          ]
+        },
+        {
+          "name": "Ahmed Alkhateeb",
+          "openalex_id": "A5003243464",
+          "orcid": "https://orcid.org/0000-0001-5648-1569",
+          "institutions": [
+            "Arizona State University"
+          ]
+        },
+        {
+          "name": "Georgios C. Trichopoulos",
+          "openalex_id": "A5007666035",
+          "orcid": "https://orcid.org/0000-0002-9030-9348",
+          "institutions": [
+            "Arizona State University"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "Frequencies from 100 GHz to 3 THz are promising bands for the next generation of wireless communication systems because of the wide swaths of unused and unexplored spectrum. These frequencies also offer the potential for revolutionary applications that will be made possible by new thinking, and advances in devices, circuits, software, signal processing, and systems. This paper describes many of the technical challenges and opportunities for wireless communication and sensing applications above 100 GHz, and presents a number of promising discoveries, novel approaches, and recent results that will aid in the development and implementation of the sixth generation (6G) of wireless networks, and beyond. This paper shows recent regulatory and standard body rulings that are anticipating wireless products and services above 100 GHz and illustrates the viability of wireless cognition, hyper-accurate position location, sensing, and imaging. This paper also presents approaches and results that show how long distance mobile communications will be supported to above 800 GHz since the antenna gains are able to overcome air-induced attenuation, and present methods that reduce the computational complexity and simplify the signal processing used in adaptive antenna arrays, by exploiting the Special Theory of Relativity to create a cone of silence in over-sampled antenna arrays that improve performance for digital phased array antennas. Also, new results that give insights into power efficient beam steering algorithms, and new propagation and partition loss models above 100 GHz are given, and promising imaging, array processing, and position location results are presented. The implementation of spatial consistency at THz frequencies, an important component of channel modeling that considers minute changes and correlations over space, is also discussed. This paper offers the first in-depth look at the vast applications of THz wireless products and applications and provides approaches for how to reduce power and increase performance across several problem domains, giving early evidence that THz techniques are compelling and available for future wireless communications.",
+      "cited_by_count": 2303,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08732419.pdf"
+      },
+      "topics": [
+        "Millimeter-Wave Propagation and Modeling",
+        "Antenna Design and Analysis",
+        "Antenna Design and Optimization"
+      ],
+      "referenced_works_count": 166,
+      "url": "https://openalex.org/W2955897898"
+    },
+    {
+      "openalex_id": "W2048185449",
+      "doi": "10.1371/journal.pone.0013636",
+      "title": "Self-Selected or Mandated, Open Access Increases Citation Impact for Higher Quality Research",
+      "authors": [
+        {
+          "name": "Yassine Gargouri",
+          "openalex_id": "A5057135074",
+          "institutions": [
+            "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Chawki Hajjem",
+          "openalex_id": "A5015643870",
+          "institutions": [
+            "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Vincent Larivi\u00e8re",
+          "openalex_id": "A5068542997",
+          "orcid": "https://orcid.org/0000-0002-2733-0689",
+          "institutions": [
+            "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Yves Gingras",
+          "openalex_id": "A5074283997",
+          "orcid": "https://orcid.org/0000-0002-4729-1269",
+          "institutions": [
+            "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+          ]
+        },
+        {
+          "name": "Leslie Carr",
+          "openalex_id": "A5067426492",
+          "orcid": "https://orcid.org/0000-0002-2113-9680",
+          "institutions": [
+            "University of Southampton"
+          ]
+        },
+        {
+          "name": "Tim Brody",
+          "openalex_id": "A5034672788",
+          "institutions": [
+            "University of Southampton"
+          ]
+        },
+        {
+          "name": "Stevan Harnad",
+          "openalex_id": "A5068938534",
+          "orcid": "https://orcid.org/0000-0001-6153-1129",
+          "institutions": [
+            "University of Southampton",
+            "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-10-18",
+      "abstract": "The OA advantage is greater for the more citable articles, not because of a quality bias from authors self-selecting what to make OA, but because of a quality advantage, from users self-selecting what to use and cite, freed by OA from the constraints of selective accessibility to subscribers only. It is hoped that these findings will help motivate the adoption of OA self-archiving mandates by universities, research institutions and research funders.",
+      "cited_by_count": 595,
+      "type": "article",
+      "source": {
+        "name": "PLoS ONE",
+        "type": "journal",
+        "issn": [
+          "1932-6203"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0013636&type=printable"
+      },
+      "topics": [
+        "scientometrics and bibliometrics research",
+        "Research Data Management Practices",
+        "Meta-analysis and systematic reviews"
+      ],
+      "referenced_works_count": 68,
+      "url": "https://openalex.org/W2048185449"
+    },
+    {
+      "openalex_id": "W2944285188",
+      "doi": "10.1002/wps.20617",
+      "title": "The \u201conline brain\u201d: how the Internet may be changing our cognition",
+      "authors": [
+        {
+          "name": "Joseph Firth",
+          "openalex_id": "A5023196820",
+          "orcid": "https://orcid.org/0000-0002-0618-2752",
+          "institutions": [
+            "Western Sydney University",
+            "University of Manchester",
+            "University of Melbourne",
+            "University of Oxford",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "John Torous",
+          "openalex_id": "A5026523515",
+          "orcid": "https://orcid.org/0000-0002-5362-7937",
+          "institutions": [
+            "Beth Israel Deaconess Medical Center",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Brendon Stubbs",
+          "openalex_id": "A5005008571",
+          "orcid": "https://orcid.org/0000-0001-7387-3791",
+          "institutions": [
+            "King's College London",
+            "South London and Maudsley NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Josh A. Firth",
+          "openalex_id": "A5003551603",
+          "orcid": "https://orcid.org/0000-0001-7183-4115",
+          "institutions": [
+            "University of Oxford",
+            "University of Melbourne",
+            "Western Sydney University",
+            "University of Manchester",
+            "Westmead Institute"
+          ]
+        },
+        {
+          "name": "Genevieve Z. Steiner",
+          "openalex_id": "A5037720902",
+          "orcid": "https://orcid.org/0000-0002-8708-6104",
+          "institutions": [
+            "Westmead Institute",
+            "Translational Research Institute",
+            "Western Sydney University"
+          ]
+        },
+        {
+          "name": "Lee Smith",
+          "openalex_id": "A5059447980",
+          "orcid": "https://orcid.org/0000-0002-5340-9833",
+          "institutions": [
+            "Anglia Ruskin University"
+          ]
+        },
+        {
+          "name": "Mario \u00c1lvarez\u2010Jim\u00e9nez",
+          "openalex_id": "A5077079077",
+          "orcid": "https://orcid.org/0000-0002-3535-9086",
+          "institutions": [
+            "University of Melbourne",
+            "Orygen Youth Health"
+          ]
+        },
+        {
+          "name": "John Gleeson",
+          "openalex_id": "A5047926815",
+          "orcid": "https://orcid.org/0000-0001-7969-492X",
+          "institutions": [
+            "Australian Catholic University",
+            "University of Melbourne"
+          ]
+        },
+        {
+          "name": "Davy Vancampfort",
+          "openalex_id": "A5030050325",
+          "orcid": "https://orcid.org/0000-0002-4592-8625",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Christopher J. Armitage",
+          "openalex_id": "A5020278901",
+          "orcid": "https://orcid.org/0000-0003-2365-1765",
+          "institutions": [
+            "Manchester Academic Health Science Centre",
+            "NIHR Manchester Biomedical Research Centre",
+            "NIHR Greater Manchester Patient Safety Translational Research Centre",
+            "University of Manchester",
+            "Manchester University NHS Foundation Trust"
+          ]
+        },
+        {
+          "name": "Jerome Sarris",
+          "openalex_id": "A5013936218",
+          "orcid": "https://orcid.org/0000-0001-9287-8854",
+          "institutions": [
+            "Westmead Institute",
+            "Western Sydney University",
+            "University of Melbourne",
+            "Melbourne Clinic"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-05-06",
+      "abstract": "The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real\u2010world social processes creates a new interplay between the Internet and our social lives, including our self\u2010concepts and self\u2010esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.",
+      "cited_by_count": 574,
+      "type": "article",
+      "source": {
+        "name": "World Psychiatry",
+        "type": "journal",
+        "issn": [
+          "1723-8617",
+          "2051-5545"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20617"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Child Development and Digital Technology",
+        "Misinformation and Its Impacts"
+      ],
+      "referenced_works_count": 137,
+      "url": "https://openalex.org/W2944285188"
+    },
+    {
+      "openalex_id": "W4384304158",
+      "doi": "10.1007/978-3-031-33529-7_9",
+      "title": "Serendipitous Cognition\u2014The Systematic Consideration of the Accidental Genesis of\u00a0New Ideas",
+      "authors": [
+        {
+          "name": "Wendy Ross",
+          "openalex_id": "A5020260230",
+          "orcid": "https://orcid.org/0000-0002-0461-7660",
+          "institutions": [
+            "London Metropolitan University"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": null,
+      "cited_by_count": 4,
+      "type": "book-chapter",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Data Visualization and Analytics",
+        "Topological and Geometric Data Analysis"
+      ],
+      "referenced_works_count": 45,
+      "url": "https://openalex.org/W4384304158"
+    },
+    {
+      "openalex_id": "W3179283102",
+      "doi": "10.1109/comst.2022.3199901",
+      "title": "Evolution of Non-Terrestrial Networks From 5G to 6G: A Survey",
+      "authors": [
+        {
+          "name": "Mohammad Mahdi Azari",
+          "openalex_id": "A5006289048",
+          "orcid": "https://orcid.org/0000-0001-7691-3787",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Sourabh Solanki",
+          "openalex_id": "A5045885076",
+          "orcid": "https://orcid.org/0000-0002-7968-7655",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Symeon Chatzinotas",
+          "openalex_id": "A5016154330",
+          "orcid": "https://orcid.org/0000-0001-5122-0001",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Oltjon Kodheli",
+          "openalex_id": "A5034364460",
+          "orcid": "https://orcid.org/0000-0002-3343-5890",
+          "institutions": [
+            "SES (Luxembourg)"
+          ]
+        },
+        {
+          "name": "Hazem Sallouha",
+          "openalex_id": "A5059375633",
+          "orcid": "https://orcid.org/0000-0002-1288-1023",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Achiel Colpaert",
+          "openalex_id": "A5071443242",
+          "orcid": "https://orcid.org/0000-0003-1238-2002",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Jes\u00fas Fabi\u00e1n Mendoza Montoya",
+          "openalex_id": "A5103928951",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Sofie Pollin",
+          "openalex_id": "A5028689021",
+          "orcid": "https://orcid.org/0000-0002-1470-2076",
+          "institutions": [
+            "KU Leuven"
+          ]
+        },
+        {
+          "name": "Alireza Haqiqatnejad",
+          "openalex_id": "A5058769063",
+          "orcid": "https://orcid.org/0000-0002-0881-2543"
+        },
+        {
+          "name": "Arsham Mostaani",
+          "openalex_id": "A5025845516",
+          "orcid": "https://orcid.org/0000-0001-9183-4411",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Eva Lagunas",
+          "openalex_id": "A5026746581",
+          "orcid": "https://orcid.org/0000-0002-9936-7245",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Bj\u00f6rn Ottersten",
+          "openalex_id": "A5080037825",
+          "orcid": "https://orcid.org/0000-0003-2298-6774",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-01",
+      "abstract": "Non-terrestrial networks (NTNs) traditionally have certain limited applications. However, the recent technological advancements and manufacturing cost reduction opened up myriad applications of NTNs for 5G and beyond networks, especially when integrated into terrestrial networks (TNs). This article comprehensively surveys the evolution of NTNs highlighting their relevance to 5G networks and essentially, how it will play a pivotal role in the development of 6G ecosystem. We discuss important features of NTNs integration into TNs and the synergies by delving into the new range of services and use cases, various architectures, technological enablers, and higher layer aspects pertinent to NTNs integration. Moreover, we review the corresponding challenges arising from the technical peculiarities and the new approaches being adopted to develop efficient integrated ground-air-space (GAS) networks. Our survey further includes the major progress and outcomes from academic research as well as industrial efforts representing the main industrial trends, field trials, and prototyping towards the 6G networks.",
+      "cited_by_count": 507,
+      "type": "article",
+      "source": {
+        "name": "IEEE Communications Surveys & Tutorials",
+        "type": "journal",
+        "issn": [
+          "1553-877X",
+          "2373-745X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/9739/9956928/09861699.pdf"
+      },
+      "topics": [
+        "UAV Applications and Optimization",
+        "Satellite Communication Systems",
+        "Advanced Wireless Communication Technologies"
+      ],
+      "referenced_works_count": 436,
+      "url": "https://openalex.org/W3179283102"
+    },
+    {
+      "openalex_id": "W2606471054",
+      "doi": "10.3389/fpsyg.2017.00605",
+      "title": "Smartphones and Cognition: A Review of Research Exploring the Links between Mobile Technology Habits and Cognitive Functioning",
+      "authors": [
+        {
+          "name": "Henry H. Wilmer",
+          "openalex_id": "A5088164857",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Lauren E. Sherman",
+          "openalex_id": "A5009534586",
+          "orcid": "https://orcid.org/0000-0003-4057-5194",
+          "institutions": [
+            "Temple University"
+          ]
+        },
+        {
+          "name": "Jason Chein",
+          "openalex_id": "A5072139616",
+          "orcid": "https://orcid.org/0000-0002-8430-7899",
+          "institutions": [
+            "Temple University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-04-25",
+      "abstract": "While smartphones and related mobile technologies are recognized as flexible and powerful tools that, when used prudently, can augment human cognition, there is also a growing perception that habitual involvement with these devices may have a negative and lasting impact on users' ability to think, remember, pay attention, and regulate emotion. The present review considers an intensifying, though still limited, area of research exploring the potential cognitive impacts of smartphone-related habits, and seeks to determine in which domains of functioning there is accruing evidence of a significant relationship between smartphone technology and cognitive performance, and in which domains the scientific literature is not yet mature enough to endorse any firm conclusions. We focus our review primarily on three facets of cognition that are clearly implicated in public discourse regarding the impacts of mobile technology - attention, memory, and delay of gratification - and then consider evidence regarding the broader relationships between smartphone habits and everyday cognitive functioning. Along the way, we highlight compelling findings, discuss limitations with respect to empirical methodology and interpretation, and offer suggestions for how the field might progress toward a more coherent and robust area of scientific inquiry.",
+      "cited_by_count": 645,
+      "type": "review",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00605/pdf"
+      },
+      "topics": [
+        "Impact of Technology on Adolescents",
+        "Technology Adoption and User Behaviour",
+        "Digital Marketing and Social Media"
+      ],
+      "referenced_works_count": 117,
+      "url": "https://openalex.org/W2606471054"
+    },
+    {
+      "openalex_id": "W4406026056",
+      "doi": "10.3390/soc15010006",
+      "title": "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking",
+      "authors": [
+        {
+          "name": "Michael Gerlich",
+          "openalex_id": "A5058773312",
+          "orcid": "https://orcid.org/0000-0003-4033-4403",
+          "institutions": [
+            "SBS Swiss Business School",
+            "Business School Lausanne"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-03",
+      "abstract": "The proliferation of artificial intelligence (AI) tools has transformed numerous aspects of daily life, yet its impact on critical thinking remains underexplored. This study investigates the relationship between AI tool usage and critical thinking skills, focusing on cognitive offloading as a mediating factor. Utilising a mixed-method approach, we conducted surveys and in-depth interviews with 666 participants across diverse age groups and educational backgrounds. Quantitative data were analysed using ANOVA and correlation analysis, while qualitative insights were obtained through thematic analysis of interview transcripts. The findings revealed a significant negative correlation between frequent AI tool usage and critical thinking abilities, mediated by increased cognitive offloading. Younger participants exhibited higher dependence on AI tools and lower critical thinking scores compared to older participants. Furthermore, higher educational attainment was associated with better critical thinking skills, regardless of AI usage. These results highlight the potential cognitive costs of AI tool reliance, emphasising the need for educational strategies that promote critical engagement with AI technologies. This study contributes to the growing discourse on AI\u2019s cognitive implications, offering practical recommendations for mitigating its adverse effects on critical thinking. The findings underscore the importance of fostering critical thinking in an AI-driven world, making this research essential reading for educators, policymakers, and technologists.",
+      "cited_by_count": 305,
+      "type": "article",
+      "source": {
+        "name": "Societies",
+        "type": "journal",
+        "issn": [
+          "2075-4698"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2075-4698/15/1/6/pdf?version=1735907439"
+      },
+      "topics": [
+        "AI in Service Interactions",
+        "Intelligent Tutoring Systems and Adaptive Learning",
+        "Education and Critical Thinking Development"
+      ],
+      "referenced_works_count": 31,
+      "url": "https://openalex.org/W4406026056"
+    },
+    {
+      "openalex_id": "W3126686235",
+      "doi": "10.1109/ojcoms.2021.3057679",
+      "title": "The Road Towards 6G: A Comprehensive Survey",
+      "authors": [
+        {
+          "name": "Wei Jiang",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0002-3719-3710",
+          "institutions": [
+            "German Research Centre for Artificial Intelligence"
+          ]
+        },
+        {
+          "name": "Bin Han",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0003-2086-2487",
+          "institutions": [
+            "University of Kaiserslautern"
+          ]
+        },
+        {
+          "name": "Mohammad Asif Habibi",
+          "openalex_id": "",
+          "orcid": "https://orcid.org/0000-0001-9874-0047",
+          "institutions": [
+            "University of Kaiserslautern"
+          ]
+        },
+        {
+          "name": "Hans Dieter Schotten",
+          "openalex_id": "",
+          "institutions": [
+            "German Research Centre for Artificial Intelligence",
+            "University of Kaiserslautern"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "As of today, the fifth generation (5G) mobile communication system has been\\nrolled out in many countries and the number of 5G subscribers already reaches a\\nvery large scale. It is time for academia and industry to shift their attention\\ntowards the next generation. At this crossroad, an overview of the current\\nstate of the art and a vision of future communications are definitely of\\ninterest. This article thus aims to provide a comprehensive survey to draw a\\npicture of the sixth generation (6G) system in terms of drivers, use cases,\\nusage scenarios, requirements, key performance indicators (KPIs), architecture,\\nand enabling technologies. First, we attempt to answer the question of \"Is\\nthere any need for 6G?\" by shedding light on its key driving factors, in which\\nwe predict the explosive growth of mobile traffic until 2030, and envision\\npotential use cases and usage scenarios. Second, the technical requirements of\\n6G are discussed and compared with those of 5G with respect to a set of KPIs in\\na quantitative manner. Third, the state-of-the-art 6G research efforts and\\nactivities from representative institutions and countries are summarized, and a\\ntentative roadmap of definition, specification, standardization, and regulation\\nis projected. Then, we identify a dozen of potential technologies and introduce\\ntheir principles, advantages, challenges, and open research issues. Finally,\\nthe conclusions are drawn to paint a picture of \"What 6G may look like?\". This\\nsurvey is intended to serve as an enlightening guideline to spur interests and\\nfurther investigations for subsequent research and development of 6G\\ncommunications systems.\\n",
+      "cited_by_count": 1375,
+      "type": "article",
+      "source": {
+        "name": "IEEE Open Journal of the Communications Society",
+        "type": "journal",
+        "issn": [
+          "2644-125X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/8782661/9309127/09349624.pdf"
+      },
+      "topics": [
+        "Advanced Wireless Communication Technologies",
+        "Energy Harvesting in Wireless Networks",
+        "Advanced MIMO Systems Optimization"
+      ],
+      "referenced_works_count": 144,
+      "url": "https://openalex.org/W3126686235"
+    },
+    {
+      "openalex_id": "W2152364132",
+      "doi": "10.1007/s00146-010-0272-8",
+      "title": "Thinking with external representations",
+      "authors": [
+        {
+          "name": "David Kirsh",
+          "openalex_id": "A5076058604",
+          "orcid": "https://orcid.org/0000-0002-6242-5851",
+          "institutions": [
+            "University of California, San Diego"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-02-09",
+      "abstract": "Why do people create extra representations to help them make sense of situations, diagrams, illustrations, instructions and problems? The obvious explanation\u2014external representations save internal memory and computation\u2014is only part of the story. I discuss seven ways external representations enhance cognitive power: they change the cost structure of the inferential landscape; they provide a structure that can serve as a shareable object of thought; they create persistent referents; they facilitate re-representation; they are often a more natural representation of structure than mental representations; they facilitate the computation of more explicit encoding of information; they enable the construction of arbitrarily complex structure; and they lower the cost of controlling thought\u2014they help coordinate thought. Jointly, these functions allow people to think more powerfully with external representations than without. They allow us to think the previously unthinkable.",
+      "cited_by_count": 475,
+      "type": "article",
+      "source": {
+        "name": "AI & Society",
+        "type": "journal",
+        "issn": [
+          "0951-5666",
+          "1435-5655"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s00146-010-0272-8.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 40,
+      "url": "https://openalex.org/W2152364132"
+    },
+    {
+      "openalex_id": "W2939587492",
+      "doi": "10.1016/j.jretai.2019.03.005",
+      "title": "Let Me Imagine That for You: Transforming the Retail Frontline Through Augmenting Customer Mental Imagery Ability",
+      "authors": [
+        {
+          "name": "Jonas Heller",
+          "openalex_id": "A5077827457",
+          "orcid": "https://orcid.org/0000-0002-3214-0724",
+          "institutions": [
+            "UNSW Sydney"
+          ]
+        },
+        {
+          "name": "Mathew Chylinski",
+          "openalex_id": "A5004583600",
+          "orcid": "https://orcid.org/0000-0003-4939-1770",
+          "institutions": [
+            "UNSW Sydney"
+          ]
+        },
+        {
+          "name": "Ko de Ruyter",
+          "openalex_id": "A5038840996",
+          "orcid": "https://orcid.org/0000-0002-1391-697X",
+          "institutions": [
+            "UNSW Sydney",
+            "King's College School"
+          ]
+        },
+        {
+          "name": "Dominik Mahr",
+          "openalex_id": "A5018813343",
+          "orcid": "https://orcid.org/0000-0003-1804-9622",
+          "institutions": [
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Debbie Keeling",
+          "openalex_id": "A5102950446",
+          "orcid": "https://orcid.org/0000-0003-4998-5675",
+          "institutions": [
+            "University of Sussex"
+          ]
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-04-16",
+      "abstract": "The rapid development of augmented reality (AR) is reshaping retail frontline operations by enhancing the offline and online customer experience. Drawing on mental imagery theory, this paper develops a conceptual framework to reflect how AR emulates customer''s cognitive processes offloading those to the technology. Consequently, the AR-enabled frontline improves decision comfort, motivates positive WOM and facilitates choice of higher value products. The underlying mechanism is a sequential mediation via improved processing fluency and decision comfort. The findings also demonstrate boundary conditions of customers'' visual processing styles and product contextuality. Object-visualisers benefit more from AR induced imagery processes, and the effect of processing fluency on customer decision comfort is moderated by product contextuality. The results are verified with repeat studies to control for novelty of AR, and a field study that highlights the impact of AR on customers'' choice and spending. We discuss implications for theory and practice of AR-enabled frontline retailing.",
+      "cited_by_count": 278,
+      "type": "article",
+      "source": {
+        "name": "Journal of Retailing",
+        "type": "journal",
+        "issn": [
+          "0022-4359",
+          "1873-3271"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S002243591930020X-fx1_lrg.jpg"
+      },
+      "topics": [
+        "Consumer Retail Behavior Studies",
+        "Virtual Reality Applications and Impacts",
+        "Augmented Reality Applications"
+      ],
+      "referenced_works_count": 88,
+      "url": "https://openalex.org/W2939587492"
+    },
+    {
+      "openalex_id": "W2790340646",
+      "doi": "10.1186/s41235-018-0092-9",
+      "title": "Embodied learning: introducing a taxonomy based on bodily engagement and task integration",
+      "authors": [
+        {
+          "name": "Alexander Skulmowski",
+          "openalex_id": "A5030423272",
+          "orcid": "https://orcid.org/0000-0002-1682-021X",
+          "institutions": [
+            "Chemnitz University of Technology"
+          ]
+        },
+        {
+          "name": "G\u00fcnter Daniel Rey",
+          "openalex_id": "A5001896504",
+          "orcid": "https://orcid.org/0000-0001-9717-8478",
+          "institutions": [
+            "Chemnitz University of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-02-21",
+      "abstract": null,
+      "cited_by_count": 266,
+      "type": "article",
+      "source": {
+        "name": "Cognitive Research Principles and Implications",
+        "type": "journal",
+        "issn": [
+          "2365-7464"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://cognitiveresearchjournal.springeropen.com/track/pdf/10.1186/s41235-018-0092-9"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Hearing Impairment and Communication",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 98,
+      "url": "https://openalex.org/W2790340646"
+    },
+    {
+      "openalex_id": "W2147235552",
+      "doi": "10.1111/j.1756-8765.2011.01150.x",
+      "title": "The Cognitive Science of Visual\u2010Spatial Displays: Implications for Design",
+      "authors": [
+        {
+          "name": "Mary Hegarty",
+          "openalex_id": "A5047024054",
+          "orcid": "https://orcid.org/0000-0002-7777-8844",
+          "institutions": [
+            "University of California, Santa Barbara"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-05-23",
+      "abstract": "Abstract This paper reviews cognitive science perspectives on the design of visual\u2010spatial displays and introduces the other papers in this topic. It begins by classifying different types of visual\u2010spatial displays, followed by a discussion of ways in which visual\u2010spatial displays augment cognition and an overview of the perceptual and cognitive processes involved in using displays. The paper then argues for the importance of cognitive science methods to the design of visual displays and reviews some of the main principles of display design that have emerged from these approaches to date. Cognitive scientists have had good success in characterizing the performance of well\u2010defined tasks with relatively simple visual displays, but many challenges remain in understanding the use of complex displays for ill\u2010defined tasks. Current research exemplified by the papers in this topic extends empirical approaches to new displays and domains, informs the development of general principles of graphic design, and addresses current challenges in display design raised by the recent explosion in availability of complex data sets and new technologies for visualizing and interacting with these data.",
+      "cited_by_count": 361,
+      "type": "review",
+      "source": {
+        "name": "Topics in Cognitive Science",
+        "type": "journal",
+        "issn": [
+          "1756-8757",
+          "1756-8765"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1756-8765.2011.01150.x"
+      },
+      "topics": [
+        "Spatial Cognition and Navigation",
+        "Data Visualization and Analytics",
+        "Color perception and design"
+      ],
+      "referenced_works_count": 128,
+      "url": "https://openalex.org/W2147235552"
+    },
+    {
+      "openalex_id": "W3144404977",
+      "doi": "10.1109/ojcoms.2021.3071496",
+      "title": "Survey on 6G Frontiers: Trends, Applications, Requirements, Technologies and Future Research",
+      "authors": [
+        {
+          "name": "Chamitha de Alwis",
+          "openalex_id": "A5080337138",
+          "orcid": "https://orcid.org/0000-0002-2219-6142",
+          "institutions": [
+            "University of Sri Jayewardenepura"
+          ]
+        },
+        {
+          "name": "Anshuman Kalla",
+          "openalex_id": "A5035176879",
+          "orcid": "https://orcid.org/0000-0002-3985-4578",
+          "institutions": [
+            "University of Oulu"
+          ]
+        },
+        {
+          "name": "Quoc\u2010Viet Pham",
+          "openalex_id": "A5062525719",
+          "orcid": "https://orcid.org/0000-0002-9485-9216",
+          "institutions": [
+            "Pusan National University"
+          ]
+        },
+        {
+          "name": "Pardeep Kumar",
+          "openalex_id": "A5100746245",
+          "orcid": "https://orcid.org/0000-0001-8124-5509",
+          "institutions": [
+            "Swansea University"
+          ]
+        },
+        {
+          "name": "Kapal Dev",
+          "openalex_id": "A5064768354",
+          "orcid": "https://orcid.org/0000-0003-1262-8594",
+          "institutions": [
+            "Munster Technological University"
+          ]
+        },
+        {
+          "name": "Won\u2010Joo Hwang",
+          "openalex_id": "A5085192467",
+          "orcid": "https://orcid.org/0000-0001-8398-564X",
+          "institutions": [
+            "Pusan National University"
+          ]
+        },
+        {
+          "name": "Madhusanka Liyanage",
+          "openalex_id": "A5068169019",
+          "orcid": "https://orcid.org/0000-0003-4786-030X",
+          "institutions": [
+            "University College Dublin",
+            "University of Oulu"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": "Emerging applications such as Internet of Everything, Holographic Telepresence, collaborative robots, and space and deep-sea tourism are already highlighting the limitations of existing fifth-generation (5G) mobile networks. These limitations are in terms of data-rate, latency, reliability, availability, processing, connection density and global coverage, spanning over ground, underwater and space. The sixth-generation (6G) of mobile networks are expected to burgeon in the coming decade to address these limitations. The development of 6G vision, applications, technologies and standards has already become a popular research theme in academia and the industry. In this paper, we provide a comprehensive survey of the current developments towards 6G. We highlight the societal and technological trends that initiate the drive towards 6G. Emerging applications to realize the demands raised by 6G driving trends are discussed subsequently. We also elaborate the requirements that are necessary to realize the 6G applications. Then we present the key enabling technologies in detail. We also outline current research projects and activities including standardization efforts towards the development of 6G. Finally, we summarize lessons learned from state-of-the-art research and discuss technical challenges that would shed a new light on future research directions towards 6G.",
+      "cited_by_count": 709,
+      "type": "article",
+      "source": {
+        "name": "IEEE Open Journal of the Communications Society",
+        "type": "journal",
+        "issn": [
+          "2644-125X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/8782661/9309127/09397776.pdf"
+      },
+      "topics": [
+        "Advanced Wireless Communication Technologies",
+        "Optical Wireless Communication Technologies",
+        "Underwater Vehicles and Communication Systems"
+      ],
+      "referenced_works_count": 363,
+      "url": "https://openalex.org/W3144404977"
+    },
+    {
+      "openalex_id": "W2929612105",
+      "doi": "10.1109/access.2019.2909490",
+      "title": "Quantum Machine Learning for 6G Communication Networks: State-of-the-Art and Vision for the Future",
+      "authors": [
+        {
+          "name": "Syed Junaid Nawaz",
+          "openalex_id": "A5034970020",
+          "orcid": "https://orcid.org/0000-0001-5448-2170",
+          "institutions": [
+            "COMSATS University Islamabad"
+          ]
+        },
+        {
+          "name": "Shree Krishna Sharma",
+          "openalex_id": "A5004973785",
+          "orcid": "https://orcid.org/0000-0001-9823-2886",
+          "institutions": [
+            "University of Luxembourg"
+          ]
+        },
+        {
+          "name": "Shurjeel Wyne",
+          "openalex_id": "A5025419188",
+          "orcid": "https://orcid.org/0000-0001-9532-2288",
+          "institutions": [
+            "COMSATS University Islamabad"
+          ]
+        },
+        {
+          "name": "Mohammad Patwary",
+          "openalex_id": "A5054722867",
+          "orcid": "https://orcid.org/0000-0003-2878-5295",
+          "institutions": [
+            "Birmingham City University"
+          ]
+        },
+        {
+          "name": "Md Asaduzzaman",
+          "openalex_id": "A5039444388",
+          "orcid": "https://orcid.org/0000-0002-8885-6721"
+        }
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "abstract": "The upcoming 5th Generation (5G) of wireless networks is expected to lay a foundation of intelligent networks with the provision of some isolated Artificial Intelligence (AI) operations. However, fully-intelligent network orchestration and management for providing innovative services will only be realized in Beyond 5G (B5G) networks. To this end, we envisage that the 6th Generation (6G) of wireless networks will be driven by on-demand self-reconfiguration to ensure a many-fold increase in the network performance and service types. The increasingly stringent performance requirements of emerging networks may finally trigger the deployment of some interesting new technologies such as large intelligent surfaces, electromagnetic-orbital angular momentum, visible light communications, and cell-free communications \u2013 to name a few. Our vision for 6G is \u2013 a massively connected complex network capable of rapidly responding to the users\u2019 service calls through real-time learning of the network state as described by the network-edge (e.g., base-station locations, cache contents, etc.), air interface (e.g., radio spectrum, propagation channel, etc.), and the user-side (e.g., battery-life, locations, etc.). The multi-state, multi-dimensional nature of the network state, requiring real-time knowledge, can be viewed as a quantum uncertainty problem. In this regard, the emerging paradigms of Machine Learning (ML), Quantum Computing (QC), and Quantum ML (QML) and their synergies with communication networks can be considered as core 6G enablers. Considering these potentials, starting with the 5G target services and enabling technologies, we provide a comprehensive review of the related state-of-the-art in the domains of ML (including deep learning), QC and QML, and identify their potential benefits, issues and use cases for their applications in the B5G networks. Subsequently, we propose a novel QC-assisted and QML-based framework for 6G communication networks while articulating its challenges and potential enabling technologies at the network-infrastructure, network-edge, air interface, and user-end. Finally, some promising future research directions for the quantum- and QML-assisted B5G networks are identified and discussed.",
+      "cited_by_count": 629,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08681450.pdf"
+      },
+      "topics": [
+        "Molecular Communication and Nanonetworks",
+        "Advanced Memory and Neural Computing",
+        "Quantum-Dot Cellular Automata"
+      ],
+      "referenced_works_count": 267,
+      "url": "https://openalex.org/W2929612105"
+    },
+    {
+      "openalex_id": "W2086684289",
+      "doi": "10.3389/fpsyg.2013.01003",
+      "title": "Affordances and the musically extended mind",
+      "authors": [
+        {
+          "name": "Joel Krueger",
+          "openalex_id": "A5036078683",
+          "orcid": "https://orcid.org/0000-0003-0931-1596"
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "abstract": "I defend a model of the musically extended mind. I consider how acts of \"musicking\" grant access to novel emotional experiences otherwise inaccessible. First, I discuss the idea of \"musical affordances\" and specify both what musical affordances are and how they invite different forms of entrainment. Next, I argue that musical affordances - via soliciting different forms of entrainment - enhance the functionality of various endogenous, emotion-granting regulative processes, drawing novel experiences out of us with an expanded complexity and phenomenal character. I argue that music therefore ought to be thought of as part of the vehicle needed to realize these emotional experiences. I appeal to different sources of empirical work to develop this idea.",
+      "cited_by_count": 258,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "type": "journal",
+        "issn": [
+          "1664-1078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.01003/pdf"
+      },
+      "topics": [
+        "Neuroscience and Music Perception",
+        "Neural dynamics and brain function",
+        "Embodied and Extended Cognition"
+      ],
+      "referenced_works_count": 190,
+      "url": "https://openalex.org/W2086684289"
+    },
+    {
+      "openalex_id": "W2783564726",
+      "doi": "10.1016/j.biopsych.2017.12.017",
+      "title": "Psychiatric Symptom Dimensions Are Associated With Dissociable Shifts in Metacognition but Not Task Performance",
+      "authors": [
+        {
+          "name": "Marion Rouault",
+          "openalex_id": "A5032290173",
+          "orcid": "https://orcid.org/0000-0001-6586-3788",
+          "institutions": [
+            "Wellcome Centre for Human Neuroimaging",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Tricia X. F. Seow",
+          "openalex_id": "A5029395034",
+          "orcid": "https://orcid.org/0000-0002-5930-8929",
+          "institutions": [
+            "University College London",
+            "Wellcome Centre for Human Neuroimaging",
+            "Trinity College Dublin"
+          ]
+        },
+        {
+          "name": "Claire M. Gillan",
+          "openalex_id": "A5030887892",
+          "orcid": "https://orcid.org/0000-0001-9065-403X",
+          "institutions": [
+            "Trinity College Dublin"
+          ]
+        },
+        {
+          "name": "Stephen M. Fleming",
+          "openalex_id": "A5082377107",
+          "orcid": "https://orcid.org/0000-0003-0233-4891",
+          "institutions": [
+            "University College London",
+            "Wellcome Centre for Human Neuroimaging"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-01-11",
+      "abstract": "Our findings indicate a specific and pervasive link between metacognition and mental health. Our study bridges a gap between an emerging neuroscience of decision making and an understanding of metacognitive alterations in psychopathology.",
+      "cited_by_count": 345,
+      "type": "article",
+      "source": {
+        "name": "Biological Psychiatry",
+        "type": "journal",
+        "issn": [
+          "0006-3223",
+          "1873-2402"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://www.biologicalpsychiatryjournal.com/article/S0006322318300295/pdf"
+      },
+      "topics": [
+        "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+        "Psychosomatic Disorders and Their Treatments",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 74,
+      "url": "https://openalex.org/W2783564726"
+    },
+    {
+      "openalex_id": "W3134818623",
+      "doi": "10.1016/j.comnet.2021.107930",
+      "title": "6G networks. Beyond Shannon towards semantic and goal-oriented communications",
+      "authors": [
+        {
+          "name": "Emilio Calvanese Strinati",
+          "openalex_id": "A5050392672",
+          "orcid": "https://orcid.org/0000-0001-9346-8478",
+          "institutions": [
+            "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+            "Laboratoire d'\u00c9lectronique des Technologies de l'Information"
+          ]
+        },
+        {
+          "name": "Sergio Barbarossa",
+          "openalex_id": "A5084159640",
+          "orcid": "https://orcid.org/0000-0001-9846-8741",
+          "institutions": [
+            "Sapienza University of Rome"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "abstract": null,
+      "cited_by_count": 451,
+      "type": "article",
+      "source": {
+        "name": "SPIRE - Sciences Po Institutional REpository",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://cea.hal.science/cea-04231636"
+      },
+      "topics": [
+        "Wireless Signal Modulation Classification",
+        "Advanced Memory and Neural Computing",
+        "Physical Unclonable Functions (PUFs) and Hardware Security"
+      ],
+      "referenced_works_count": 104,
+      "url": "https://openalex.org/W3134818623"
+    },
+    {
+      "openalex_id": "W4322761281",
+      "doi": "10.1016/j.iotcps.2023.02.004",
+      "title": "Edge AI: A survey",
+      "authors": [
+        {
+          "name": "Raghubir Singh",
+          "openalex_id": "A5068277824",
+          "orcid": "https://orcid.org/0000-0001-6883-6355",
+          "institutions": [
+            "University of Bath"
+          ]
+        },
+        {
+          "name": "Sukhpal Singh Gill",
+          "openalex_id": "A5090188734",
+          "orcid": "https://orcid.org/0000-0002-3913-0369",
+          "institutions": [
+            "Queen Mary University of London"
+          ]
+        }
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "abstract": null,
+      "cited_by_count": 347,
+      "type": "article",
+      "source": {
+        "name": "Internet of Things and Cyber-Physical Systems",
+        "type": "journal",
+        "issn": [
+          "2667-3452"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2667345223000196-ga1_lrg.jpg"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Context-Aware Activity Recognition Systems",
+        "Age of Information Optimization"
+      ],
+      "referenced_works_count": 223,
+      "url": "https://openalex.org/W4322761281"
+    },
+    {
+      "openalex_id": "W2413144050",
+      "doi": "10.3758/s13423-015-0860-1",
+      "title": "The poverty of embodied cognition",
+      "authors": [
+        {
+          "name": "Stephen D. Goldinger",
+          "openalex_id": "A5015496789",
+          "orcid": "https://orcid.org/0000-0001-9080-2602",
+          "institutions": [
+            "Arizona State University"
+          ]
+        },
+        {
+          "name": "Megan H. Papesh",
+          "openalex_id": "A5032656732",
+          "orcid": "https://orcid.org/0000-0002-9950-4369",
+          "institutions": [
+            "Louisiana State University"
+          ]
+        },
+        {
+          "name": "Anthony S. Barnhart",
+          "openalex_id": "A5054636483",
+          "orcid": "https://orcid.org/0000-0003-1366-1580",
+          "institutions": [
+            "Carthage College"
+          ]
+        },
+        {
+          "name": "Whitney A. Hansen",
+          "openalex_id": "A5109225723",
+          "institutions": [
+            "Arizona State University"
+          ]
+        },
+        {
+          "name": "Michael C. Hout",
+          "openalex_id": "A5105779430",
+          "orcid": "https://orcid.org/0009-0002-8992-0577",
+          "institutions": [
+            "New Mexico State University"
+          ]
+        }
+      ],
+      "publication_year": 2016,
+      "publication_date": "2016-06-09",
+      "abstract": null,
+      "cited_by_count": 316,
+      "type": "article",
+      "source": {
+        "name": "Psychonomic Bulletin & Review",
+        "type": "journal",
+        "issn": [
+          "1069-9384",
+          "1531-5320"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.3758/s13423-015-0860-1.pdf"
+      },
+      "topics": [
+        "Action Observation and Synchronization",
+        "Embodied and Extended Cognition",
+        "Psychology of Moral and Emotional Judgment"
+      ],
+      "referenced_works_count": 174,
+      "url": "https://openalex.org/W2413144050"
+    },
+    {
+      "openalex_id": "W4407381055",
+      "doi": "10.1111/epic.12198",
+      "title": "Designing AI to Think with Us, Not for Us",
+      "authors": [
+        {
+          "name": "Stefanie Hutka",
+          "openalex_id": "A5055171955"
+        }
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-11-01",
+      "abstract": "This paper establishes a framework and toolkit for designing Generative Artificial Intelligence (genAI) that address foundational challenges of these technologies and reframe the problem\u2010solution space. The stakes are high for human\u2010centered solutions: genAI is rapidly disrupting existing markets with technologies that exhibit increasingly complex and emergent abilities, and accelerate scale, cognitive offloading, and distributed cognition. The Problem\u2010Solution Symbiosis framework and toolkit extends, rather than displaces, human cognition, including tools for envisioning, problem (re)framing and selection, interdisciplinary collaboration, and the alignment of stakeholder needs with the strengths of a genAI system. Applying the toolkit helps us guide the development of useful, desirable genAI by building intuition about system capabilities, developing a systemic understanding of emerging problem spaces, and using a matrix to identify if and when to offload tasks to the system. The framework is informed by systems theory, frame analysis, human\u2010computer interaction research on current AI design approaches, and analogous approaches from spatial computing design research.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "Ethnographic Praxis in Industry Conference Proceedings",
+        "type": "conference",
+        "issn": [
+          "1559-890X",
+          "1559-8918"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1111/epic.12198"
+      },
+      "topics": [
+        "Ethics and Social Impacts of AI",
+        "Information Systems Theories and Implementation",
+        "Innovative Human-Technology Interaction"
+      ],
+      "referenced_works_count": 25,
+      "url": "https://openalex.org/W4407381055"
+    },
+    {
+      "openalex_id": "W3045086480",
+      "doi": "10.1109/access.2020.3010896",
+      "title": "6G and Beyond: The Future of Wireless Communications Systems",
+      "authors": [
+        {
+          "name": "Ian F. Akyildiz",
+          "openalex_id": "A5044396726",
+          "orcid": "https://orcid.org/0000-0002-8099-3529",
+          "institutions": [
+            "Georgia Institute of Technology"
+          ]
+        },
+        {
+          "name": "A.C. Kak",
+          "openalex_id": "A5084427797",
+          "orcid": "https://orcid.org/0000-0001-5142-7715",
+          "institutions": [
+            "Georgia Institute of Technology"
+          ]
+        },
+        {
+          "name": "Shuai Nie",
+          "openalex_id": "A5074393476",
+          "orcid": "https://orcid.org/0000-0002-1038-4146",
+          "institutions": [
+            "Georgia Institute of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "6G and beyond will fulfill the requirements of a fully connected world and provide ubiquitous wireless connectivity for all. Transformative solutions are expected to drive the surge for accommodating a rapidly growing number of intelligent devices and services. Major technological breakthroughs to achieve connectivity goals within 6G include: (i) a network operating at the THz band with much wider spectrum resources, (ii) intelligent communication environments that enable a wireless propagation environment with active signal transmission and reception, (iii) pervasive artificial intelligence, (iv) large-scale network automation, (v) an all-spectrum reconfigurable front-end for dynamic spectrum access, (vi) ambient backscatter communications for energy savings, (vii) the Internet of Space Things enabled by CubeSats and UAVs, and (viii) cell-free massive MIMO communication networks. In this roadmap paper, use cases for these enabling techniques as well as recent advancements on related topics are highlighted, and open problems with possible solutions are discussed, followed by a development timeline outlining the worldwide efforts in the realization of 6G. Going beyond 6G, promising early-stage technologies such as the Internet of NanoThings, the Internet of BioNanoThings, and quantum communications, which are expected to have a far-reaching impact on wireless communications, have also been discussed at length in this paper.",
+      "cited_by_count": 1259,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09145564.pdf"
+      },
+      "topics": [
+        "Molecular Communication and Nanonetworks",
+        "Energy Harvesting in Wireless Networks",
+        "Advanced Wireless Communication Technologies"
+      ],
+      "referenced_works_count": 208,
+      "url": "https://openalex.org/W3045086480"
+    },
+    {
+      "openalex_id": "W2766304518",
+      "doi": "10.1145/3132211.3134458",
+      "title": "An empirical study of latency in an emerging class of edge computing applications for wearable cognitive assistance",
+      "authors": [
+        {
+          "name": "Zhuo Chen",
+          "openalex_id": "A5100345092",
+          "orcid": "https://orcid.org/0000-0002-9011-7928",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Wenlu Hu",
+          "openalex_id": "A5004027055",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Junjue Wang",
+          "openalex_id": "A5062779308",
+          "orcid": "https://orcid.org/0000-0002-9500-3399",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Siyan Zhao",
+          "openalex_id": "A5053935701",
+          "orcid": "https://orcid.org/0000-0001-6255-9473",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Brandon Amos",
+          "openalex_id": "A5030666794",
+          "orcid": "https://orcid.org/0000-0003-2884-0119",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Guanhang Wu",
+          "openalex_id": "A5076476468",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Kiryong Ha",
+          "openalex_id": "A5109890415",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Khalid Elgazzar",
+          "openalex_id": "A5026935022",
+          "orcid": "https://orcid.org/0000-0002-5892-632X",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Padmanabhan Pillai",
+          "openalex_id": "A5080166041",
+          "orcid": "https://orcid.org/0000-0003-0171-020X",
+          "institutions": [
+            "Intel (United States)"
+          ]
+        },
+        {
+          "name": "Roberta L. Klatzky",
+          "openalex_id": "A5019042403",
+          "orcid": "https://orcid.org/0000-0001-9701-9186",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Daniel P. Siewiorek",
+          "openalex_id": "A5024012980",
+          "orcid": "https://orcid.org/0000-0001-6644-3929",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        },
+        {
+          "name": "Mahadev Satyanarayanan",
+          "openalex_id": "A5052227093",
+          "orcid": "https://orcid.org/0000-0002-2187-2049",
+          "institutions": [
+            "Carnegie Mellon University"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-10-12",
+      "abstract": "An emerging class of interactive wearable cognitive assistance applications is poised to become one of the key demonstrators of edge computing infrastructure. In this paper, we design seven such applications and evaluate their performance in terms of latency across a range of edge computing configurations, mobile hardware, and wireless networks, including 4G LTE. We also devise a novel multi-algorithm approach that leverages temporal locality to reduce end-to-end latency by 60% to 70%, without sacrificing accuracy. Finally, we derive target latencies for our applications, and show that edge computing is crucial to meeting these targets.",
+      "cited_by_count": 208,
+      "type": "article",
+      "source": null,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://dl.acm.org/ft_gateway.cfm?id=3134458&type=pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "Age of Information Optimization",
+        "Context-Aware Activity Recognition Systems"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2766304518"
+    },
+    {
+      "openalex_id": "W2964101383",
+      "doi": "10.1109/comst.2018.2880039",
+      "title": "An Overview on Application of Machine Learning Techniques in Optical Networks",
+      "authors": [
+        {
+          "name": "Francesco Musumeci",
+          "openalex_id": "A5042021806",
+          "orcid": "https://orcid.org/0000-0002-3617-5916",
+          "institutions": [
+            "Politecnico di Milano"
+          ]
+        },
+        {
+          "name": "Cristina Rottondi",
+          "openalex_id": "A5062230069",
+          "orcid": "https://orcid.org/0000-0002-9867-1093",
+          "institutions": [
+            "Dalle Molle Institute for Artificial Intelligence Research"
+          ]
+        },
+        {
+          "name": "Avishek Nag",
+          "openalex_id": "A5013684663",
+          "orcid": "https://orcid.org/0000-0003-1702-1492",
+          "institutions": [
+            "University College Dublin"
+          ]
+        },
+        {
+          "name": "Irene Macaluso",
+          "openalex_id": "A5050129536",
+          "orcid": "https://orcid.org/0000-0002-7728-2232",
+          "institutions": [
+            "Trinity College Dublin"
+          ]
+        },
+        {
+          "name": "Darko Zibar",
+          "openalex_id": "A5025311119",
+          "orcid": "https://orcid.org/0000-0003-4182-7488",
+          "institutions": [
+            "Technical University of Denmark"
+          ]
+        },
+        {
+          "name": "Marco Ruffini",
+          "openalex_id": "A5068107481",
+          "orcid": "https://orcid.org/0000-0001-6220-0065",
+          "institutions": [
+            "Trinity College Dublin"
+          ]
+        },
+        {
+          "name": "Massimo Tornatore",
+          "openalex_id": "A5038468421",
+          "orcid": "https://orcid.org/0000-0003-0740-1061",
+          "institutions": [
+            "Politecnico di Milano"
+          ]
+        }
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-11-08",
+      "abstract": "Today's telecommunication networks have become sources of enormous amounts of widely heterogeneous data. This information can be retrieved from network traffic traces, network alarms, signal quality indicators, users' behavioral data, etc. Advanced mathematical tools are required to extract meaningful information from these data and take decisions pertaining to the proper functioning of the networks from the network-generated data. Among these mathematical tools, machine learning (ML) is regarded as one of the most promising methodological approaches to perform network-data analysis and enable automated network self-configuration and fault management. The adoption of ML techniques in the field of optical communication networks is motivated by the unprecedented growth of network complexity faced by optical networks in the last few years. Such complexity increase is due to the introduction of a huge number of adjustable and interdependent system parameters (e.g., routing configurations, modulation format, symbol rate, coding schemes, etc.) that are enabled by the usage of coherent transmission/reception technologies, advanced digital signal processing, and compensation of nonlinear effects in optical fiber propagation. In this paper we provide an overview of the application of ML to optical communications and networking. We classify and survey relevant literature dealing with the topic, and we also provide an introductory tutorial on ML for researchers and practitioners interested in this field. Although a good number of research papers have recently appeared, the application of ML to optical networks is still in its infancy: to stimulate further work in this area, we conclude this paper proposing new possible research directions.",
+      "cited_by_count": 605,
+      "type": "article",
+      "source": {
+        "name": "IEEE Communications Surveys & Tutorials",
+        "type": "journal",
+        "issn": [
+          "1553-877X",
+          "2373-745X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2262/85915"
+      },
+      "topics": [
+        "Optical Network Technologies",
+        "Advanced Photonic Communication Systems",
+        "Advanced Optical Network Technologies"
+      ],
+      "referenced_works_count": 130,
+      "url": "https://openalex.org/W2964101383"
+    },
+    {
+      "openalex_id": "W4407277831",
+      "doi": "10.62787/mhm.v3i1.135",
+      "title": "Enhancing Human Cognition: The Role of Technological Integration in Cognitive Upgrading",
+      "authors": [
+        {
+          "name": "She LYU",
+          "openalex_id": "A5116200020",
+          "institutions": [
+            "Hong Kong Baptist University"
+          ]
+        },
+        {
+          "name": "Shuo Zhou",
+          "openalex_id": "A5064746220",
+          "orcid": "https://orcid.org/0000-0001-7514-3522",
+          "institutions": [
+            "Hong Kong Baptist University"
+          ]
+        }
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "abstract": "This research aims to systematically investigate the concept of cognitive upgrading through the integration of technological tools with human cognition. Two experimental studies are proposed to examine how technology impacts cognitive abilities when integrated into cognitive processes, and the outcomes of offloading cognitive load to technology to engage in higher-level thinking. Based on theoretical frameworks of cognitive load theory, cultivation theory, cybernetics and the extended self, four hypotheses are formulated predicting enhanced cognitive performance and a symbiotic relationship between humans and machines. The experimental designs employ random assignment and within-subjects comparisons to measure the effects of technology on cognitive tasks. The expected findings suggest cognitive upgrading results in improved cognitive functioning, efficiency and a feedback loop advancing both human and technological capabilities. The research seeks to advance understanding of cognitive augmentation while informing cognitive technology development and policy.",
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "The Journal of Medicine Humanity and Media",
+        "type": "journal",
+        "issn": [
+          "2817-5166"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://mhmjournal.net/index.php/mhm/article/download/135/96"
+      },
+      "topics": [
+        "Digital Economy and Work Transformation",
+        "Economic Development and Digital Transformation"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4407277831"
+    },
+    {
+      "openalex_id": "W3193859704",
+      "doi": "10.1109/tpds.2021.3100298",
+      "title": "Energy-Efficient Offloading for DNN-Based Smart IoT Systems in Cloud-Edge Environments",
+      "authors": [
+        {
+          "name": "Xing Chen",
+          "openalex_id": "A5100371774",
+          "orcid": "https://orcid.org/0000-0001-9641-3528",
+          "institutions": [
+            "Fuzhou University",
+            "Jiangsu Provincial Key Laboratory of Network and Information Security"
+          ]
+        },
+        {
+          "name": "Jianshan Zhang",
+          "openalex_id": "A5034695215",
+          "orcid": "https://orcid.org/0000-0002-3006-1328",
+          "institutions": [
+            "Jiangsu Provincial Key Laboratory of Network and Information Security",
+            "Fuzhou University"
+          ]
+        },
+        {
+          "name": "Bing Lin",
+          "openalex_id": "A5083015892",
+          "orcid": "https://orcid.org/0000-0001-5874-4748",
+          "institutions": [
+            "Centre of Excellence for Advanced Materials",
+            "Tan Kah Kee Innovation Laboratory",
+            "Fujian Normal University"
+          ]
+        },
+        {
+          "name": "Zheyi Chen",
+          "openalex_id": "A5004385468",
+          "orcid": "https://orcid.org/0000-0002-6349-068X",
+          "institutions": [
+            "University of Exeter"
+          ]
+        },
+        {
+          "name": "Katinka Wolter",
+          "openalex_id": "A5048602679",
+          "orcid": "https://orcid.org/0000-0002-8630-0869",
+          "institutions": [
+            "Freie Universit\u00e4t Berlin"
+          ]
+        },
+        {
+          "name": "Geyong Min",
+          "openalex_id": "A5100770003",
+          "orcid": "https://orcid.org/0000-0003-1395-7314",
+          "institutions": [
+            "University of Exeter"
+          ]
+        }
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-07-27",
+      "abstract": "This is the author accepted manuscript. The final version is available from IEEE via the DOI in this record.",
+      "cited_by_count": 214,
+      "type": "article",
+      "source": {
+        "name": "IEEE Transactions on Parallel and Distributed Systems",
+        "type": "journal",
+        "issn": [
+          "1045-9219",
+          "1558-2183",
+          "2161-9883"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ore.exeter.ac.uk/repository/bitstream/10871/127158/1/Energy-Efficient%20Offloading.pdf"
+      },
+      "topics": [
+        "IoT and Edge/Fog Computing",
+        "IoT Networks and Protocols",
+        "Advanced Neural Network Applications"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W3193859704"
+    },
+    {
+      "openalex_id": "W2062444032",
+      "doi": "10.3389/fnint.2013.00015",
+      "title": "Embodiment and sense-making in autism",
+      "authors": [
+        {
+          "name": "Hanne De Jaegher",
+          "openalex_id": "A5011057176",
+          "orcid": "https://orcid.org/0000-0001-7273-6410",
+          "institutions": [
+            "University of Sussex",
+            "University of the Basque Country"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "In this article, I sketch an enactive account of autism. For the enactive approach to cognition, embodiment, experience, and social interaction are fundamental to understanding mind and subjectivity. Enaction defines cognition as sense-making: the way cognitive agents meaningfully connect with their world, based on their needs and goals as self-organizing, self-maintaining, embodied agents. In the social realm, the interactive coordination of embodied sense-making activities with others lets us participate in each other's sense-making (social understanding = participatory sense-making). The enactive approach provides new concepts to overcome the problems of traditional functionalist accounts of autism, which can only give a piecemeal and disintegrated view because they consider cognition, communication, and perception separately, do not take embodied into account, and are methodologically individualistic. Applying the concepts of enaction to autism, I show: How embodiment and sense-making connect, i.e., how autistic particularities of moving, perceiving, and emoting relate to how people with autism make sense of their world. For instance, restricted interests or preference for detail will have certain sensorimotor correlates, as well as specific meaning for autistic people.That reduced flexibility in interactional coordination correlates with difficulties in participatory sense-making. At the same time, seemingly irrelevant \"autistic behaviors\" can be quite attuned to the interactive context. I illustrate this complexity in the case of echolalia. An enactive account of autism starts from the embodiment, experience, and social interactions of autistic people. Enaction brings together the sensorimotor, cognitive, social, experiential, and affective aspects of autism in a coherent framework based on a complex non-linear multi-causality. This foundation allows to build new bridges between autistic people and their often non-autistic context, and to improve quality of life prospects.",
+      "cited_by_count": 363,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Integrative Neuroscience",
+        "type": "journal",
+        "issn": [
+          "1662-5145"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fnint.2013.00015/pdf"
+      },
+      "topics": [
+        "Autism Spectrum Disorder Research",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 326,
+      "url": "https://openalex.org/W2062444032"
+    },
+    {
+      "openalex_id": "W4285105424",
+      "doi": "10.1109/jiot.2022.3176400",
+      "title": "A Survey on the Convergence of Edge Computing and AI for UAVs: Opportunities and Challenges",
+      "authors": [
+        {
+          "name": "Patrick McEnroe",
+          "openalex_id": "A5038296203",
+          "orcid": "https://orcid.org/0000-0001-7175-0333",
+          "institutions": [
+            "University College Dublin"
+          ]
+        },
+        {
+          "name": "Shen Wang",
+          "openalex_id": "A5011845242",
+          "orcid": "https://orcid.org/0000-0003-3660-1206",
+          "institutions": [
+            "University College Dublin"
+          ]
+        },
+        {
+          "name": "Madhusanka Liyanage",
+          "openalex_id": "A5068169019",
+          "orcid": "https://orcid.org/0000-0003-4786-030X",
+          "institutions": [
+            "University College Dublin",
+            "University of Oulu"
+          ]
+        }
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-05-19",
+      "abstract": "The latest 5G mobile networks have enabled many exciting Internet of Things (IoT) applications that employ Unmanned Aerial Vehicles (UAVs/drones). The success of most UAV-based IoT applications is heavily dependent on artificial intelligence (AI) technologies, for instance, computer vision and path planning. These AI methods must process data and provide decisions while ensuring low latency and low energy consumption. However, the existing cloud-based AI paradigm finds it difficult to meet these strict UAV requirements. Edge AI, which runs AI on-device or on edge servers close to users, can be suitable for improving UAV-based IoT services. This paper provides a comprehensive analysis of the impact of edge AI on key UAV technical aspects (i.e., autonomous navigation, formation control, power management, security and privacy, computer vision, and communication) and applications (i.e., delivery systems, civil infrastructure inspection, precision agriculture, search and rescue operations, acting as aerial wireless BSs and drone light shows). As guidance for researchers and practitioners, the paper also explores UAV-based edge AI implementation challenges, lessons learned, and future research directions.",
+      "cited_by_count": 392,
+      "type": "article",
+      "source": {
+        "name": "IEEE Internet of Things Journal",
+        "type": "journal",
+        "issn": [
+          "2327-4662",
+          "2372-2541"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6488907/9866069/09778241.pdf"
+      },
+      "topics": [
+        "UAV Applications and Optimization",
+        "Advanced Neural Network Applications",
+        "Video Surveillance and Tracking Methods"
+      ],
+      "referenced_works_count": 157,
+      "url": "https://openalex.org/W4285105424"
+    },
+    {
+      "openalex_id": "W2144348044",
+      "doi": "10.1186/1687-1499-2014-49",
+      "title": "Cognitive radio for vehicular ad hoc networks (CR-VANETs): approaches and challenges",
+      "authors": [
+        {
+          "name": "Kamal Deep Singh",
+          "openalex_id": "A5109951797",
+          "institutions": [
+            "Orange (France)",
+            "Institut de Recherche en Informatique et Syst\u00e8mes Al\u00e9atoires"
+          ]
+        },
+        {
+          "name": "Priyanka Rawat",
+          "openalex_id": "A5108557044",
+          "institutions": [
+            "Centre Inria de l'Universit\u00e9 de Lille",
+            "Universit\u00e9 de Lille",
+            "Institut national de recherche en sciences et technologies du num\u00e9rique",
+            "Centre National de la Recherche Scientifique"
+          ]
+        },
+        {
+          "name": "Jean\u2010Marie Bonnin",
+          "openalex_id": "A5108286234",
+          "institutions": [
+            "Orange (France)",
+            "Institut de Recherche en Informatique et Syst\u00e8mes Al\u00e9atoires"
+          ]
+        }
+      ],
+      "publication_year": 2014,
+      "publication_date": "2014-03-28",
+      "abstract": null,
+      "cited_by_count": 174,
+      "type": "article",
+      "source": {
+        "name": "EURASIP Journal on Wireless Communications and Networking",
+        "type": "journal",
+        "issn": [
+          "1687-1472",
+          "1687-1499"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://jwcn-eurasipjournals.springeropen.com/counter/pdf/10.1186/1687-1499-2014-49"
+      },
+      "topics": [
+        "Cognitive Radio Networks and Spectrum Sensing",
+        "Vehicular Ad Hoc Networks (VANETs)",
+        "Power Line Communications and Noise"
+      ],
+      "referenced_works_count": 116,
+      "url": "https://openalex.org/W2144348044"
+    },
+    {
+      "openalex_id": "W3086751733",
+      "doi": "10.1109/access.2020.3022981",
+      "title": "Non-Terrestrial Networks in 5G &amp; Beyond: A Survey",
+      "authors": [
+        {
+          "name": "Federica Rinaldi",
+          "openalex_id": "A5067465122",
+          "orcid": "https://orcid.org/0000-0002-8036-7464",
+          "institutions": [
+            "Ericsson (Finland)",
+            "University of Reggio Calabria"
+          ]
+        },
+        {
+          "name": "Helka\u2010Liina M\u00e4\u00e4tt\u00e4nen",
+          "openalex_id": "A5010372409",
+          "institutions": [
+            "Ericsson (Finland)"
+          ]
+        },
+        {
+          "name": "Johan Torsner",
+          "openalex_id": "A5066707764",
+          "institutions": [
+            "Ericsson (Finland)"
+          ]
+        },
+        {
+          "name": "Sara Pizzi",
+          "openalex_id": "A5030005687",
+          "orcid": "https://orcid.org/0000-0002-0550-5978",
+          "institutions": [
+            "University of Reggio Calabria"
+          ]
+        },
+        {
+          "name": "Sergey Andreev",
+          "openalex_id": "A5049711982",
+          "orcid": "https://orcid.org/0000-0001-8223-3665",
+          "institutions": [
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "Antonio Iera",
+          "openalex_id": "A5010762556",
+          "orcid": "https://orcid.org/0000-0001-5414-8252",
+          "institutions": [
+            "University of Calabria"
+          ]
+        },
+        {
+          "name": "Yevgeni Koucheryavy",
+          "openalex_id": "A5015032841",
+          "orcid": "https://orcid.org/0000-0003-3976-297X",
+          "institutions": [
+            "Tampere University"
+          ]
+        },
+        {
+          "name": "Giuseppe Araniti",
+          "openalex_id": "A5039774225",
+          "orcid": "https://orcid.org/0000-0001-8670-9413",
+          "institutions": [
+            "University of Reggio Calabria"
+          ]
+        }
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "abstract": "Fifth-generation (5G) telecommunication systems are expected to meet the world market demands of accessing and delivering services anywhere and anytime. The Non-Terrestrial Network (NTN) systems are able to satisfy the requests of anywhere and anytime connections by offering wide-area coverage and ensuring service availability, continuity, and scalability. In this work, we review the 3GPP NTN features and their potential for satisfying the user expectations in 5G &amp; beyond networks. The state of the art, current 3GPP research activities, and open issues are summarized to highlight the importance of NTN over the wireless communication landscape. Future research directions are also identified to assess the role of NTN in 5G and beyond systems. publishedVersion Peer reviewed",
+      "cited_by_count": 354,
+      "type": "article",
+      "source": {
+        "name": "IEEE Access",
+        "type": "journal",
+        "issn": [
+          "2169-3536"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09193893.pdf"
+      },
+      "topics": [
+        "Satellite Communication Systems",
+        "Advanced Wireless Communication Technologies",
+        "Advanced MIMO Systems Optimization"
+      ],
+      "referenced_works_count": 118,
+      "url": "https://openalex.org/W3086751733"
+    },
+    {
+      "openalex_id": "W2583494560",
+      "doi": "10.1162/artl_a_00219",
+      "title": "What Is Morphological Computation? On How the Body Contributes to Cognition and Control",
+      "authors": [
+        {
+          "name": "Vincent C. M\u00fcller",
+          "openalex_id": "A5026465320",
+          "orcid": "https://orcid.org/0000-0002-4144-4957",
+          "institutions": [
+            "Anatolia College",
+            "University of Leeds"
+          ]
+        },
+        {
+          "name": "Matej Hoffmann",
+          "openalex_id": "A5031321219",
+          "orcid": "https://orcid.org/0000-0001-8137-3412",
+          "institutions": [
+            "Czech Technical University in Prague",
+            "Italian Institute of Technology"
+          ]
+        }
+      ],
+      "publication_year": 2017,
+      "publication_date": "2017-01-31",
+      "abstract": "The contribution of the body to cognition and control in natural and artificial agents is increasingly described as \u201coffloading computation from the brain to the body,\u201d where the body is said to perform \u201cmorphological computation.\u201d Our investigation of four characteristic cases of morphological computation in animals and robots shows that the \u201coffloading\u201d perspective is misleading. Actually, the contribution of body morphology to cognition and control is rarely computational, in any useful sense of the word. We thus distinguish (1) morphology that facilitates control, (2) morphology that facilitates perception, and the rare cases of (3) morphological computation proper, such as reservoir computing, where the body is actually used for computation. This result contributes to the understanding of the relation between embodiment and computation: The question for robot design and cognitive science is not whether computation is offloaded to the body, but to what extent the body facilitates cognition and control\u2014how it contributes to the overall orchestration of intelligent behavior.",
+      "cited_by_count": 173,
+      "type": "article",
+      "source": {
+        "name": "Artificial Life",
+        "type": "journal",
+        "issn": [
+          "1064-5462",
+          "1530-9185"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://direct.mit.edu/artl/article-pdf/23/1/1/1666577/artl_a_00219.pdf"
+      },
+      "topics": [
+        "Neural Networks and Reservoir Computing",
+        "Advanced Memory and Neural Computing",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 86,
+      "url": "https://openalex.org/W2583494560"
+    },
+    {
+      "openalex_id": "W2132551870",
+      "doi": "10.3389/fninf.2011.00004",
+      "title": "Informatics and Data Mining Tools and Strategies for the Human Connectome Project",
+      "authors": [
+        {
+          "name": "Daniel S. Marcus",
+          "openalex_id": "A5103566849",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "John Harwell",
+          "openalex_id": "A5071209889",
+          "orcid": "https://orcid.org/0000-0002-8765-9101",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Timothy R. Olsen",
+          "openalex_id": "A5082898817",
+          "orcid": "https://orcid.org/0000-0003-1267-3774",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Michael R. Hodge",
+          "openalex_id": "A5083596145",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Matthew F. Glasser",
+          "openalex_id": "A5002626271",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Fred Prior",
+          "openalex_id": "A5063662396",
+          "orcid": "https://orcid.org/0000-0002-6314-5683",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Mark Jenkinson",
+          "openalex_id": "A5004220534",
+          "orcid": "https://orcid.org/0000-0001-6043-0166",
+          "institutions": [
+            "University of Oxford"
+          ]
+        },
+        {
+          "name": "Timothy O. Laumann",
+          "openalex_id": "A5077116460",
+          "orcid": "https://orcid.org/0000-0002-0428-427X",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "Sandra W. Curtiss",
+          "openalex_id": "A5081625856",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        },
+        {
+          "name": "David C. Van Essen",
+          "openalex_id": "A5048953880",
+          "orcid": "https://orcid.org/0000-0001-7044-4721",
+          "institutions": [
+            "Washington University in St. Louis"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "The Human Connectome Project (HCP) is a major endeavor that will acquire and analyze connectivity data plus other neuroimaging, behavioral, and genetic data from 1,200 healthy adults. It will serve as a key resource for the neuroscience research community, enabling discoveries of how the brain is wired and how it functions in different individuals. To fulfill its potential, the HCP consortium is developing an informatics platform that will handle: (1) storage of primary and processed data, (2) systematic processing and analysis of the data, (3) open-access data-sharing, and (4) mining and exploration of the data. This informatics platform will include two primary components. ConnectomeDB will provide database services for storing and distributing the data, as well as data analysis pipelines. Connectome Workbench will provide visualization and exploration capabilities. The platform will be based on standard data formats and provide an open set of application programming interfaces (APIs) that will facilitate broad utilization of the data and integration of HCP services into a variety of external applications. Primary and processed data generated by the HCP will be openly shared with the scientific community, and the informatics platform will be available under an open source license. This paper describes the HCP informatics platform as currently envisioned and places it into the context of the overall HCP vision and agenda.",
+      "cited_by_count": 760,
+      "type": "article",
+      "source": {
+        "name": "Frontiers in Neuroinformatics",
+        "type": "journal",
+        "issn": [
+          "1662-5196"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/articles/10.3389/fninf.2011.00004/pdf"
+      },
+      "topics": [
+        "Functional Brain Connectivity Studies",
+        "Advanced MRI Techniques and Applications",
+        "EEG and Brain-Computer Interfaces"
+      ],
+      "referenced_works_count": 38,
+      "url": "https://openalex.org/W2132551870"
+    },
+    {
+      "openalex_id": "W2022347495",
+      "doi": "10.1007/s11277-015-2467-2",
+      "title": "5G: The Convergence of Wireless Communications",
+      "authors": [
+        {
+          "name": "Raul Ch\u00e1vez\u2010Santiago",
+          "openalex_id": "A5012589449",
+          "institutions": [
+            "Norwegian University of Science and Technology"
+          ]
+        },
+        {
+          "name": "Micha\u0142 Szyde\u0142ko",
+          "openalex_id": "A5012126582",
+          "institutions": [
+            "Huawei Technologies (Sweden)"
+          ]
+        },
+        {
+          "name": "Adrian Kliks",
+          "openalex_id": "A5011947791",
+          "orcid": "https://orcid.org/0000-0001-6766-7836",
+          "institutions": [
+            "Pozna\u0144 University of Technology"
+          ]
+        },
+        {
+          "name": "Fotis Foukalas",
+          "openalex_id": "A5067157984",
+          "orcid": "https://orcid.org/0000-0002-6637-1432",
+          "institutions": [
+            "Industrial Systems Institute"
+          ]
+        },
+        {
+          "name": "Yoram Haddad",
+          "openalex_id": "A5070817036",
+          "orcid": "https://orcid.org/0000-0002-4118-2141",
+          "institutions": [
+            "Jerusalem College of Technology"
+          ]
+        },
+        {
+          "name": "Keith Nolan",
+          "openalex_id": "A5112234817",
+          "institutions": [
+            "Intel (Ireland)"
+          ]
+        },
+        {
+          "name": "Mark Kelly",
+          "openalex_id": "A5087760431",
+          "institutions": [
+            "Intel (Ireland)"
+          ]
+        },
+        {
+          "name": "Moshe T. Masonta",
+          "openalex_id": "A5053132055",
+          "institutions": [
+            "Tshwane University of Technology"
+          ]
+        },
+        {
+          "name": "Ilangko Balasingham",
+          "openalex_id": "A5020500091",
+          "institutions": [
+            "University of Oslo"
+          ]
+        }
+      ],
+      "publication_year": 2015,
+      "publication_date": "2015-03-12",
+      "abstract": null,
+      "cited_by_count": 141,
+      "type": "article",
+      "source": {
+        "name": "Wireless Personal Communications",
+        "type": "journal",
+        "issn": [
+          "0929-6212",
+          "1572-834X"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11277-015-2467-2.pdf"
+      },
+      "topics": [
+        "Advanced MIMO Systems Optimization",
+        "Cooperative Communication and Network Coding",
+        "Advanced Wireless Communication Technologies"
+      ],
+      "referenced_works_count": 69,
+      "url": "https://openalex.org/W2022347495"
+    }
+  ],
+  "count": 40,
+  "errors": []
+}

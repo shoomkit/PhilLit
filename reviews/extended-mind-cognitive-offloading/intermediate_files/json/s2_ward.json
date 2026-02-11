@@ -1,0 +1,920 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Ward brain drain smartphone",
+  "results": [
+    {
+      "paperId": "c724e4b77e9085283daa0b6b352a73e3abd7a833",
+      "title": "Brain Drain: The Mere Presence of One\u2019s Own Smartphone Reduces Available Cognitive Capacity",
+      "authors": [
+        {
+          "name": "Adrian F. Ward",
+          "authorId": "30381156"
+        },
+        {
+          "name": "Kristen E. Duke",
+          "authorId": "116165096"
+        },
+        {
+          "name": "Ayelet Gneezy",
+          "authorId": "2539525"
+        },
+        {
+          "name": "M. Bos",
+          "authorId": "24569263"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 578,
+      "doi": "10.1086/691462",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c724e4b77e9085283daa0b6b352a73e3abd7a833",
+      "venue": "Journal of the Association for Consumer Research",
+      "journal": {
+        "name": "Journal of the Association for Consumer Research",
+        "pages": "140 - 154",
+        "volume": "2"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "8ad07164f17c83a17b620c72362d7dceb308a428",
+      "title": "Reexamining the \u201cBrain Drain\u201d Effect: Does Ward et al. (2017) Replicate?",
+      "authors": [
+        {
+          "name": "A. C. Ruiz Pardo",
+          "authorId": "2173082953"
+        },
+        {
+          "name": "J. P. Minda",
+          "authorId": "3379227"
+        }
+      ],
+      "year": 2021,
+      "abstract": "The present study was a pre-registered direct replication of Ward et al.\u2019s (2017) second experiment (OSF pre-registration found at: https://osf.io/5fq4r). This replication assigned both smartphone location (on desk, in pocket/bag, or outside of the testing room) and smartphone power (on, or off) for a total of six conditions. Participants completed an automated operation span (OSpan) task, a cue-dependent go/no-go task, and the smartphone attachment and dependency inventory. It was hypothesized that performance on an attention-demanding task (i.e., the OSpan task) would be worse for those in closer proximity to their smartphone (on desk) and that those with greater smartphone attachment and dependency would have a larger \u201cbrain drain\u201d effect. Using the same tasks and conditions as in Ward et al.\u2019s (2017) second experiment, the present study found that the \u201cbrain drain\u201d effect did not replicate: there was no difference between smartphone location conditions on performance on either the o-span task or the go/no-go task. These findings demonstrate that the mere presence of one\u2019s smartphone may not be enough to affect cognitive performance. Understanding these effects is crucial in a time where smartphones are a basic necessity.",
+      "citationCount": 0,
+      "doi": "10.31234/osf.io/5y34g",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/8ad07164f17c83a17b620c72362d7dceb308a428",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "80a44147023a140d60bceba014ebccc4c50ce9ba",
+      "title": "Does the Brain Drain Effect Really Exist? A Meta-Analysis",
+      "authors": [
+        {
+          "name": "Tobias B\u00f6ttger",
+          "authorId": "2240187369"
+        },
+        {
+          "name": "Michael Poschik",
+          "authorId": "2240199001"
+        },
+        {
+          "name": "Klaus Zierer",
+          "authorId": "2240188204"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Smartphones have become an indispensable part of everyday life. Given the current debate about the use of smartphones in classrooms and schools, it seems appropriate to examine their effects on aspects of cognitive performance in more detail. Ward and colleagues not only demonstrated the negative effect of smartphones on cognitive performance but also showed that the mere presence of these devices can have this effect\u2014this is known as the Brain Drain effect. In the present article, a meta-analytic approach was adopted in order to verify these findings. Here we show a significant overall negative effect of smartphone use and presence. In a database search we identified 22 studies with a total of 43 relevant effects that could be assigned to the categories \u201cmemory\u201d, \u201cattention\u201d, and \u201cgeneral cognitive performance\u201d. A subgroup analysis suggests that not all cognitive domains are equally affected by the negative effect of smartphones. The heterogeneity of the effects reinforces this finding. The nationality of the test subjects or the origin of the studies was identified as a further key variable. Our findings also indicate that the distracting effect of smartphones varies on the area studies and further research is necessary. In view of the present research results, it seems important that people in general, and especially children and adolescents in schools and classrooms, learn how to deal with the distracting potential of smartphones.",
+      "citationCount": 15,
+      "doi": "10.3390/bs13090751",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/80a44147023a140d60bceba014ebccc4c50ce9ba",
+      "venue": "Behavioral Science",
+      "journal": {
+        "name": "Behavioral Sciences",
+        "volume": "13"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "7ada8ecd65832972734209aadfd65e13dc5a165b",
+      "title": "Smartphone and Cognitive Processes: an experimental study on the Brain Drain effect",
+      "authors": [
+        {
+          "name": "Stefano Pileggi",
+          "authorId": "2408544467"
+        },
+        {
+          "name": "Claudia Virginia Manara",
+          "authorId": "2273139333"
+        },
+        {
+          "name": "Serena Mingolo",
+          "authorId": "1450309315"
+        },
+        {
+          "name": "T. Agostini",
+          "authorId": "144377002"
+        },
+        {
+          "name": "Fabrizio Sors",
+          "authorId": "4027286"
+        },
+        {
+          "name": "Mauro Murgia",
+          "authorId": "35245557"
+        }
+      ],
+      "year": 2025,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7ada8ecd65832972734209aadfd65e13dc5a165b",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "journal": null,
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "5a3add0bd685c076552fb00ef2af839d55dffcc3",
+      "title": "Does the Mere Presence of a Smartphone Impact Cognitive Performance? A Meta-Analysis of the \u201cBrain Drain Effect\u201d",
+      "authors": [
+        {
+          "name": "Douglas A. Parry",
+          "authorId": "2268283418"
+        }
+      ],
+      "year": 2023,
+      "abstract": "ABSTRACT A growing body of research investigates the general possibility that the mere presence of a smartphone might negatively impact cognitive performance, with some researchers posing the \u201cbrain drain\u201d hypothesis which posits that smartphone presence will impair working memory capacity and fluid intelligence, but not sustained attention and response inhibition. To assess the strength of evidence for the claim that the mere presence of a smartphone can negatively impact cognitive performance, this study reports a systematic review and six meta-analyses (k\u2009=\u200956, n\u2009=\u20097093). Across cognitive functions, only a single statistically significant pooled effect was found. Working memory capacity was negatively impacted by the mere presence of a smartphone, while results for the remaining cognitive functions produced null summary effects. The analysis also finds that there is substantial methodological heterogeneity and generally poor statistical power in the domain. Overall, while the current meta-analysis provides limited support for a negative albeit smaller than theorized brain drain effect due to the mere presence of a smartphone, given methodological concerns, the extent to which the current body of literature can support or refute the hypothesis is limited.",
+      "citationCount": 10,
+      "doi": "10.1080/15213269.2023.2286647",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5a3add0bd685c076552fb00ef2af839d55dffcc3",
+      "venue": "Media Psychology",
+      "journal": {
+        "name": "Media Psychology",
+        "pages": "737 - 762",
+        "volume": "27"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "ed2718900d70953ab5d9ab17b1cd15d300be70e1",
+      "title": "Brain drain \u2013 A smartphone side-e \ufb00 ect",
+      "authors": [
+        {
+          "name": "Loan Nguyen",
+          "authorId": "2250941527"
+        }
+      ],
+      "year": 2023,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ed2718900d70953ab5d9ab17b1cd15d300be70e1",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "109591ac39f938fc0515ac9e615953e5a40a5818",
+      "title": "Reexamining the \"brain drain\" effect: A replication of Ward et al. (2017).",
+      "authors": [
+        {
+          "name": "A. C. Ruiz Pardo",
+          "authorId": "2173082953"
+        },
+        {
+          "name": "J. P. Minda",
+          "authorId": "3379227"
+        }
+      ],
+      "year": 2022,
+      "abstract": null,
+      "citationCount": 11,
+      "doi": "10.1016/j.actpsy.2022.103717",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/109591ac39f938fc0515ac9e615953e5a40a5818",
+      "venue": "Acta Psychologica",
+      "journal": {
+        "name": "Acta psychologica",
+        "pages": "\n          103717\n        ",
+        "volume": "230"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "674a1bf0dde5f5e9e3b643d8797c5668054a6509",
+      "title": "Does a smartphone on the desk drain our brain? No evidence of cognitive costs due to smartphone presence in a short-term and prospective memory task",
+      "authors": [
+        {
+          "name": "M. Hartmann",
+          "authorId": "48363133"
+        },
+        {
+          "name": "C. Martarelli",
+          "authorId": "3367765"
+        },
+        {
+          "name": "Thomas P. Reber",
+          "authorId": "36490093"
+        },
+        {
+          "name": "N. Rothen",
+          "authorId": "6641083"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 25,
+      "doi": "10.1016/j.concog.2020.103033",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/674a1bf0dde5f5e9e3b643d8797c5668054a6509",
+      "venue": "Consciousness and Cognition",
+      "journal": {
+        "name": "Consciousness and Cognition",
+        "volume": "86"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "a568efe4d9b9b33711464db681ac07f9d2498198",
+      "title": "Exploring the usability of a smartphone application to monitor fatigue and activity for people with acquired brain injury",
+      "authors": [
+        {
+          "name": "Leisle Ezekiel",
+          "authorId": "4819331"
+        },
+        {
+          "name": "J. J. Veiga",
+          "authorId": "23540879"
+        },
+        {
+          "name": "Tom\u00e1s Ward",
+          "authorId": "2103989084"
+        },
+        {
+          "name": "H. Dawes",
+          "authorId": "2142648875"
+        },
+        {
+          "name": "J. Collett",
+          "authorId": "120472990"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Background: Fatigue after acquired brain injury (ABI) leads to detrimental changes in ABI survivors\u2019 daily activities and participation. There is a need to capture individual\u2019s experience of fatigue as it happens, to better support self-management of fatigue. Study aims: To investigate the usability of a real-time tracker of fatigue and activity (using ecological momentary assessment delivered by a smartphone application) and the feasibility of capturing activity and environmental factors using phone sensors. Methods: Participants wore an activity monitor and completed up to eight surveys a day on a smartphone app, for 6\u2009days, completed the system usability scale (SUS) and were interviewed on their views of using the app. Interview transcripts were analysed using qualitative content analysis. Agreement between data from the phone\u2019s sensors and the activity monitor was analysed using Kappa statistics. Results: Seven participants completed between 11 and 58 surveys. Mean score on the SUS indicated good perceived usability of the app. Phone sensors did not reliably capture physical activity or background noise. Participants found the app easy to use and perceived self-monitoring to help their understanding of fatigue. A fatigue-tracking app may be acceptable to ABI survivors and has potential to aid self-management of fatigue.",
+      "citationCount": 4,
+      "doi": "10.1177/03080226231183293",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a568efe4d9b9b33711464db681ac07f9d2498198",
+      "venue": "British Journal of Occupational Therapy",
+      "journal": {
+        "name": "The British Journal of Occupational Therapy",
+        "pages": "767 - 776",
+        "volume": "86"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "31f863ad55895a6d47843fcde9ca83ead4aaa027",
+      "title": "Investigating the determinants of brain drain of healthcare professionals in developing countries: the case of registered nurses in Malawi health sector",
+      "authors": [
+        {
+          "name": "Andrew Chimenya",
+          "authorId": "121952742"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/31f863ad55895a6d47843fcde9ca83ead4aaa027",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "ca1e88469ab7facedb95e6c1c057cee91d949e5e",
+      "title": "Migration of Nigerians to Canada for undergraduate education: Implications of the brain drain for development",
+      "authors": [
+        {
+          "name": "C. Adeyanju",
+          "authorId": "81823316"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/978-3-319-62443-3_11",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/ca1e88469ab7facedb95e6c1c057cee91d949e5e",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "243-265",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "b465c42ca9dd4db5199a25c4b1e18295df885638",
+      "title": "Original research evaluation of risk factors in patients with cerebral Haemorrhage requiring ventriculoperitoneal shunt after initial external ventricular drain implantation in Golestan hospital of ahvaz in 2019-2020",
+      "authors": [
+        {
+          "name": "Saleh. Rasras",
+          "authorId": "49214383"
+        },
+        {
+          "name": "H. Safari",
+          "authorId": "12117658"
+        },
+        {
+          "name": "Armin Jahangiri Babadi",
+          "authorId": "1393870869"
+        },
+        {
+          "name": "Mostafa Ahmadi Milasi",
+          "authorId": "2190853665"
+        },
+        {
+          "name": "A. Kiani",
+          "authorId": "46648962"
+        },
+        {
+          "name": "E. Farhadi",
+          "authorId": "145621685"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Background: A significant number of studies have explored the risk factors in patients requiring a cerebrospinal fluid (CSF) shunt following presentation with hydrocephalus, secondary to various types of cerebral haemorrhage, other brain disorders and complications. In this study, we intend to explore the risk factors in patients with Spontaneous cerebral haemorrhage that require ventriculoperitoneal shunt following initial implantation of an external ventricular drain. Methods: This study was based at the neurosurgery ward of Golestan Hospital in Ahvaz. We looked at all patients between the ages of 17 and 80 years who were admitted between 2019 and 2020 with\u00a0 spontaneous cerebral haemorrhage and were treated with an external ventricular drain (EVD). After the group was filtered for inclusion & exclusion criteria discussed later, their risk factors for dependence on long-term CSF drainage by ventriculoperitoneal shunt were evaluated. Data analysis, both descriptive and statistical were performed by SPSS software version 25. Results: It was observed that old age, brain surgery (except for EVD implantation), presence of underlying comorbidities including hypertension and Diabetes mellitus, duration of intubation categorised into three classes, <7 days, 7-14 days and >14 days, daily EVD quantity, EVD duration, distance from burr hole entry to the EVD exit site.",
+      "citationCount": 0,
+      "doi": "10.53730/ijhs.v6ns7.13650",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/b465c42ca9dd4db5199a25c4b1e18295df885638",
+      "venue": "International Journal of Health Sciences",
+      "journal": {
+        "name": "International journal of health sciences"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "4f244f0e8005cf8177de266feba6a764488bad21",
+      "title": "Brain-In-Hand technology for adults with acquired brain injury: A convergence of mixed methods findings",
+      "authors": [
+        {
+          "name": "J. Kettlewell",
+          "authorId": "151053097"
+        },
+        {
+          "name": "Asha Ward",
+          "authorId": "2184631265"
+        },
+        {
+          "name": "R. das Nair",
+          "authorId": "6265566"
+        },
+        {
+          "name": "K. Radford",
+          "authorId": "2065159827"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Introduction Individuals with acquired brain injury may find it difficult to self-manage and live independently. Brain-in-Hand is a smartphone app designed to support psychological problems and encourage behaviour change, comprised of a structured diary, reminders, agreed solutions, and traffic light monitoring system. Aim To evaluate the potential use and effectiveness of Brain-in-Hand for self-management in adults with acquired brain injury. Methods A-B mixed-methods case-study design. Individuals with acquired brain injury (n = 10) received Brain-in-Hand for up to 12 months. Measures of mood, independence, quality of life, cognition, fatigue, goal attainment, participation administered at baseline, 6 and 12 months. Semi-structured interviews conducted with acquired brain injury participants (n = 9) and healthcare workers (n = 3) at 6 months. Results Significant increase in goal attainment after 6 months use (t(7) = 4.20, p = .004). No significant improvement in other outcomes. Qualitative data suggested improvement in anxiety management. Contextual (personal/environmental) factors were key in influencing the use and effectiveness of Brain-in-Hand. Having sufficient insight, appropriate support and motivation facilitated use. Conclusions Brain-in-Hand shows potential to support acquired brain injury, but further work is required to determine its effectiveness. Context played a pivotal role in the effectiveness and sustained use of Brain-in-Hand, and needs to be explored to support implementation.",
+      "citationCount": 2,
+      "doi": "10.1177/20556683221117759",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4f244f0e8005cf8177de266feba6a764488bad21",
+      "venue": "Journal of Rehabilitation and Assistive Technologies Engineering",
+      "journal": {
+        "name": "Journal of Rehabilitation and Assistive Technologies Engineering",
+        "volume": "9"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "4b5b1cba84b4fdee8a0a223d04082d7e1d4939b6",
+      "title": "Correlation of Optic Nerve Sheath Diameter with Direct Measurement of Intracranial Pressure through an External Ventricular Drain",
+      "authors": [
+        {
+          "name": "M. A. Ali",
+          "authorId": "2157756301"
+        },
+        {
+          "name": "M. Hashmi",
+          "authorId": "2056471959"
+        },
+        {
+          "name": "S. Shamim",
+          "authorId": "145652230"
+        },
+        {
+          "name": "B. Salam",
+          "authorId": "117799514"
+        },
+        {
+          "name": "S. Siraj",
+          "authorId": "39550660"
+        },
+        {
+          "name": "Bushra",
+          "authorId": "2408954906"
+        },
+        {
+          "name": "Salim",
+          "authorId": "2408955497"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Background Early diagnosis and management of raised intracranial pressure (ICP) is essential for preventing brain damage and even death. Invasive monitoring is the gold standard to measure raised ICP but it may not be feasible in a heterogeneous group of patients. Noninvasively, a simple bedside ocular ultrasound can detect elevated ICP. The aim of our study was to evaluate the correlation between optic nerve sheath diameter (ONSD) and direct ICP measurements and to determine sensitivity and specificity of ONSD measurements to detect elevated ICP (>15 cm H2O). Methods This prospective study was conducted at the intensive care unit/high dependency units/wards of Aga Khan University Hospital. Patients with external ventricular drain (EVD) for intracranial hypertension were enrolled. Ocular ultrasound was performed with a 7.5 MHz linear probe. For each subject, three measurements on each eye were performed and the mean of the six measurements was determined. EVD was temporarily occluded and the ICP was recorded every minute for five minutes. A receiver operative characteristics (ROC) curve was constructed to determine the optimal ONSD cutoff to detect ICP above 15 cm H2O. Results A total of 35 adult patients were included in this study. The ONSD was linearly correlated with ICP in both right and left eyes (r = 0.662, p = 0.0005 and r = 0.449; p < 0.002) respectively. Pearson correlation of ONSD between two eyes (right and left) was 0.749; p = 0.0005 and 0.726; p = 0.005 at day 1 and day 2, respectively. ROC curve was created and observed that AUC of right and left eyes was 0.815 (95% CI: 0.61 to 0.99) and 0.69 (95% CI: 0.37 to 0.99). Conclusion According to this study, ventriculostomy measurements of ICP are directly correlated with ultrasound ONSD measurements. Hence, we conclude that ONSD measured by ocular ultrasound is a simple yet effective method to detect raised ICP.",
+      "citationCount": 11,
+      "doi": "10.7759/cureus.5777",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/4b5b1cba84b4fdee8a0a223d04082d7e1d4939b6",
+      "venue": "Cureus",
+      "journal": {
+        "name": "Cureus",
+        "volume": "11"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "5b136baf39217660109a3d3f9dee608db32cedef",
+      "title": "The dark side of FinTech in\u00a0financial services: a qualitative enquiry into FinTech developers\u2019 perspective",
+      "authors": [
+        {
+          "name": "Brinda Sampat",
+          "authorId": "101712627"
+        },
+        {
+          "name": "E. Mogaji",
+          "authorId": "52563419"
+        },
+        {
+          "name": "N. P. Nguyen",
+          "authorId": "120729327"
+        }
+      ],
+      "year": 2023,
+      "abstract": "Purpose FinTech offers numerous prospects for significant enhancements and fundamental changes in financial services. However, along with the myriad of benefits, it also has the potential to induce risks to individuals, organisations and society. This study focuses on understanding FinTech developers\u2019 perspective of the dark side of FinTech.Design/methodology/approach This study conducted semi-structured interviews with 23 Nigerian FinTech developers using an exploratory, inductive methodology The data were transcribed and then thematically analysed using NVivo.Findings Three themes \u2013 customer vulnerability, technical inability and regulatory irresponsibility \u2013 arose from the thematic analysis. The poor existing technological infrastructure, data management challenges, limited access to data and smartphone adoption pose challenges to a speedy integration of FinTech in the country, making customers vulnerable. The lack of privacy control leads to ethical issues. The lack of skilled developers and the brain drain of good developers present additional obstacles to the development of FinTech in Nigeria.Research limitations/implications FinTech operation in a developing country differs from that in developed countries with better technological infrastructure and institutional acceptance. This study recognises that basic banking operations through FinTech are still not well adopted, necessitating the need to be more open-minded about the global practicalities of FinTech.Practical implications FinTech managers, banks and policymakers can ethically collect consumer data that can help influence customer credit decisions, product development and recommendations using the mobile app and transaction history. There should be strict penalties on FinTech for selling customers\u2019 data, sending unsolicited messages or gaining unnecessary access to the customer\u2019s contact list. FinTech can offer to educate consumers about their financial management skills.Originality/valueWhereas other studies have focused on the positive aspects of FinTech to understand client perceptions, this study offers new insights into the dark side of FinTech by analysing the viewpoints of FinTech developers. Furthermore, the study is based in Nigeria, an emerging economy adopting FinTech, adding a new dimension to the body of knowledge.",
+      "citationCount": 75,
+      "doi": "10.1108/ijbm-07-2022-0328",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5b136baf39217660109a3d3f9dee608db32cedef",
+      "venue": "International Journal of Bank Marketing",
+      "journal": {
+        "name": "International Journal of Bank Marketing"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "c81051076aa50efe1e0805312fe597427d64e82d",
+      "title": "Post-stroke Urinary Tract Infections and Their Outcome: A Clinico-microbiological and Epidemiological Analysis",
+      "authors": [
+        {
+          "name": "N. Hosseinzadeh",
+          "authorId": "2347320253"
+        },
+        {
+          "name": "A. Khabbaz",
+          "authorId": "2347320398"
+        },
+        {
+          "name": "S. Ahmadi",
+          "authorId": "2347301807"
+        },
+        {
+          "name": "S. S. Hejazian",
+          "authorId": "2347320487"
+        },
+        {
+          "name": "H. Salehi-Pourmehr",
+          "authorId": "2347324861"
+        },
+        {
+          "name": "R. Hasani",
+          "authorId": "2066977635"
+        },
+        {
+          "name": "F. Tahmasbi",
+          "authorId": "2347316979"
+        },
+        {
+          "name": "R. Mehdizadeh",
+          "authorId": "2347327372"
+        },
+        {
+          "name": "S. Torabi",
+          "authorId": "2347317202"
+        },
+        {
+          "name": "M. Farhoudi",
+          "authorId": "2347317119"
+        },
+        {
+          "name": "A. Hasani",
+          "authorId": "2263209826"
+        }
+      ],
+      "year": 2025,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1101/2025.02.25.25322904",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c81051076aa50efe1e0805312fe597427d64e82d",
+      "venue": "medRxiv",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "7aa24bb6b5e51a70c81d8794ce30322010460719",
+      "title": "Brain abscess: Epidemiological study in a Pediatric Neurosurgery Department of Bangladesh",
+      "authors": [],
+      "year": 2022,
+      "abstract": "Background: Brain abscess is a relatively uncommon but life-threatening infection in children. It can originate from contiguous site infections (eg, chronic otitis media, mastoiditis, sinusitis, meningitis), from distant pathologic states (eg, cyanotic congenital heart disease, chronic lung infections), after head trauma or neurosurgical procedures, or from cryptogenic sources. Predominant etiologic microorganisms vary depending on these predisposing factors. Proper selection of antimicrobial agents with good penetration of the central nervous system and with adequate coverage of both anaerobic and aerobic bacteria is critical for the medical management of brain abscess. Delay in surgical drainage can be associated with high morbidity and casefatality rates.\nMethods: The study was carried out at Department of Paediatric Neurosurgery, NINS&H, Dhaka from November 2017 to till date. Data collection sheet was used to collect the necessary information. Subjects was included from a NINS Pediatrics neurosurgery electronic registry. Structured questionnaire was used to collect the necessary information. Risks and benefits of this study were explained to the patient and patient\u2019s legal guardian/parents in an easily understandable local language. Informed written consent was taken from each guardian before data collection.\nResults: Most of the patients were within >5 years age group 21 (38.3%). Second large were <2 years age group 19 (34.5%). According to gender. 33 (60%) patients were males and 22 (40%) patients were females. Distribution of subjects among OPD patients and admitted patients. 41 patients were admitted indoor among 55 patients. Predisposing factors were identified in 24 of 41 admitted cases. 11 abscesses developed in a child with cyanotic congenital heart disease (CCHD) and 2 occurred after head trauma. 2 abscesses were secondary to ear infections. In 28 patients, the abscess was drained through a burr hole, without the need for craniotomy; the other 4 underwent open craniotomy. 9 patients improved only with conservative management. Among the admitted patients, 34 patients were discharged from the ward in clinically stable conditions and 7 patients expired.\nConclusion: Advances in the diagnosis and treatment of brain abscess and subdural empyema with neuroimaging techniques such as computerized tomography, magnetic resonance imaging, magnetic resonance spectroscopy, the availability of new antimicrobials, and the development of novel surgical techniques have significantly contributed to the decreased morbidity and mortality associated these infections.\nBang. J Neurosurgery 2022; 11(2): 70-74",
+      "citationCount": 0,
+      "doi": "10.3329/bjns.v11i2.61448",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/7aa24bb6b5e51a70c81d8794ce30322010460719",
+      "venue": "Bangladesh Journal of Neurosurgery",
+      "journal": {
+        "name": "Bangladesh Journal of Neurosurgery"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1fdc90433800ba8156413bfc2f12cdb75788f2d0",
+      "title": "Brain abscess: Epidemiological study in a Pediatric Neurosurgery Department of Bangladesh",
+      "authors": [
+        {
+          "name": "A. Mahbub",
+          "authorId": "104768843"
+        },
+        {
+          "name": "S. K. Mukherjee",
+          "authorId": "2153293538"
+        },
+        {
+          "name": "D. M. Arman",
+          "authorId": "2296888891"
+        },
+        {
+          "name": "Sk Md Ekramullah",
+          "authorId": "1382024676"
+        },
+        {
+          "name": "Md Ziauddin",
+          "authorId": "2290644164"
+        },
+        {
+          "name": "Md Farid Raihan",
+          "authorId": "2184347669"
+        },
+        {
+          "name": "Md Nafaur Rahman",
+          "authorId": "2167718660"
+        },
+        {
+          "name": "Ziaul Hoq",
+          "authorId": "121297802"
+        },
+        {
+          "name": "Md Ruhul Moktadir",
+          "authorId": "2137100663"
+        },
+        {
+          "name": "Moshiur Rahman",
+          "authorId": "2321543542"
+        }
+      ],
+      "year": 2022,
+      "abstract": "Background: Brain abscess is a relatively uncommon but life-threatening infection in children. It can originate from contiguous site infections (eg, chronic otitis media, mastoiditis, sinusitis, meningitis), from distant pathologic states (eg, cyanotic congenital heart disease, chronic lung infections), after head trauma or neurosurgical procedures, or from cryptogenic sources. Predominant etiologic microorganisms vary depending on these predisposing factors. Proper selection of antimicrobial agents with good penetration of the central nervous system and with adequate coverage of both anaerobic and aerobic bacteria is critical for the medical management of brain abscess. Delay in surgical drainage can be associated with high morbidity and casefatality rates.\nMethods: The study was carried out at Department of Paediatric Neurosurgery, NINS&H, Dhaka from November 2017 to till date. Data collection sheet was used to collect the necessary information. Subjects was included from a NINS Pediatrics neurosurgery electronic registry. Structured questionnaire was used to collect the necessary information. Risks and benefits of this study were explained to the patient and patient\u2019s legal guardian/parents in an easily understandable local language. Informed written consent was taken from each guardian before data collection.\nResults: Most of the patients were within >5 years age group 21 (38.3%). Second large were <2 years age group 19 (34.5%). According to gender. 33 (60%) patients were males and 22 (40%) patients were females. Distribution of subjects among OPD patients and admitted patients. 41 patients were admitted indoor among 55 patients. Predisposing factors were identified in 24 of 41 admitted cases. 11 abscesses developed in a child with cyanotic congenital heart disease (CCHD) and 2 occurred after head trauma. 2 abscesses were secondary to ear infections. In 28 patients, the abscess was drained through a burr hole, without the need for craniotomy; the other 4 underwent open craniotomy. 9 patients improved only with conservative management. Among the admitted patients, 34 patients were discharged from the ward in clinically stable conditions and 7 patients expired.\nConclusion: Advances in the diagnosis and treatment of brain abscess and subdural empyema with neuroimaging techniques such as computerized tomography, magnetic resonance imaging, magnetic resonance spectroscopy, the availability of new antimicrobials, and the development of novel surgical techniques have significantly contributed to the decreased morbidity and mortality associated these infections.\nBang. J Neurosurgery 2022; 11(2): 70-74",
+      "citationCount": 0,
+      "doi": "10.3329/bjns.v11i2.61448",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1fdc90433800ba8156413bfc2f12cdb75788f2d0",
+      "venue": "Bangladesh Journal of Neurosurgery",
+      "journal": {
+        "name": "Bangladesh Journal of Neurosurgery"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "d8c7d7a77bf978e647652a39d2ca85788040ebb0",
+      "title": "Patterns of Interhemisphere Interactions on Waking from Brief Episodes of Daytime Sleep",
+      "authors": [
+        {
+          "name": "A. E. Manaenkov",
+          "authorId": "2272903944"
+        },
+        {
+          "name": "N. V. Ligun",
+          "authorId": "2278953497"
+        },
+        {
+          "name": "D. S. Sveshnikov",
+          "authorId": "2273183232"
+        },
+        {
+          "name": "E. Yakunina",
+          "authorId": "11726580"
+        },
+        {
+          "name": "V. I. Torshin",
+          "authorId": "2327597831"
+        },
+        {
+          "name": "V. Dorokhov",
+          "authorId": "2259978818"
+        }
+      ],
+      "year": 2024,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/s11055-024-01735-2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d8c7d7a77bf978e647652a39d2ca85788040ebb0",
+      "venue": "Neuroscience and Behavioral Physiology",
+      "journal": {
+        "name": "Neuroscience and Behavioral Physiology",
+        "pages": "1361 - 1368",
+        "volume": "54"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f0e1fbffddefc7dff8e63f713753587a6505a256",
+      "title": "Defining New Research Questions and Protocols in the Field of Traumatic Brain Injury through Public Engagement: Preliminary Results and Review of the Literature",
+      "authors": [
+        {
+          "name": "Shumaila Hasan",
+          "authorId": "33373523"
+        },
+        {
+          "name": "A. Chari",
+          "authorId": "3790515"
+        },
+        {
+          "name": "M. Ganau",
+          "authorId": "2139598"
+        },
+        {
+          "name": "C. Uff",
+          "authorId": "35189857"
+        }
+      ],
+      "year": 2019,
+      "abstract": "Traumatic brain injury (TBI) is the most common cause of death and disability in the age group below 40 years. The financial cost of loss of earnings and medical care presents a massive burden to family, society, social care, and healthcare, the cost of which is estimated at \u00a31 billion per annum (about brain injury (online)). At present, we still lack a full understanding on the pathophysiology of TBI, and biomarkers represent the next frontier of breakthrough discoveries. Unfortunately, many tenets limit their widespread adoption. Brain tissue sampling is the mainstay of diagnosis in neuro-oncology; following on this path, we hypothesise that information gleaned from neural tissue samples obtained in TBI patients upon hospital admission may correlate with outcome data in TBI patients, enabling an early, accurate, and more comprehensive pathological classification, with the intent of guiding treatment and future research. We proposed various methods of tissue sampling at opportunistic times: two methods rely on a dedicated sample being taken; the remainder relies on tissue that would otherwise be discarded. To gauge acceptance of this, and as per the guidelines set out by the National Research Ethics Service, we conducted a survey of TBI and non-TBI patients admitted to our Trauma ward and their families. 100 responses were collected between December 2017 and July 2018, incorporating two redesigns in response to patient feedback. 75.0% of respondents said that they would consent to a brain biopsy performed at the time of insertion of an intracranial pressure (ICP) bolt. 7.0% replied negatively and 18.0% did not know. 70.0% would consent to insertion of a jugular bulb catheter to obtain paired intracranial venous samples and peripheral samples for analysis of biomarkers. Over 94.0% would consent to neural tissue from ICP probes, external ventricular drains (EVD), and lumbar drains (LD) to be salvaged, and 95.0% would consent to intraoperative samples for further analysis.",
+      "citationCount": 13,
+      "doi": "10.1155/2019/9101235",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f0e1fbffddefc7dff8e63f713753587a6505a256",
+      "venue": "Emergency Medicine International",
+      "journal": {
+        "name": "Emergency Medicine International",
+        "volume": "2019"
+      },
+      "publicationTypes": [
+        "JournalArticle",
+        "Review"
+      ]
+    },
+    {
+      "paperId": "2e2f28fc5fa4406cdb5191d3361d2e6df025c730",
+      "title": "EFFECT OF ACTIVE CYCLE OF BREATHING TECHNIQUE AND INCENTIVE SPIROMETRY ON SPO2, CHEST EXPANSION AND DYSPNOEA IN A PATIENT WITH PLEURAL EFFUSION CAUSED BY MALIGNANT LUNG CARCINOMA: A CASE STUDY",
+      "authors": [
+        {
+          "name": "Disha Mehta",
+          "authorId": "2338116803"
+        },
+        {
+          "name": "Saumi Sinha",
+          "authorId": "2338260919"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Background: Lung carcinoma, is a cancer that starts in the tissues of the lungs. It is typified by the lung's aberrant cells growing out of control,\nwhich can lead to tumors and impair regular breathing. Pleural effusion is a common occurrence in lung carcinoma. Cancer cells cause secretion of\nexcess pleural fluid and prevent it from draining properly, causing pleural inflammation and accumulation of fluid in pleural cavity. This can lead to\ninflammation of the pleura and a buildup of fluid in the pleural space. ACBT can significantly improve secretion removal, SPO2, chest expansion\nand dyspnoea in patients with lung carcinoma. The forced expiratory technique (FET), thoracic expansion exercises, and breathing regulation\ncomprise the cycle of ACBT. A 53-year-old female agricultural worker with lung carcinoma was admitte Case Description: d in the oncology ward\nof a tertiary care hospital. The auscultatory findings of the patient are reduced air entry and presence of crackles in all lobes. Investigations of the\nlung and brain reveal right lung carcinoma with brain metastasis. The patient was in long sitting p Intervention: osition. Pre -measurements was\ndone on the patient. After that 3cycles of ACBT with 3 sets of incentive spirometry was done. The vital signs were constantly monitored during the\nintervention. The intervention was performed for 14 days and after 14 days post-measurements was done. Patient who received active Result:\ncycle of breathing technique with incentive spirometry showed more improvement in all the three parameters. This clinical study Conclusion:\nconcludes that ACBT, Incentive spirometry helps to improve chest expansion, dyspnoea and SPO2 in lung carcinoma patients.",
+      "citationCount": 0,
+      "doi": "10.36106/ijsr/2112625",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/2e2f28fc5fa4406cdb5191d3361d2e6df025c730",
+      "venue": "International journal of scientific research",
+      "journal": {
+        "name": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "e69e01a41ad9437d8290e6d918582ca5980620d0",
+      "title": "The Role of Sedation and Local Anesthesia in Acute Subdural Hematoma Surgery in the Elderly Popula-tion",
+      "authors": [
+        {
+          "name": "M. C. K\u0131l\u0131n\u00e7",
+          "authorId": "50700323"
+        },
+        {
+          "name": "A. K\u0131sa",
+          "authorId": "82353482"
+        },
+        {
+          "name": "B. C. Alpergin",
+          "authorId": "2121225969"
+        },
+        {
+          "name": "Emre Bahir Mete",
+          "authorId": "2210970047"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Objective: Subdural hematoma is a common cause of morbidity and mortality in the elderly population. Surgical and anesthetic techniques for managing this condition have evolved over time. While literature extensively compares surgical outcomes of chronic subdural hematoma(CSDH) under general anesthesia versus sedation, our study uniquely focuses on acute subdural hematoma(ASH) cases from a similar perspective. \n \nMaterial and Methods: Between 2020-2024, 54 patients aged 65 and older underwent surgery for ASH. They were divided into two groups: sedation(n=26) and general anesthesia(n=28). Surgical duration, length of stay in regular ward and intensive care unit(ICU), and mortality rates were retrospectively analyzed from hospital databases. The general anesthesia group received appropriate doses of midazolam, fentanyl, propofol, rocuronium, whereas the sedation group received midazolam, fentanyl, propofol. Subdural drains were placed in all patients and removed after postoperative brain computed tomography. \n \nResults: Mortality rate was significantly lower in the sedation group compared to the general anesthesia group(p=0.024). Surgical duration was shorter in the sedation group(p",
+      "citationCount": 0,
+      "doi": "10.52827/hititmedj.1516513",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/e69e01a41ad9437d8290e6d918582ca5980620d0",
+      "venue": "Hitit medical journal",
+      "journal": {
+        "name": "Hitit Medical Journal"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d770b15e419cea5fe0e965f3eccf3d2a6c3acdfe",
+      "title": "Design A Voice App Controlled IoT Based Water Tank System",
+      "authors": [
+        {
+          "name": "M.Madhuri",
+          "authorId": "2289323060"
+        },
+        {
+          "name": "B.Sridhar",
+          "authorId": "2286081586"
+        },
+        {
+          "name": "D. Ece",
+          "authorId": "2285131017"
+        },
+        {
+          "name": "K.Siddardha",
+          "authorId": "2289459907"
+        },
+        {
+          "name": "K.Anusha",
+          "authorId": "2289224794"
+        }
+      ],
+      "year": 2023,
+      "abstract": "An IoT-based water tank system controlled by a voice app is a system that allows users to remotely monitor and control the water level in a tank using a voice-enabled device, such as a smartphone or smart speaker. The system consists of hardware components, including sensors to measure the water level, a valve or pump to control the flow of water, and a microcontroller or single-board computer to act as the brain of the system. The system also includes a communication module to connect it to the internet and a cloud platform to host the IoT application and manage the data from the system. The voice app allows users to check the current water level, fill or drain the tank, and set alerts for when the water level reaches a certain threshold. The system can be used for a variety of purposes, such as irrigation, household use, or industrial processes. By enabling remote monitoring and control of the water tank, the system can improve efficiency and reduce the risk of water shortages or excesses.",
+      "citationCount": 0,
+      "doi": "10.1109/SCEECS57921.2023.10063007",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d770b15e419cea5fe0e965f3eccf3d2a6c3acdfe",
+      "venue": "2023 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS)",
+      "journal": {
+        "name": "2023 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS)",
+        "pages": "1-5"
+      },
+      "publicationTypes": [
+        "Conference"
+      ]
+    },
+    {
+      "paperId": "f4151704dd7eac535c449cb1010833cb8bb14ce7",
+      "title": "COGNITIVE HETEROGENEITY IN BD: VALIDITY, TRAJECTORIES AND BIOLOGICAL MECHANISMS | Cognitive validation of cross- diagnostic cognitive subgroups on the schizophrenia- bipolar spectrum bipolar I disorder: Relation to clinical and brain volumetric variables",
+      "authors": [
+        {
+          "name": "C. Lima",
+          "authorId": "2256988777"
+        },
+        {
+          "name": "Jair C. Soares",
+          "authorId": "2055895728"
+        },
+        {
+          "name": "Jo\u00e3o Quevedo",
+          "authorId": "2241353297"
+        },
+        {
+          "name": "Gabriel R. Fries",
+          "authorId": "2256540014"
+        },
+        {
+          "name": "C. Nascimento",
+          "authorId": "144811999"
+        },
+        {
+          "name": "P. Nunes",
+          "authorId": "2174520512"
+        },
+        {
+          "name": "C. Suemoto",
+          "authorId": "145777483"
+        },
+        {
+          "name": "Roberta",
+          "authorId": "2339367150"
+        },
+        {
+          "name": "D. Rodriguez",
+          "authorId": "2340007018"
+        },
+        {
+          "name": "Renata E. P. Leite",
+          "authorId": "2323545709"
+        },
+        {
+          "name": "Lea T. Grinberg",
+          "authorId": "2238667637"
+        },
+        {
+          "name": "Carlos Augusto",
+          "authorId": "2361500458"
+        },
+        {
+          "name": "Pasqualucci",
+          "authorId": "2339367161"
+        },
+        {
+          "name": "W. Jacob-Filho",
+          "authorId": "83761885"
+        },
+        {
+          "name": "Ricardo Nitrini",
+          "authorId": "2275091596"
+        },
+        {
+          "name": "Helena Paula",
+          "authorId": "2339362413"
+        },
+        {
+          "name": "Brentani",
+          "authorId": "2339371031"
+        },
+        {
+          "name": "B. Lafer",
+          "authorId": "2276701165"
+        }
+      ],
+      "year": 2021,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f4151704dd7eac535c449cb1010833cb8bb14ce7",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "9a3a92b98bd4bbdb9d2a8d8bbf54f9de7dd956fd",
+      "title": "Marketing smart tourism cities \u2013 a strategic dilemma",
+      "authors": [
+        {
+          "name": "J. A. Coca-Stefaniak",
+          "authorId": "1405163369"
+        }
+      ],
+      "year": 2019,
+      "abstract": "There is a growing consensus among scholars in neuroscience with regards to the adverse effects of technology on the cognitive functions of the human brain (Loh and Kanai, 2016). These include the processing of emotions, memory and the storage of lived experiences. In fact, this has been shown to be particularly applicable to regular users of smartphone-based mobile applications (Wilmer et al., 2017). Rather worryingly for today\u2019s prevalently technology-based conception of what a smart tourism destination should deliver, recent research has shown that visitors\u2019 intentions to preserve the memories of a visit to a tourism attraction by engaging with mobile media (e.g. taking photos and sharing them with others via social media) during their visit may actually prevent those same visitors (though perhaps not the recipients of their photos via social media) from remembering the very experience they are trying to preserve (Tamir et al., 2018; see also Soares and Storm, 2018). Furthermore, research has also shown that this \u2018hyperconnected\u2019 state of affairs may be altogether detrimental to visitors\u2019 enjoyment of the overall experience (Barasch et al., 2017). For those tourists who can still boast an adequate level of battery charge on their smartphones after a busy visit spent updating social media profiles with new photos whilst trying to simultaneously absorb the multi-sensory experience offered by the tourist attraction, there is further bad news. Similar neurological research has shown that people who are over-reliant on satellite navigation systems for way-finding (say, back to the hotel or to a restaurant highly rated on Tripadvisor) tend to perform worse at finding their way in the absence of their digital aid than those who rely on paper maps (McCullough and Collins, 2019). Parallel research in tourism has argued that this \u2018smart\u2019 technology-enabled tourist may run the risk of alienation (or \u201ce-lienation\u201d, to use the term coined by Tribe and Mkono, 2017) from their surroundings and missing out on potentially enriching experiences offered by the tourism destination. All in all, this should be rather worrying news for aspiring and existing smart tourism destinations. Why? Well, given that memorable experiences remain arguably a desirable goal in the design and delivery of visitor experiences, it appears that technology could be actually conspiring to rewire our brains in the opposite direction (Ward, 2013). Should, then, smart tourist destinations strive to become more efficient at delivering other services instead of memorable experiences? Maybe, though this is perhaps particularly applicable to some of the earlier models in the smart cities longitudinal spectrum. In fact, there is growing consensus around the fact that technological innovation (Pinke-Sziva et al., 2019; Skeli and Schmid, 2019) can alleviate some of the effects of overtourism, particularly in the context of smart tourism destinations (Gretzel and Scarpino-Johns, 2018). This includes \u2018smarter\u2019 transport solutions, even if we know that residents and tourists will differ considerably in their assessment of urban mobility improvements (Albalate and Bel, 2010). However, all this is part of what smart cities (presumably) do already. Consequently, if the whole raison d'etre of the \u2018smart\u2019 concept applied to tourism destinations rests mainly on the proviso of experience design and delivery, where do the insights from the latest neurological research leave smart tourism destinations? Should the next generation of smart tourism destinations re-consider their strategic focus altogether? \n \nThis special issue of the International Journal of Tourism Cities (IJTC) on \u201cOvertourism and the Marketing of Smart Tourism Destinations\u201d attempts to shed light not only on the overtourism phenomena but also on a nascent field of research: the marketing and branding of smart urban tourism destinations. Inevitably, and given that both topics can hardly be considered in isolation, much of the research showcased in this special issue, including this editorial, explore also elements spanning the overtourism phenomena and the marketing and management of smart tourism destinations, chiefly from an urban perspective.",
+      "citationCount": 51,
+      "doi": "10.1108/ijtc-12-2019-163",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9a3a92b98bd4bbdb9d2a8d8bbf54f9de7dd956fd",
+      "venue": "International Journal of Tourism Cities",
+      "journal": {
+        "name": "International Journal of Tourism Cities"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 25,
+  "errors": []
+}

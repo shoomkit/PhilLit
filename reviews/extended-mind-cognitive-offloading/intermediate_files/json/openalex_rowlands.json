@@ -1,0 +1,898 @@
+{
+  "status": "success",
+  "source": "openalex",
+  "query": "Rowlands extended mind",
+  "results": [
+    {
+      "openalex_id": "W4232019260",
+      "doi": "10.7551/mitpress/9780262014557.001.0001",
+      "title": "The New Science of the Mind",
+      "authors": [
+        {
+          "name": "Mark Rowlands",
+          "openalex_id": "A5073867131",
+          "orcid": "https://orcid.org/0000-0001-9152-902X"
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-08-13",
+      "abstract": "An investigation into the conceptual foundations of a new way of thinking about the mind that does not locate all cognition \"in the head.\" There is a new way of thinking about the mind that does not locate mental processes exclusively \"in the head.\" Some think that this expanded conception of the mind will be the basis of a new science of the mind. In this book, leading philosopher Mark Rowlands investigates the conceptual foundations of this new science of the mind. The new way of thinking about the mind emphasizes the ways in which mental processes are embodied (made up partly of extraneural bodily structures and processes), embedded (designed to function in tandem with the environment), enacted (constituted in part by action), and extended (located in the environment). The new way of thinking about the mind, Rowlands writes, is actually an old way of thinking that has taken on new form. Rowlands describes a conception of mind that had its clearest expression in phenomenology\u2014in the work of Husserl, Heidegger, Sartre, and Merleau-Ponty. He builds on these views, clarifies and renders consistent the ideas of embodied, embedded, enacted, and extended mind, and develops a unified philosophical treatment of the novel conception of the mind that underlies the new science of the mind. Bradford Books imprint",
+      "cited_by_count": 547,
+      "type": "book",
+      "source": {
+        "name": "The MIT Press eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4232019260"
+    },
+    {
+      "openalex_id": "W578789156",
+      "doi": "10.5860/choice.48-6212",
+      "title": "The new science of the mind: from extended mind to embodied phenomenology",
+      "authors": [],
+      "publication_year": 2011,
+      "publication_date": "2011-07-01",
+      "abstract": "There is a new way of thinking about the mind that does not locate mental processes exclusively the head. Some think that this expanded conception of the mind will be the basis of a new science of the mind. In this book, leading philosopher Mark Rowlands investigates the conceptual foundations of this new science of the mind. The new way of thinking about the mind emphasizes the ways in which mental processes are embodied (made up partly of extraneural bodily structures and processes), embedded (designed to function in tandem with the environment), enacted (constituted in part by action), and extended (located in the environment). The new way of thinking about the mind, Rowlands writes, is actually an old way of thinking that has taken on new form. Rowlands describes a conception of mind that had its clearest expression in phenomenology -- in the work of Husserl, Heidegger, Sartre, and Merleau-Ponty. He builds on these views, clarifies and renders consistent the ideas of embodied, embedded, enacted, and extended mind, and develops a unified philosophical treatment of the novel conception of the mind that underlies the new science of the mind.",
+      "cited_by_count": 378,
+      "type": "article",
+      "source": {
+        "name": "Choice Reviews Online",
+        "type": "journal",
+        "issn": [
+          "0009-4978",
+          "1523-8253",
+          "1943-5975"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Phenomenology and Existential Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W578789156"
+    },
+    {
+      "openalex_id": "W566027971",
+      "doi": null,
+      "title": "Rethinking materiality : the engagement of mind with the material world",
+      "authors": [
+        {
+          "name": "Elizabeth DeMarrais",
+          "openalex_id": "A5034357953"
+        },
+        {
+          "name": "Christopher Gosden",
+          "openalex_id": "A5037976035"
+        },
+        {
+          "name": "Colin Renfrew",
+          "openalex_id": "A5000584677"
+        }
+      ],
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "abstract": "Introduction (Elizabeth DeMarrais) Part I: Rethinking Materiality The Materialization of Culture (Elizabeth DeMarrais) Towards a Theory of Material Engagement (Colin Renfrew) Aesthetics, Intelligence and Emotions: Implications for Archaeology (Chris Gosden) Part II Materiality, Mind and History The Affordances of Things: a Post-Gibsonian Perspective on the Relationality of Mind and Matter (Carl Knappett) The Cognitive Basis of Material Engagement: Where Brain, Body and Culture Conflate (Lambros Malafouris) Mind over Matter? Collapsing the Mind-Matter Dichotomy in Material Culture Studies (Nicole Boivin) An Ongoing Outcome, a Surrounding World: Materiality, Agency and History (Manuel A. Arroyo-Kalin) Part III Transition: Materiality of Sedentism and Domestication Materiliaty and Symbolic Force: a Palaeolithic View of Sedentism ( Clive Gamble) Architecture and 'Theatres of Memory' in the Neolithic of Southwest Asia (Trevor Watkins) Domestication, Sedentism, Property and Time: Materiality and the Beginnings of Agriculture in Northern Europe (Richard Bradley) Tangible Materiality and Cosmological Others in the Development of Sedentism (Mary W Helms) Part IV Materiality and Culture: Neolithic and Bronze Age Europe The Extended Artefact and the Monumental Economy: a Methodology for Material Agency (John Robb) Displaying the Stones: the Materiality of 'Megalithic' Monuments (Chris Scarre) Culture Matters: Why Symbolic Objects Change (Timothy Earle) Matter and Memory: Colour, Remembrance and the Neolithic/Bronze Age Transition (Andy Jones) Institutions and Material Culture in Bronze Age Europe: Towards an Intercontextual Archaeology (Kristian Kristiansen) Part V Materiality, Power and the Sacred The Materiality of Sacred Power (Michael Rowlands) The Birth of Mesoamerican Metaphysics: Sedentism, Engagement, and Moral Superiority (John E Clark) Materiality, Feasts, and Figured Worlds in Aztec Mexico (Elizabeth M Brumfiel) Materials and Metaphors of Sovereignty in Central Madagascar (Susan Kus & Victor Raharijaona) Divine Things (Lynn Meskell) Violence into Order: Materiality and Sacred Power in Ancient Iraq (David Wengrow) Part VI Conclusion Thoughts about Rethinking Materiality (George L Cowgill).",
+      "cited_by_count": 620,
+      "type": "book",
+      "source": null,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Historical and Archaeological Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W566027971"
+    },
+    {
+      "openalex_id": "W1566639430",
+      "doi": "10.1007/s11097-012-9274-y",
+      "title": "Mark Rowlands, The new science of the mind: from extended mind to embodied phenomenology",
+      "authors": [
+        {
+          "name": "Victor Loughlin",
+          "openalex_id": "A5045588365",
+          "orcid": "https://orcid.org/0000-0002-0885-214X",
+          "institutions": [
+            "University of Antwerp"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-08-30",
+      "abstract": null,
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Phenomenology and the Cognitive Sciences",
+        "type": "journal",
+        "issn": [
+          "1568-7759",
+          "1572-8676"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Psychiatry, Mental Health, Neuroscience"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W1566639430"
+    },
+    {
+      "openalex_id": "W2901936503",
+      "doi": null,
+      "title": "Review of Mark Rowlands\u2019 \u2018The New Science of the Mind: From Extended Mind to Embodied Phenomenology\u2019",
+      "authors": [
+        {
+          "name": "Olle Blomberg",
+          "openalex_id": "A5033415435",
+          "orcid": "https://orcid.org/0000-0001-7696-7996",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-25",
+      "abstract": null,
+      "cited_by_count": 3,
+      "type": "article",
+      "source": {
+        "name": "Lund University Publications (Lund University)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Phenomenology and Existential Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W2901936503"
+    },
+    {
+      "openalex_id": "W3161560378",
+      "doi": null,
+      "title": "Review of Mark Rowlands, The New Science of the Mind: From Extended Mind to Embodied Phenomenology",
+      "authors": [
+        {
+          "name": "Robert D. Rupert",
+          "openalex_id": "A5110971972"
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": null,
+      "cited_by_count": 1,
+      "type": "article",
+      "source": {
+        "name": "Notre Dame philosophical reviews",
+        "type": "journal",
+        "issn": [
+          "1538-1617"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Phenomenology and Existential Philosophy"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W3161560378"
+    },
+    {
+      "openalex_id": "W2141153204",
+      "doi": "10.1080/09515080600702550",
+      "title": "Introduction: Memory, Embodied Cognition, and the Extended Mind",
+      "authors": [
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785",
+          "institutions": [
+            "Moscow State University of Technologies and Management named after K.G. Razumovskiy"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-05-15",
+      "abstract": "I introduce the seven papers in this special issue, by Andy Clark, J\u00e9r\u00f4me Dokic, Richard Menary, Jenann Ismael, Sue Campbell, Doris McIlwain, and Mark Rowlands. This paper explains the motivation for an alliance between the sciences of memory and the extended mind hypothesis. It examines in turn the role of worldly, social, and internalized forms of scaffolding to memory and cognition, and also highlights themes relating to affect, agency, and individual differences.",
+      "cited_by_count": 68,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Identity, Memory, and Therapy",
+        "Embodied and Extended Cognition",
+        "Social Representations and Identity"
+      ],
+      "referenced_works_count": 52,
+      "url": "https://openalex.org/W2141153204"
+    },
+    {
+      "openalex_id": "W4233212917",
+      "doi": "10.1080/09515080600689872",
+      "title": "Material Symbols",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "Schlumberger (Ireland)"
+          ]
+        }
+      ],
+      "publication_year": 2006,
+      "publication_date": "2006-05-15",
+      "abstract": "Abstract What is the relation between the material, conventional symbol structures that we encounter in the spoken and written word, and human thought? A common assumption, that structures a wide variety of otherwise competing views, is that the way in which these material, conventional symbol-structures do their work is by being translated into some kind of content-matching inner code. One alternative to this view is the tempting but thoroughly elusive idea that we somehow think in some natural language (such as English). In the present treatment I explore a third option, which I shall call the \"complementarity\" view of language. According to this third view the actual symbol structures of a given language add cognitive value by complementing (without being replicated by) the more basic modes of operation and representation endemic to the biological brain. The \"cognitive bonus\" that language brings is, on this model, not to be cashed out either via the ultimately mysterious notion of \"thinking in a given natural language\" or via some process of exhaustive translation into another inner code. Instead, we should try to think in terms of a kind of coordination dynamics in which the forms and structures of a language qua material symbol system play a key and irreducible role. Understanding language as a complementary cognitive resource is, I argue, an important part of the much larger project (sometimes glossed in terms of the \"extended mind\") of understanding human cognition as essentially and multiply hybrid: as involving a complex interplay between internal biological resources and external non-biological resources. Keywords: LanguageMindThoughtExtended MindHybrid SystemsSymbolsMateriality Acknowledgements This paper grew out of material produced for the workshops on Memory, Mind and Media organized by John Sutton at Macquarie University, Sydney, Australia in December 2004. Thanks to John Sutton, Rob Wilson, Mark Rowlands, and all the speakers and participants at those meetings for their invaluable input and criticism. Thanks also to two anonymous referees for important and thought-provoking comments. This project was completed thanks to teaching relief provided by Edinburgh University and by matching leave provided under the AHRC Research Leave Scheme. Notes Notes [1] Note that the suggestion here is not that processes of abstraction always or even typically require the loop through public tokens or symbols. Rather it is that such loops, when present, can play a distinctive cognition enhancing role. For some important explorations of the nature, scope and possible limits of such roles, see Schwartz and Black (1996 Schwartz, DL and Black, JB. 1996. Shuttling between depictive models and abstract rules: Induction and fallback. Cognitive Science, 20: 457\u2013498. [Crossref], [Web of Science \u00ae] , [Google Scholar]), and Schyns, Goldstone, and Thibaut (1998 Schyns, PG, Goldstone, RL and Thibaut, J-P. 1998. The development of features in object concepts. Behavioral and Brain Sciences, 21: 1\u201354. [Crossref], [PubMed], [Web of Science \u00ae] , [Google Scholar]). [2] A possible worry (thanks to an anonymous referee for raising this issue) is that the kinds of rich interaction between different resources posited by hybrid accounts may first require the translation of the various different elements into a \"common code,\" thus undermining any claim of genuine hybridity. A possible analogy here is with cases of intermodal interaction, also sometimes said to require the existence of a common code. But in both cases a possible response, it seems to me, is simply to deny the requirement. Potent coordinated interaction need not require a common code. Consider the case of coding in the dorsal and ventral visual streams. The two streams (see Milner & Goodale, 1995 Milner, A and Goodale, M. 1995. The visual brain in action, Oxford, , England: Oxford University Press. [Google Scholar]) look to trade in highly distinct representational forms, yet in daily life (in uncompromised subjects) they work together seamlessly in the service of goal directed behaviour. [3] See work on \"tools for thought,\" the \"extended mind,\" \"wide computation,\" \"vehicle externalism\": Clark (1997 Clark, A. 1997. Being there: Putting brain, body and world together again, Cambridge, MA: MIT Press. [Google Scholar], 2003 Clark, A. 2003. Natural-born cyborgs: Minds, technologies, and the future of human intelligence, New York: Oxford University Press. [Google Scholar]); Clark & Chalmers (1998 Clark, A and Chalmers, D. 1998. The extended mind. Analysis, 58: 7\u201319. [Crossref], [Web of Science \u00ae] , [Google Scholar]); Dennett (1991 Dennett, DC. 1991. Consciousness explained, New York: Little Brown. [Google Scholar], 1996 Dennett, DC. 1996. Kinds of minds, New York: Basic Books. [Google Scholar]); Hurley (1998 Hurley, S. 1998. Consciousness in action, Cambridge, MA: Harvard University Press. [Google Scholar]); Rowlands (1999 Rowlands, M. 1999. The body in mind: Understanding cognitive processes, Cambridge, , England: Cambridge University Press. [Crossref] , [Google Scholar]); Wilson (1994 Wilson, RA. 1994. Wide computationalism. Mind, 103: 351\u2013372. [Crossref], [Web of Science \u00ae] , [Google Scholar], 2004 Wilson, RA. 2004. Boundaries of the mind: The individual in the fragile sciences\u2014Cognition, Cambridge, , England: Cambridge University Press. [Google Scholar]). [4] Perhaps there are effects on learning trajectories (see the grade one examples) that resist the dilemma but for here and now thinking (so the argument goes) the options are as stated. [5] From this point on, whenever I speak of 'hybrid representational forms' I shall mean forms that include both standard kinds of internal representation (mentalese, neuralese, perceptual symbol systems, \u2026) and, as proper parts of a kind of distributed encoding, either the material symbols of some public language, or shallow imagistic encodings of those very forms. [6] A second reason (for Fodor's downplaying the power of hybridity) flows from his (in)famous views concerning concept learning. For given those views, the meaning of hybrid representational forms could not be learnt unless the learner already had the resources to represent that very meaning using more biologically basic (indeed, innate) resources. This, however, is not the time or place to engage in this important discussion (for some countervailing thoughts, see Prinz & Clark, 2004 Prinz, J and Clark, A. 2004. Putting concepts to work: Some thoughts for the 21st century. Mind & Language, 19: 57\u201369. [Crossref], [Web of Science \u00ae] , [Google Scholar]). [7] It is a moot point exactly what constitutes \"profound\" reorganization. But in essence, the most radical version of the view I am defending holds that although the brain must learn to deal with the special class of linguistic structures, in so it need not reorganize its neural coding routines in any way that is deeper or more profound than might occur, say, when we first learn to swim, or to play volleyball. [8] A further question is exactly how the hybrid view defended in this paper relates to that of Carruthers (2002 Carruthers, P. 2002. The cognitive functions of language. Behavioral and Brain Sciences, 25: 657\u2013726. [Crossref], [PubMed], [Web of Science \u00ae] , [Google Scholar]). The relation here is hard to determine, as the starting points of the two accounts are very different. Carruthers buys into large-scale mental modularity and sees natural language as cognition enhancing in virtue of being the sole medium of all module-integrating thoughts. The notion of hybrid cognitive vehicles defended here seems to me to be attractively weaker than this. It is indifferent to the truth or falsity of modularity.",
+      "cited_by_count": 107,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Psychology",
+        "type": "journal",
+        "issn": [
+          "0951-5089",
+          "1465-394X"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language and cultural evolution",
+        "Language, Metaphor, and Cognition",
+        "Categorization, perception, and language"
+      ],
+      "referenced_works_count": 27,
+      "url": "https://openalex.org/W4233212917"
+    },
+    {
+      "openalex_id": "W66698540",
+      "doi": "10.1057/9780230360792_6",
+      "title": "Neo-Pragmatism and Enactive Intentionality",
+      "authors": [
+        {
+          "name": "Shaun Gallagher",
+          "openalex_id": "A5029669651",
+          "orcid": "https://orcid.org/0000-0002-3147-9929"
+        },
+        {
+          "name": "Katsunori Miyahara",
+          "openalex_id": "A5072921353",
+          "orcid": "https://orcid.org/0000-0001-7747-6654"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "abstract": "Enactive approaches in cognitive science propose that perception, and more generally cognitive experience, are strongly mediated by embodied (sensory\u2013motor) processes, and that our primary experience of the world is action-oriented or pragmatic (No\u00eb, 2004; Thompson, 2007; Varela et al., 1991). Extended mind theorists propose that cognition supervenes on embodied and environmental processes such as gestures and the use of various technologies (Clark, 2008; Clark and Chalmers, 1998; Menary, 2010). Both enactive and extended conceptions of cognition suggest that the mind is not \"in the head\"\u2013that cognitive processes are distributed over brain, body, and environment \u2013 but they also differ on a number of issues. Extended mind theorists defend a functionalist account of cognition and downplay the role of the body (e.g., Clark, 2008), and they argue that cognition and action can involve mental representations (e.g., Clark, 1997; Clark and Grush, 1999; Rowlands, 2006; Wheeler, 2005). In contrast, enactive theorists argue for radical embodiment (e.g., Thompson and Varela, 2001) and defend an antirepresentationalist view (e.g., Gallagher, 2008b; Hutto, in press; Thompson, 2007). There are also debates about how to define the boundaries, or lack of boundaries, involved in cognitive processes (e.g., Di Paolo, 2009; Wheeler, 2008).",
+      "cited_by_count": 43,
+      "type": "book-chapter",
+      "source": {
+        "name": "Palgrave Macmillan UK eBooks",
+        "type": "ebook platform",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Child and Animal Learning Development"
+      ],
+      "referenced_works_count": 148,
+      "url": "https://openalex.org/W66698540"
+    },
+    {
+      "openalex_id": "W1573671770",
+      "doi": null,
+      "title": "Cognitive Ecology as a Framework for Shakespearean Studies",
+      "authors": [
+        {
+          "name": "John Sutton",
+          "openalex_id": "A5069103684",
+          "orcid": "https://orcid.org/0000-0003-3046-9785"
+        },
+        {
+          "name": "Evelyn Tribble",
+          "openalex_id": "A5051567704",
+          "orcid": "https://orcid.org/0000-0003-0331-4980",
+          "institutions": [
+            "University of Otago"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "COGNITIVE ECOLOGY is a fruitful model for Shakespearean studies, early modern literary and cultural history, and theatrical history more widely. Cognitive ecologies are the multidimensional contexts in which we remember, feel, think, sense, communicate, imagine, and act, often collaboratively, on the fly, and in rich ongoing interaction with our environments. Along with the anthropologist Edwin Hutchins, (1) we use the term to integrate a number of recent approaches to cultural cognition: we believe these approaches offer productive lines of engagement with early modern literary and historical studies. (2) The framework arises out of our work in extended and distributed cognition. (3) The extended hypothesis arose from a post-connectionist philosophy of cognitive science. This approach was articulated in Andy Clark's Being There: Putting Brain, Body, and World Together Again, and further developed by Susan Hurley and Mark Rowlands, among others. (4) The distributed cognition approach arose independently, from work in cognitive anthropology, HCI (Human-Computer Interaction), the sociology of education and work, and science studies. The principles of distributed cognition were articulated in Hutchins's ethnography of navigation, Cognition in the Wild, (5) and developed by theorists such as David Kirsh and Lucy Suchman. (6) These models share an anti-individualist approach to cognition. In all these views, mental activities spread or smear across the boundaries of skull and skin to include parts of the social and material world. In remembering, decision making, and acting, whether individually or in small groups, our complex and structured activities involve many distinctive dimensions: neural, affective, kinesthetic, sensory, interpersonal, historical, political, cultural, technological; indeed, each dimension in this necessarily partial list is itself wildly heterogeneous. Many cognitive states and processes are hybrids, unevenly distributed across the physical, social, and cultural environments as well as bodies and brains, hooking up in both temporary and more enduring ways with other people and with certain things--artifacts, media, technologies, or institutions--each with its own history and tendencies. In other words, this is a system-level mode of System here is not to be seen at the relatively abstract level of Michel Foucault's opisteme or even Pierre Bourdieu's habitus, but instead as dynamic, material, and non-localizable. In this view system be understood in its development or function as strictly localized within one level of analysis. (7) In a dynamic model of system, no one element can be identified as the unit of Rather, thought is distributed across insides (internal mechanisms constraining attention, perception, and memory); objects (artifacts and environments); and people (social systems). Because our practices of remembering or decision-making in cultural settings always involve the coordination of many disparate resources at once, we cannot assign any general analytic priority to one of these dimensions. (8) The integrative label particularly highlights the point that disparate but tightly interconnected elements within any such culturally specific setting operate in a complementary balance that shifts over time. Although firmly grounded in contemporary sciences of mind, cognitive ecology thus has little in common with the rigid rationalist logicism of forms of cognitivism. Thinking is not the product of stable and determinate internal structures. Communication and action are not the mere expressions of the real cognitive processes in the head, but are thinking or remembering in action. A raft of loosely allied movements in the situated, embodied, and distributed cognitive sciences reject the individualist classical sandwich, by which mind stolidly mediates between input and output, perception and action, instead studying more-or-less intelligent practices in their cultural-historical settings. \u2026",
+      "cited_by_count": 124,
+      "type": "article",
+      "source": {
+        "name": "Shakespeare studies",
+        "type": "journal",
+        "issn": [
+          "0582-9399"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Language, Metaphor, and Cognition",
+        "Action Observation and Synchronization",
+        "Language and cultural evolution"
+      ],
+      "referenced_works_count": 17,
+      "url": "https://openalex.org/W1573671770"
+    },
+    {
+      "openalex_id": "W65699017",
+      "doi": null,
+      "title": "Embraining culture: leaky minds and spongy brains",
+      "authors": [
+        {
+          "name": "Julian Kiverstein",
+          "openalex_id": "A5054772796",
+          "orcid": "https://orcid.org/0000-0003-3428-8367",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        },
+        {
+          "name": "Mirko Farina",
+          "openalex_id": "A5039029789",
+          "orcid": "https://orcid.org/0000-0001-8342-6549",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "abstract": "We offer an argument for the extended mind based on considerations from brain development. We argue that our brains develop to function in partnership with cognitive resources located in our external environments. Through our cultural upbringing we are trained to use artefacts in problem solving that become factored into the cognitive routines our brains support. Our brains literally grow to work in close partnership with resources we regularly and reliably interact with. We take this argument to be in line with complementarity or \u201csecond-wave\u201d defences of the extended mind that stress the functional differences between biological elements and external, environmental resources in putative cases of extended cognition. Complementarity defences argue that many of the kinds of cognition humans excel at can only be accomplished by brains working together with a body that directly manipulates and acts on the world [Rowlands (1999); Menary (2007); Sutton (2010)]. We argue that complementarity and functionalist defences of the extended mind aren\u2019t opposed, but that complementarity considerations can provide much needed and hitherto under exploited leverage in defending EMT. Moreover, the developmental work we will describe adds extra weight to the complementarity case for EMT.",
+      "cited_by_count": 22,
+      "type": "article",
+      "source": {
+        "name": "Research Portal (King's College London)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Child and Animal Learning Development",
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 61,
+      "url": "https://openalex.org/W65699017"
+    },
+    {
+      "openalex_id": "W179180992",
+      "doi": "10.1016/s0092-8674(01)00432-9",
+      "title": "Polar Explorers",
+      "authors": [
+        {
+          "name": "Lawrence Rothfield",
+          "openalex_id": "A5111494068",
+          "institutions": [
+            "UConn Health"
+          ]
+        },
+        {
+          "name": "Yu\u2010Ling Shih",
+          "openalex_id": "A5072900636",
+          "orcid": "https://orcid.org/0000-0002-8232-2569",
+          "institutions": [
+            "UConn Health"
+          ]
+        },
+        {
+          "name": "Glenn F. King",
+          "openalex_id": "A5005178664",
+          "orcid": "https://orcid.org/0000-0002-2308-2200",
+          "institutions": [
+            "UConn Health"
+          ]
+        }
+      ],
+      "publication_year": 2001,
+      "publication_date": "2001-07-01",
+      "abstract": null,
+      "cited_by_count": 57,
+      "type": "review",
+      "source": {
+        "name": "Cell",
+        "type": "journal",
+        "issn": [
+          "0092-8674",
+          "1097-4172"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.cell.com/article/S0092867401004329/pdf"
+      },
+      "topics": [
+        "Bacterial Genetics and Biotechnology",
+        "RNA and protein synthesis mechanisms",
+        "Bacteriophages and microbial interactions"
+      ],
+      "referenced_works_count": 15,
+      "url": "https://openalex.org/W179180992"
+    },
+    {
+      "openalex_id": "W1976979456",
+      "doi": "10.1080/13869795.2012.670717",
+      "title": "Extended cognition meets epistemology",
+      "authors": [
+        {
+          "name": "Fred Adams",
+          "openalex_id": "A5110466364",
+          "institutions": [
+            "University of Delaware"
+          ]
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-05-15",
+      "abstract": "Abstract This article examines the intersection of the theory of extended mind/cognition and theory of knowledge. In the minds of some, it matters to conditions for knowing whether the mind extends beyond the boundaries of body and brain. I examine these intuitions and find no support for this view from tracking theories of knowledge. I then argue that the apparent difference extended mind is supposed to have for ability or credit theories is also illusory. Keywords: extended mindepistemologytracking theoriesability/credit theories Acknowledgements I would like to thank Ken Aizawa, John A. Barker, Peter Bauman, John Greco, Jennifer Lackey, Orestis Palermos, Duncan Pritchard, and Krist Vaesen for helpful conversation about this topic. Also thanks to the members of the audience at CLMPS 14 in Nancy France and GPPC at Swarthmore for comments on earlier drafts. Notes For some of the ensuing fuss see Menary (2010 Menary, R. 2010. The extended mind, Cambridge, MA: MIT Press. [Crossref] , [Google Scholar]). An example from Clark and Chalmers (1998 Clark, A. and Chalmers, D. 1998. The extended mind. Analysis, 58: 7\u201319. [Crossref], [Web of Science \u00ae] , [Google Scholar]) is that of Otto who uses a notebook to remember how to get to MOMA in New York. The claim is that Otto's consulting his notebook for information is no different in principle than our consulting our memories for information. Hence, Otto's mind extends to this notebook. Rowlands (2010 Rowlands, M. 2010. The new science of the mind, Cambridge, MA: MIT Press. [Crossref] , [Google Scholar]) includes cases such as manipulating scrabble puzzle pieces to form words. Moving the pieces with one's hands is not different in principle than rotating them in the mind's eye. So, Rowlands would include such \"disclosing\" movements as cognitive. For opposition EC in its strong flavor and explanation of the controversy see Adams and Aizawa (2008 Adams, F. and Aizawa, K. 2008. The bounds of cognition, Oxford: Blackwell. [Google Scholar]). Notoriously, Dave Chalmers proclaimed in the forward to Clark's (2008 Clark, A. 2008. Supersizing the mind, Oxford: Oxford University Press. [Crossref] , [Google Scholar]) that his i-Phone was now part of his mind. Recent articles by Greco (2003 Greco, J. 2003. \"Knowledge as credit for true belief\". In Intellectual virtue: Perspectives from ethics and epistemology, Edited by: DePaul, M. and Zagzebski, L. 111\u201334. Oxford: Oxford University Press. [Crossref] , [Google Scholar], forthcoming Greco, J. Forthcoming. A (different) virtue epistemology. Philosophy and Phenomenological Research, [Web of Science \u00ae] , [Google Scholar]), Pritchard (2010 Pritchard, D. 2010. Cognitive ability and the extended cognition thesis. Synthese, 175: 133\u201351. [Crossref], [Web of Science \u00ae] , [Google Scholar]), Vaesen (2011), and others have addressed this intersection of EC and epistemology. See Adams (2004 Adams, F. 2004. \"Knowledge\". In The Blackwell guide to the philosophy of information and computing, Edited by: Floridi, L. 228\u201336. Oxford: Basil Blackwell. [Crossref] , [Google Scholar]), Adams (2005 Adams, F. 2005. Tracking theories of knowledge. Veritas, 50: 11\u201335. [Google Scholar]), Adams and Clarke (2005 Adams, F. and Clarke, M. 2005. Resurrecting the tracking theories. Australasian Journal of Philosophy, 83: 207\u201321. [Taylor & Francis Online], [Web of Science \u00ae] , [Google Scholar]), Adams, Barker, and Figurelli (forthcoming Adams, F., Barker, J. A. and Figurelli, J. Forthcoming. Towards closure on closure. Synthese, [Web of Science \u00ae] , [Google Scholar]). Now one may still be skeptical of Otto's notebook's being \"integrated into his character.\" Peter Bauman (personal correspondence) seems to be skeptical: \"There is a difference between me using the data from an instrument carefully and that instrument being part of my character \u2026 .Another issue I'd have with saying that the notebook is part of Otto's cognitive character is the further consequence that almost everything would be: the informant who tells him about the time would be part of Otto's character if the notebook is, and lots of other stuff too.\" Below I suggest that \"ability\" may become vacuous if it is too weak. Bauman says the same thing is true about minimizing requirements for cognitive integration into one's character. John A. Barker reminds me that one area where ability and tracking accounts may nicely come apart is a case such as this: Leroy is a highly skilled gambler who can successfully figure out the odds of various outcomes in fair games of chance. He believes that Alice lost a certain bet on the basis of her chances of losing having been 99.9999999%. His belief is true and is a product of extremely reliable belief-forming processes and of exceptional intellectual abilities and virtues. Almost everyone seems to have the pre-analytic intuition that Leroy's belief doesn't qualify as knowledge, and even Stich and his fellow \"experimental\" epistemologists have found that that such intuitions appear to be culturally universal. Tracking theories imply that Leroy's belief fails to qualify as knowledge, while ability/credit/virtue theories seem to imply that the belief does qualify as knowledge. At least at times Sosa bites the bullet and holds that Leroy's belief qualifies as knowledge. What is more, this example may help show that EC is orthogonal to whether one knows. Suppose that Leroy, who is getting old and can no longer figure out the relevant odds in \"real time,\" has had a sophisticated computing device implanted in his head that helps him maintain his level of performance. Such a supposition seems to have no implications regarding the issue of whether or not his belief qualifies as knowledge. We will see more formulations of this type of view below. Of course the attentive reader knows that Pritchard is going to allow that Sissi's cognitive abilities meet his WeakCog requirement, because it is so \"minimal.\" We will see a similar judgment from Greco (forthcoming). See Jennifer Lackey's (2007 Lackey, J. 2007. Why we don't deserve credit for everything we know. Synthese, 158: 345\u201361. [Crossref], [Web of Science \u00ae] , [Google Scholar]) arguments designed to show problems for ability/credit views based upon knowledge by testimony. I know that doxastic voluntarism is trying to make a come-back, but I won't have time to discuss here why I'm not persuaded. See Adams (1986 Adams, F. 1986. The function of epistemic justification. Canadian Journal of Philosophy, 16: 465\u201392. [Taylor & Francis Online], [Web of Science \u00ae] , [Google Scholar], 2003 Adams, F. 2003. \"Epistemology\". In Reflections on philosophy, 2, Edited by: McHenry, L. and Yagisawa, T. 81\u2013101. New York: Longmans Press. [Google Scholar]). Rowlands may say that these cognitive processes are \"sub-personal\" but he would insist that they are Sissi's and they are cognitive nevertheless. I thought this result might surprise Vaesen, but he assures me that he anticipated it. Indeed, I confess that as I think seriously about this possibility of strong EC and ability views and tracking theories, I begin to lose my grip on their differences. Kripke's critical review of Nozick remains unpublished, as far as I know. Parts of it have been widely circulated and are quoted often in the literature. I presented a response orally as an invited discussant at the 2001 Rutgers Epistemology Conference and discuss the red barn example at length in (Adams and Clarke 2005 Adams, F. and Clarke, M. 2005. Resurrecting the tracking theories. Australasian Journal of Philosophy, 83: 207\u201321. [Taylor & Francis Online], [Web of Science \u00ae] , [Google Scholar]). I say \"virtually\" because on Hyman's view, a key difference between tracking theories and his view is that Hyman's theory doesn't imply that belief is a requirement for knowledge, and this seems to make his theory vulnerable to certain counterexamples. For details, see (Barker and Adams forthcoming). See also Hyman (2006 Hyman, J. 2006. Knowledge and evidence. Mind, 115: 633\u201358. [Crossref], [Web of Science \u00ae] , [Google Scholar]).",
+      "cited_by_count": 21,
+      "type": "article",
+      "source": {
+        "name": "Philosophical Explorations",
+        "type": "journal",
+        "issn": [
+          "1386-9795",
+          "1741-5918"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Epistemology, Ethics, and Metaphysics",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W1976979456"
+    },
+    {
+      "openalex_id": "W2153791616",
+      "doi": "10.1017/s0140525x12000477",
+      "title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-05-10",
+      "abstract": "Abstract Brains, it has recently been argued, are essentially prediction machines. They are bundles of cells that support perception and action by constantly attempting to match incoming sensory inputs with top-down expectations or predictions. This is achieved using a hierarchical generative model that aims to minimize prediction error within a bidirectional cascade of cortical processing. Such accounts offer a unifying model of perception and action, illuminate the functional role of attention, and may neatly capture the special contribution of cortical processing to adaptive success. This target article critically examines this \u201chierarchical prediction machine\u201d approach, concluding that it offers the best clue yet to the shape of a unified science of mind and action. Sections 1 and 2 lay out the key elements and implications of the approach. Section 3 explores a variety of pitfalls and challenges, spanning the evidential, the methodological, and the more properly conceptual. The paper ends (sections 4 and 5) by asking how such approaches might impact our more general vision of mind, experience, and agency.",
+      "cited_by_count": 5597,
+      "type": "review",
+      "source": {
+        "name": "Behavioral and Brain Sciences",
+        "type": "journal",
+        "issn": [
+          "0140-525X",
+          "1469-1825"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/33542C736E17E3D1D44E8D03BE5F4CD9/S0140525X12000477a.pdf/div-class-title-whatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-science-div.pdf"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Neural dynamics and brain function",
+        "Action Observation and Synchronization"
+      ],
+      "referenced_works_count": 394,
+      "url": "https://openalex.org/W2153791616"
+    },
+    {
+      "openalex_id": "W1969822175",
+      "doi": "10.1093/mind/fzr002",
+      "title": "Much Ado About Cognition",
+      "authors": [
+        {
+          "name": "Andy Clark",
+          "openalex_id": "A5088506012",
+          "orcid": "https://orcid.org/0000-0002-1233-8629",
+          "institutions": [
+            "University of Edinburgh"
+          ]
+        }
+      ],
+      "publication_year": 2010,
+      "publication_date": "2010-10-01",
+      "abstract": "The Bounds of Cognition, by Frederick Adams and Kenneth Aizawa. Malden, MA: Blackwell Publishing, 2008. Pp. xiii + 197. H/b \u00a350.00/$78.95, P/b \u00a319.99/$29.95. Cognitive Systems and the Extended Mind, by Robert D. Rupert. New York: Oxford University Press, 2009. Pp. xiii + 268. H/b \u00a337.50/$55.00, P/b \u00a318.99/$29.95. Where in physical space lies the machinery of mind and cognition? Is mind all \u2018in the head\u2019 or might parts of the enabling physical apparatus underlying at least some of our mental states and processes be spread across brain, (extra-neural) body, and even (extra-bodily) world? In these two laudably clear, rewarding, and challenging treatments, we are offered reasons to be sceptical. The central target of each treatment is the radical-sounding claim that the local physical machinery whose whirrings and grindings make minds like ours possible is not (or not always) fully contained by the ancient metabolic boundaries of skin and skull. Such a claim, despite its radical-sounding nature, can be found (in varying degrees, and in one form or another) in a wide variety of recent treatments, spanning philosophy (e.g. Wilson 1994, 2004; Haugeland 1998; Hurley 1998; Clark and Chalmers 1998; Rowlands 1999, 2003, 2006; No\u00eb 2004, 2009; Wheeler 2005; Menary 2007; Sutton 2010); psychology (e.g. Thelen and Smith 1995; Spivey et al. 2004; Gray et al. 2006), robotics and dynamical systems theory (e.g. Beer 2000) and beyond (e.g. Hutchins 1995; Malafouris 2008; Roepstorff 2008). Philosophically, it is to be distinguished from more standard externalist claims (such as those made by Putnam (1975) and by Burge (1979, 1986)) about the role of the distal environment in the fixation of content. It is to be distinguished also from any mere modal claim to the effect that the machinery of mind might \u2014 perhaps in some strange or alien beings, or even in some future incarnation (transcarnation?) \u2014 of humanity, be smeared across more than the neural economy. Instead it is the claim, sometimes dubbed \u2018the extended mind hypothesis\u2019 following the coinage in Clark and Chalmers 1998, that the physical vehicles (for this usage see Hurley 1998, Ch. 8) of some of our actual cognitive states and processes might include more than the usual neural suspects. Such cases might include the functioning (subject perhaps to various additional requirements of sufficient degrees of reliability, availability, and agentive trust) of a notebook or an iPhone, where these \u2014 and hence, the specific encodings of information that they \u2018vehicle\u2019 \u2014 appear as elements in an integrated web of causal machinery whose combined action enables the guidance and modulation of an agent\u2019s behaviour in some of the ways distinctive of cognitive or mental states. The central example given in Clark and Chalmers 1998 concerned the state of dispositionally believing such and such to be the address of a particular art gallery. That state, Clark and Chalmers maintained, might be realized either by states of the neural apparatus alone or by various combinations of neural and non-neural resources. These could include the biological system plus written entries in a constantly-carried and fluently deployed notebook or (for a more contemporary version) plus entries in the memory of a portable device such as an iPhone. The former, in extremely rough outline, is sometimes referred to as the case of \u2018Otto\u2019: a mildly (biologically) memory-impaired agent whose success depends frequently upon such notebook-based encodings.",
+      "cited_by_count": 14,
+      "type": "article",
+      "source": {
+        "name": "Mind",
+        "type": "journal",
+        "issn": [
+          "0026-4423",
+          "1460-2113"
+        ]
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Action Observation and Synchronization",
+        "Cognitive Science and Education Research"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W1969822175"
+    },
+    {
+      "openalex_id": "W2146233605",
+      "doi": "10.1523/jneurosci.20-07-02683.2000",
+      "title": "A Role for Somatosensory Cortices in the Visual Recognition of Emotion as Revealed by Three-Dimensional Lesion Mapping",
+      "authors": [
+        {
+          "name": "Ralph Adolphs",
+          "openalex_id": "A5009705401",
+          "orcid": "https://orcid.org/0000-0002-8053-9692",
+          "institutions": [
+            "University of Iowa"
+          ]
+        },
+        {
+          "name": "Hanna Dam\u00e1sio",
+          "openalex_id": "A5113971276",
+          "institutions": [
+            "University of Iowa",
+            "Salk Institute for Biological Studies"
+          ]
+        },
+        {
+          "name": "Daniel Tranel",
+          "openalex_id": "A5060893068",
+          "orcid": "https://orcid.org/0000-0002-1338-1389",
+          "institutions": [
+            "University of Iowa"
+          ]
+        },
+        {
+          "name": "Greg Cooper",
+          "openalex_id": "A5087522925",
+          "institutions": [
+            "University of Iowa"
+          ]
+        },
+        {
+          "name": "Ant\u00f3nio R. Dam\u00e1sio",
+          "openalex_id": "A5070506273",
+          "orcid": "https://orcid.org/0000-0002-3067-0393",
+          "institutions": [
+            "University of Iowa",
+            "Salk Institute for Biological Studies"
+          ]
+        }
+      ],
+      "publication_year": 2000,
+      "publication_date": "2000-04-01",
+      "abstract": "Although lesion and functional imaging studies have broadly implicated the right hemisphere in the recognition of emotion, neither the underlying processes nor the precise anatomical correlates are well understood. We addressed these two issues in a quantitative study of 108 subjects with focal brain lesions, using three different tasks that assessed the recognition and naming of six basic emotions from facial expressions. Lesions were analyzed as a function of task performance by coregistration in a common brain space, and statistical analyses of their joint volumetric density revealed specific regions in which damage was significantly associated with impairment. We show that recognizing emotions from visually presented facial expressions requires right somatosensory-related cortices. The findings are consistent with the idea that we recognize another individual's emotional state by internally generating somatosensory representations that simulate how the other individual would feel when displaying a certain facial expression. Follow-up experiments revealed that conceptual knowledge and knowledge of the name of the emotion draw on neuroanatomically separable systems. Right somatosensory-related cortices thus constitute an additional critical component that functions together with structures such as the amygdala and right visual cortices in retrieving socially relevant information from faces.",
+      "cited_by_count": 1106,
+      "type": "article",
+      "source": {
+        "name": "Journal of Neuroscience",
+        "type": "journal",
+        "issn": [
+          "0270-6474",
+          "1529-2401"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.jneurosci.org/content/jneuro/20/7/2683.full.pdf"
+      },
+      "topics": [
+        "Face Recognition and Perception",
+        "Action Observation and Synchronization",
+        "Neural and Behavioral Psychology Studies"
+      ],
+      "referenced_works_count": 37,
+      "url": "https://openalex.org/W2146233605"
+    },
+    {
+      "openalex_id": "W2021200484",
+      "doi": "10.1039/c3dt50599e",
+      "title": "A cartography of the van der Waals territories",
+      "authors": [
+        {
+          "name": "Santiago \u00c1lvarez",
+          "openalex_id": "A5024602124",
+          "orcid": "https://orcid.org/0000-0002-4618-4189",
+          "institutions": [
+            "Universitat de Barcelona"
+          ]
+        }
+      ],
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "abstract": "The distribution of distances from atoms of a particular element E to a probe atom X (oxygen in most cases), both bonded and intermolecular non-bonded contacts, has been analyzed. In general, the distribution is characterized by a maximum at short E\u00b7\u00b7\u00b7X distances corresponding to chemical bonds, followed by a range of unpopulated distances--the van der Waals gap--and a second maximum at longer distances--the van der Waals peak--superimposed on a random distribution function that roughly follows a d(3) dependence. The analysis of more than five million interatomic \"non-bonded\" distances has led to the proposal of a consistent set of van der Waals radii for most naturally occurring elements, and its applicability to other element pairs has been tested for a set of more than three million data, all of them compared to over one million bond distances.",
+      "cited_by_count": 1485,
+      "type": "article",
+      "source": {
+        "name": "Dalton Transactions",
+        "type": "journal",
+        "issn": [
+          "1477-9226",
+          "1477-9234"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.rsc.org/en/content/articlepdf/2013/dt/c3dt50599e"
+      },
+      "topics": [
+        "Crystallography and molecular interactions",
+        "Chemical Thermodynamics and Molecular Structure",
+        "Radioactive element chemistry and processing"
+      ],
+      "referenced_works_count": 75,
+      "url": "https://openalex.org/W2021200484"
+    },
+    {
+      "openalex_id": "W2187852230",
+      "doi": null,
+      "title": "Where is my mind? Mark Rowlands on the vehicles of cognition",
+      "authors": [
+        {
+          "name": "Andreas Elpidorou",
+          "openalex_id": "A5076225113",
+          "orcid": "https://orcid.org/0000-0001-7317-339X"
+        }
+      ],
+      "publication_year": 2012,
+      "publication_date": "2012-09-01",
+      "abstract": "Do our minds extend beyond our brains? In a series of publications, Mark Rowlands has argued that the correct answer to this question is an affirmative one. According to Rowlands, certain types of operations on bodily and worldly structures should be considered to be proper and literal parts of our cognitive and mental processes. In this article, I present and critically evaluate Rowlands' position.",
+      "cited_by_count": 2,
+      "type": "article",
+      "source": {
+        "name": "SHILAP Revista de lepidopterolog\u00eda",
+        "type": "journal",
+        "issn": [
+          "0300-5267",
+          "2340-4078"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doaj.org/article/fc709b6fb67c4dc49848993988c8031c"
+      },
+      "topics": [
+        "Embodied and Extended Cognition",
+        "Memory and Neural Mechanisms",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 26,
+      "url": "https://openalex.org/W2187852230"
+    },
+    {
+      "openalex_id": "W2126650951",
+      "doi": "10.1523/jneurosci.5062-08.2009",
+      "title": "Cortical Hubs Revealed by Intrinsic Functional Connectivity: Mapping, Assessment of Stability, and Relation to Alzheimer's Disease",
+      "authors": [
+        {
+          "name": "Randy L. Buckner",
+          "openalex_id": "A5048946975",
+          "orcid": "https://orcid.org/0000-0001-6422-8037",
+          "institutions": [
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Jorge Sepulcre",
+          "openalex_id": "A5009750706",
+          "orcid": "https://orcid.org/0000-0002-4199-2304",
+          "institutions": [
+            "University Radiology",
+            "Harvard University",
+            "Athinoula A. Martinos Center for Biomedical Imaging"
+          ]
+        },
+        {
+          "name": "Tanveer Talukdar",
+          "openalex_id": "A5002017989",
+          "orcid": "https://orcid.org/0000-0002-0109-6636",
+          "institutions": [
+            "Athinoula A. Martinos Center for Biomedical Imaging",
+            "University Radiology"
+          ]
+        },
+        {
+          "name": "Fenna M. Krienen",
+          "openalex_id": "A5021464178",
+          "orcid": "https://orcid.org/0000-0002-1400-6820",
+          "institutions": [
+            "Athinoula A. Martinos Center for Biomedical Imaging",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Hesheng Liu",
+          "openalex_id": "A5061226868",
+          "orcid": "https://orcid.org/0000-0002-7233-1509",
+          "institutions": [
+            "Athinoula A. Martinos Center for Biomedical Imaging",
+            "University Radiology"
+          ]
+        },
+        {
+          "name": "Trey Hedden",
+          "openalex_id": "A5066159823",
+          "institutions": [
+            "Athinoula A. Martinos Center for Biomedical Imaging",
+            "University Radiology",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Jessica R. Andrews\u2010Hanna",
+          "openalex_id": "A5005653609",
+          "orcid": "https://orcid.org/0000-0003-1769-6756",
+          "institutions": [
+            "Athinoula A. Martinos Center for Biomedical Imaging",
+            "Harvard University"
+          ]
+        },
+        {
+          "name": "Reisa A. Sperling",
+          "openalex_id": "A5001795846",
+          "orcid": "https://orcid.org/0000-0003-1535-6133",
+          "institutions": [
+            "Athinoula A. Martinos Center for Biomedical Imaging",
+            "University Radiology",
+            "Harvard University",
+            "Brigham and Women's Hospital"
+          ]
+        },
+        {
+          "name": "Keith A. Johnson",
+          "openalex_id": "A5090842068",
+          "orcid": "https://orcid.org/0000-0002-5916-6043",
+          "institutions": [
+            "University Radiology",
+            "Harvard University",
+            "Massachusetts General Hospital",
+            "Brigham and Women's Hospital"
+          ]
+        }
+      ],
+      "publication_year": 2009,
+      "publication_date": "2009-02-11",
+      "abstract": "Recent evidence suggests that some brain areas act as hubs interconnecting distinct, functionally specialized systems. These nexuses are intriguing because of their potential role in integration and also because they may augment metabolic cascades relevant to brain disease. To identify regions of high connectivity in the human cerebral cortex, we applied a computationally efficient approach to map the degree of intrinsic functional connectivity across the brain. Analysis of two separate functional magnetic resonance imaging datasets (each n = 24) demonstrated hubs throughout heteromodal areas of association cortex. Prominent hubs were located within posterior cingulate, lateral temporal, lateral parietal, and medial/lateral prefrontal cortices. Network analysis revealed that many, but not all, hubs were located within regions previously implicated as components of the default network. A third dataset ( n = 12) demonstrated that the locations of hubs were present across passive and active task states, suggesting that they reflect a stable property of cortical network architecture. To obtain an accurate reference map, data were combined across 127 participants to yield a consensus estimate of cortical hubs. Using this consensus estimate, we explored whether the topography of hubs could explain the pattern of vulnerability in Alzheimer's disease (AD) because some models suggest that regions of high activity and metabolism accelerate pathology. Positron emission tomography amyloid imaging in AD ( n = 10) compared with older controls ( n = 29) showed high amyloid-\u03b2 deposition in the locations of cortical hubs consistent with the possibility that hubs, while acting as critical way stations for information processing, may also augment the underlying pathological cascade in AD.",
+      "cited_by_count": 2909,
+      "type": "article",
+      "source": {
+        "name": "Journal of Neuroscience",
+        "type": "journal",
+        "issn": [
+          "0270-6474",
+          "1529-2401"
+        ]
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.jneurosci.org/content/jneuro/29/6/1860.full.pdf"
+      },
+      "topics": [
+        "Functional Brain Connectivity Studies",
+        "Advanced Neuroimaging Techniques and Applications",
+        "Neural dynamics and brain function"
+      ],
+      "referenced_works_count": 94,
+      "url": "https://openalex.org/W2126650951"
+    },
+    {
+      "openalex_id": "W4291475202",
+      "doi": "10.5281/zenodo.6347422",
+      "title": "Physicality as a performer-specific perspectival point to I. Xenakis's piano work: Case study Mists",
+      "authors": [
+        {
+          "name": "Pavlos Antoniadis",
+          "openalex_id": "A5091911589",
+          "institutions": [
+            "Carl Maria von Weber College of Music"
+          ]
+        }
+      ],
+      "publication_year": 2011,
+      "publication_date": "2011-04-01",
+      "abstract": "The current paper is attempting a hands-on approach to Xenakian piano performance practice, using Mists as a case study, while also reflecting upon the problematic status of performative physicality in current Xenakian scholarship. Starting off with S. Kanach's Performing Xenakis, I detect two poles (the body as obstacle versus the body as transparent object) in the keyboard performers' references to physicality. Subsequently, I rethink a list of the most common challenges (physical effort, non-linear keyboard, complex rhythm, form and detail) against a historically informed background, including: a reading of G. Sandor's On piano playing (pre-Xenakis) under the light of ideas on embodied and extended cognition, as presented by M. Rowlands in his The New Science of the Mind; plus insights and remarks gained from New Complexity theorization (post-Xenakis). The emerging notion of corporeal navigation, demonstrated through multi-layered tablatures, is hopefully a useful tool towards the demystification of difficulty in Xenakian performance, as well as an original contribution in the construction of a much needed performer-specific discourse for complex music, focusing on physicality and non-serial learning.",
+      "cited_by_count": 8,
+      "type": "paratext",
+      "source": {
+        "name": "Zenodo (CERN European Organization for Nuclear Research)",
+        "type": "repository",
+        "issn": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.5281/zenodo.6347422"
+      },
+      "topics": [
+        "Musicology and Musical Analysis",
+        "Music Technology and Sound Studies",
+        "Diverse Musicological Studies"
+      ],
+      "referenced_works_count": 0,
+      "url": "https://openalex.org/W4291475202"
+    }
+  ],
+  "count": 20,
+  "errors": []
+}

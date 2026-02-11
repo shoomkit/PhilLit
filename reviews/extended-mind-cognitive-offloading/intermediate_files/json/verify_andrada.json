@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1007/s00146-021-01326-6"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1007/s00146-021-01326-6",
+      "title": "Varieties of transparency: exploring agency within AI systems",
+      "authors": [
+        {
+          "family": "Andrada",
+          "given": "Gloria"
+        },
+        {
+          "family": "Clowes",
+          "given": "Robert W."
+        },
+        {
+          "family": "Smart",
+          "given": "Paul R."
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "AI &amp; SOCIETY",
+      "volume": "38",
+      "issue": "4",
+      "page": "1321-1331",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1007/s00146-021-01326-6"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}

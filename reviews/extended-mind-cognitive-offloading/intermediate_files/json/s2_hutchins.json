@@ -1,0 +1,760 @@
+{
+  "status": "success",
+  "source": "semantic_scholar",
+  "query": "Hutchins distributed cognition embodied",
+  "results": [
+    {
+      "paperId": "27ea9157bc77fbccf0b7d480d91bd9b6e011ad6d",
+      "title": "Beyond the extended mind: new arguments for extensive enactivism",
+      "authors": [
+        {
+          "name": "Lorena Sganzerla",
+          "authorId": "2348844553"
+        },
+        {
+          "name": "Daniel D. Hutto",
+          "authorId": "1938148"
+        },
+        {
+          "name": "Michael D. Kirchhoff",
+          "authorId": "40222333"
+        }
+      ],
+      "year": 2025,
+      "abstract": "Clark and Chalmers (Analysis 58:7\u201319, 1998) landmark paper, The Extended Mind, launched a thousand ships and changed the contours of the larger sea of theorizing about cognition. Over the past twenty-six years, it has led to intense philosophical debates about of the constitutive bounds of mind and cognition and generated multiple waves of work taking the form of various attempts to clarify and defend its core thesis. The extended mind thesis states that under certain (specialized and particular) conditions cognitive processes may be constituted by resources distributed across the brain, the body, and the environment. The extended mind thesis is part of a larger family of theoretical frameworks such as embodied cognition, distributed cognition, and various versions of enactivism (Gallagher in South J Philos 56: 421\u2013447, 2018; Hutchins in Cognition in the wild, The MIT Press, 1995; Varela et al. in The embodied mind: cognitive science and human experience, The MIT Press, 1991; Di Paolo in Topoi 28:9\u201321, 2009; Hutto and Myin in Radicalizing enactivism: basic minds without content, The MIT Press, 2013; Hutto and Myin in Evolving enactivism: basic minds meet content, The MIT Press, 2017). In this paper we revive and clarify the commitments of Radical Enactivism\u2019s Extensive Enactivism, compare it to alternatives, and provide new arguments and analyses for preferring it over what is on offer from other members of the extended-distributed-enactive family of positions.",
+      "citationCount": 4,
+      "doi": "10.1007/s11229-025-04931-w",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/27ea9157bc77fbccf0b7d480d91bd9b6e011ad6d",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "volume": "205"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "368c84f94b4cd696ea77c701ea6e01353625bfad",
+      "title": "Cognitive Ecology",
+      "authors": [
+        {
+          "name": "E. Hutchins",
+          "authorId": "143924738"
+        }
+      ],
+      "year": 2010,
+      "abstract": null,
+      "citationCount": 443,
+      "doi": "10.1111/j.1756-8765.2010.01089.x",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/368c84f94b4cd696ea77c701ea6e01353625bfad",
+      "venue": "Topics in Cognitive Science",
+      "journal": {
+        "name": "Topics in cognitive science",
+        "pages": "\n          705-15\n        ",
+        "volume": "2 4"
+      },
+      "publicationTypes": [
+        "Review",
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "f62608d80ee01d8daf8e9a58ec2da16871b3d15c",
+      "title": "Enaction, imagination, and insight",
+      "authors": [
+        {
+          "name": "E. Hutchins",
+          "authorId": "143924738"
+        }
+      ],
+      "year": 2007,
+      "abstract": null,
+      "citationCount": 109,
+      "doi": "10.7551/mitpress/9780262014601.003.0016",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f62608d80ee01d8daf8e9a58ec2da16871b3d15c",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "c32f13ae7dd30fb9b143bcc1f090f490c91b1d3c",
+      "title": "Theories of Embodiment",
+      "authors": [],
+      "year": 2022,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.1145/3544564.3544573",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/c32f13ae7dd30fb9b143bcc1f090f490c91b1d3c",
+      "venue": "",
+      "journal": {
+        "name": "Weaving Fire into Form"
+      },
+      "publicationTypes": [
+        "Book"
+      ]
+    },
+    {
+      "paperId": "881d26fb8999cb373ffea85a1222e1739ab662d4",
+      "title": "Situating Cognition through Conceptual Integration",
+      "authors": [
+        {
+          "name": "Robert F. Williams",
+          "authorId": "2157888073"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/881d26fb8999cb373ffea85a1222e1739ab662d4",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "33ec8bed268f423b9b6b40e149ae709875920b14",
+      "title": "Enactivism: Embodied cognition, sense-making, and nursing.",
+      "authors": [
+        {
+          "name": "Graham McCaffrey",
+          "authorId": "2247826652"
+        }
+      ],
+      "year": 2024,
+      "abstract": "Enactivism is a branch of embodied cognition theory that argues for a highly distributed model of cognition as a sense-making process involving brain, body, environment, and subjective experience. It is a theoretical framework with potential value for nursing since it offers an integrated framework for human sense-making that includes physiological and psychological factors as well as the primary experience of subjective perceptions. This paper presents an introduction to the background and main tenets of enactivist theory. These are discussed in relation to nursing, and mental health nursing to argue for the relevance of enactivism in nursing knowledge.",
+      "citationCount": 1,
+      "doi": "10.1111/nin.12672",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/33ec8bed268f423b9b6b40e149ae709875920b14",
+      "venue": "Nursing Inquiry",
+      "journal": {
+        "name": "Nursing inquiry",
+        "pages": "\n          e12672\n        "
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d393773fa2d109b79a692028b5ff8339d8fcf567",
+      "title": "Representational competence: towards a distributed and embodied cognition account",
+      "authors": [
+        {
+          "name": "Prajakt Pande",
+          "authorId": "40417046"
+        },
+        {
+          "name": "S. Chandrasekharan",
+          "authorId": "34803155"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 80,
+      "doi": "10.1080/03057267.2017.1248627",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d393773fa2d109b79a692028b5ff8339d8fcf567",
+      "venue": "",
+      "journal": {
+        "name": "Studies in Science Education",
+        "pages": "1 - 43",
+        "volume": "53"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "3c2caaa5b21fa7be51ab972f991e59e15b2212a0",
+      "title": "Distributed Cognition and the Phenomenology of Modernist Painting and Poetry (Rilke and C\u00e9zanne)",
+      "authors": [
+        {
+          "name": "Jennifer Gosetti-Ferencei",
+          "authorId": "1413232862"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Contemporary views of consciousness, long anticipated by phenomenology, suggest that cognition includes a distribution across motoric and perceptual experience and is in important ways interwoven with the surrounding environment. This paper takes up implications for aesthetics, demonstrating how such an understanding of consciousness is expressed in analogous ways in modern poetry and painting, particularly in works that have been the object of phenomenological study. An aesthetics of embodied cognition can illuminate the common resources of vital human intentionality in artworks across different media, including C\u00e9zanne\u2019s painting and Rilke\u2019s poetry and poetics, and both can be conceived not only as aesthetic but as cognitive artefacts. Merleau-Ponty\u2019s claim that philosophy, visual art, and poetry share a common aim and the poetic inspiration Rilke took from C\u00e9zanne and other visual artists can be better understood by considering art and literature from a cognitive standpoint.",
+      "citationCount": 1,
+      "doi": "10.3366/EDINBURGH/9781474442244.003.0007",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3c2caaa5b21fa7be51ab972f991e59e15b2212a0",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "113-133",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "30b0328d136e3dc3cb45e4bd3278138547aa8c85",
+      "title": "Nietzsche\u2019s Genealogie der Moral Pro and Contra Distributed Cognition",
+      "authors": [
+        {
+          "name": "Emily T. Troscianko",
+          "authorId": "40962190"
+        }
+      ],
+      "year": 2020,
+      "abstract": "Nietzsche\u2019s writing and thought about the mind challenge some of the same Cartesian dichotomies that the more recent frameworks of 4E and distributed cognition do. Zur Genealogie der Moral (On the Genealogy of Morals), a highpoint in Nietzsche\u2019s project of the \u2018Umwertung aller Werte\u2019 (revaluation of all values), is a proclamation of perspectivism: there is no objective perception and nothing objectively to be perceived, only perspectives on objects. This thesis is expressed through evocations of space and movement that, the chapter argues, promote and depend on readerly cognition in which embodied and enactive imagining is central. In these same passages, however, the equivocations underlying the whole perspectivist enterprise are exposed: the supposed discovery of a new extra-textual moral reality through philosophical agility is undermined by rhetorical structures that turn out to merely simulate movement, and so ask readers\u2019 imaginations not to be too enactive. This equivocation has important consequences for readers\u2019 engagement with the interplay of rhetorical form and conceptual content. Cognitive analysis thus gets us to the heart of a grand paradox of Nietzschean philosophy \u2013 absolute assertion of the relativity of language \u2013 while also shedding light on current questions about action-based distributed cognition as an intellectual force.",
+      "citationCount": 0,
+      "doi": "10.3366/EDINBURGH/9781474442244.003.0012",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/30b0328d136e3dc3cb45e4bd3278138547aa8c85",
+      "venue": "Distributed Cognition in Victorian Culture and Modernism",
+      "journal": {
+        "name": "Distributed Cognition in Victorian Culture and Modernism"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9738739021b6ed2ae5b4c8fca32b95e2548ec43d",
+      "title": "Distributed Cognition in Aid of Interdisciplinary Collaborations",
+      "authors": [
+        {
+          "name": "Selene Arfini",
+          "authorId": "1710158"
+        }
+      ],
+      "year": 2020,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.1007/978-3-030-46339-7_1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9738739021b6ed2ae5b4c8fca32b95e2548ec43d",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "1-22",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "860f37c6267ff02a2fe8ce094a6ce6de7cfba3d8",
+      "title": "A 5th E: Distributed Cognition and the Question of Ethics in Benjamin and Vygotsky, and Horkheimer and Dewey",
+      "authors": [
+        {
+          "name": "B. Morgan",
+          "authorId": "144935704"
+        }
+      ],
+      "year": 2020,
+      "abstract": "The chapter uses Walter Benjamin\u2019s engagement with Soviet developmental psychologist Lev Vygotsky, and Max Horkheimer\u2019s with the work of American pragmatist John Dewey to suggest a productive path not taken by the Frankfurt School in the 1930s and 1940s as they considered the empirical study of human beings\u2019 \u2018mimetic\u2019, i.e. pre-conscious and visceral interactions with others and with the world. Their analyses suggests positive ways of re-thinking the relation between norms and \u2018primary intersubjectivity\u2019 if we abandon their unnecessarily stark distinction between mimetic and goal-oriented forms of behaviour. The result is an understanding of how the basis of primary subjectivity, imitation, is itself necessarily distributed and ethically inflected, adding a 5th E to embedded, embodied, enactive and extended cognition.",
+      "citationCount": 0,
+      "doi": "10.3366/EDINBURGH/9781474442244.003.0013",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/860f37c6267ff02a2fe8ce094a6ce6de7cfba3d8",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "232-250",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "f113db4b7829f9bba8ed2304b93709a45edb5443",
+      "title": "Beyond the Brain: Embodied, Situated and Distributed Cognition",
+      "authors": [
+        {
+          "name": "Benoit Hardy-Vall\u00e9e",
+          "authorId": "2249424368"
+        },
+        {
+          "name": "Nicolas Payette",
+          "authorId": "2249429548"
+        },
+        {
+          "name": "Richard Martinez",
+          "authorId": "2249855678"
+        },
+        {
+          "name": "Olivier Koenig",
+          "authorId": "2249433386"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 28,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/f113db4b7829f9bba8ed2304b93709a45edb5443",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "84df173f3daa90c557c15ce35443b9c05035b749",
+      "title": "Playing with pattern. Aesthetic communication as distributed cognition",
+      "authors": [
+        {
+          "name": "Jos\u00e9 Miguel Contreras",
+          "authorId": "48576668"
+        }
+      ],
+      "year": 2019,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": "10.13128/AISTHESIS-25619",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/84df173f3daa90c557c15ce35443b9c05035b749",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "27-39",
+        "volume": "12"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "3c5ea25b4231258ec258425d936b70fcfebac9f2",
+      "title": "Embodied, Situated, and Distributed Cognition",
+      "authors": [
+        {
+          "name": "A. Clark",
+          "authorId": "37700983"
+        }
+      ],
+      "year": 1999,
+      "abstract": null,
+      "citationCount": 176,
+      "doi": "10.1002/9781405164535.CH39",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3c5ea25b4231258ec258425d936b70fcfebac9f2",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "506-517",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "23d112e20379942b40212111860c79b10caac93e",
+      "title": "Distributed Cognition and the Humanities",
+      "authors": [
+        {
+          "name": "Miranda Anderson",
+          "authorId": "48905296"
+        },
+        {
+          "name": "M. Wheeler",
+          "authorId": "145734882"
+        },
+        {
+          "name": "Mark D. Sprevak",
+          "authorId": "3075367"
+        }
+      ],
+      "year": 2018,
+      "abstract": "The general introduction, which is replicated across all four volumes, aims to orientate readers unfamiliar with this area of research. It provides an overview of the different approaches within the distributed cognition framework and discussion of the value of a distributed cognitive approach to the humanities. A distributed cognitive approach recognises that cognition is brain, body and world based. Distributed cognition is a methodological approach and a way of understanding the actual nature of cognition. The first section provides an overview of the various competing and sometimes conflicting theories that make up the distributed cognition framework and which are also collectively known as 4E cognition: embodied, embedded, extended and enactive cognition. The second section examines the ways in which humanities topics and methodologies are compatible with, placed in question or revitalised by new insights from philosophy of mind and the cognitive sciences on the distributed nature of cognition, and considers what the arts and humanities, in turn, offer to philosophy and cognitive science.",
+      "citationCount": 8,
+      "doi": "10.3366/edinburgh/9781474442282.003.0001",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/23d112e20379942b40212111860c79b10caac93e",
+      "venue": "Distributed Cognition in Victorian Culture and Modernism",
+      "journal": {
+        "name": "Distributed Cognition in Victorian Culture and Modernism"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "479035128fcf22ca739aadadb9b6053b99c5582a",
+      "title": "Beyond the brain: Embodied, situated and distributed cognition",
+      "authors": [
+        {
+          "name": "F.E.H. Wijermans",
+          "authorId": "101060033"
+        },
+        {
+          "name": "R. Jorna",
+          "authorId": "118645635"
+        },
+        {
+          "name": "W. Jager",
+          "authorId": "145660644"
+        },
+        {
+          "name": "T. Vliet",
+          "authorId": "145431313"
+        }
+      ],
+      "year": 2006,
+      "abstract": null,
+      "citationCount": 2,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/479035128fcf22ca739aadadb9b6053b99c5582a",
+      "venue": "",
+      "journal": {
+        "name": "Cambridge Scholars' Publishing",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "9badb2afd6a660daf56cc28cc28c70c19a37035f",
+      "title": "The Nature of Embodied Distributed Cognition",
+      "authors": [
+        {
+          "name": "Y. E. Lee",
+          "authorId": "2116465828"
+        }
+      ],
+      "year": 2008,
+      "abstract": null,
+      "citationCount": 0,
+      "doi": "10.5840/wcp222008543",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/9badb2afd6a660daf56cc28cc28c70c19a37035f",
+      "venue": "",
+      "journal": null,
+      "publicationTypes": null
+    },
+    {
+      "paperId": "70d65160e01c31a5bf659e2eb1e1ef1cdca28e3e",
+      "title": "Embodied cognition, embodied regulation, and the Data Rate Theorem",
+      "authors": [
+        {
+          "name": "R. Wallace",
+          "authorId": "144707058"
+        }
+      ],
+      "year": 2013,
+      "abstract": "The Data Rate Theorem carries deep implications for theories of embodied cognition, extensions providing a spectrum of necessary conditions dynamic statistical models useful in empirical studies. A large deviations argument, however, implies that the regulation and stabilization of such systems is itself an interpenetrating phenomenon necessarily convoluted with embodied cognition. For humans, the central regulatory role of culture has long been known. Although a ground-state collapse analogous to generalized anxiety appears ubiquitous to such systems, lack of cultural modulation in real-time automatons or distributed cognition man-machine \u2018cockpits\u2019 makes them subject to a pathology under which \u2018all possible targets are enemies\u2019.",
+      "citationCount": 5,
+      "doi": "10.1101/001586",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/70d65160e01c31a5bf659e2eb1e1ef1cdca28e3e",
+      "venue": "bioRxiv",
+      "journal": {
+        "name": "bioRxiv"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "1536818af0f1b9c02db4efd8f7e6403f504b3d53",
+      "title": "Physical models and embodied cognition",
+      "authors": [
+        {
+          "name": "U. Stegmann",
+          "authorId": "14855118"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Philosophers have recently paid more attention to the physical aspects of scientific models. The attention is motivated by the prospect that a model\u2019s physical features strongly affect its use and that this suggests re-thinking modelling in terms of extended or distributed cognition. This paper investigates two ways in which physical features of scientific models affect their use and it asks whether modelling is an instance of extended cognition. I approach these topics with a historical case study, in which scientists kept records not only of their findings, but also of some the mental operations that generated the findings. The case study shows how scientists can employ a physical model (in this case diagrams on paper) as an external information store, which allows alternating between mental manipulations, recording the outcome externally, and then feeding the outcome back into subsequent mental manipulations. The case study also demonstrates that a models\u2019 physical nature allows replacing explicit reasoning with visuospatial manipulations. I argue, furthermore, that physical modelling does not need to exemplify a strong kind of extended cognition, the sort for which external features are mereological parts of cognition. It can exemplify a weaker kind, instead.",
+      "citationCount": 5,
+      "doi": "10.1007/s11229-018-01927-7",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1536818af0f1b9c02db4efd8f7e6403f504b3d53",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "1-19",
+        "volume": ""
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "d3aace3f221173e8077fab723aa84feda2433cfb",
+      "title": "Cognition as Embodied Morphological Computation",
+      "authors": [
+        {
+          "name": "G. Dodig-Crnkovic",
+          "authorId": "1403731773"
+        }
+      ],
+      "year": 2017,
+      "abstract": null,
+      "citationCount": 13,
+      "doi": "10.1007/978-3-319-96448-5_2",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/d3aace3f221173e8077fab723aa84feda2433cfb",
+      "venue": "Conference on Philosophy and Theory of Artificial Intelligence",
+      "journal": {
+        "pages": "19-23"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "3a19b68b988ab7011230ea33a04bac3dac60a652",
+      "title": "Dance and Embodied Cognition: Motivations for the Enactivist Program",
+      "authors": [
+        {
+          "name": "Carla Carmona",
+          "authorId": "2057322804"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 5,
+      "doi": "10.4396/490",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/3a19b68b988ab7011230ea33a04bac3dac60a652",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": "12"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "a6550a8fba4aa011808652d8deddbc9dc97aa786",
+      "title": "Physical models and embodied cognition",
+      "authors": [
+        {
+          "name": "U. Stegmann",
+          "authorId": "14855118"
+        }
+      ],
+      "year": 2018,
+      "abstract": "Philosophers have recently paid more attention to the physical aspects of scientific models. The attention is motivated by the prospect that a model\u2019s physical features strongly affect its use and that this suggests re-thinking modelling in terms of extended or distributed cognition. This paper investigates two ways in which physical features of scientific models affect their use and it asks whether modelling is an instance of extended cognition. I approach these topics with a historical case study, in which scientists kept records not only of their findings, but also of some the mental operations that generated the findings. The case study shows how scientists can employ a physical model (in this case diagrams on paper) as an external information store, which allows alternating between mental manipulations, recording the outcome externally, and then feeding the outcome back into subsequent mental manipulations. The case study also demonstrates that a models\u2019 physical nature allows replacing explicit reasoning with visuospatial manipulations. I argue, furthermore, that physical modelling does not need to exemplify a strong kind of extended cognition, the sort for which external features are mereological parts of cognition. It can exemplify a weaker kind, instead.",
+      "citationCount": 0,
+      "doi": "10.1007/s11229-018-01927-7",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/a6550a8fba4aa011808652d8deddbc9dc97aa786",
+      "venue": "Synthese",
+      "journal": {
+        "name": "Synthese",
+        "pages": "4387 - 4405",
+        "volume": "197"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "fa5594a2a9f3df8f47d607744a2bb98d08a3d75f",
+      "title": "Co-Ability and embodied data: blurring the lines between human and nonhuman entities in an interconnected world",
+      "authors": [
+        {
+          "name": "Renata Dezso",
+          "authorId": "2312837053"
+        }
+      ],
+      "year": 2024,
+      "abstract": "This article explores the dynamic interplay between human and non-human entities, focusing on how embodied data representation is distributed. It examines how predictive coding, which utilizes preconceived knowledge, interacts with tangible experiences to shape our understanding of the world. Emphasizing this, I propose the concept of co-Ability as a deep underlying explanatory framework for understanding adaptive behaviors within a networked world. A non-verbal dialog between humans and a data-saturated environment is analyzed through an action-oriented perspective and the predictive coding framework in cognition, utilizing digital craft and rapid prototyping. This transformative approach augments human interaction with digital landscapes through tangible prototypes, bridging physical experience with abstract information, and identifying potential ways to conceptualize data materially. The article discusses the various aspects of connectivity among network agents and the evolving nature of these connections as they adapt to real-world conditions and dynamic shifts in data, highlighting that information exchange in an interconnected network is more than bilateral; it generates ripple effects that extend beyond immediate connections. These reciprocal exchanges simultaneously alter both the digital and analog domains, with data constantly bifurcating into multiple pathways and outcomes. A significant challenge addressed in this article is the question of how to frame information materially, inviting further exploration.",
+      "citationCount": 1,
+      "doi": "10.3389/fhumd.2024.1406943",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/fa5594a2a9f3df8f47d607744a2bb98d08a3d75f",
+      "venue": "Frontiers in Human Dynamics",
+      "journal": {
+        "name": "Frontiers in Human Dynamics"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "77a6cca33f64f79705865c5f9617d6a57549f1f1",
+      "title": "Where is cognition? Towards an embodied, situated, and distributed interactionist theory of cognitive activity",
+      "authors": [
+        {
+          "name": "S. Hill",
+          "authorId": "35686511"
+        }
+      ],
+      "year": 2000,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": null,
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/77a6cca33f64f79705865c5f9617d6a57549f1f1",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "5c6a482946362ab2c307ba18772baa41643e7f7b",
+      "title": "Can Scientific Cognition Be Distributed",
+      "authors": [
+        {
+          "name": "Y. Rhee",
+          "authorId": "80115708"
+        }
+      ],
+      "year": 2017,
+      "abstract": "The purpose of the paper is to examine critically Giere\u2019s view of distributed cognition. Giere has treaded a tricky path between extreme ends in the disputes about the notion of distributed cognition and, as a result, two kinds of complains have been leveled against his view. On the one hand, conservatives like Vaesen criticized him for misusing the notion of distributed cognition. On the other hand, radicalists like Clark and me thought of him as a conservative for defending the traditional idea of the mind. My argument unfolds as follows. In section two, I review briefly the typical cases of distributed cognition found in the works of Clark and Chalmers, Hutchins, and Knorr Cetina and extract a common characteristic of distributed cognition. In section three, I examine Vaesen\u2019s response to Giere\u2019s view of the distributed cognition around the debate between i-cog and d-cog. In section four, I show that Giere\u2019s reply to Vaesen\u2019s criticism is not appropriate for defending his version of distributed cognition and suggest a way towards the proper direction without breeding misunderstanding of the notion of distributed cognition.",
+      "citationCount": 1,
+      "doi": "10.4288/JAFPOS.26.0_29",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/5c6a482946362ab2c307ba18772baa41643e7f7b",
+      "venue": "",
+      "journal": {
+        "name": "Annals of the Japan Association for Philosophy of Science",
+        "pages": "29-37",
+        "volume": "26"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "81659d5f092b38b379ffedc4a5f3d541420bca91",
+      "title": "Friends at last? Distributed cognition and the cognitive/social divide",
+      "authors": [
+        {
+          "name": "Adam Toon",
+          "authorId": "49032732"
+        }
+      ],
+      "year": 2014,
+      "abstract": null,
+      "citationCount": 14,
+      "doi": "10.1080/09515089.2013.828371",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/81659d5f092b38b379ffedc4a5f3d541420bca91",
+      "venue": "",
+      "journal": {
+        "name": "Philosophical Psychology",
+        "pages": "112 - 125",
+        "volume": "27"
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "0b3872cf3da27f2ceebf96dfae342f9eaaa89545",
+      "title": "Supercomplexity: bridging the gap between aesthetics and cognition",
+      "authors": [
+        {
+          "name": "Alessandro Bortolotti",
+          "authorId": "2237201701"
+        },
+        {
+          "name": "Giulia Candeloro",
+          "authorId": "2324180272"
+        },
+        {
+          "name": "Riccardo Palumbo",
+          "authorId": "2283285000"
+        },
+        {
+          "name": "P. L. Sacco",
+          "authorId": "2202116488"
+        }
+      ],
+      "year": 2025,
+      "abstract": "This study presents a cognitive neuroscience framework for understanding what we term \u201csupercomplex experiences,\u201d a concept describing experiences that simultaneously engage multiple neural networks and cognitive faculties in ways that resist decomposition into simpler processes. Drawing on recent advances in network neuroscience, we argue that these experiences emerge from the coordinated activity of distributed brain systems, including the salience network, default mode network, and central executive network. These experiences are distinguished by five essential characteristics: (1) simultaneous engagement of multiple neural networks, (2) specialized neural architectures developed through training, (3) specialized conceptual frameworks and vocabularies, (4) emergent properties from dynamic interactions, and (5) coherent gestalt properties. Through examination of expert performance in domains such as wine tasting, musical performance, visual art, perfumery, and several others we reveal how these experiences are characterized by sophisticated integration of sensory, emotional, and cognitive processes, implemented through dynamic network interactions and expertise-dependent neural plasticity. Our framework emphasizes three key mechanisms underlying supercomplex experiences: predictive processing architectures that generate and update multi-level predictions, expertise-dependent network reorganization that enables enhanced sensory discrimination and conceptual integration, and dynamic network flexibility that supports adaptive processing of complex stimuli. While acknowledging debates between different theoretical approaches, we show how interoceptive predictions and embodied simulations, implemented through the anterior insula and related networks, provide a foundation for integrating bodily signals with external sensory input. The development of expertise in domains characterized by supercomplex experiences involves significant modifications of neural architecture, from local circuit refinement to large-scale network reorganization. This work extends beyond existing frameworks in cognitive neuroscience by providing a mechanistic account of how the brain processes and generates richly textured, multifaceted experiences that have previously been studied primarily through separate disciplinary lenses. The framework has implications for understanding expertise development, individual differences in complex skill acquisition, and the neural bases of sophisticated cognitive-perceptual capabilities.",
+      "citationCount": 1,
+      "doi": "10.3389/fnins.2025.1552363",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/0b3872cf3da27f2ceebf96dfae342f9eaaa89545",
+      "venue": "Frontiers in Neuroscience",
+      "journal": {
+        "name": "Frontiers in Neuroscience",
+        "volume": "19"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ]
+    },
+    {
+      "paperId": "1b385cdd542784bb13294dedef8da69087f5e9d5",
+      "title": "Review: Music and Embodied Cognition: Listening, Moving, Feeling, and Thinking, by Arnie Cox",
+      "authors": [
+        {
+          "name": "A. Schiavio",
+          "authorId": "6282647"
+        }
+      ],
+      "year": 2018,
+      "abstract": null,
+      "citationCount": 1,
+      "doi": "10.1525/JAMS.2018.71.2.546",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/1b385cdd542784bb13294dedef8da69087f5e9d5",
+      "venue": "",
+      "journal": {
+        "name": "Journal of the American Musicological Society",
+        "pages": "546-550",
+        "volume": "71"
+      },
+      "publicationTypes": [
+        "Review"
+      ]
+    },
+    {
+      "paperId": "59bf484d829be535c140876f95bac8ba902c0fb4",
+      "title": "Meaning-making as a socially distributed and embodied practice",
+      "authors": [
+        {
+          "name": "J. Lindblom",
+          "authorId": "32185154"
+        }
+      ],
+      "year": 2015,
+      "abstract": null,
+      "citationCount": 10,
+      "doi": "10.1007/978-94-017-9379-7_1",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/59bf484d829be535c140876f95bac8ba902c0fb4",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "3-19",
+        "volume": ""
+      },
+      "publicationTypes": null
+    },
+    {
+      "paperId": "29c8ca3088b8945e9c722293536b8e932832604a",
+      "title": "The embodied Descartes : contemporary readings of L\u2019Homme",
+      "authors": [
+        {
+          "name": "Barnaby R. Hutchins",
+          "authorId": "65859967"
+        },
+        {
+          "name": "C. Eriksen",
+          "authorId": "112871460"
+        },
+        {
+          "name": "C. Wolfe",
+          "authorId": "9870379"
+        }
+      ],
+      "year": 2016,
+      "abstract": null,
+      "citationCount": 8,
+      "doi": "10.1007/978-3-319-46989-8_18",
+      "arxivId": null,
+      "url": "https://www.semanticscholar.org/paper/29c8ca3088b8945e9c722293536b8e932832604a",
+      "venue": "",
+      "journal": {
+        "name": "",
+        "pages": "287-304",
+        "volume": "43"
+      },
+      "publicationTypes": null
+    }
+  ],
+  "count": 30,
+  "errors": []
+}

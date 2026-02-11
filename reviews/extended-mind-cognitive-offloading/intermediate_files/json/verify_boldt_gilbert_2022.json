@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "source": "crossref",
+  "query": {
+    "doi": "10.1523/JNEUROSCI.1326-21.2022"
+  },
+  "results": [
+    {
+      "verified": true,
+      "doi": "10.1523/jneurosci.1326-21.2022",
+      "title": "Partially Overlapping Neural Correlates of Metacognitive Monitoring and Metacognitive Control",
+      "authors": [
+        {
+          "family": "Boldt",
+          "given": "Annika"
+        },
+        {
+          "family": "Gilbert",
+          "given": "Sam J"
+        }
+      ],
+      "editors": [],
+      "year": 2022,
+      "container_title": "The Journal of Neuroscience",
+      "volume": "42",
+      "issue": "17",
+      "page": "3622-3635",
+      "publisher": "Society for Neuroscience",
+      "type": "journal-article",
+      "suggested_bibtex_type": "article",
+      "method": "doi_lookup",
+      "url": "https://doi.org/10.1523/jneurosci.1326-21.2022"
+    }
+  ],
+  "count": 1,
+  "errors": []
+}
