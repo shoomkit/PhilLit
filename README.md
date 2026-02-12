@@ -52,10 +52,10 @@ I need a literature review on [topic].
 ## What does it look like?
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="PhilLit in action: generating a literature review on algorithmic fairness" width="500">
+  <img src="assets/screenshot.png" alt="PhilLit in action: generating a literature review" width="500">
 </p>
 
-*PhilLit running a literature review on algorithmic fairness. The system decomposes the topic into research domains and searches multiple academic databases in parallel.*
+*PhilLit running a literature review. The system decomposes the topic into research domains and searches multiple academic databases in parallel.*
 
 ## How It Works
 
@@ -77,15 +77,16 @@ Each review is saved in its own directory under `reviews/`:
 
 ```
 reviews/[topic]/
-├── literature-review-final.docx      # Complete review
-├── literature-all.bib              # Aggregated bibliography
+├── literature-review-final.md        # Complete review (markdown)
+├── literature-review-final.docx      # Complete review (Word, requires pandoc)
+├── literature-all.bib                # Aggregated bibliography
 └── intermediate_files/
-    ├── json/                       # API response files (archived)
-    ├── lit-review-plan.md          # Domain decomposition
-    ├── literature-domain-*.bib     # Per-domain BibTeX files
-    ├── synthesis-outline.md        # Review structure
-    ├── synthesis-section-*.md      # Individual sections
-    └── task-progress.md            # Progress tracker
+    ├── json/                         # API response files (archived)
+    ├── lit-review-plan.md            # Domain decomposition
+    ├── literature-domain-*.bib       # Per-domain BibTeX files
+    ├── synthesis-outline.md          # Review structure
+    ├── synthesis-section-*.md        # Individual sections
+    └── task-progress.md              # Progress tracker
 ```
 
 ## Participate in Research
