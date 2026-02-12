@@ -29,7 +29,7 @@ PhilLit is **open-source**. Anyone can use it — no enrollment or permission re
 
 ## What does it cost?
 
-PhilLit itself is free. Running it requires [Claude Code](https://docs.anthropic.com/en/docs/claude-code), which needs a subscription or API access. Each literature review uses roughly **$13 in API credits**. For best cost-efficiency, select Sonnet as the model when starting Claude Code.
+PhilLit itself is free. Running it requires [Claude Code](https://docs.anthropic.com/en/docs/claude-code), which needs a subscription or API access. Each literature review uses roughly **$9** to **$13 in API credits**, depending on whether you use Sonnet or Opus. 
 
 ## Quick Start
 
@@ -48,6 +48,10 @@ I need a literature review on [topic].
 
 [Describe the topic in 1-5 paragraphs]
 ```
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="PhilLit in action: generating a literature review on algorithmic fairness" width="500">
+</p>
 
 ## How It Works
 
